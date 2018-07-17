@@ -6,6 +6,7 @@ Search engine with a static webserver<br/>
 2. Type a city name. <br/>
 3. Click search. <br/>
 4. See the results. <br/>
+5. (optional) Copy the relation ID to <a href="https://mym.rtijn.org" target=_blank>MeetYourMappers</a><br/>
 <br/>
 <b>How the hashing algorithm works:</b><br/>
 1. Convert every character in the query to a number. (Peter = 80, 101, 116, 101, 114) <br/>

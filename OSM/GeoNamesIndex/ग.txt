@@ -1,0 +1,39 @@
+Sainte-Opportune-du-Bosc	3312470	0.8424821	49.1675595
+Saint-Martin-aux-Buneaux	147267	0.5471983	49.8280544
+Northern Mariana Islands	306004	145.2134524	14.1490204
+Kuantan Singingi Regency	7830593	101.4893658	-0.4930738
+General Francisco R. Murguía	5605806	-102.7611148	24.1284104
+Carrathool Shire Council	6095007	145.4536223	-33.6232290
+gmina Aleksandrów Kujawski	2635713	18.6496743	52.8656270
+Villanueva de Guadamejud	339520	-2.5078881	40.2172017
+Escurquela e Fonte Arcada	6427348	-7.5215558	40.9871022
+Lekwa Local Municipality	611617	29.2704329	-26.8956000
+Rochester Lake Number One	142776	-83.0237753	34.9220674
+Frobel Lake;Two Camp Creek	3521679	-83.3551117	46.6101790
+Digby Municipal District	1354850	-65.7453314	44.4390655
+Ware River Watershed Area	64176	-71.9923993	42.3519381
+Santa Magdalena de Pulpis	342167	0.2891147	40.3696363
+Southern major district	4146365	24.9316103	60.1560420
+Osiedle Plac Grunwaldzki	2338686	17.0610200	51.1104323
+Region Heilbronn-Franken	1607672	9.7155194	49.3543065
+Nemunėlio Radviliškio seniūnija	3563744	24.7990771	56.3655587
+Gemarkung Margrethausen	7837626	8.9718509	48.2308104
+Gemarkung Grosselfingen	7362530	8.8787169	48.3396519
+Santo Antônio das Queimadas	6197135	-36.1349111	-8.7921671
+District of Považská Bystrica	388229	18.4759404	49.1380019
+Theddlethorpe All Saints	660819	0.2033994	53.3758488
+Bezirksteil Alte Kaserne	66784	11.5481656	48.1559728
+Departamento Pilcaniyeu	3541556	-70.4253713	-40.7093323
+Municipio de Campo Grande	3187042	-54.9560299	-27.2251642
+College Manor Apartments	2607312	-93.1035470	31.7561164
+Sandstone Hills Addition	4000402	-103.8274108	44.4848833
+Municipio de Villa Amelia	4059994	-60.6689921	-33.1632421
+Giardini di Piazza Italia	2166109	12.3885637	43.1089336
+Piazza Papa Giovanni XXIII	3090404	14.7038284	41.0104437
+Place de l'Eglise Saint-André	2815880	6.2336945	46.1897887
+Piazza Papa Giovanni XXIII	6366999	14.7522272	37.1630311
+Parc Urbain du Grand Large	3152292	2.3786824	51.0448729
+Piazza Papa Giovanni XXIII	6046845	15.0995191	37.5072099
+Largo Vittime della Mafia	4130008	15.1542658	37.0876527
+Debaltseve Municipality	2875299	38.4118668	48.3418476
+Oulad Sidi Ali Ben Youssef	2822987	-8.0956368	33.0110840

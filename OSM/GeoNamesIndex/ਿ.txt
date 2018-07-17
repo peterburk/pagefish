@@ -1,0 +1,13 @@
+Gemeinde Leithaprodersdorf	109133	16.4954946	47.9197393
+Wingecarribee Shire Council	6304530	150.3669244	-34.4907900
+Bagnoles-de-l'Orne-Normandie	5815687	-0.4212483	48.5697763
+Carvalho e Basto (Santa Tecla)	4175632	-8.0581640	41.3802118
+District of North Vancouver	1524229	-123.0097788	49.3514092
+Malinbeg Electoral Division	4573096	-8.7478301	54.6772616
+Aghancon Electoral Division	4462911	-7.7908071	53.0183997
+Carthage Electoral Division	6988208	-7.2062080	55.3203111
+Heuchelheim bei Frankenthal	422694	8.2917328	49.5682281
+South Londonderry Township	7354652	-76.5322549	40.2453944
+King Sabata Dalindyebo Ward 10	3594554	28.7389155	-31.4978050
+Residencial Jardim Canedo III	7588999	-49.1209904	-16.7034499
+Newland with Woodhouse Moor	7219700	-1.4406644	53.6960449

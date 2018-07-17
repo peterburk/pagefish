@@ -1,0 +1,55 @@
+Soumont-Saint-Quentin	280488	-0.2393102	48.9790695
+Saint-Romain-de-Surieu	168251	4.8875679	45.3910383
+Forcelles-sous-Gugney	2662637	6.0865763	48.3926558
+Malaincourt-sur-Meuse	3193703	5.6025859	48.1552669
+Arbigny-sous-Varennes	3206721	5.6113760	47.8614857
+Pierrefitte-sur-Loire	2094818	3.8180736	46.5014280
+Saint-Martial-le-Vieux	120227	2.3082331	45.6892294
+Weißenburg-Gunzenhausen	62390	10.9297625	49.0315645
+Chaumont-sur-Tharonne	280544	1.9380096	47.6213672
+San Colombano Belmonte	44854	7.6097660	45.3864820
+Santo Domingo Yanhuitlán	6000140	-97.3359445	17.5260612
+Hassi Khelifa District	5146890	7.0921889	33.5951493
+Bordj Menaiel District	4275090	3.6725105	36.7881131
+Inkhundla Siphofaneni	1253023	31.6651720	-26.6640200
+Gunnedah Shire Council	6389934	150.2036527	-31.0237594
+San Ignacio Cerro Gordo	5606239	-102.5148145	20.7686813
+Volga Federal District	1075831	50.7745858	55.7353855
+Microrregião de Dourados	4831926	-55.0932114	-22.2796205
+Municipio de Pavón Arriba	4063031	-60.8875065	-33.3552910
+Sabaragamuwa Province	4630838	80.3354764	6.8124017
+Gemeinde Puchenstuben	450788	15.2788830	47.9125373
+San Francisco Del Monte	6274399	120.9990863	14.6413118
+Abrantes e Alferrarede	6457260	-8.1906195	39.5052512
+Harmar Storage Pond No 4	6836430	-79.8467911	40.5363564
+Municipio Vallegrande	4511481	-63.9704242	-18.7384965
+McCoy Lake;Shekak River	4165521	-84.9841183	49.0868908
+Berrigan Shire Council	6230406	145.6601212	-35.7514817
+Neumühlen-Dietrichsdorf	969718	10.1883737	54.3321586
+Blackrock-Monkstown ED	4265262	-6.1561246	53.2912646
+Batas Dusun Kwang Pati 2	3816509	116.3743004	-8.5949988
+Pedanía de Puente Tocinos	4187082	-1.1010084	37.9933952
+Lea Electoral Division	4436267	-7.7197709	53.2440457
+Osipy-Wydziory Drugie	7061950	22.4530433	52.9430642
+Angra (N. Senhora da Conceição	7448380	-27.2146936	38.6721170
+Kaišiadorių apylinkės seniūnija	3479244	24.4969224	54.8915615
+Castleforward Demesne	5567951	-7.4899817	54.9987299
+Residencial Park Solar	6870250	-49.3597751	-16.6265603
+Conjunto Valéria Perillo	7624275	-49.1823394	-16.6833529
+Pluit Village Mega Mall	5795704	106.7892242	-6.1169261
+Ballyvisteale Demesne	6295436	-8.3571760	51.9343367
+Maluti-a-Phofung Ward 15	3596579	28.7823600	-28.6539251
+Maluti-a-Phofung Ward 33	3596599	28.8315325	-28.5270450
+Maluti-a-Phofung Ward 24	3596589	28.8684769	-28.5341400
+Opatovice u Světlé nad Sázavou	427695	15.3658338	49.7017294
+Meeltraun (Denis Kelly)	5259254	-8.7054542	53.6847524
+Zuffenhausen-Schützenbühl	1107827	9.1543011	48.8343908
+Gharaundha Apartments	3810359	77.3179096	28.6568375
+Adolfo Gonzales Chaves	3871226	-60.1008694	-38.0319499
+Albufeira de Rebordelo	2451246	-7.1637492	41.7708149
+Municipio de María Susana	4110864	-61.9169188	-32.2530209
+Municipio de Villa Eloísa	4079490	-61.5689246	-32.9763343
+Piazzale Annyka Brandi	3343707	12.6384184	44.0116577
+Place Joachim du Bellay	1308200	2.3476435	48.8607024
+Plaza de Santa Engracia	6566195	-0.8829353	41.6492706
+Place Georges Brassens	3030819	-1.0928024	46.0824690

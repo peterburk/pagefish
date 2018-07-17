@@ -1,0 +1,55 @@
+Noyelles-sous-Bellonne	1188515	3.0215921	50.3099371
+Grainville-Langannerie	172580	-0.2730715	49.0072764
+Saint-Martin-aux-Arbres	3014836	0.8925836	49.6495258
+Saint-Ciers-sur-Gironde	398950	-0.6475483	45.2946094
+Vauchelles-les-Quesnoy	2815653	1.8868341	50.1018305
+Saint-Sulpice-d'Arnoult	125641	-0.8215482	45.8156283
+Souain-Perthes-lès-Hurlus	2094747	4.5836772	49.1907657
+Champagny-sous-Uxelles	2793902	4.7470516	46.5796870
+Roche-Saint-Secret-Béconne	415575	5.0459732	44.4770961
+Louvilliers-en-Drouais	70021	1.2834707	48.7338895
+Sainte-Gemmes-sur-Loire	178359	-0.5746294	47.4290009
+Saint-Nicolas-du-Tertre	146199	-2.2226452	47.7940599
+Saint-Sulpice-le-Dunois	120485	1.7263140	46.3019607
+Indragiri Hilir Regency	7830704	103.3284657	-0.2709239
+Khemis Meliana District	2822387	2.1838657	36.2574792
+Castelluccio Inferiore	40196	16.0143128	40.0127702
+Castelnuovo Berardenga	42412	11.5023941	43.3620745
+Langeland Municipality	2096607	10.7774666	54.9432303
+La Chapelle-Longueville	6837686	1.4364433	49.1116417
+Nedre Heimredalsvatnet	5589621	13.6542747	68.2982891
+Little Blackwater Lakes	3263407	-81.2967623	46.3339675
+Loch an Eilein Choinnich	6271066	-6.9067480	58.1438117
+Isobel Creek;Isobel Lake	4163333	-86.9605982	49.9337209
+Cosens Lake;Pardee Creek	4164484	-86.2387143	49.9171085
+Source of the River Flit	7256177	-0.4940866	51.9264510
+Kapasichiwaymosik Lake	6631878	-100.6229623	53.8471575
+Santa Eulàlia de Riuprimer	347478	2.1684058	41.9130064
+Carrickmacrourk Island	3516885	-7.5622944	54.2567204
+Muslyumovsky District	366373	53.2926899	55.3111303
+Stadtgebiet Lüssower Berg	376522	13.0832990	54.2795385
+Gemarkung Bodelshausen	7362579	8.9662674	48.3987327
+Pedanía de Cabezo de Torres	4187024	-1.1308115	38.0478758
+Breitenbach am Herzberg	275101	9.5079078	50.7754084
+Lynchburg, Moore County	196141	-86.3608426	35.2675755
+Kerkom-bij-Sint-Truiden	5407685	5.1787834	50.7733387
+Croughtanaul (Marquile)	5737912	-7.6042219	52.0946843
+Mahzemin Yeni Mahallesi	1798212	35.2774329	38.8326636
+Sítios de Recreio Alvorada	4657175	-51.7076296	-17.8619849
+Ramotshere Moiloa Ward 5	3668290	25.8029156	-25.2742075
+2e Delatre (Deuxième Plaine)	392296	-73.0146117	18.4178223
+Barugh (Great and Little)	7848131	-0.8481018	54.2050702
+Arnultovice u Jindřichova	434851	17.5607045	50.2523249
+Ballynasooragh Eighter	6207343	-8.5265273	53.4349991
+Abdelnour Subdivision 3	4046384	-116.1786364	33.6691384
+Los Angeles Jocote Dulce	5867044	-86.2724521	12.0667479
+Őriszentpéter (Templomszer)	5410272	16.4051819	46.8500654
+Ciudadela Villa de Leyva	7639780	-75.7256156	4.7837740
+Samtgemeinde Jesteburg	252896	9.9450868	53.3138966
+Municipio de Pampa Almirón	1624192	-59.0245545	-26.6193905
+Medical Campus District	3855382	106.7168355	10.7323930
+Buenos Aires (Municipio)	5743420	-85.7861709	11.5861069
+San Dionisio (Municipio)	5750376	-85.8634108	12.7751332
+Piazza Corrado Bellomia	4764534	15.0883934	36.7195543
+Giesinger Bahnhofplatz	4844808	11.5956581	48.1104761
+Piazza Giacomo Leopardi	7842259	15.1835995	37.1560050

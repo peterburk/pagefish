@@ -1,0 +1,38 @@
+Bouxières-sous-Froidmont	113041	6.1019603	48.9557034
+Étrelles-et-la-Montbleuse	380726	5.8582562	47.4781181
+Saint-Martin-du-Boschet	1332795	3.4382081	48.7305163
+Saint-Laurent-les-Bains	1270079	3.9511651	44.5988665
+Saint-Maurice-des-Noues	170055	-0.7233330	46.5957126
+Saint-Aubin-des-Ormeaux	164922	-1.0411879	46.9952949
+Neuendorf-Sachsenbande	448018	9.3375422	53.9594092
+Ukmergės rajono savivaldybė	1027570	24.7372866	55.3016980
+Ouled Rechache District	6822832	7.3041995	35.2445240
+Archipiélago de Los Monjes	3473006	-70.8762089	12.4315575
+Joniškio rajono savivaldybė	1256235	23.4864783	56.2256387
+Golosiivskyi district	1754513	30.5556507	50.3273152
+Kotkan–Haminan seutukunta	6442987	27.1210111	60.5071586
+Torralba de los Sisones	339927	-1.4478566	40.8853058
+Parroquia Capital Cedeo	2655225	-63.5741345	9.8070595
+Tindeulvtjernet, Vesle	5154985	8.9995240	60.8833900
+Maria Laach am Jauerling	453691	15.3405187	48.3071877
+Embalse de Los Canchales	2082226	-6.5091311	38.9772520
+Albufeira de Venda Velha	5366185	-8.8252910	38.6845360
+Microrregião de Sananduva	567380	-51.6515653	-27.8460598
+Firhouse-Ballycullen ED	4596750	-6.3181851	53.2730741
+Yalutorovsky District	1672820	66.3702761	56.8005371
+Gemeinde Bad Traunstein	454144	15.1125235	48.4340022
+Krasnyy Tekstil'shchik	3158982	45.8309502	51.3544653
+Syktyvdinsky District	1082930	50.2618244	61.5677950
+Mokrousovsky District	398444	66.8133672	55.7631703
+Santa María del Monte de Cea	344178	-5.1384381	42.4941437
+Setor Norte Ferroviário II	3676596	-49.2613533	-16.6551320
+Jardim Nova Alexandrina	7002364	-48.9599898	-16.3014149
+Ward 106 Serilingampally	7853544	78.3406723	17.4656573
+Knocknahila More (North)	4260244	-9.3926024	52.7777126
+Ballynagarbry (Mullock)	4180381	-7.7352359	53.4114479
+Aslackby and Laughton CP	1403590	-0.4049570	52.8588928
+Residencial Maria Luiza	6643024	-49.2477778	-16.8152832
+Bourgeonnière - Petit Port	5553987	-1.5607910	47.2512444
+Vila Jardim Protásio Alves	7332410	-51.1065180	-30.0444208
+Vila Bom Jesus - Belterra	6180098	-42.7274828	-5.0961637
+Sandessee - Lago di Sanes	301846	11.3242127	46.9854659

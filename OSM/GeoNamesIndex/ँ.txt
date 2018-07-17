@@ -1,0 +1,29 @@
+Saint-Ouen-de-Pontcheuil	536465	0.9503329	49.2338385
+Saint-Vincent-de-Mercuze	84271	5.9572271	45.3735409
+Sainte-Anne-sur-Gervonde	1354280	5.2343288	45.4997996
+Pont-de-Roide-Vermondans	124535	6.7587887	47.3872773
+Foucaucourt-en-Santerre	3348769	2.7697396	49.8744547
+Saint-Jacques-de-Thouars	152390	-0.2331369	46.9688195
+La Chapelle-Vaupelteigne	303276	3.7687926	47.8443089
+Microrregião de Coelho Neto	5136817	-43.2198499	-4.3638253
+Horqin Left Middle Banner	2753403	122.4326632	44.0333748
+Arroyomolinos de la Vera	343071	-5.8696923	40.0489112
+Gemeinde Perchtoldsdorf	111946	16.2559683	48.1169362
+Nedre Dingledalstjernet	5140407	8.5300137	61.2744670
+Petit lac des Pins Rouges	556987	-75.2086313	45.8727220
+Petit lac des Pins Rouges	1270204	-73.1016378	46.6580931
+North Coventry Township	3049308	-75.6879343	40.2184574
+Maple Heights-Lake Desire	237543	-122.0957951	47.4429800
+Microrregião de Cerro Largo	568916	-54.7071751	-28.1426629
+Geraz do Lima (Santa Maria)	5714273	-8.6803927	41.7041433
+Bekan Electoral Division	6902652	-8.8555747	53.7617759
+Tyumentsevsky District	1100040	81.5081563	53.2491411
+Municipio de General Acha	3420708	-65.2486933	-37.6628649
+Manitou Beach-Devils Lake	135265	-84.2955794	41.9802720
+Residencial Universidad	7348355	-6.3528821	39.4735859
+Magdagachinsky District	1749238	125.6837778	53.2169157
+Sector Colegio Americano	5857679	-86.2778391	12.1120910
+Residencial Los Izotes II	6805096	-89.2409313	13.6731026
+Santo Domingo de Acobamba	1948373	-74.7402203	-11.8364431
+Paseo de la Avenida Marítima	7516878	-15.4139548	28.1072315
+Tughlakabad Railway Yard	3712240	77.2895160	28.5217725

@@ -1,0 +1,21 @@
+Saint-Georges-Blancaneix	146296	0.3494839	44.9184122
+Saint-Remy-sous-Barbuise	1222736	4.1299073	48.4770159
+Villefranche-d'Albigeois	1573882	2.3252142	43.8986633
+Gemeinde Klosterneuburg	114956	16.2905343	48.2989313
+Elmenhorst/Lichtenhagen	390655	11.9998154	54.1508519
+Mosman Municipal Council	6276645	151.2476186	-33.8285354
+Altopiano della Vigolana	46656	11.2010100	45.9855638
+Champion Creek Reservoir	2402099	-100.8402980	32.2985332
+Kouga Local Municipality	88116	24.8501975	-33.9123651
+Parroquia San Bernardino	2451173	-66.8939534	10.5275905
+Blagodarnensky District	1030063	43.5574354	45.0936987
+Esker Electoral Division	4448633	-7.1963516	53.3010682
+Asola Wildlife Sanctuary	1943211	77.2221954	28.4659876
+Coolreagh or Cloghanhill	4147292	-7.8478052	53.2264654
+Bezirksteil Obere Isarau	66107	11.6304360	48.2047349
+Jílové u Hodkovic nad Mohelkou	436261	15.1061656	50.6562263
+Partido de Presidente Perón	2403624	-58.4124048	-34.9423190
+Viejo Molino San Bernardo	2530174	-55.9657560	-34.7012682
+Jezioro Paklicko Wielkie	7022128	15.4870591	52.3315633
+Provincia Hernando Siles	4506357	-64.0683037	-20.2348311
+Skwer im. Lecha Kaczyńskiego	1329993	21.5716981	53.0820396

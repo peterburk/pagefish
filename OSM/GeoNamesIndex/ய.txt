@@ -1,0 +1,5 @@
+Essequibo Islands-West Demerara	7105894	-58.5342281	6.6021155
+Municipio de Comodoro Rivadavia	3732554	-67.5993809	-45.8592133
+powiat strzelecko-drezdenecki	2663925	15.6481539	52.9123163
+São Bartolomeu dos Galegos e Moledo	6521507	-9.2649428	39.2913792
+Embalse Ministro Juan Pistarini	7770008	-64.4849186	-32.2136272

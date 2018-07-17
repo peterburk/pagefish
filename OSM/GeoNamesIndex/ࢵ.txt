@@ -1,0 +1,35 @@
+Saint-Georges-d'Espéranche	190823	5.0872046	45.5622399
+Altmarkkreis Salzwedel	62602	11.1806867	52.6646503
+Heraklion Municipality	2187393	25.0782870	35.2507455
+Platanias Municipality	2187318	23.8275679	35.4949278
+Knjazevac Municipality	2869101	22.2652927	43.5278633
+Rielasingen-Worblingen	2785094	8.8437263	47.7274180
+Parroquia Manuel Renaud	2633911	-61.0138551	9.1705204
+Jezioro Lubicko Wielkie	2321654	16.4017346	53.5981466
+Laghetti di San Leonardo	2583482	10.6830088	46.2902827
+San Lucas Cuauhtelulpan	1391375	-98.2687571	19.2942216
+Little Two Hearted Lakes	1943977	-85.4032014	46.5781206
+Rosokhach Rural Council	2538680	23.2321422	49.0093252
+Rokytnice v Orlických horách	440092	16.4789495	50.1752538
+Mote Electoral Division	6818868	-8.1560890	53.5987230
+Wang Thonglang District	2939956	100.6117376	13.7778858
+Rathmullan and Ballyboe	5386943	-7.5481664	55.0972280
+uMhlabuyalingana Ward 14	3647006	32.3155854	-27.3582960
+Rokytnice v Orlických horách	428483	16.4518791	50.1719742
+Hatfield and Newhampton	6186275	-2.6045843	52.2290574
+Karpuzsekisi Mahallesi	1797148	35.3486801	38.6851522
+Nelson Mandela Bay Ward 55	3591562	25.5847181	-33.7926920
+Nelson Mandela Bay Ward 46	3591552	25.4110501	-33.7955515
+Nelson Mandela Bay Ward 19	3591522	25.5893583	-33.8819376
+Nelson Mandela Bay Ward 37	3591542	25.5031008	-33.8555046
+Nelson Mandela Bay Ward 28	3591532	25.5581624	-33.8617245
+Provincia de Cordillera	1664191	-70.2681643	-33.6714192
+Phoenix Park Racecourse	5651426	-6.3374159	53.3725570
+Highlands at Lake Conway	2023859	-81.3606451	28.4772670
+Residencial los Chalets	5359780	-13.8326152	28.8731870
+Amber Pointe Apartments	7096412	-87.4033862	36.5957228
+Furnaceville Vineyards	4192320	-77.2795804	43.2600317
+Monteagudo de las Vicarías	348066	-2.1988070	41.3447593
+Plaza de Mariano de Cavia	6627901	-0.8853284	41.6567911
+Piazza Giovanni Pascoli	3874527	12.5368692	44.0884343
+Clane Community Council	5868261	-6.6912166	53.2965594

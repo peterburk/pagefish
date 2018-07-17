@@ -1,0 +1,40 @@
+Englesqueville-en-Auge	171967	0.1522303	49.3307306
+Saint-Léger-du-Bourg-Denis	136430	1.1655009	49.4287932
+Matignicourt-Goncourt	2614511	4.6732795	48.6755700
+L'Abergement-de-Cuisery	1531676	4.9620368	46.5752490
+Saint-Ouen-en-Champagne	107609	-0.1767124	47.9555685
+Saint-Nicolas-des-Biefs	2790154	3.7819856	46.0570770
+Sainte-Colombe-de-Duras	2981239	0.1190241	44.6970667
+Saint-Jacques-des-Guérets	279377	0.7899526	47.7652664
+Regional Unit of Lemnos	5305784	25.1499607	39.9088687
+Draa Ben Khedda District	4432394	3.9223307	36.7209805
+Les Salles-de-Castillon	2010489	0.0059778	44.9117148
+Torralba de los Frailes	346301	-1.6697200	41.0186230
+Zolochivskyi District	1749223	24.7145051	49.7719469
+Clinton River Spillway	383812	-82.8626948	42.5707703
+Waynesville Reservoir	309974	-83.0100723	35.4212553
+Icicle Creek;Icicle Lake	4138544	-87.0301724	49.4096391
+Korostiv Rural Council	2540956	23.3757327	49.0290017
+Selivanovsky District	389674	41.6616923	55.8084367
+West Franklin Township	4046635	-79.6487378	40.8535140
+Kurchatovsky District	1645647	35.5408005	51.6821601
+Jedłownik – Turzyczka – Karkoszka	3862266	18.4370929	49.9936193
+Shumerlinsky District	1761236	46.5151608	55.4692448
+Nikiforovsky District	1752951	40.8942872	52.8611068
+Seapoint or Templehill	2203241	-6.1652260	53.2975772
+Beeston with Bittering	1022422	0.8246136	52.7117321
+Ballindollaghan (Crump)	4798470	-8.4039042	53.7920040
+Quartier du Mont Gargan	2859849	1.1273991	49.4333829
+Vilémovice u Červených Janovic	427248	15.2814867	49.8480160
+Stretton under Fosse CP	3550592	-1.3445879	52.4261586
+Chácara João Carneiro Alves II	7159596	-54.7558168	-22.2577478
+Santa Rita do Trivelato	333672	-55.2880385	-13.7838172
+San Fernando Coapechapa	5730462	-97.6210707	20.3676790
+Stausee Niederaichbach	1571883	12.2881335	48.5981580
+Dzerzhinskiy District	4039467	44.4719817	48.7556339
+Calvert Beach-Long Beach	133462	-76.4829045	38.4639314
+Sidi Slimane Echcharraa	2457839	-2.3453468	34.9096755
+Municipio de Egusquiza	4167410	-61.6222902	-31.0917850
+Villanueva de la Fuente	340228	-2.6938110	38.7019690
+Distrito Cruz de Piedra	2961249	-68.7909287	-33.0317387
+Havynosy Rural Council	7540980	29.2762091	47.6675695

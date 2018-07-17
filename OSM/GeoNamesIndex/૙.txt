@@ -1,0 +1,10 @@
+Microrregião Barra de São Francisco	1844419	-40.8326997	-18.4492649
+Verwaltungskreis Oberaargau	1684809	7.7771688	47.1704896
+Freixo de Espada à Cinta e Mazouco	5717862	-6.8235514	41.1030626
+Armour Lake;South Branch Creek	3783356	-83.6547911	47.0933880
+Kilshanvy Electoral Division	6788689	-8.9970499	53.5571544
+Roscomroe Electoral Division	4461256	-7.7331389	53.0349777
+Kiltormer Electoral Division	5984252	-8.2891493	53.2330837
+Asentamiento Nestor Kirchner	6605401	-65.2749051	-24.1964627
+Plaza Periodista Arturo Arias	1291878	-5.6630643	43.5465345
+Uppercross Barony outlier BME	5990580	-6.6072193	53.1371227

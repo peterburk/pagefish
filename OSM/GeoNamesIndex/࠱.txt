@@ -1,0 +1,46 @@
+Bretteville-sur-Dives	147099	0.0029639	49.0355979
+Saint-Germain-sur-Avre	3315921	1.2606265	48.7739879
+Bosc-Guérard-Saint-Adrien	1240070	1.1294060	49.5412292
+Saint-Loup-de-Varennes	1170030	4.8508599	46.7226418
+Louvemont-Côte-du-Poivre	2116434	5.4039085	49.2372253
+Saint-Christo-en-Jarez	135954	4.4634857	45.5344335
+Prades-sur-Vernazobre	254546	2.9815149	43.4589232
+Saint-Malo-en-Donziois	161855	3.2689046	47.3093323
+Vignoux-sur-Barangeon	191480	2.1608995	47.2104717
+Landkreis Sigmaringen	2806390	9.2372218	48.0531521
+City district Stupino	186463	38.0592131	55.0528602
+Rangabali Subdistrict	5149693	90.4484917	21.9326298
+Nesarabad Subdistrict	4629878	90.1022273	22.7318889
+Aldeanueva de Figueroa	345451	-5.5307086	41.1719033
+La Roquette-sur-Siagne	92505	6.9481646	43.5853197
+Tajamares de La Pedrera	2603982	-54.1034196	-34.5565916
+Little Brightsand Lake	2416122	-101.1834203	56.9443128
+Parroquia Chaguaramas	2647530	-62.8661540	8.6280844
+Middle Settlement Lake	1857563	-75.0974667	43.6845172
+Degracias e Pombalinho	6553755	-8.5179627	39.9918239
+Little Pogamasing Lake	3372371	-81.8908732	46.9600110
+Vereda San José del Pepino	7128790	-76.6243877	1.0978772
+Municipio Desaguadero	4500574	-68.9738098	-16.6162725
+Parroquia Chaguaramas	2465703	-66.3159564	9.3690975
+Naujojo Daugėliškio seniūnija	3423473	26.4127119	55.3846234
+Batas Dusun Kwang Pati 1	3816508	116.3740087	-8.6017263
+Distrito de Sítio da Baraúna	5918651	-39.9719229	-10.2433374
+Governador Lindenberg	1955693	-40.4473398	-19.1864278
+Maurilândia do Tocantins	336760	-47.5709000	-6.0220000
+Ballynabrennagh Lower	6335944	-9.6376996	52.2966421
+Aghacarnaghan (part of)	4203499	-6.4506620	54.7358668
+Ballynestragh Demesne	2519208	-6.2837421	52.7218318
+Levrière - Haye aux Moines	1981791	2.4486265	48.7889761
+Maluti-a-Phofung Ward 14	3596578	28.8127155	-28.5613196
+Maluti-a-Phofung Ward 23	3596588	28.8449323	-28.5537100
+Maluti-a-Phofung Ward 32	3596598	28.9197659	-28.4941441
+Parque Antonio Amabile	7037591	-44.0573256	-20.0213552
+Cliffe and Cliffe Woods	2338381	0.4854704	51.4638280
+Governador Lindenberg	1838530	-40.5073828	-19.2019042
+Puerto General San Martín	4070581	-60.7331748	-32.6774488
+Zuffenhausen-Mönchsberg	1107895	9.1791119	48.8240858
+Condomínio Ville des Lacs	6009558	-43.9653471	-20.2086371
+Körfezköy Nar Evleri Sitesi	5638741	27.0981128	38.4930208
+Municipio de Mojón Grande	3221186	-55.1302376	-27.7214998
+Santa Bárbara de Carhuacayán	1948370	-76.3433373	-11.2014863
+Square Paul Cermolacce	2725724	5.3735888	43.3061265

@@ -1,0 +1,29 @@
+Saint-Vincent-du-Boulay	3293120	0.4877720	49.1016165
+Autreville-sur-Moselle	1773001	6.1099308	48.8286821
+Saint-Germain-sur-Meuse	2963839	5.7240559	48.6472265
+Saint-Vallier-sur-Marne	2349982	5.4023727	47.8338897
+Saint-Didier-sur-Doulon	3061168	3.5508561	45.3015542
+Castillejo de Martín Viejo	345254	-6.5286153	40.7372756
+Municipio de Gualeguaychú	2922122	-58.2765847	-33.0371962
+Microrregião de Porangatu	4873347	-49.0810147	-13.9032568
+Gemeinde Neusiedl am See	77118	16.8291276	47.9176850
+Castillo de Villamalefa	344859	-0.3802368	40.1605023
+Waterberging Hensbroek	1921229	4.8936938	52.6505810
+Archusa Creek Water Park	5650538	-88.7099804	32.0393215
+Parroquia Panamericano	3454101	-72.1347299	8.4377760
+Lac Kauikuiauatshitihk	7674545	-61.3389376	50.4083975
+Lac du Petit Cheval Blanc	196547	-76.1581581	47.1545727
+Little Siseebakwet Lake	899467	-93.7369901	47.1653739
+Rivière Sainte-Marguerite	1129859	-66.6378401	50.1803543
+Caleta Lamento del Indio	6882771	-74.6379031	-47.8169907
+Chevy Chase Section Five	133293	-77.0735661	38.9834567
+Inch Electoral Division	6343873	-9.9913544	52.1500215
+Remigio Antonio Canarte	7762698	-75.7090100	4.8188224
+Aran Electoral Division	6923261	-8.5293552	54.9958777
+Maas Electoral Division	6916542	-8.3891854	54.8168440
+Kawashima-higashi Machi	5680825	134.0923178	34.2667819
+Erciyesevler Mahallesi	7725253	35.5206327	38.7360779
+Samtgemeinde Harpstedt	1187320	8.5583523	52.9083505
+Municipio de San Cristóbal	4208618	-61.0797377	-30.2449214
+Departamento Huiliches	2585496	-71.3045996	-39.7768102
+La Conquista (Municipio)	5738068	-86.1898027	11.7144426

@@ -1,0 +1,4 @@
+Randfontein Local Municipality	599235	27.6113194	-26.1769650
+Drakenstein Local Municipality	79654	19.0234915	-33.5035050
+Chinley, Buxworth and Brownside	948024	-1.9390554	53.3442567
+Upper Madawaska Provincial Park	910762	-78.1919443	45.5200469

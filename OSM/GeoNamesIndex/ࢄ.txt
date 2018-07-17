@@ -1,0 +1,30 @@
+Saint-Pierre-la-Vieille	280382	-0.5802840	48.9215009
+Saint-Martin-d'Arberoue	167608	-1.1886852	43.3434812
+Vraignes-en-Vermandois	3348892	3.0656918	49.8876378
+Saint-Martin-des-Landes	3298789	-0.1522186	48.5459792
+Saint-Pierre-d'Exideuil	169907	0.2572385	46.1568450
+Saint-Jacques-des-Blats	2188695	2.7169683	45.0538640
+Plan-d'Aups-Sainte-Baume	2148153	5.7375180	43.3332011
+Parish of Saint Saviour	2372005	-2.0742735	49.2008855
+Brett Lake;Swayze River	3899625	-82.6606468	47.8251295
+Mississippi River Snye	6313799	-76.2428441	45.4457546
+Katagi Creek;Katagi Lake	3937082	-81.9893981	47.9393748
+Katagi Creek;Katagi Lake	3937081	-81.9814211	47.9114337
+Pardee Creek;Pardee Lake	4164497	-86.2273188	49.9261306
+East Norriton Township	187788	-75.3338027	40.1492408
+Rodenbach bei Puderbach	445735	7.6399469	50.6378677
+Serpukhovsky District	184619	37.5452499	54.8912528
+Zheleznogorsk-Ilimsky	3580013	104.1074404	56.5899791
+Kumylzhensky District	1103656	42.4469880	49.8559961
+Grayvoronsky District	1645377	35.6583893	50.5323121
+uMhlabuyalingana Ward 4	3647012	32.7770205	-27.0764186
+Olešnice u Rychnova nad Kněžnou	431897	16.1513728	50.1502995
+Nelson Mandela Bay Ward 9	3591571	25.5251681	-33.9449816
+Clonfert Seymour South	4479379	-8.0586555	53.2382106
+Samtgemeinde Lengerich	2016469	7.5101715	52.5604943
+The Haven at York Street	7505757	-104.9554618	39.9670252
+Sydney Cove at Eastwood	2043991	-81.1932437	28.5367295
+Banggai Islands Regency	4269807	123.3501093	-1.3993714
+Severo-Vostochnye Sady	4169326	40.1373392	44.6367017
+American Tobacco Campus	2078705	-78.9046378	35.9947920
+Yavoriv Proving Ground	2535159	23.6044276	50.0499145

@@ -1,0 +1,8 @@
+Central Development Region	4583292	85.2320215	27.4768748
+Municipio de Fray Luis Beltrán	3605100	-60.7309303	-32.7851624
+Parroquia Capital Porlamar	2529424	-63.8890732	10.9402587
+Albert-Mangelsdorff-Weiher	2703630	8.6751862	50.1166644
+Calvert Lake;Fairview Creek	4154071	-87.6953600	49.8722899
+Maršovice u Jablonce nad Nisou	430896	15.2002098	50.6943810
+North Oak Creek Reservoir 1-A	1748186	-96.8422504	41.0389905
+Bordj Bou Arreridj District	4309048	4.7452640	36.0676412

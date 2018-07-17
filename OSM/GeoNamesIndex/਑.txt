@@ -1,0 +1,20 @@
+Lower Silesian Voivodeship	224457	16.3612525	50.9508403
+Arpaillargues-et-Aureillac	382627	4.3651683	43.9984636
+Microrregião de Seridó Ocidental	5168642	-37.1701620	-6.4816004
+Frankenau-Unterpullendorf	109537	16.5679442	47.4595478
+Preobrazhenskoye District	1299106	37.7238726	55.7963419
+Sankt Margarethen im Lungau	1019498	13.6831645	47.0702174
+Papoose Creek;Tetrapus Lake	3921157	-81.2702556	47.4993405
+Papoose Creek;Tetrapus Lake	3930469	-81.2756117	47.5034364
+Parroquia Nuevo Rocafuerte	2677647	-75.5935788	-0.9745702
+Nether Providence Township	188114	-75.3696244	39.9004368
+Setor Residencial Oeste - SRO	4263945	-47.6566652	-15.6085242
+Great and Little Wigborough	3247574	0.8594868	51.7947780
+King Sabata Dalindyebo Ward 3	3594575	28.8156989	-31.6042815
+Emnambithi/Ladysmith Ward 16	3645740	29.7359400	-28.4194300
+Emnambithi/Ladysmith Ward 25	3645750	29.7847288	-28.6761233
+Togher or Danesfort Demesne	5312080	-7.4333494	53.9908394
+Szakonyfalu (Szukicstanya)	5440796	16.2384168	46.9002359
+Peninsula Grove Apartments	5640050	-76.3804487	37.0465809
+Highcroft Pointe Townhomes	2584997	-81.4122243	28.6921208
+Innerer Festungshof Würzburg	1381137	9.9204819	49.7897331

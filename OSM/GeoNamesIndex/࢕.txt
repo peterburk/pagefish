@@ -1,0 +1,28 @@
+Saint-Aubin-sur-Gaillon	3163195	1.3311176	49.1278771
+Saint-Denis-le-Thiboult	3015639	1.3537288	49.4599654
+Heugueville-sur-Sienne	1103581	-1.5130912	49.0357246
+Saint-Pierre-de-Semilly	404815	-0.9980563	49.1233014
+Saint-Priest-des-Champs	122959	2.7478796	45.9735646
+Saint-Georges-en-Couzan	1042953	3.9341483	45.7084241
+Saint-Lambert-du-Lattay	158562	-0.6487899	47.2982437
+Saint-Saturnin-de-Lenne	1448870	3.0193955	44.4095850
+Saint-Genest-de-Contest	1529214	2.1483597	43.7637196
+Fraissinet-de-Fourques	283804	3.5294700	44.2070211
+Makman Ben Amer District	6824000	-1.1284988	33.6365140
+Pachalik de Ksar El Kebir	4826584	-5.9087612	35.0056247
+San Vicente Tancuayalab	5606283	-98.5964490	21.8126238
+Barrigada Municipality	7403849	144.8063777	13.4783225
+Landkreis Altenkirchen	62357	7.7984117	50.7522932
+Oebisfelde-Weferlingen	1286635	11.1213650	52.3795611
+Jinchengjiang District	2774384	107.8742329	24.6429144
+Parroquia Santa Cecilia	1698321	-76.9811001	0.0893047
+Monumento al Dr. Fleming	4000478	-5.6437290	43.5373188
+Santo Antônio de Barcelona	5268360	-40.0539407	-17.5867880
+Garroon or Summergrove	4611030	-7.3707373	53.1188119
+Doutor José Milton Machado	4280486	-37.4447388	-10.6907365
+Parque Estrela Dalva XI-A	4141999	-48.2774030	-15.9484486
+Chirbury with Brompton	6818875	-3.0712177	52.5789881
+Departamento Empedrado	3125243	-58.5775025	-27.9094289
+Santa María la Real de Nieva	344039	-4.3869470	41.0199092
+Luitpold-Leusser-Platz	5223037	10.5950229	48.0057744
+Sakurajima Futamata Cho	5454768	130.6533898	31.6370982

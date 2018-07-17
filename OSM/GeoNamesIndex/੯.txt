@@ -1,0 +1,11 @@
+Regional District of Nanaimo	2218188	-124.1000530	49.2279684
+Elevenmile Canyon Reservoir	4032070	-105.5117964	38.9266015
+Borough District of Drogheda	7033801	-6.3484950	53.7564165
+Maynooth Electoral Division	4568268	-6.5924054	53.3722466
+Cloonown Electoral Division	6750079	-7.9402507	53.3719926
+Ballynafeeragh (2nd Division)	4556393	-6.8150155	53.5673401
+Affpuddle and Turnerspuddle	5656638	-2.2653941	50.7295642
+Cobblestone of Winter Garden	2006274	-81.5771316	28.5405819
+Nova Skvariava Rural Council	2541538	23.8700036	50.0259495
+Plaza Nuestra Señora de Lourdes	6729319	-16.8035281	28.3526980
+Piazza Ricoldo da Montecroce	2050325	12.4907863	41.8640554

@@ -1,0 +1,15 @@
+Fairview Creek;Fairview Lake	4154080	-87.6653426	49.8912831
+Castlebar Creek;Proctor Lake	4164478	-86.0789492	49.8410145
+Tinamuck Electoral Division	4232981	-7.6736982	53.3487036
+Moyclare Electoral Division	4210747	-7.8624066	53.2880858
+Killoran Electoral Division	6721793	-8.3882865	53.2472525
+Conj. Hab. Aracy Maffei Madeira	7726679	-47.8966369	-23.0409723
+Sítio de Recreio Mansões do Campus	6870180	-49.2876112	-16.5710284
+Conjunto Residencial Campus	6870166	-49.2606145	-16.5947403
+Providensky urban district	1949882	-175.1735908	65.4794910
+Distrito Ciudad de Rivadavia	2941711	-68.4721183	-33.1857240
+Departamento Doce de Octubre	1606188	-61.4267698	-27.3241323
+Comunidad Nueva Israel Union	6203596	-89.2251593	13.6930938
+Conjunto São Francisco de Assis	3408774	-44.0112028	-19.8315352
+Barrio Nuestra Señora del Pilar	4461180	-58.8966252	-34.3398966
+"""Pass Through The Land"" Plaza"	4520281	-105.0177972	39.7432086

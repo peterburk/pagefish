@@ -1,0 +1,4 @@
+Verwaltungsgemeinschaft Haßmersheim	2969765	9.1042650	49.3042316
+Conjunto Residencial Torres del Sol	7734983	-75.6849060	4.8267929
+multipolygon playground starengi	1959132	-21.7733395	64.1503588
+Velykodolynske Settlement Council	7388299	30.5535048	46.3677678

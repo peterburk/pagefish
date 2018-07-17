@@ -1,0 +1,48 @@
+Sainte-Suzanne-sur-Vire	410060	-1.0583835	49.0735028
+Villefranche-de-Lonchat	146349	0.0617721	44.9566622
+Saint-Antoine-de-Ficalba	148941	0.7178169	44.3392940
+Saint-Hilaire-en-Lignières	1766388	2.1169574	46.7451190
+Saint-Julien-du-Terroux	1918449	-0.4104987	48.4825890
+Saint-Jean-de-Beauregard	1208107	2.1738858	48.6665588
+San Miguel de Horcasitas	5606269	-110.7888182	29.4788942
+Hassi Messaoud District	6822373	5.4530911	30.5588472
+Santa Rita Municipality	7403855	144.6871280	13.4032955
+Frassinello Monferrato	44037	8.3998939	45.0376841
+North Kazakhstan Region	215760	69.7351303	53.8397362
+Municipality of Aigaleo	1394279	23.6815886	37.9927963
+gmina Garbatka-Letnisko	2585469	21.6228379	51.4868107
+Villanueva del Rebollar	341643	-4.7390141	42.2388198
+Xunqueira de Espadanedo	346786	-7.6368136	42.3274159
+Bad Neustadt an der Saale	387466	10.2232003	50.3343585
+Hilgertshausen-Tandern	412806	11.3348784	48.4327388
+Santa Isabel do Rio Negro	332484	-64.9891993	-0.2495000
+Barrio La Coronilla - ANCAP	2546275	-55.2991572	-34.3942834
+Lac du barrage de Labarre	3910434	1.6134827	42.9915461
+Bald Mountain Reservoir	1328685	-121.1108212	40.9247311
+Kleiner Bornhorster See	2342743	8.2689659	53.1840573
+Talat Khwan Subdistrict	3426047	100.5096526	13.8425844
+Municipio Villa Serrano	4507937	-64.3244224	-18.9199091
+Unterroggenburger Wald	941092	10.2679423	48.2635050
+Municipio de Purmamarca	4473250	-65.7182226	-23.7149791
+Viewegsgarten- Bebelhof	2420119	10.5432029	52.2497709
+Santa Isabel do Rio Negro	6251411	-64.9891993	-0.2495000
+São Sebastião da Vargem Alegre	314710	-42.5935626	-21.0205000
+Santo Antônio dos Milagres	302682	-42.7066090	-6.0511933
+Lingwood and Burlingham	933672	1.4873295	52.6266928
+Loughnafin or Rockfield	5323574	-7.5742675	53.9803485
+Fazenda Morro do Engenho	5536856	-44.5684949	-20.0951904
+Coronel Domingos Soares	297789	-51.9101389	-26.1720001
+Villefranche-de-Lonchat	2500703	0.1440979	44.9516110
+Talsperre Schmalwasser	1610408	10.6443654	50.7656205
+Nossa Senhora das Graças III	6176019	-45.4267531	-21.5826289
+Heinrich-Zille-Siedlung	3415791	13.3612207	52.5248207
+Lafayette Trailer Court	5663917	-87.4090090	36.5595809
+Bad Neustadt an der Saale	1464532	10.2008655	50.3232933
+Colonia San Martín de Tours	3992207	-62.3315903	-37.9758196
+Osiedle Gronowe Zacisze	7324127	16.5887088	51.8690777
+Municipio de Zenón Pereyra	4142193	-61.9675050	-31.5444403
+Municipio de San Mariano	4122237	-61.4357073	-31.6865989
+Villafranca de la Sierra	343688	-5.0979023	40.4904171
+Largo Giuseppe Musumeci	6788628	15.2718946	37.0811599
+Palacios de Riopisuerga	340687	-4.2578237	42.3418925
+Quartiere Sant'Ambrogio	7065921	9.1584131	45.4294884

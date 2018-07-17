@@ -1,0 +1,13 @@
+Provincia de Bocas del Toro	3420383	-82.3522241	9.2425234
+San Pedro y San Pablo Ayutla	5999947	-96.1373058	17.0378611
+"Terrenos del Lote ""Molino"""	5749271	-97.6258473	20.9357599
+"Terrenos del Lote ""Toteco"""	5748012	-97.7617104	21.2306450
+Feldberger Seenlandschaft	1419920	13.4192526	53.3270389
+Mink Lake;North Howry Creek	3223652	-81.3624820	46.1798779
+Dmytrovychi Rural Council	2829553	23.3420710	49.7565124
+Trichy Corporation Limits	1553009	78.6981160	10.8018235
+Sokullu Mehmet Paşa Mahallesi	6786509	32.8338345	39.8902401
+Long Mountain Country Club	4602159	-76.7606827	17.9985757
+Zhongyanglou Subdistrict	7671104	111.8064012	37.1286338
+Osiedle Rzeczypospolitej	3145861	16.9495960	52.3868389
+Municipal Unit of Moschato	1398773	23.6795789	37.9505732

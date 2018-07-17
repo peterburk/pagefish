@@ -1,0 +1,3 @@
+Landkreis Vorpommern-Greifswald	1431517	13.8981846	53.7245861
+Ili Kazakh Autonomous Prefecture	2750980	86.5064909	45.7224680
+San Román de Campezo/Durruma Kanpezu	7347757	-2.4383057	42.6641765

@@ -1,0 +1,4 @@
+Pokrovskoye-Streshnevo District	446081	37.4504005	55.8250254
+Cowichan Valley Regional District	2218177	-124.1285080	48.7912109
+Buncrana Rural Electoral Division	6987265	-7.4141858	55.1356794
+Kingston Bagpuize with Southmoor	4106749	-1.4287071	51.6691937

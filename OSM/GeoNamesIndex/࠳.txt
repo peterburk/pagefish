@@ -1,0 +1,52 @@
+Verreries-de-Moussans	123671	2.6793113	43.4499453
+Landkreis Vulkaneifel	62615	6.7687654	50.2318033
+Montreuil-en-Touraine	171408	0.9477556	47.4852702
+Sainte-Anne-sur-Brivet	148266	-2.0062111	47.4545066
+San Lorenzo Cacaotepec	5999832	-96.8075297	17.1259245
+Pachalik d'Oulad Berhil	5163928	-8.4786084	30.6386028
+Le Plessier-sur-Bulles	897356	2.3206369	49.4916154
+La Chapelle-Saint-Aubin	107873	0.1538643	48.0346255
+San Martín de Valderaduey	340219	-5.4823603	41.7929781
+Le Chambon-Feugerolles	117763	4.3350880	45.3909549
+"Terrenos del Lote ""Cañas"""	5749267	-97.7679101	20.9839279
+caïdat de Sidi Bou Othmane	5377960	-7.7631516	31.8138841
+Microrregião de Barretos	4792088	-48.6495480	-20.4972866
+San Bernardino Verbano	46607	8.4561461	45.9952224
+Busturialdea-Urdaibai	2929459	-2.6592403	43.3302198
+Santa Clara de Avedillo	340218	-5.6697910	41.3412964
+San Michele di Ganzaria	39211	14.4281999	37.2749327
+Gemeinde Wilhelmsburg	134365	15.6178953	48.0982661
+Alcanena e Vila Moreira	6457913	-8.6731743	39.4596884
+Terusan Alor Changileh	6229645	100.3861488	6.2527685
+Little Missinaibi Lake	6455256	-83.5958874	48.2177795
+Parroquia La Concordia	3417230	-72.1941037	7.7231145
+Parque de la Fábrica de Gas	1524183	-5.6513663	43.5391430
+Oknoname 02710 Reservoir	1914553	-97.4124896	35.2452811
+Canal Laurentino Comas	3645845	-58.8490154	-34.1776524
+Mesorregião do Sul Baiano	4548897	-39.2931807	-15.7728821
+Tamar Regional Council	1376912	35.3100599	31.1402502
+Ayauta Chō Kurikuma-nishi	5899097	133.8795606	34.2234839
+Zona XLV Castel di Guido	5319680	12.3009638	41.9003250
+Ngau Pei Sha New Village	7296712	114.2087847	22.3789513
+Departamento Río Primero	1870732	-63.3846938	-31.0418389
+Killuppaun (Clonbrock)	6153692	-8.3181449	53.3896699
+Saxlingham Nethergate	1022569	1.2892816	52.5222534
+Fatih Sultan Mahallesi	6789375	32.6430142	39.8793932
+Maluti-a-Phofung Ward 25	3596590	28.8075761	-28.5503248
+Maluti-a-Phofung Ward 16	3596580	28.8255332	-28.6041200
+Maluti-a-Phofung Ward 34	3596600	28.8107285	-28.4209236
+Eye, Moreton and Ashton	6188436	-2.7251367	52.2723796
+Mebusevleri Mahallesi	6779579	32.8358859	39.9281083
+Fatih Sultan Mahallesi	5417174	38.9383654	36.7193925
+Jardines de Santa Clara	5890487	-86.2290697	12.1583725
+Conjunto Celso Machado	3408759	-44.0085347	-19.8860867
+Francisco-Ferrer - Vern	6836773	-1.6574134	48.0970271
+Aspen Glade Apartments	6728093	-121.9804178	47.1969941
+Francisco Pietrobelli	3560547	-67.4983385	-45.8551651
+Departamento Salavina	3575550	-63.3584622	-28.8454216
+Municipio de Cafferata	4069953	-62.0896963	-33.4875452
+Bernsdorfer Binnensee	1589666	10.9463946	53.6343433
+Plac Konstytucji 3 Maja	2270524	18.5633761	54.4430902
+Largo Francesco Cotzia	4116848	15.2727932	37.0642479
+Plac Konstytucji 3 Maja	4840385	22.7006300	51.2194729
+piazza dell'emigrante	5834818	16.1467090	40.6219624

@@ -1,0 +1,3 @@
+Arrondissement administratif du Jura bernois	1684807	7.1844103	47.2028834
+Arrondissement administratif du Jura bernois	1684782	7.1844103	47.2028834
+The Place on Millenia Boulevard Apartment Homes	2006278	-81.4435531	28.4746699

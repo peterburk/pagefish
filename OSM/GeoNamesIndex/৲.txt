@@ -1,0 +1,14 @@
+Saint-Hilaire-sur-Puiseaux	110552	2.6993111	47.9077651
+Saint-Laurent-des-Mortiers	1125559	-0.5380974	47.7699339
+Mesorregião Noroeste de Minas	2235301	-46.6422065	-16.6509206
+Microrregião do Médio Capibaribe	5127101	-35.5586307	-7.8138716
+Molezuelas de la Carballeda	343521	-6.1972144	42.0755405
+Carlos Julio Arosemena Tola	3725950	-77.9396896	-1.1673159
+U.F V.N. de Paiva, Alhais e Fráguas	6422560	-7.7407044	40.8495666
+Nongoma Local Municipality	611109	31.7446621	-27.9063801
+Municipio Villa Vaca Guzman	4509413	-63.7870316	-20.0146137
+Gemeinde Weinzierl am Walde	454727	15.4218588	48.4257815
+Dunamon Electoral Division	6829329	-8.3323879	53.6531849
+Bawnboy Electoral Division	6883351	-7.6771254	54.1215897
+Kilvine Electoral Division	6792550	-8.8454310	53.6738967
+Tullyvallan (Hamilton) East	5266607	-6.5765166	54.1525167

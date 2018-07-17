@@ -1,0 +1,6 @@
+Chris Hani District Municipality	88468	26.5632879	-31.8607400
+Municipio de Gobernador Gregores	3439480	-70.2349764	-48.7637596
+Diversion Channel;Diversion Lake	4129127	-87.0607671	49.0834606
+Castletaylor Electoral Division	5649612	-8.8145167	53.1676820
+Laurencetown Electoral Division	5634074	-8.1913562	53.2281870
+Haworth, Cross Roads and Stanbury	7185153	-1.9978950	53.8249967

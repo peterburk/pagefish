@@ -1,0 +1,26 @@
+Pierrefitte-en-Cinglais	279257	-0.3792459	48.9065225
+Saint-Martin-la-Campagne	543309	1.0764217	49.0661155
+Notre-Dame-de-Gravenchon	75630	0.5771524	49.4877694
+Departamento de Ahuachapán	3623374	-89.9460369	13.8126881
+Saint-Martial-de-Nabirat	3239927	1.2468593	44.7494340
+Saint-Christol-de-Rodières	385993	4.5113471	44.2559509
+Sainte-Eulalie-de-Cernon	390383	3.1466027	43.9604828
+Wentworth Shire Council	5884892	142.0118667	-33.6721378
+Villaverde y Pasaconsol	348173	-2.2841232	39.7740992
+Lower Seletar Reservoir	2178315	103.8521358	1.4112649
+Cabreiros e Passos (São Julião)	4136026	-8.4893736	41.5348134
+São Bento do Cortiço e Santo Estévão	6439083	-7.5891402	38.9141410
+Upper Shepaug Reservoir	309316	-73.3095046	41.7584931
+Little Schuylkill River	1590090	-75.9998588	40.6649782
+Lac du Pied de la Montagne	2602631	-67.2425856	54.7761735
+Watson Creek;Watson Lake	6503660	-83.9593833	47.1216582
+Wide Waters (Canal Feeder)	5651439	-2.1301126	52.4922585
+Upper Moreland Township	3089081	-75.1045208	40.1602544
+North Shenango Township	6027703	-80.4664403	41.6213820
+District of Bratislava V	388210	17.1156425	48.0745859
+Lourival Soares da Costa	5549252	-41.4911792	-17.8764970
+Oude Dorp/Bovenkerk-Dorp	162587	4.8433512	52.2959255
+Landings at Rock Springs	2004736	-81.5111718	28.7232019
+Willowbrook Apartments	7214867	-73.9000555	42.8318771
+Plaza de la Antequeruela	5469602	-4.0240484	39.8621344
+Miradores de San Lorenzo	3951585	-3.3721063	38.0066378

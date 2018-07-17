@@ -1,0 +1,68 @@
+Saint-Agnan-le-Malherbe	279186	-0.5804777	49.0399098
+Saint-Pierre-de-Cernières	3333241	0.5197807	48.9323202
+Saint-Laurent-Bretagne	2832490	-0.2074899	43.3807858
+Saint-Quantin-de-Rançanne	152687	-0.5974699	45.5369428
+Beauchery-Saint-Martin	1351787	3.4121783	48.6005120
+Saulmory-Villefranche	1537696	5.1754298	49.4383432
+Marolles-lès-Saint-Calais	107464	0.7871499	47.9147305
+Saint-Eusèbe-en-Champsaur	906283	6.0379233	44.7200417
+Provincia de Coyhaique	1982311	-71.8493905	-45.0308854
+Ahigal de los Aceiteros	341881	-6.7659190	40.8674704
+el Castell de Guadalest	343121	-0.1767264	38.6726453
+San Donato Val di Comino	41479	13.8100226	41.7147603
+Yellow Medicine County	1739859	-95.9382096	44.7396945
+Kalesija municipality	2528214	18.8434636	44.4629089
+Municipio de Rada Tilly	3732555	-67.5901118	-45.9426664
+Municipio de Pueblo Muñoz	4059992	-60.9031489	-33.1798451
+gmina Warta Bolesławiecka	1671683	15.6894236	51.2369907
+Loipersdorf-Kitzladen	224347	16.0720337	47.3352309
+Lac de la Montagne Noire	900090	-74.2714305	46.1962183
+Lagunas de Tratamiento	4081904	-58.4145888	-32.1778369
+Vogelplas Starrevaart	1386181	4.4321350	52.0999610
+Sankt Ulrich im Mühlkreis	962345	14.0589033	48.4792504
+Demircilerardı Mahallesi	6894137	37.0266795	39.7472014
+Valley Acres Reservoir	1142609	-97.8771130	26.2513969
+Humenets Rural Council	2514133	23.8358237	49.6201028
+Lac de la Montagne Noire	193714	-75.7404679	46.3722494
+Municipio Villa Rivero	4505803	-65.8519613	-17.6489173
+Fischteich Roternturm	1604212	16.2521159	47.2294134
+Pidlisky Rural Council	2535409	23.2372319	49.7090470
+Nevis Water Department	6009983	-62.6130971	17.1386160
+Villanueva del Trabuco	347394	-4.3268565	37.0384805
+Schönbrunn i.Steigerwald	1077553	10.6816850	49.8656534
+Municipio de Sunchales	4167414	-61.5927936	-30.9559622
+Mesorregião Madeira-Guaporé	4748699	-64.4465797	-10.4481929
+São Bartolomeu do Outeiro	6439985	-7.8910691	38.3258199
+Höchstädt im Fichtelgebirge	1022882	12.0758347	50.0989514
+Bezenchuksky District	1345137	49.2578127	52.9893624
+Espírito Santo do Dourado	315400	-45.9775641	-22.0000001
+Kameshkirsky District	969735	46.0693875	52.8032323
+Chaplyginsky District	1114800	39.9351470	53.2741151
+Monte Alegre dos Campos	242664	-50.7930498	-28.6961890
+Residencial Copacabana	6787970	-48.9863378	-16.3774170
+Ballyvroghaun Oughter	6200657	-8.8471840	52.8989789
+Dolwyddelan Community	297232	-3.9239450	53.0477378
+Quartier des Bouchôleurs	2267863	-1.0839529	46.0575143
+Sundridge with Ide Hill	2295087	0.1330923	51.2654785
+Políkno u Jindřichova Hradce	432438	14.9599530	49.1165244
+Kayacık Araplar Mahallesi	5385949	32.5057534	37.8853132
+Cloonascarberry South	5389735	-8.3710027	53.5042970
+Vila Jardim dos Estados	5322930	-54.6042529	-20.4563341
+Davidstown (E.D. The Leap)	2624297	-6.6339787	52.4715745
+Commons of Clanmaghery	4622507	-5.7955334	54.2582836
+Hviezdoslavovo námestie	2940615	17.1082925	48.1415708
+Opatkowice Cysterskie	6145765	20.3601621	50.5522753
+Municipio de San Carlos	7295438	-65.8770308	-25.5424125
+Downtown State College	5518517	-77.8565985	40.7964426
+Barrydowne Apartments	3168087	-80.9445816	46.5109820
+Sector Norte Las Brisas	5844761	-86.3104828	12.1612653
+Clocktower Apartments	6640937	-122.2947612	47.7289629
+Cidade Jardim Eldorado A	5535305	-44.0413314	-19.9387197
+Pine Crest Subdivision	4041528	-103.8860720	44.4832460
+Daan Viljoen (dried out)	3201848	16.9514531	-22.5378419
+İkizce Tepeler Reservoir	1591259	27.9196689	39.4651657
+Municipio de San Carlos	3149492	-56.0264056	-27.6425696
+Municipio de Colombres	3490712	-65.0682660	-26.8945318
+Piazza della Provincia	4215669	15.2705665	37.1010299
+Piazza Vincenzo Rabito	6902124	14.5577436	36.7855821
+Piazza Mercato Monte Po	6114911	15.0350873	37.5094273

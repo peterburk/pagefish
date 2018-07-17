@@ -1,0 +1,4 @@
+Municipio de San Sebastián Salitrillo	6094976	-89.6382349	13.9696081
+Gemeinde Weikersdorf am Steinfelde	110474	16.1597058	47.8000043
+Quartier des Libertés - Vrijheidswijk	7011604	4.3662724	50.8498948
+Dongseong Baekdu Apartment Complex	7831670	126.9220792	37.3641017

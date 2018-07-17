@@ -1,0 +1,29 @@
+Briquemesnil-Floxicourt	2032100	2.0775423	49.8853688
+Vellefrey-et-Vellefrange	377833	5.8087988	47.4445261
+Saint-Caprais-de-Bordeaux	88803	-0.4282210	44.7550073
+Saint-Étienne-sous-Barbuise	1815016	4.1021634	48.4881765
+Arrondissement de l’Arcahaie	387690	-72.4530811	18.8298819
+Saint-Philbert-de-Bouaine	166109	-1.5046385	46.9942440
+Saint-Martin-de-Fraigneau	75503	-0.7634260	46.4307959
+Sant'Eufemia d'Aspromonte	39595	15.8536383	38.2200043
+Microrregião de Fernandópolis	4778512	-50.2528500	-20.1435001
+Aldeanueva de Guadalajara	340642	-3.0487782	40.6909682
+Bullrush Pond;Hodge River	2033124	-53.5350133	47.3834543
+Calcite Creek;Calcite Lake	3928556	-80.6608922	47.6577938
+Albufeira da Tapada Grande	3886594	-7.5174719	37.6789239
+Bailieborough - Cootehill	7034646	-7.0632436	53.9872095
+Stora Valeklintsvattnet	6657065	12.0688783	58.2082951
+Represa do Rio Monjolinho	3555210	-47.8804925	-21.9859749
+Santa Isabel (Chaguarurco)	2664571	-79.3784555	-3.3059589
+Parque Liceo Segunda Sección	5293708	-64.1614300	-31.3551943
+Ward 88 Umarupulavar Nagar	55507	80.2718529	13.0543176
+Jardim Residencial Lupo II	7080059	-48.2053280	-21.7793867
+Holzhausen-Externsteine	5964126	8.8995101	51.8666210
+Toberboe or Killenny More	4559157	-7.4299041	52.8244641
+Samtgemeinde Scharnebeck	1969584	10.5254345	53.3199535
+Rzeczyca Ziemiańska-Kolonia	7473165	22.2034074	50.8534134
+Los Altos de Santo Domingo	5867082	-86.2467483	12.0831852
+Stryhantsi Rural Council	2518674	23.9923904	49.3036449
+Municipio de Puerto Leoni	3207687	-55.1458382	-26.9948264
+Plaza Antonio Beltrán Martínez	1514684	-0.8696018	41.6512859
+Piazza Maestri del Lavoro	7408327	15.2192685	37.2252574

@@ -1,0 +1,52 @@
+Bertreville-Saint-Ouen	3017768	1.0438945	49.8125843
+Sotteville-sous-le-Val	138088	1.1132693	49.3186096
+Fromeréville-les-Vallons	2725672	5.2922142	49.1658842
+Saint-Alban-en-Montagne	1268208	3.9118806	44.7102631
+Saint-Julien-Labrousse	2460589	4.5065374	44.9041115
+Saint-Georges-de-Luzençon	76157	2.9796113	44.0567319
+Saint-Antonin-de-Lacalm	1557459	2.2936483	43.7829516
+Saint-Antonin-Noble-Val	136582	1.7213886	44.1508990
+Saint-Dalmas-le-Selvage	174227	6.8460340	44.2807976
+Santa Cruz Zenzontepec	6000003	-97.4742874	16.4705593
+Dasht-e-Azadegan County	6555016	48.0437798	31.7376942
+La Mazière-aux-Bons-Hommes	118796	2.4370267	45.8944746
+Sant'Eusanio del Sangro	41800	14.3504486	42.1599779
+Syddjurs Municipality	1926255	10.6629495	56.2714689
+Municipality of Athens	1370736	23.7414742	37.9908580
+Torrecillas de la Tiesa	339956	-5.7559782	39.5830471
+El Puente del Arzobispo	348196	-5.1747769	39.8028879
+Miraflores de la Sierra	346910	-3.7723692	40.7897061
+Santisteban del Puerto	339974	-3.2567586	38.3074118
+Ossokmanuan Reservoir	2468085	-65.4044060	53.4990063
+Estany de Romedo de Baix	5515852	1.3355293	42.7003584
+Boavista dos Pinheiros	6437445	-8.6546353	37.5592617
+Baia de Vila Praia de Âncora	4830182	-8.8686530	41.8146277
+Jezioro Charzykowskie	3998786	17.5061734	53.7744529
+Holendry Piotrkowskie	3202857	21.5275394	51.6297439
+Krzeczkowo Mianowskie	7051777	22.3349982	52.8475866
+Pulau Tekong Reservoir	2442178	104.0438196	1.4169633
+Busch Area Lake Number 570	1592415	-90.7528966	38.7172081
+North Lady Evelyn River	3921917	-80.5508719	47.4140921
+Gripp River;Sollas Lake	5185435	-87.4135285	50.4020148
+London Borough of Brent	75767	-0.2757597	51.5638258
+Lower Salford Township	3107908	-75.3913199	40.2648376
+Severnyy Oleniy Island	3175233	35.3454703	62.0744181
+Microrregião de Santo Ângelo	558353	-55.0860475	-28.4122233
+Novokubansky District	371621	41.0263622	44.8930113
+Sankt Paul im Lavanttal	162972	14.8349783	46.7019978
+Tallaght-Killinardan ED	4214065	-6.3886834	53.2778873
+posyolok Biokombinata	2516420	38.1097563	55.9174343
+Municipio de Quitilipi	1656405	-60.1786389	-26.7002471
+Ward 145 Seethaphalmandi	7854090	78.5159753	17.4249319
+Vila Santa Isabel 2 Etapa	7000169	-48.9510837	-16.3076923
+Benisonlodge or Bratty	4137564	-7.2917093	53.6559857
+Parque Estrela Dalva XII	4142000	-48.2879907	-15.9548695
+Residencial Oliveira II	7289731	-54.7809501	-22.2374771
+Carrigatogher (Harding)	5582759	-8.2780794	52.8394046
+Lincoln Park-Moyer Pool	6829563	-108.5498444	39.0748354
+The Manors at Butler Bay	2064149	-81.5487722	28.5084600
+Water's Edge at Lake Nona	2006218	-81.2731878	28.4186514
+Municipio de Lazzarino	4068529	-62.4177858	-34.2375255
+Jardins de l'Hôtel de Ville	7574758	0.1555666	45.6480448
+Jardins de l'Hôtel de Ville	7574763	0.1565559	45.6484331
+Esplanade Stéphane Hessel	6648173	-0.3467204	49.1812264

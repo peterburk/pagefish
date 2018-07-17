@@ -1,0 +1,54 @@
+Brancourt-en-Laonnois	2946389	3.4141576	49.5168924
+Hardivillers-en-Vexin	532312	1.9397109	49.3096818
+Saint-Pierre-du-Palais	124632	-0.1515766	45.1576489
+Saint-Pierre-lès-Nemours	88790	2.6601307	48.2643331
+Notre-Dame-de-la-Rouvière	390742	3.7241807	44.0602320
+L'Hospitalet-du-Larzac	390387	3.2072390	43.9754317
+Saint-Victor-en-Marche	120269	1.8004387	46.1228571
+Saint-Oradoux-près-Crocq	120254	2.3767726	45.8884516
+Saint-Éloy-les-Tuileries	2931933	1.2795292	45.4572711
+Mesorregião da Borborema	4504161	-36.6837660	-7.2900000
+Agua Blanca de Iturbide	5605467	-98.3729368	20.3648160
+Seberang Perai Selatan	7374838	100.4866393	5.2108864
+Starorussky District	177610	31.3361787	57.8233728
+La Jonchère-Saint-Maurice	115852	1.4755351	46.0044009
+powiat starachowicki	2421728	21.1459511	51.0538357
+Monsampolo del Tronto	42215	13.7920833	42.8992593
+Savyolovsky District	445281	37.5701970	55.7998696
+Trancoso e Souto Maior	6372250	-7.3764435	40.7831677
+Plan d'eau des Champins	3560908	3.3284453	46.5480596
+Tlaxcala de Xicohténcatl	1391414	-98.2394226	19.3164790
+Blalock Lake Number One	114835	-84.8989667	33.2859022
+Altenburger Baggersee	2449942	9.1888954	48.5520080
+Wrightington Pond, Old	1905393	-2.7060094	53.5928390
+Alexeyevsky district	1104547	42.3203313	50.2225943
+Low and Burbank's Grant	2051759	-71.3723182	44.3147688
+Osiedle Osobowice-Rędzin	2341615	16.9704424	51.1662406
+Vyselkovsky District	919005	39.8454998	45.6648229
+Villa General Belgrano	3595872	-58.3708448	-34.7009325
+Torbjörntorps distrikt	4491603	13.6089667	58.2073573
+Colonia Miguel Hidalgo	4681010	-97.3382145	20.4507208
+Nyzhni Sirohozy Raion	1753365	34.4684173	46.8932496
+Iznoskovsky District	305093	35.3550716	55.0361793
+Ust-Ishimsky District	1314123	71.1303185	57.8633807
+Vostochnoye Munozero	6229408	34.7963484	67.0218288
+Loteamento José Ferreira	4558939	-51.7347111	-17.8850012
+Setor Jardim Liberdade	4656879	-51.7086014	-17.8746108
+Stanford with Orleton	1875304	-2.4371266	52.2892120
+Wingrave with Rowsham	3759081	-0.7451159	51.8597974
+Erkilet Dere Mahallesi	7728512	35.4223558	38.7982586
+Cuesta Blanca de Arriba	3546827	-1.1043519	37.6432784
+Beckhausen-Schaffrath	54033	7.0301321	51.5616647
+Travattore Giandoménico	4230208	-60.8857400	-32.9076053
+Malá Skalice u Zbraslavic	434059	15.1482515	49.8212850
+Elias Motsoaledi Ward 3	3663494	29.1240216	-25.1301311
+Bay-Tayginsky Kozhuun	190555	89.6985859	51.0759752
+Osiedle Czaplinieckie	2401344	19.3556019	51.3739482
+Colonia Joya de Ceren II	6088769	-89.3609605	13.8168715
+Lic. Luis Echeverría Álvarez	3634437	-94.4250375	18.1383431
+Villa Colonia Italiana	5126879	-62.1788747	-33.3125125
+Villa General Belgrano	3919041	-64.5535162	-31.9711932
+Selvagem Grande Island	4862881	-15.8668607	30.1462541
+Tabladilla-La Estrella	5505629	-5.9801330	37.3648347
+Piazzetta Sant'Oronzo	6958290	17.5790479	40.7317904
+Sidi Hajjaj Oued Hassar	2522568	-7.4405929	33.5166531

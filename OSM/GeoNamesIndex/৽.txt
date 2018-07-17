@@ -1,0 +1,17 @@
+Departamento de San Vicente	3624468	-88.7398926	13.5272036
+Mesorregião do Leste Potiguar	5163857	-35.3228377	-5.8086339
+Landkreis Limburg-Weilburg	62585	8.2106603	50.4316878
+Ignalinos rajono savivaldybė	966363	26.3012699	55.4107053
+cercle de Daoura-El Hagounia	5197578	-12.4114750	27.3034937
+Mueang Nonthaburi District	2688300	100.4932086	13.8524617
+Municipio de Puerto San Julián	3439485	-67.7956828	-49.3030992
+Lac Katshiputiskamatunant	7674526	-61.3210937	50.3662400
+London Borough of Redbridge	65598	0.0697591	51.5863662
+Moyarta Electoral Division	6360145	-9.6757662	52.6256206
+Rosslee Electoral Division	6856276	-9.1679011	53.7569985
+Caddelstown (E.D. Drumcondra)	4726548	-6.6638943	53.8198128
+Chácaras Nossa Senhora das Graças	5418118	-44.1979160	-19.9445583
+Partido de General Viamonte	2559810	-61.0610080	-34.9787830
+Magnolia Park of Windermere	1758004	-81.5848559	28.4952164
+Municipio de Villa Trinidad	4206705	-61.9578825	-30.2271875
+Piazza Madonna della Salute	6289975	15.0980244	37.5233438

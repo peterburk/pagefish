@@ -1,0 +1,29 @@
+Departamento de Santa Ana	3624100	-89.5679522	14.1139099
+Saint-Pardoux-et-Vielvic	3245639	0.9637012	44.7686296
+Saint-Pardoux-l'Ortigier	2932357	1.5808816	45.2983351
+Tiquicheo de Nicolás Romero	5606508	-100.8171377	19.0710774
+Teococuilco de Marcos Pérez	6000175	-96.6723004	17.3185001
+Bosilegrad Municipality	2190386	22.3967294	42.4619273
+La Chapelle-Montabourlet	145352	0.4565375	45.3930987
+Santarcangelo di Romagna	42814	12.4433301	44.0497837
+gmina Kocierzew Południowy	1462125	20.0256988	52.2046474
+gmina Wielopole Skrzyńskie	3017415	21.5973980	49.9439358
+Microrregião de Chorozinho	5161598	-38.5062351	-4.4460000
+Middelfart Municipality	2178063	9.9369944	55.4470245
+Parroquia José Antonio Paez	2595472	-63.5429466	7.8289520
+Vilarinho da Castanheira	5716880	-7.2186150	41.1853556
+Castellfollit de Riubregós	344381	1.4335143	41.7668253
+Santa Maria das Barreiras	6291760	-50.0168042	-8.6941422
+Senador Georgino Avelino	6247878	-35.1217056	-6.1614661
+Senador Georgino Avelino	301072	-35.1217056	-6.1614661
+Velká Bukovina u Chvalkovic	426083	15.9419864	50.4225605
+Ersboda södra industriområde	6448884	20.3196456	63.8502720
+Aghalasty and Ankersland	4203134	-7.2077197	53.6750712
+Santa Maria das Barreiras	185600	-50.3924528	-8.6428488
+The Oaks at Lake Catherine	2049652	-81.3736145	28.6205768
+Parque Residencial Lopes	4815959	-53.8544511	-29.7017591
+Ligne Paradis-Besse Terre	1770513	55.4863471	-21.3234419
+Hasselbachplatzviertel	5887488	11.6314843	52.1211098
+Dover Green A Condominium	1994043	-81.3173292	28.5184947
+Talsperre Windischleuba	2819573	12.4670366	51.0388657
+Foro Vittorio Emanuele II	4094119	15.2919264	37.0596118

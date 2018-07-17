@@ -1,0 +1,5 @@
+Western Administrative Okrug	226149	37.4675396	55.7003490
+Unione dei comuni Savena-Idice	7211830	11.3941680	44.3312065
+San Martín de la Virgen de Moncayo	347430	-1.7971601	41.8328476
+Jardim Bispo Pedro Casaldaliga	7660822	-54.5615472	-16.4687065
+Pio Baroja plaza / Plaza Pío Baroja	2980323	-2.9259961	43.2640256

@@ -1,0 +1,40 @@
+Saint-Pierre-de-Salerne	3321262	0.6768708	49.2076992
+Maisoncelle-et-Villers	3284138	4.9219507	49.5876841
+Saint-Cirgues-de-Prades	120962	4.2751465	44.6213532
+Saint-Sauveur-Marville	2907002	1.2918423	48.6077353
+Saint-Avit-les-Guespières	233533	1.2664198	48.2671815
+Sainte-Colombe-sur-Gand	122472	4.2784597	45.8668054
+Montmelas-Saint-Sorlin	1125901	4.5968575	46.0200482
+San-Giovanni-di-Moriani	2331003	9.4599396	42.3713967
+Saint-Sébastien-sur-Loire	61051	-1.5016959	47.2066156
+Saint-Denis-de-Gastines	1124468	-0.8734350	48.3447569
+Saint-Pierre-des-Landes	1124928	-1.0302370	48.2890031
+Saint-Julien-des-Landes	169198	-1.7232816	46.6393243
+Châteauneuf-Villevieille	1386725	7.2915354	43.8007488
+La Torre de Esteban Hambrán	347633	-4.2161570	40.1676212
+Bocana Quebrada El Coyol	6716365	-89.7510100	13.5308247
+Santo Antão e São Julião do Tojal	6521240	-9.1467606	38.8619507
+U.F Anreade e São Romão de Arego	6438274	-7.9845537	41.0921700
+Saint-Donat-de-Montcalm	7707055	-74.2290520	46.3229140
+Isaiah Creek;Isaiah Lake	3879746	-82.6778138	47.6777754
+Novoselitsky District	1030124	43.4750026	44.7315275
+Los Robles de Horizonte	5742338	-64.2660827	-31.4049220
+Convento dell'Incontro	5759619	11.3783768	43.7521181
+Microrregião de Castanhal	4821600	-47.9413040	-1.4109385
+Drimhill or Quarryfarm	4621546	-7.5583196	53.0419974
+Annagh (Blessingbourne)	5490435	-7.3210490	54.3874727
+Residencial Cerejeiras	6771417	-48.9201795	-16.3159937
+Guilford or Davidstown	4168639	-7.3915661	53.3994399
+Stixwould and Woodhall	1849149	-0.2225991	53.1781288
+Ufford CP (Peterborough)	1608320	-0.3830060	52.6233301
+Stretton on Dunsmore CP	3549014	-1.3879882	52.3492626
+Bairro dos Professores	5543215	-42.6260237	-19.5206758
+Derrinkeher (Mc Donnell)	5523166	-7.8470516	54.0712006
+Nelson Mandela Bay Ward 5	3591556	25.6050668	-33.9398851
+Yellow Water Reservoir	4597685	-108.4860073	46.9044547
+Piazza Vittorio Veneto	2983362	8.7074056	45.6838022
+Piazza Vittorio Veneto	5540651	13.4512922	43.2990803
+Piazza Vittorio Veneto	3474537	9.6705590	45.6955377
+Piazza Vittorio Veneto	3614068	10.7590693	42.9232824
+Piazza Vittorio Veneto	2272717	16.2976962	38.2688597
+Piazza Vittorio Veneto	7382400	15.1323017	36.9088901

@@ -1,0 +1,27 @@
+Conflans-Sainte-Honorine	75461	2.0973523	49.0017355
+Palestinian Territories	1703814	35.2740677	31.9469772
+Saint-Germain-de-Calberte	287422	3.8124973	44.2261994
+Santiago Suchilquitongo	6000101	-96.9058766	17.2315835
+Municipio de San Salvador	6462027	-89.2085481	13.6893105
+Thesprotia Regional Unit	558499	20.3083553	39.5440123
+Municipality of Elefsina	2079232	23.5361559	38.0801043
+Zihlschlacht-Sitterdorf	1684575	9.2592691	47.5142061
+Halfway Lake;Woosey Creek	1467201	-100.3058061	54.7257101
+Ferguson Creek Reservoir	2132101	-94.6965265	32.4397028
+Boston Lake;Terrier Creek	5260962	-87.0640281	50.5319734
+Kusawa Lake;Takhini River	6780405	-136.3441508	60.3587498
+Apanasenkovsky District	1029994	43.5155737	45.8857256
+Quartier de la Goutte-d'Or	2195145	2.3560402	48.8926762
+Ollersdorf im Burgenland	109783	16.1557928	47.1880268
+Municipio de San Salvador	2858482	-58.4858782	-31.6213887
+Bezirksteil Josephsburg	5428612	11.6417553	48.1282104
+Balnamona or Charlestown	4111728	-7.3798965	53.5121696
+Derrynagall or Ballydaly	4181026	-7.4683610	53.2922921
+Residencial Cidade Jardim	3022904	-48.1885432	-21.7407610
+Popovice u Dolního Bukovska	433122	14.5652516	49.1576117
+Fort Riley-Camp Whiteside	130299	-96.7739175	39.0811850
+Zuffenhausen-Hohenstein	1107923	9.1718445	48.8272236
+Le Moulin de la Meilleraie	4451583	-1.3381259	47.5359074
+Piazza Palmiro Togliatti	1706228	13.2975331	43.2152850
+Place al-Massira al-Khadra	5406889	-9.3679559	30.2151830
+Piazza Palmiro Togliatti	311812	11.1852445	43.7567735

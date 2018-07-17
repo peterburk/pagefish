@@ -1,0 +1,29 @@
+Fresneaux-Montchevreuil	532306	2.0132080	49.2907450
+Saint-Michel-de-Villadeix	3218631	0.7308701	44.9941818
+Saint-Michel-de-Montaigne	1647420	0.0272505	44.8802006
+Paizay-Naudouin-Embourie	396756	0.0089755	46.0317826
+Saint-Hilaire-de-Brethmas	76082	4.1220294	44.0940194
+Saint-Hilaire-la-Gravelle	278953	1.1799387	47.9305838
+Saint Pierre and Miquelon	3406826	-56.3934610	46.9568927
+Apokoronos Municipality	2187315	24.1594799	35.3624970
+Buchholz in der Nordheide	111406	9.8485466	53.3116094
+Villafranca de los Barros	340305	-6.3353825	38.5844649
+Neuhausen auf den Fildern	2796537	9.2783247	48.6800464
+Barrage Al Mansour Ad Dahbi	1431015	-6.8389675	30.9254379
+Vila Cova de Alva e Anseriz	6549086	-7.9405257	40.2727640
+Kupnovychi Rural Council	2829587	23.3168253	49.6463424
+Nyklovychi Rural Council	2829572	23.4123679	49.7237577
+Stankivtsi Rural Council	2525935	24.1617787	49.4368843
+Zhostovskiy kar'yer Pond	2176080	37.6327984	56.0061398
+Pospelikhinsky District	1100153	81.8697089	51.8730110
+Chervonokostiantynivka	4666450	33.2115154	48.2200191
+Springfield or Knockkyle	4541285	-7.4828624	52.9073009
+Michelmersh and Timsbury	3906064	-1.5063148	51.0290253
+Corhampton and Meonstoke	1588737	-1.1051350	50.9722764
+Khasynsky Urban District	1922208	151.9745341	60.9603030
+Sector Cerro Los Martinez	5844760	-86.3188494	12.1555305
+Municipio de El Sauzalito	1660162	-61.5951016	-24.6784741
+Viale della Costituzione	4728473	14.2800882	40.8568375
+Viale della Costituzione	4722583	14.2776190	40.8565914
+Viale della Costituzione	4728798	14.2840897	40.8571694
+Si Hsaien Ben Abderrahmane	2806102	-8.1558868	33.0992227

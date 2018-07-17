@@ -1,0 +1,6 @@
+Municipio de General Fernández Oro	4767505	-67.9183497	-38.9638206
+Municipio Santiago de Andamarca	4495027	-67.4047281	-18.8402320
+Glennamaddy Electoral Division	6831523	-8.5354109	53.6011621
+Residencial Colinas do Laranjal	7851133	-47.8332396	-23.0640872
+Unidad Residencial Los Cipreses	6645284	-76.4987681	3.4969990
+sołectwo Gniewniewice Folwarczne	5343984	20.5282284	52.4094818

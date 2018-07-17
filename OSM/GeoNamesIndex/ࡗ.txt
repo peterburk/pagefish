@@ -1,0 +1,44 @@
+Villers-sous-Saint-Leu	1415887	2.3867836	49.2184514
+Larceveau-Arros-Cibits	1404343	-1.0992792	43.2248671
+Massillargues-Attuech	76010	4.0195893	44.0163408
+Chantenay-Saint-Imbert	157279	3.1696010	46.7393196
+Khashuri Municipality	2025546	43.6255311	42.0229092
+pachalik Moulay Yacoub	4807569	-5.1783288	34.0883318
+Regional Unit of Ikaria	5305896	26.2693258	37.5881639
+Constancia del Rosario	5999546	-97.9599559	17.0464905
+Regional Unit of Euboea	557549	23.8067553	38.4844440
+West Kazakhstan Region	215441	51.4747095	49.8481680
+San Giuliano del Sannio	41308	14.6180517	41.4619103
+Granja de Torrehermosa	341683	-5.6127235	38.3255417
+Castilleja de la Cuesta	346152	-6.0552092	37.3847104
+Morgan Falls Reservoir	115236	-84.3763188	33.9863705
+Remlingen-Semmenstedt	6680396	10.6597974	52.1069885
+Copper Basin Reservoir	1078940	-114.2282493	34.2870241
+Leopoldskroner Weiher	60743	13.0384529	47.7856241
+Santo António de Monforte	4193779	-7.3806098	41.7941995
+Ullíbarri-Viña/Uribarri-Dibiña	6412091	-2.7796396	42.8936930
+Castilleja de la Cuesta	1047001	-6.0531909	37.3882831
+Vista Hermosa de Madero	4609834	-97.4323146	20.3688759
+Townparks 3rd Division	4178945	-8.8468417	53.5138774
+Jardim das Américas 1 Etapa	7002998	-48.9511783	-16.2901309
+Nossa Senhora da Salete	7399482	-49.3381276	-28.6881273
+Esplanada do Aeroporto	7825389	-43.8403527	-16.7130683
+Nuestra Señora de Lourdes	3565098	-60.6615329	-32.9481859
+Marlingford and Colton	1022402	1.1258910	52.6370460
+Nossa Senhora da Salete	3416877	-51.0056292	-26.7616370
+Cooperativa Sayhueque	3207522	-68.1502590	-38.8221334
+Broumov u Zadního Chodova	424459	12.5782275	49.8915558
+Elias Motsoaledi Ward 28	3663492	29.5610252	-25.0684497
+Elias Motsoaledi Ward 19	3663482	29.7146064	-25.0675096
+Rushwee (E.D. Stackallan)	4644021	-6.6027654	53.7040807
+Lake Murray of Richland	194721	-81.2619144	34.1209185
+Kobuleti Municipality	2009239	41.9472953	41.7617892
+Lichtetal am Rennsteig	1273247	11.1937814	50.5352520
+Sant Esteve de Guialbes	5357088	2.8774430	42.1149318
+Sector Norte El Mirador	5867192	-86.2438809	12.0986099
+Fenglongwan Reservoir	2191339	103.3391035	25.4834548
+Conjunto Las Veraneras	6823958	-76.5045837	3.4934819
+Distrito Real del Padre	3006743	-67.7935138	-34.7908958
+Provincia Franz Tamayo	4496914	-68.3917808	-14.5891596
+Mare Street (Narrow Way)	5543355	-0.0545717	51.5476973
+Lucie-Flechtmann-Platz	3362339	8.7968904	53.0740394

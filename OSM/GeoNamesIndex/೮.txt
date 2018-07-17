@@ -1,0 +1,4 @@
+Arrondissement Grande-Rivière-Du-Nord	394488	-72.1482477	19.5038373
+Welsberg-Taisten - Monguelfo-Tesido	47312	12.1189217	46.7811446
+"Terrenos denominados ""Cuespalapa"""	5595089	-97.2073850	20.2105121
+Verwaltungsgemeinschaft Wiesloch	2973472	8.7267263	49.2947507

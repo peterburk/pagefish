@@ -1,0 +1,50 @@
+Saint-Julien-le-Faucon	280254	0.0804249	49.0663868
+Doudeauville-en-Vexin	1225197	1.5975348	49.3248526
+Jussecourt-Minecourt	2725668	4.7784116	48.7928325
+District of Prizren (04)	6898227	20.6850641	42.2331281
+Saint-Germain-du-Pinel	145433	-1.1754600	48.0027801
+Saint-Amand-en-Puisaye	161730	3.0790095	47.5477847
+Saint-Pierre-de-Fursac	120456	1.4933442	46.1665463
+Saint-Priest-la-Marche	1374214	2.1830306	46.4513901
+Saint-Hilaire-de-Court	197899	2.0087209	47.2048544
+Saint-Germain-d'Anxure	1124929	-0.7383548	48.2231573
+Territoire-de-Belfort	7410	6.8993011	47.6292309
+Saint-Pierre-du-Chemin	167237	-0.7069232	46.6968534
+Puygaillard-de-Quercy	135880	1.6328822	44.0326569
+Peterswald-Löffelscheid	1269724	7.2925983	50.0092253
+Kecamatan Bangun Purba	7834503	100.1797907	0.9131089
+Inkhundla Maphalaleni	1253047	31.3661319	-26.2018400
+San Cristóbal de La Laguna	345393	-16.3051373	28.5055717
+Varkauden seutukunta	6442834	27.9354849	62.4268674
+gmina Janowiec Kościelny	2986196	20.5200030	53.2813152
+Microrregião de Batatais	4793473	-47.3309698	-21.0741799
+Tampereen seutukunta	6440429	23.7959434	61.6823261
+San Cristóbal de Entreviñas	342531	-5.6403382	42.0476883
+White Sulphur Springs	239927	-80.2964686	37.7923519
+Além da Ribeira e Pedreira	6483072	-8.4189607	39.6547229
+Valljeguragierratjávri	7246474	23.8291400	69.5130678
+Municipio Villa Abecia	4509411	-65.3150137	-20.9820069
+Upper Oxford Township	3059436	-75.9597756	39.8414251
+Ampliación Poeta Lugones	5293574	-64.2225526	-31.3581158
+Khomutovsky District	1645652	34.6631707	51.8755553
+Solteros de Juan Rosas	4643954	-97.2025615	20.3365556
+White Sulphur Springs	142541	-110.9055829	46.5433584
+Departamento Guaymallén	2204159	-68.7492675	-32.9007833
+Carrigeendavoe Island	6762017	-9.3380599	53.5967594
+Aranyhegy-Ürömhegy-Péterhegy	6483944	19.0207364	47.5793008
+Jardim Todos os Santos	7611497	-49.0919716	-16.7053757
+Mollafenari Mahallesi	6167284	29.0575779	40.1739897
+Parque dos Servidores	2186444	-47.1811052	-22.7857472
+STKRJ Mata-Mata Kawasan 3	7425206	114.8745847	4.8956834
+Conjunto Capitão Eduardo	3408758	-43.8680093	-19.8298764
+Vila Senhor dos Passos	3409126	-43.9485858	-19.9060282
+Warslow and Elkstones	6036194	-1.8920999	53.1273930
+Jablonec u Českého Krumlova	423668	14.0641845	48.8419685
+Bítouchov u Mladé Boleslavi	426620	14.8898625	50.4824597
+Village Monte Prince II	7837538	-38.5366272	-3.8301095
+Residencial San Felipe	3921656	-77.0529351	-12.0873223
+Castelleno - Disdiroli	2231906	9.5290190	45.8409021
+La Trinidad (Municipio)	5729176	-86.2035840	13.0107966
+Departamento Chical Co	2662558	-67.6892856	-36.4201614
+Unterneukirchen (VGem)	2981750	12.6484535	48.1781598
+Municipio de Pozo Azul	7753139	-54.0505965	-26.3435753

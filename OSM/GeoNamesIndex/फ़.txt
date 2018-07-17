@@ -1,0 +1,19 @@
+Saint-Denis-de-Villenette	2574452	-0.5454834	48.5106830
+Saint-Agnant-de-Versillat	120279	1.4995195	46.2850212
+Cuartel Chacras de Bragado	6597893	-60.5300793	-35.1348877
+Microrregião Wenceslau Braz	4761142	-49.7834385	-23.6941638
+Novhorod-Siverskyi Raion	1753455	33.1616132	52.0912535
+Salvatierra de los Barros	344107	-6.6842711	38.5026013
+Danford Creek;Danford Lake	5130794	-86.9899717	50.1519073
+Blanchardstown-Delwood ED	5149361	-6.3929963	53.3818734
+Pokhvistnevsky District	1332843	51.9051708	53.7017577
+Gemeinde Au am Leithaberge	570938	16.5669011	47.9181697
+Spotsylvania Courthouse	207073	-77.5859857	38.1969509
+Fraccionamiento de Fray Juán	4102568	-100.3959044	20.5811659
+Ware Housing Scheme Block 2	3682209	77.1381984	28.6413861
+Boxwell with Leighterton	6065256	-2.2544312	51.6236096
+Área Metropolitana de Lisboa	5404272	-8.9296887	38.6272780
+José Antonio y José Mario Cabral	5255775	-64.3411777	-33.0959591
+Sector Oeste Avenida Bolívar	5853738	-86.2761359	12.1257069
+Zhovti Vody Municipality	3313679	33.5001627	48.3615943
+Municipio de Nuevo Torino	4122271	-61.2595396	-31.3295941

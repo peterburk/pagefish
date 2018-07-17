@@ -1,0 +1,51 @@
+District of Chandigarh	1942816	76.7705033	30.7351539
+Saint-Ouen-sous-Bailly	3019518	1.3001486	49.9050682
+Séranvillers-Forenville	55838	3.2727852	50.1294834
+Saint-Didier-de-la-Tour	184417	5.4859477	45.5444541
+Cadillac-en-Fronsadais	102562	-0.3743023	44.9615063
+Autréville-Saint-Lambert	919946	5.1355375	49.5643318
+Indragiri Hulu Regency	7830589	102.3008273	-0.4922839
+Leidschendam-Voorburg	444355	4.4321249	52.0926010
+Sidi Khouiled District	6822184	5.6822798	31.9807461
+Karditsa Regional Unit	554400	21.8269705	39.2904880
+Santa Maria della Versa	43898	9.3150858	44.9858514
+Castiglione Cosentino	39914	16.2874116	39.3631137
+La Bourdinière-Saint-Loup	2161774	1.4256586	48.3182020
+Ventimiglia di Sicilia	39406	13.5202912	37.9835706
+Berbenno di Valtellina	46952	9.7379005	46.1986384
+Albalate del Arzobispo	345060	-0.5725806	41.1241984
+Cubillas de Santa Marta	345102	-4.6036778	41.8188401
+Manicouagan Reservoir	2793577	-68.2959571	51.3707354
+Kalinkavichy District	70814	29.3670191	52.1943299
+Vinkeveensche Plassen	1357687	4.9651402	52.2282792
+Lac des Bouleaux Blancs	920347	-78.7663296	47.1310325
+First Connecticut Lake	3114893	-71.2476261	45.0935161
+Lagoa de Fora/Saquarema	2319758	-42.4990186	-22.9206991
+Gilgenberg am Weilhart	449518	12.9312044	48.1416742
+San Isidro de El General	7369456	-83.7302501	9.3399832
+Applewhite Cut-Off Lake	2460303	-94.3578833	33.5467050
+Lac de la Cabane du Large	1937120	-67.8090270	49.4837419
+Khaschiv Rural Council	2588215	22.7723227	49.2793023
+Castlereagh Reservoir	2655094	80.5866142	6.8580124
+Kleiner Parsteiner See	2659730	13.9823490	52.9607859
+Skiffes Creek Resevoir	5393881	-76.5939455	37.2098022
+Little Whiteshell Lake	6640613	-95.3498183	50.0248656
+Reichenbach an der Fils	2792737	9.4682829	48.7152567
+Santa Rita de Ibitipoca	315239	-43.9410000	-21.5895001
+Zona XXXIV Casal Palocco	5362385	12.3337860	41.7541798
+Mega Madryn Industrial	4679505	-65.1222366	-42.7293128
+Santa Rita de Brejetuba	1905442	-41.2641615	-20.1008151
+Erlenbach im Simmental	1682433	7.5397293	46.6561114
+Glencolumbkille North	4667074	-9.0038550	53.0487796
+Gortnahorna Clancarty	5581279	-8.2578547	53.2878162
+Vendôme-Quartiers Centre	1972944	1.0674134	47.7942786
+Municipio de Malabrigo	4271461	-59.9131058	-29.3192197
+Sagarejo Municipality	2027335	45.4149115	41.6758419
+Vita Toscana Crown Asia	2446013	120.9601213	14.4321802
+Malekhiv Rural Council	2529552	24.0722442	49.8875678
+Sankt Martin-Karlsbach	127139	15.0223786	48.1653994
+Villanueva del Río Segura	345589	-1.3291129	38.1014016
+Municipio de Esmeralda	4142185	-61.9875042	-31.6322221
+Via Don Giuseppe Carugo	2137336	9.3714541	45.5311958
+Zone Piétonne Parc Sisley	2114617	4.8670244	45.7518685
+Place Charles-de-Gaulle	2505401	3.0621523	45.7745423

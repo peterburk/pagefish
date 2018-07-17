@@ -1,0 +1,52 @@
+Abbeville-Saint-Lucien	963662	2.1670372	49.5199565
+Saint-Martin-du-Vivier	139026	1.1604014	49.4719949
+Fraignot-et-Vesvrotte	149991	4.9369577	47.6504388
+Saint-Denis-sur-Huisne	2596928	0.5320868	48.4706410
+La Tour-Blanche-Cercles	6837671	0.4575176	45.3689280
+Montacher-Villegardin	1278097	3.0360447	48.1650408
+Pouilly-sous-Charlieu	135923	4.1328335	46.1346386
+Saint-Sauveur-de-Peyre	111917	3.2943675	44.6520941
+Municipio de Conchagua	6560289	-87.8712881	13.2841843
+San Marcial Ozolotepec	5999844	-96.4041965	16.0322597
+San Pedro Mártir Yucuxaco	5999928	-97.6485910	17.4520833
+Ksar El Hirane District	6810403	3.0421425	33.5291536
+La Chapelle-Montmoreau	145363	0.6431534	45.4484785
+Driebergen-Rijsenburg	47449	5.2755691	52.0474812
+Parroquia Andres Bello	2837631	-70.7527377	8.3682433
+Stonewall Jackson Lake	3979095	-80.4940106	38.9315029
+Weißenstadter Forst-Nord	1022885	11.8581525	50.1244023
+Campina do Monte Alegre	298294	-48.4366859	-23.6126521
+Les Coteaux Périgourdins	6837674	1.3710585	45.0920159
+North Wejinabikun Lake	4101369	-84.5809523	48.7065907
+Mae Na Ruea Subdistrict	3427228	99.8277850	19.0830500
+Tha Champi Subdistrict	3427233	99.8005524	19.2469751
+Ghaji-Shevchenkivsjki	3166824	25.6281774	49.5929663
+Quartier du Père-Lachaise	2195118	2.3953232	48.8636995
+Santa Maria da Boa Vista	6205888	-39.8727981	-8.7784542
+Hohendorf (bei Wolgast)	1432370	13.6975072	54.0351168
+Campina do Monte Alegre	5683070	-48.4354093	-23.6200690
+Gemarkung Hohenraunau	1386027	10.3581900	48.2130790
+Santa Maria da Boa Vista	303698	-39.8792768	-8.7013330
+Bezirksteil Altaubing	66803	11.4014933	48.1657357
+Residencial das Brisas	4557586	-51.7455797	-17.8967709
+Milton-under-Wychwood	4266243	-1.6270650	51.8537369
+Theddlethorpe St Helen	660821	0.2231586	53.3646223
+Kidderminster Foreign	1875242	-2.3013989	52.4024221
+Ballywindelland Lower	4523027	-6.5946166	55.0906595
+Ballywindelland Lower	4464508	-6.5891013	55.0836110
+Estelita Coelho Marins	1887683	-41.1334487	-20.8463303
+Rolling Hills Addition	3998281	-103.8163190	44.4730772
+Loteamento Monfardini	4033847	-53.7323752	-29.6961982
+Bowen Place Apartments	2067972	-81.3066026	28.5195812
+Fengjiashan Reservoir	1911878	107.1993749	34.5853550
+Niedersonthofener See	138787	10.2706819	47.6361842
+Distrito Las Barrancas	2959642	-68.6748961	-33.0850385
+Plaza Gonzales Arratia	4863933	-99.6577980	19.2911281
+Piazza Brigata Sassari	6576535	9.1760921	39.3768881
+Igreja da Santa Beatriz	6508461	-27.2243935	38.7903253
+Piazza Gnecchi Ruscone	2320610	9.4389219	45.6694231
+Piazza Mario Cermenati	7448671	9.3885434	45.8558383
+Barbadillo de Herreros	343863	-3.1455331	42.1859289
+Kanda-Kitamorimonocho	3548466	139.7739003	35.6924684
+Royal Exchange Ward (1849)	5535904	-6.2613690	53.3419005
+Skirno ež. / Skirnas ezers	3497956	26.5635418	55.6765213

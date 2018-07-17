@@ -1,0 +1,12 @@
+Sant'Egidio del Monte Albino	40717	14.5930219	40.7408512
+La Villeneuve-lès-Charleville	2742510	3.7033094	48.7976474
+Vilnius city municipality	968952	25.3221043	54.7009373
+Plan d'eau de la Grange du Pin	1915314	5.3560688	46.3033385
+Kiesgrube Kleinsaubernitz	2973310	14.6090217	51.2659448
+Parroquia No Urbana Guiripa	3500924	-67.0299564	10.0381629
+Kilgoly Electoral Division	4573095	-8.6779780	54.7380553
+Tiaquin Electoral Division	6728132	-8.6598192	53.3623970
+Athenry Electoral Division	6326073	-8.7275188	53.2971145
+Madison Belmont Apartments	1754669	-122.2788594	37.5245746
+Clarkston Heights-Vineland	237588	-117.0823982	46.3889129
+Kummersdorf-Alexanderdorf	4657771	13.3350531	52.1680793

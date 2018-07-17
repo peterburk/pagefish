@@ -1,0 +1,27 @@
+Villeneuve-Saint-Germain	73984	3.3659949	49.3813039
+Saint-Aignan-de-Cramesnil	280130	-0.2833716	49.0806768
+Saint-Rémy-de-Chaudes-Aigues	2073500	3.0229967	44.7682385
+Druzhkivka Municipality	2900259	37.4708555	48.5996051
+La Chapelle-sous-Brancion	3231379	4.7884175	46.5533282
+caïdat de Sidi Abdellah Ghiat	5377927	-7.8332957	31.5106075
+Upravna Enota Grosupllje	4184370	14.7056611	45.8708994
+Vale do Seixo e Vila Garcia	6372251	-7.2526319	40.7941182
+Potash Evaporation Ponds	4784244	-109.6841844	38.4732943
+Municipio Belén de Andamarca	4495026	-67.7631498	-18.8817181
+Tilley Creek;Tilley Lakes	3573470	-84.3875836	46.9995368
+Adelaide Lake;Eldred Creek	3584942	-84.3265914	47.0655277
+Adelaide Lake;Eldred Creek	3585671	-84.3031383	47.0565280
+Adelaide Lake;Eldred Creek	3584943	-84.2991373	47.0659875
+Zapadnodvinsky District	910735	31.8429417	56.1006887
+Sankt Georgen im Attergau	103012	13.4840121	47.9288902
+Ketchenerovsky District	938662	45.0628419	47.1663958
+Residencial Alice Barbosa	6163653	-49.2703817	-16.5955583
+Haunstetten-Siebenbrunn	3649737	10.9161210	48.3004442
+Coneythorpe and Clareton	7665031	-1.3972964	54.0282467
+Petite Hollande-Sud Ouest	3548312	6.7920880	47.5003939
+Redenhall with Harleston	1022346	1.3109994	52.4205825
+Killachonna (Castlemaine)	4177470	-7.7540789	53.4124747
+The Villages at Woodholme	2709350	-76.7654932	39.3811039
+Rzepiennik Marciszewski	6105021	21.0114111	49.8290817
+Piazza Vittorio Emanuele	2263844	13.3423271	41.7772903
+Piazza Vittorio Emanuele	6723244	9.1903901	41.2422360

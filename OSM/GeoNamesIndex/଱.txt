@@ -1,0 +1,13 @@
+Microrregião do Agreste Potiguar	5168922	-35.5636927	-6.1200689
+Mogale City Local Municipality	599228	27.6870265	-26.0037450
+Laingsburg Local Municipality	79808	20.9372865	-33.0155851
+Kleiner Teich Kleinsaubernitz	2973386	14.6142048	51.2748943
+Swanlinbar Electoral Division	6883349	-7.7018865	54.1865171
+Kiltullagh Electoral Division	6792600	-8.7009323	53.6909041
+Kiltullagh Electoral Division	6715105	-8.6599669	53.2742966
+Creeslough Electoral Division	6954626	-7.9207886	55.1049083
+Killererin Electoral Division	6740590	-8.7837919	53.4836952
+Cadamstown Electoral Division	4478568	-6.9009842	53.4061927
+Kiltullagh Electoral Division	6804574	-8.5507444	53.5730387
+Sector Sur Comarca Jocote Dulce	5865353	-86.2674416	12.0784296
+Piazzale Principessa Clotilde	4777471	9.1925833	45.4799734

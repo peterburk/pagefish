@@ -1,0 +1,10 @@
+Microrregião de Franco da Rocha	4810153	-46.6268517	-23.3280970
+Teilstaubecken Reichendorf	5189444	14.7839473	51.2605570
+Moccasin Creek;Moccasin Lake	3924049	-80.0698223	47.4787392
+Lougheed Creek;Lougheed Lake	4041945	-82.7710232	48.4918894
+Ottendorf an der Rittschein	36851	15.9082890	47.0561804
+Commune Petit Trou de Nippes	391375	-73.4742204	18.4533520
+Gemeinde Kirchberg am Wagram	108218	15.8854850	48.4102369
+Gazimuro-Zavodsky District	1846001	119.8638686	52.2660378
+Residencial Albert Einstein	6807804	-89.2308982	13.6721955
+El Fedjoudj Boughrara Saoudi	4471633	6.7930573	35.7737882

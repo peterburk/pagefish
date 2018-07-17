@@ -1,0 +1,4 @@
+Gemeinde Furth an der Triesting	111445	15.9470837	47.9644363
+Sankt Marienkirchen bei Schärding	984996	13.4529365	48.3752503
+Little Eccleston-with-Larbreck	7594872	-2.9088915	53.8538022
+Pennsylvania Avenue Northwest	4639175	-77.0365462	38.8987388

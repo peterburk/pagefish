@@ -1,0 +1,49 @@
+Saint-Pol-sur-Ternoise	1232837	2.3508017	50.3876325
+Criquetot-sur-Ouville	3016772	0.8508817	49.6707304
+Saint-Valery-sur-Somme	400118	1.6231122	50.1741796
+Laroche-Saint-Cydroine	298996	3.4701404	47.9742901
+Southern Transdanubia	22785	17.9739507	46.3670205
+Zarrentin am Schaalsee	1451545	10.9694135	53.5840681
+South Lower California	2589611	-111.5615569	25.4360797
+La Villeneuve-au-Châtelot	2995384	3.6060731	48.5523873
+Gentofte Municipality	2182231	12.5460953	55.7506353
+Weilheim in Oberbayern	936925	11.1520086	47.8427946
+San Bartolomeo in Galdo	41266	15.0352624	41.4260850
+Hinojosa de San Vicente	343763	-4.7428925	40.1110911
+Radekhivskyi District	1749228	24.7074203	50.2638053
+Babushkinsky District	1252465	37.6631843	55.8670933
+Elliot Creek Reservoir	2460535	-94.2650276	33.3892971
+Sande (São Lourenço) e Balazar	4112845	-8.3662087	41.5058412
+Embalse de la Fuensanta	6320401	-2.2334687	38.3765383
+Beaver Creek;Union Pond	2404107	-81.1904098	42.7063337
+Babushkinsky District	1327499	43.7205151	59.6518717
+Zawadzkiego-Klonowica	2873626	14.4979532	53.4549003
+Quartier Saint-Fargeau	2195111	2.4067341	48.8703623
+Itatiaia do Alto Bonito	5917080	-40.0005685	-11.4763174
+Montaubion-Chardonney	1685057	6.7142576	46.6456922
+Brejinho das Ametistas	4735265	-42.5140264	-14.2868644
+Leciñana del Camino/Leziñana	7411904	-2.9875569	42.7411235
+Zona XXIII Castel di Leva	5358657	12.5451425	41.7498371
+Partido de Mar Chiquita	2621605	-57.6094967	-37.5169007
+Garrynancoonagh South	5342091	-8.6337788	52.3488448
+Creggan and Glosterboy	4147297	-7.8736497	53.2279773
+Ballymore Eustace West	4597438	-6.6264535	53.1309665
+Bezirksteil Neuhausen	66787	11.5271980	48.1558003
+Ward 64 Dattatreya Nagar	7857546	78.4524823	17.3760129
+Stanstead St Margarets	3580037	-0.0079096	51.7807379
+Elias Motsoaledi Ward 25	3663489	29.5116769	-25.0002151
+Elias Motsoaledi Ward 16	3663479	29.8013416	-25.1770537
+Cloonascarberry North	5389725	-8.3697448	53.5117362
+Grand Prairie Township	7461670	-83.1307787	40.6735240
+Municipio de San Genaro	4090421	-61.2788601	-32.3526050
+Santo Antônio do Leverger	333729	-55.2640379	-16.4875001
+Greater Upper Marlboro	133803	-76.7417287	38.8340421
+Vipin Garden Extension	3728603	77.0263177	28.6268796
+The Coach Homes at Errol	2051219	-81.5287275	28.6975072
+William O'Dwyer Gardens	5901026	-73.9994008	40.5737736
+Riverside Park Estates	2090648	-81.4191295	28.6206743
+Municipio de Las Palmas	1634586	-58.6323154	-27.0582170
+Municipio Tres Capones	3178833	-55.6076979	-28.0037045
+Plazoleta del Fundador	5344961	-64.1855061	-31.4165209
+Place du Marché aux Fleurs	6455414	3.8776474	43.6114069
+Xiangshuiba Reservoir	6666117	103.8593055	25.1952777

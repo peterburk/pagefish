@@ -1,0 +1,12 @@
+Saint-Georges-de-Commiers	227227	5.7194173	45.0357949
+Saint-Lambert-la-Potherie	178357	-0.6910280	47.4871562
+Landkreis Lüchow-Dannenberg	62662	11.1753164	53.0475772
+Pachalik de Boumalne Dades	5154601	-5.9545016	31.3581670
+Municipality of Bosilovo	2589323	22.7753815	41.4815118
+Abu Basma Regional Council	1376830	34.9742734	31.2530540
+Gemeinde Bad Fischau-Brunn	110480	16.1629589	47.8302844
+Osiedle Gądów-Popowice Południowe	2341611	16.9725277	51.1238748
+Drozhzhanovsky District	367118	47.4940565	54.7016851
+Novovarshavsky District	1314129	74.5202604	54.0378216
+Ordzhonikidzevsky Rayon	190928	89.4328063	54.8599171
+Municipio de Puerto Piray	3207696	-54.3800155	-26.5771940

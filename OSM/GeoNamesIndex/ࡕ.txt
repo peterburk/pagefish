@@ -1,0 +1,42 @@
+Charbonnières-les-Sapins	1274121	6.2071080	47.1523534
+Castelnau-d'Estrétefonds	150929	1.3607354	43.7955948
+Essertines-en-Châtelneuf	1048773	4.0008636	45.6205157
+Montpezat-sous-Bauzon	1698094	4.1986720	44.7211615
+Saint-Léger-de-la-Martinière	154170	-0.1178239	46.2420701
+Marcillac-la-Croisille	2944639	2.0361832	45.2503375
+Marneuli Municipality	1997312	44.8913795	41.3713255
+Dhaïa Ben Dhahoua District	6823963	3.3483648	32.6599066
+Venda Nova do Imigrante	1840859	-41.1462081	-20.3714223
+Sant'Eusanio Forconese	49124	13.5153998	42.2836401
+Visaltia Municipality	2346619	23.5858822	40.8957648
+Castello di Serravalle	6598598	11.0386094	44.4321039
+La Chapelle-Saint-Ursin	191479	2.3155698	47.0546073
+Fuente de Pedro Naharro	347717	-3.0426644	39.9265105
+Roskilde Municipality	2180326	12.0811615	55.6484895
+Parroquia Las Cocuizas	2653218	-63.1236073	9.7676134
+Presidencia de la Plaza	1618680	-59.8541403	-27.0021763
+Myklashi Rural Council	6569245	26.3339968	49.9448505
+Cornet Creek;Tenor Lake	3890265	-83.5567462	47.5817933
+Venda Nova do Imigrante	1903978	-41.1298930	-20.3714782
+Commune de Biscuiterie	4596980	-17.4502145	14.7117296
+Mellrichstadter Forst	1066099	10.1978029	50.5171498
+Gormanstown (Phillips)	6036563	-8.5059482	52.4420072
+Ballyoughteragh South	4286296	-10.4558454	52.1797643
+Edlaston and Wyaston CP	4095594	-1.7337211	52.9820841
+Elias Motsoaledi Ward 26	3663490	29.4716702	-25.0443586
+Elias Motsoaledi Ward 17	3663480	29.5062233	-25.0354305
+Şıh Hayati Harrani Mahallesi	5419241	39.0298474	36.8705506
+Huzurevleri Mahallesi	5488118	40.1931997	37.9414616
+Painted Rock Reservoir	1078717	-113.0043930	33.0623653
+Leaping Well Reservoir	3146456	-72.5601580	42.2318675
+Vila Unidos Venceremos	6878381	-38.4315143	-12.8957431
+Dixie Grove Apartments	1996818	-81.3341022	28.5201319
+Celestino Subdivision	1556751	120.9764742	14.4260716
+Quintas de Santa Isabel	7734973	-75.6805023	4.8361762
+San Gregorio de Polanco	3605805	-55.8270585	-32.6055625
+Distrito Los Barriales	2950791	-68.5736153	-33.0891034
+Saxilby with Ingleby CP	1891528	-0.6557070	53.2719502
+Melina Merkouri Square	3622484	23.6387962	37.9382252
+Raoul Wallenbergs Torg	3862769	18.0757122	59.3321625
+Piazza Pietro Annigoni	2465169	11.2680543	43.7706935
+San Juan de la Encinilla	344323	-4.8388975	40.8203943

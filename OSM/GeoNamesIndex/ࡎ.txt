@@ -1,0 +1,53 @@
+Criquebeuf-la-Campagne	1029020	1.0002291	49.2001836
+Villers-Saint-Barthélemy	1900605	1.9543601	49.4044981
+Auberville-la-Campagne	107267	0.5921403	49.5376854
+Saint-Gilles-Vieux-Marché	452477	-2.9769503	48.2482190
+Saint-Priest-sous-Aixe	117218	1.0816334	45.8227553
+Scherpenheuvel-Zichem	1161890	4.9605828	50.9996580
+San Bartolo Soyaltepec	5999711	-97.3119437	17.5770692
+Komo-Mondah Department	2804108	9.3412721	-0.0665461
+Inkhundla Dvokodvweni	1253054	31.7479153	-26.4239651
+Castel San Pietro Terme	43086	11.5574821	44.3961354
+Nakhon Pathom Province	1908788	100.1130057	13.9136352
+Elassona Municipality	2246176	22.1163128	39.9235472
+Chesterfield Township	574444	-82.8075730	42.6756120
+Les Avanchers-Valmorel	128254	6.4467087	45.4631242
+Piggott Creek;Tate Lake	3935744	-81.6665951	47.5861248
+Conceição e Cabanas de Tavira	6431740	-7.5971155	37.1975492
+U.F Ferreirim e Macieira	6427349	-7.4873715	40.9696700
+Chesterfield Township	963151	-74.6515712	40.1121150
+Meridian Lake;Ord River	3490017	-93.0680314	50.0535164
+Hongguang Subdistrict	7424426	117.3383719	31.8552624
+Stariava Rural Council	2593529	22.7224529	49.5092708
+Counsell Creek;May Lake	2423206	-101.0038314	56.6912327
+Oggau am Neusiedler See	78751	16.6961459	47.8467852
+Lyon 9e Arrondissement	120966	4.8021668	45.7835047
+Chebarkulsky District	398414	60.4948434	54.8380285
+Borshchiv City Council	2697556	26.0414562	48.8025474
+Parque das Amendoeiras	6155952	-49.1907148	-16.6560456
+Residencial Boa Esperança	7611223	-49.1071211	-16.6696459
+Kilkenny Lanesborough	3363027	-7.8272732	53.4818819
+Residencial Boa Esperança	6771447	-48.9065113	-16.3774727
+Maršovice u Nového Města na Moravě	428858	16.0774913	49.5860295
+Elias Motsoaledi Ward 10	3663473	29.2569249	-25.3110873
+Curraghcloonabro West	6084739	-8.7917614	52.3287144
+Sint-Katherina-Lombeek	3950161	4.1364660	50.8744597
+Tai Lam Chung Reservoir	1295878	114.0294579	22.3843542
+Municipio de Hasenkamp	2870569	-59.8303500	-31.5224112
+Cadbury Cross Cottages	2761535	-3.5528506	50.8362709
+Heiligengroden/Rundum	5663298	8.0633290	53.5378439
+Conjunto Eustáquio Gomes	403045	-35.7842425	-9.5380399
+Colonia del Periodista	5853746	-86.2854568	12.1243682
+Vannes - Saint-Pasquier	4654960	-1.5695529	47.2278191
+Little Blue River Lakes	1026926	-94.4745653	38.9018808
+Brookhaven Apartments	2065325	-81.4631683	28.5001597
+Vila Forro da Lamparina	5897701	-38.6216857	-3.7389359
+Barragem Rio das Flores	3355488	-44.6082527	-5.1381898
+Municipio de Clucellas	4167408	-61.7227389	-31.4378611
+Municipio de Margarita	4241925	-60.1962337	-29.7707526
+Municipio de Margarita	4142189	-61.6506274	-31.6803171
+Piazza Caduti dell'Aria	2295073	13.6056614	41.6469785
+Albalat dels Tarongers	345245	-0.3683823	39.6692821
+Kocheriv Rural Council	7750793	29.3592352	50.3689719
+Songbaishan Reservoir	6706395	106.5645784	26.3697525
+Post Office Ward (pre1849)	5608663	-6.2624562	53.3495355

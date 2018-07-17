@@ -1,0 +1,34 @@
+Saint-Jean-du-Cardonnay	147464	1.0106907	49.4999375
+Saint-Palais-de-Phiolin	152698	-0.5921104	45.5176747
+Saint-Aubin-de-Lanquais	3217544	0.6061952	44.7983380
+Saint-Bonnet-près-Orcival	126714	2.8698660	45.7074893
+Cazaux-Fréchet-Anéran-Camors	2266360	0.4404054	42.8428272
+Doulaincourt-Saucourt	3207367	5.2021934	48.3072471
+Roquefort-les-Cascades	2062365	1.7442553	42.9616248
+Saint-Maurice-de-Lignon	138379	4.1382659	45.2224478
+Petrovac municipality	2528251	16.5466691	44.4759468
+Calais Creek;Calais Lake	4045449	-83.4895670	48.3913665
+Gabbro Creek;Gabbro Lake	4164485	-86.0345559	49.7514251
+Kiesgrube Östlich Olbasee	3298442	14.6020426	51.2759084
+Warwick Reservoir West	5997820	-0.0587168	51.5770188
+Nurimanovsky District	398511	56.8903051	55.2674791
+Kesovogorsky District	570636	37.2923769	57.5633551
+Novoburassky District	1746035	45.8987631	52.1192963
+Aviapoliksen suuralue	2906576	24.9300747	60.3014672
+Santa Cruz de Botumirim	6156476	-42.8454184	-16.9542904
+Bolshemurtinsky Rayon	1161672	92.9870114	56.9652889
+Shemysheysky District	969712	45.4919120	52.8403734
+Shovgenovsky District	365287	40.1633930	45.0165453
+Mitchelstowndown West	5959040	-8.4042710	52.4110856
+Clonfert Seymour North	4449677	-8.0429787	53.2505615
+Nelson Mandela Bay Ward 1	3591511	25.4774629	-34.0101351
+Podmokly nad Berounkou	424897	13.7223987	49.9447287
+Richard Taaffes Holding	5419190	-6.5371995	53.9485165
+Samtgemeinde Hambergen	904473	8.8614692	53.3305134
+Residencial Valdobiani	5942052	-53.8213882	-29.7015959
+Honghua'erji Reservoir	3234812	120.0475130	48.2999915
+Futuro Centro Cultural	3534651	-3.4453577	40.4514530
+Sindicato Agrario Taquiña	4476492	-66.1801347	-17.3408946
+Palazuelos de la Sierra	340679	-3.4524467	42.2107416
+Municipio de Curupaity	4208611	-61.6306726	-30.3971737
+Subregion sosnowiecki	2624204	19.5149032	50.4773502

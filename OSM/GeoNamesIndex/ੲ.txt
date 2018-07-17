@@ -1,0 +1,12 @@
+Municipality of Agia Varvara	1392864	23.6574236	37.9912514
+Rudolfstetten-Friedlisberg	1684408	8.3880295	47.3688815
+Antico Lago del Fucino (resti)	6897290	13.6397269	41.9544669
+Brushy Creek Watershed 16 Lake	4660389	-82.5211861	34.7864550
+Ministik Creek;Ministik Lake	4652944	-80.3796718	50.1631933
+Verkhnie Husne Rural Council	2674953	23.0092515	48.8744142
+Madeleine - Sermandière - Chattière	7842816	-1.2098924	48.3379748
+Bezirksteil Messestadt Riem	65958	11.7020556	48.1347969
+Marseille 10e Arrondissement	76349	5.4318797	43.2742853
+Municipio de Colonias Unidas	1619895	-59.6042140	-26.6932797
+Municipio de Carmen del Sauce	4059988	-60.7934192	-33.2342528
+Dublin City extensions 1940-1942	6144158	-6.0735169	53.3783227

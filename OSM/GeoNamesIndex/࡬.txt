@@ -1,0 +1,29 @@
+Aigrefeuille-sur-Maine	78301	-1.4090355	47.0735557
+Northern Ostrobothnia	1724360	25.6970522	64.9521512
+Regional Unit of Phocis	557547	22.2487803	38.4998681
+Municipio de Las Grutas	6666034	-65.4746773	-40.9938250
+Busovaca municipality	2528173	17.8970442	44.0911339
+Trstenik Municipality	2867202	21.0663813	43.6263310
+Chahar Right Back Banner	2752968	113.1215121	41.5232219
+Villa de Las Piriquitas	2262560	-65.7327213	-28.2803865
+Manimutharu Reservoir	1911164	77.4111890	8.6394496
+Wolferszwinger Weiher	2245935	12.2737424	49.1084100
+Municipio Puerto Siles	4055848	-65.0144173	-12.3865837
+Sankt Martin an der Raab	176503	16.1307910	46.9012824
+Caythorpe and Frieston	4435265	-0.6007033	53.0219781
+Mieleszkowce Pawłowickie	6833274	23.5742511	53.5164595
+Microrregião de Itaberaba	4560353	-40.5997917	-12.2907033
+Keenagh (Donnellan East)	5223675	-8.2361930	53.5551546
+Stauhall Mountain West	5528956	-8.0514332	55.0181193
+Tydd St Giles CP (Fenland)	1608954	0.0756050	52.7153789
+St. Leonards and St. Ives	2636505	-1.8311468	50.8301665
+Slavkov u Uherského Brodu	432431	17.6013141	48.9245101
+Kikvidzensky District	1084792	43.1215897	50.8058605
+Municipio de Elortondo	4076182	-61.5797285	-33.7616647
+Crosswater at Pablo Bay	6436793	-81.4463593	30.2780391
+Sector H - Halcón Peregrino	6280079	-6.5597423	37.0093427
+Leninsky City District	1268697	56.2235921	58.0481493
+Rietavo miesto seniūnija	1129070	21.9322800	55.7271736
+Plaza de la Universidad	1504271	-1.1261883	37.9883498
+Railway Station Square	1589534	12.4513207	41.9011853
+Plaza de la Universidad	5469561	-0.9812937	37.6057827

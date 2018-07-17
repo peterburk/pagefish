@@ -1,0 +1,20 @@
+Villeneuve-sous-Charigny	142860	4.3992035	47.4356440
+Andrijevica Municipality	2319358	19.7545740	42.7219981
+Lyngby-Taarbæk Municipality	2183062	12.5046096	55.7846378
+Höhenkirchen-Siegertsbrunn	539089	11.7309126	48.0188535
+Microrregião de São Bento do Sul	4806981	-49.4054382	-26.3435587
+Microrregião de Alto Taquari	4833036	-54.4547091	-18.4935001
+Parroquia Sabana de Piedra	2655196	-63.5129243	10.2611430
+Dhangadi Sub Metropolitan	5932615	80.6517731	28.6714079
+Santa Caterina Villarmosa	39268	14.1253124	37.5834975
+Microrregião de Paulo Afonso	4593971	-38.8371701	-9.1254603
+Carrig Electoral Division	6359653	-9.4932413	52.5646151
+Glenco Electoral Division	6845906	-9.6444028	54.0970755
+Niederried bei Interlaken	1682577	7.9259776	46.7239209
+New Belgrade Municipality	3085749	20.3878853	44.8030744
+Cornamucklagh and Falmore	4789487	-8.4120334	53.8368633
+Residencial Sonho Dourado	6870204	-49.1982584	-16.6558626
+Barrio Boulevard del Sol II	7700095	-84.7297291	9.9707233
+Mecklenburgische Schweiz	1979182	12.4874274	53.7917014
+Mongun-Tayginsky Kozhuun	190561	90.0555887	50.3077764
+Piazza Maria Ausiliatrice	6990252	9.2308075	45.5438531

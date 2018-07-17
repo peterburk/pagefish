@@ -1,0 +1,41 @@
+Yakutsk Urban District	1444344	129.2402689	62.0780316
+Saint-Pierre-Saint-Jean	2573509	4.1024630	44.4784929
+Villeneuve-la-Dondagre	2416288	3.1382463	48.1395794
+Saint-Cricq-Villeneuve	123666	-0.3526910	43.9036226
+Saint-Hilaire-la-Plaine	120314	1.9868777	46.1150015
+Mesorregião de Piracicaba	4803100	-47.6799532	-22.6455000
+Municipality of Drenas	1332168	20.8712854	42.6174448
+Grodzisk Wielkopolski	2859089	16.3732644	52.2264911
+Oleksiievo-Druzhkivka	2900260	37.6149060	48.5776736
+Favrskov Municipality	1926217	9.9287911	56.3195826
+East Mani municipality	2179049	22.4398224	36.6352149
+Municipality of Centar	2439777	21.4310493	41.9965458
+Schwarzenbach a.d.Saale	1021714	11.9350562	50.2032392
+Valverde de Burguillos	340296	-6.5343356	38.3331213
+Petty Harbour Long Pond	2027108	-52.7336922	47.5080250
+U. F. Sameice e Santa Eulália	6334596	-7.7746302	40.4246401
+Bystrzejowice Trzecie	6866863	22.7069419	51.1451158
+Section Thirtysix Lake	1951247	-86.3728153	46.5133543
+westlicher Steinteich	3098965	11.0168231	54.4798381
+Kaiserhammer Forst-Ost	1851142	12.1117540	50.1251148
+Village of Cross Plains	4011844	-89.6471877	43.1153179
+Leninogorsky District	367102	52.1982665	54.5865193
+Weitensfeld im Gurktal	105897	14.2004156	46.8655604
+Sainte-Anne-de-Bellevue	197580	-73.9391013	45.4240731
+Wzgórze Świętego Maksymiliana	2606805	18.5432797	54.5029646
+Spas-Demensky District	1235820	33.9346203	54.3959567
+Quartier Saint-Gervais	2172741	2.3583683	48.8556088
+Shchigrovsky District	1646080	36.8039911	51.9154309
+Shalersville Township	4627311	-81.2456548	41.2378395
+Yashaltinsky District	938666	42.5266009	46.2574753
+Kolpashevsky District	1311339	83.1606031	58.5866318
+Balneario Sandra Canale	2685852	-68.0719566	-38.9857037
+Knockalaghta (Sandford)	4201394	-8.3766826	53.7364230
+3e Haute des Moustiques	407150	-72.8902407	19.7561495
+Welshampton and Lyneal	4581475	-2.8461345	52.9090412
+Theewaterskloof Ward 14	6580240	19.0292461	-34.1547321
+Qingtongxia Reservoir	4564612	105.9705128	37.8403290
+Parcenary of Guipuscoa	2854005	-2.2352257	42.9418895
+Superilla del Poblenou	6562578	2.1936108	41.4015496
+Place Pierre Mendès-France	7447217	-1.6110054	47.2087490
+Jardins de l'Eau Retrouvée	1123325	2.1951786	48.9038922

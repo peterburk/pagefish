@@ -1,0 +1,32 @@
+Saint-Symphorien-des-Bois	3337297	4.2881996	46.3265527
+Saint-Ciers-sur-Bonnieure	1267794	0.2498798	45.8589187
+Saint-Laurent-de-la-Plaine	157816	-0.7977695	47.3098258
+Saint-Lubin-en-Vergonnois	279980	1.2203024	47.6182057
+Manmunai North DS Division	2918582	81.6841192	7.7310603
+Pedro Ascencio Alquisiras	5606141	-99.8812833	18.5264866
+Posthudorra/Porto Torres	40821	8.3782825	40.8173406
+Microrregião de Rio Vermelho	4873321	-50.8434617	-15.1116475
+Parroquia Capital Maneiro	2529423	-63.8056665	11.0059245
+Parroquia Capital Aguasay	2652888	-63.6510274	9.2420935
+Koopvaarders Binnenhaven	2214107	4.7718209	52.9608659
+Trusenteich (Drusenteich)	3289176	11.7282171	50.4151856
+General Jose Maria Bruguez	6590348	-58.9159844	-24.2790290
+Lagoa Grande de Minas Novas	6151373	-42.4695272	-17.4295476
+Ettagh Electoral Division	4462989	-7.8310535	53.0044289
+Nossa Senhora da Anunciada	6445193	-8.9336075	38.5143658
+Pallas Electoral Division	5638072	-8.3435535	53.1333780
+Seacor Electoral Division	6949606	-7.9754754	54.9266752
+Figart Electoral Division	6997315	-7.6410003	54.8742572
+Gartan Electoral Division	6949815	-7.9316485	55.0217066
+Sector La California Norte	5419079	-66.8209868	10.4812147
+Sainte-Geneviève-de-Batiscan	7711546	-72.3507661	46.5401036
+Ludwigshafen-Friesenheim	68668	8.4113027	49.4974078
+Departamento Castellanos	3587828	-61.6616660	-31.2400113
+Fraccionamiento del Prado	4102569	-100.4031716	20.5829525
+Polo Empresarial Novo México	6602699	-40.3277371	-20.3750728
+Coachella Community Homes	2621544	-116.1876848	33.6700230
+Colonia Faldas del Cerrito	6742511	-89.8010044	13.8579772
+Quartier Abodoume Village	5641509	-4.0408936	5.3089729
+Colonia Faldas del Cerrito	6752438	-89.8009392	13.8584675
+Municipio de General Vedia	1636525	-58.7252896	-26.8215453
+Burgemeester Nielenplein	7241314	4.6714734	52.5108769

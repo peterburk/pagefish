@@ -1,0 +1,35 @@
+Beauvois-en-Vermandois	150367	3.1057941	49.8330977
+Saint-Baudille-et-Pipet	1345977	5.7724861	44.7815662
+Saint-Martial-Viveyrol	146305	0.3333738	45.3557519
+Saint-Georges-les-Bains	126137	4.8151401	44.8566143
+Anglards-de-Saint-Flour	1435172	3.1597191	44.9877831
+Saint-Hilaire-de-Loulay	169182	-1.3215279	47.0096595
+Biddeputzi/Villaputzu	39932	9.5323822	39.5273507
+Microrregião Santa Teresa	1843579	-40.7116531	-19.9152764
+Municipality of Struga	2603188	20.7031712	41.2552522
+Microrregião de Auriflama	4778514	-50.4364201	-20.6880001
+La Chapelle-sur-Aveyron	111139	2.8683266	47.8691206
+Lac Notre-Dame-des-Monts	2344004	-73.9316621	45.9733469
+Longue-Pointe-de-Mingan	7734515	-64.1555711	50.3403364
+East Coventry Township	3049305	-75.6179558	40.2021462
+Ronchetto sul Naviglio	6693746	9.1309888	45.4310386
+Slippery Rock Township	4078863	-80.0146292	41.0612154
+Novousmansky District	1144870	39.6164831	51.6472695
+Urbanización Vista Alegre	4095324	-66.9492262	10.4900668
+Pestyakovsky District	389800	42.6856477	56.6055187
+Cloongawnagh (Cosgrave)	4760299	-8.7357931	53.8308268
+Lettybrook or Clooneen	4245717	-7.6914619	53.1135504
+Newtown or Ballyfallon	4577048	-6.9042431	53.6017535
+Rathgranagher (Lindsay)	5806063	-9.0725811	53.5985316
+uMhlabuyalingana Ward 3	3647011	32.6336533	-27.4607721
+Le Moulin de Pontorsier	7300806	-0.9183337	48.5464555
+Pastviny u Klášterce nad Orlicí	426108	16.5651554	50.0964314
+Nelson Mandela Bay Ward 8	3591570	25.5073784	-33.9670991
+Bendrabučių kompleksas „Niujorkas“	5502402	25.3293680	54.7270193
+Quinta da Fonte do Bispo	2946736	-7.7691489	37.1547045
+Residencial Villa Linda	6807802	-89.2313004	13.6726540
+South Colton Reservoir	4057479	-74.8706825	44.5242254
+Abelardo Pardo Lezameta	1953195	-77.1567352	-10.3131929
+Victor-Klemperer-Platz	2333470	13.5562544	52.5465859
+Plaza de Ortega y Gasset	4308653	-3.5653782	40.4241728
+Agamemnona Blana Square	6125452	22.4194058	39.6393799

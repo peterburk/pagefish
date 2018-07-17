@@ -1,0 +1,35 @@
+Saint-Pierre-des-Fleurs	536461	0.9646739	49.2501541
+Sassetot-le-Mauconduit	2673801	0.5247871	49.8025999
+Montliot-et-Courcelles	147176	4.5548219	47.8953072
+Alland'Huy-et-Sausseuil	3287856	4.5458230	49.5117699
+Vesvres-sous-Chalancey	3095429	5.1680552	47.6967313
+Francillon-sur-Roubion	173582	5.0810154	44.6175364
+Saint-Vincent-du-Pendit	123601	1.9107283	44.8333029
+Saint-Pardoux-les-Cards	120259	2.1228126	46.0907154
+Saint-Sulpice-le-Verdon	170070	-1.4110698	46.8872612
+Kangaroo Island Council	6671370	137.1565725	-35.8180976
+Gemeinde Deutsch-Wagram	103662	16.5566603	48.2994572
+Gemeinde Schönbühel-Aggsbach	127129	15.4221425	48.2803377
+Senador Alexandre Costa	332967	-43.9615627	-5.2645000
+Montcuq-en-Quercy-Blanc	5812008	1.1540046	44.3490038
+Dunbar Creek;Dunbar Lake	3912451	-81.4172345	47.0245681
+Therman W. Dix Reservoir	225406	-72.4221060	44.1855575
+Municipio Villa Charcas	4509378	-64.8296249	-20.5831707
+Magnet Creek;Magnet Lake	4146837	-87.0673022	49.7056421
+West Norriton Township	188169	-75.3773291	40.1318912
+Municipio de Candelaria	3190511	-55.7365711	-27.4715433
+General Mariano Alvarez	1370843	121.0059924	14.3002428
+Knocknahila More (South)	4260207	-9.3679004	52.7688186
+Corpusty and Saxthorpe	1022541	1.1378358	52.8338446
+Braceby and Sapperton CP	1403589	-0.4847036	52.9010377
+Residencial Mundo Novo 2	6941427	-49.4162307	-16.6613613
+Residencial Monte Sinai	7006152	-48.9318260	-16.2509897
+Jardim Residencial Lupo	7080056	-48.2072570	-21.7794491
+Muhsin Ertuğrul Mahallesi	6774716	32.8700412	39.9067288
+Barnes Lake-Millers Lake	135222	-83.3122688	43.1794545
+Conjunto Moacir Andrade	407265	-35.7112545	-9.5705733
+Medinah at Heritage Club	1578571	-84.3338236	39.3758781
+Pacific Bay Subdivision	1231786	124.6064909	11.0467231
+Distrito Agua Escondida	3049494	-68.7883018	-36.4731668
+Piazza Andrea Schiavone	3486495	9.1644788	45.4999315
+Engineering 2 Courtyard	2427810	-80.5401608	43.4703535

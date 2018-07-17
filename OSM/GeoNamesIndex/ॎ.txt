@@ -1,0 +1,25 @@
+Lachapelle-sous-Gerberoy	1362148	1.8693368	49.5403057
+Saint-Martin-de-Landelles	971033	-1.1803053	48.5527665
+Saint-Apollinaire-de-Rias	1765259	4.5941981	44.9169999
+Arpheuilles-Saint-Priest	125092	2.6681966	46.2275190
+Saint-Hilaire-de-Lusignan	1292078	0.5313345	44.2475072
+Saint-Julien-de-Concelles	84435	-1.4086130	47.2465655
+gmina Kowalewo Pomorskie	2633745	18.8632535	53.1457542
+Municipality of Angistri	4487487	23.3500522	37.6937038
+New Gorazde municipality	2528238	19.0363427	43.6481054
+Santa Rita do Passa Quatro	298173	-47.5198209	-21.6785001
+Tulyholove Rural Council	2522791	23.6386703	49.6074665
+Saint-Alphonse-Rodriguez	7707053	-73.7091064	46.1785110
+Liutovyska Rural Council	2593566	23.0278384	49.5984965
+Krysovychi Rural Council	2535368	23.0992634	49.7564786
+Kumtorkalinsky District	1858732	47.2049738	43.1330095
+Sankt Ruprecht an der Raab	3879182	15.6849278	47.1734731
+Yekaterinovsky District	1746025	44.4518988	52.1282621
+Santa Rita do Passa Quatro	5349738	-47.5198209	-21.6785001
+Knockstown (E.D. Kilmessan)	4583600	-6.6964690	53.5556029
+Hartington Upper Quarter	6608223	-1.9797565	53.2567327
+Tully South (Main Portion)	4422299	-6.2961937	55.0584324
+Sector Sureste Altomonte	5867086	-86.2509377	12.0755574
+Sector Sureste Altomonte	5867085	-86.2464187	12.0747283
+Área Residencial de El Retiro	5246248	-66.8596260	10.4882550
+Julia Fredricssons plats	2371442	14.0386885	57.1860851

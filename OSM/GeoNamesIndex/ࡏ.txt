@@ -1,0 +1,53 @@
+Sainte-Marie-de-Chignac	3006257	0.8275381	45.1117170
+Saint-Brice-Courcelles	36470	3.9871711	49.2705136
+Saint-Grégoire-d'Ardennes	154485	-0.5159476	45.5115180
+Saint-Mars-sur-Colmont	1125422	-0.7086398	48.3853049
+Municipio de El Paisnal	6433677	-89.2200597	14.0030617
+Municipio de Mejicanos	6846481	-89.2316602	13.7373250
+Kastoria Regional Unit	956713	21.1474168	40.4474633
+San Giorgio Monferrato	44212	8.4127994	45.1108658
+Landkreis Schweinfurt	62530	10.1041496	50.0259439
+Cabo de Santo Agostinho	303752	-35.0915918	-8.2753597
+Ballerup Municipality	2191541	12.3652198	55.7303594
+Prignano sulla Secchia	43136	10.7061061	44.4478843
+Viengphoukha District	5831789	101.0537071	20.6689648
+North Three Island Pond	1734612	-52.7580741	47.7226240
+Lago del Parque Central	155426	-3.7022335	40.6087356
+Pombeiro de Ribavizela	5837280	-8.2194031	41.3835200
+Taohua Industrial Park	7563923	117.1317104	31.7581601
+Jiashanlu Subdistrict	7424421	117.2933986	31.8916885
+Parroquia Santa Teresa	2451177	-66.9169585	10.4974670
+Parroquia Santa Teresa	2551293	-63.2118701	10.6769935
+Neuhausen am Rheinfall	1683680	8.5984095	47.6785958
+Baie des milliardaires	4579298	-4.0782888	5.2673588
+Cheboksarsky District	1761234	47.0305239	56.0920949
+Distrito de Bananeiras	5918643	-40.3599439	-10.6035001
+Cabo de Santo Agostinho	6190372	-35.0825604	-8.2910191
+Partido de Berazategui	2345171	-58.1408569	-34.8427856
+District of Zlaté Moravce	388217	18.3959186	48.4062550
+Doctor George Mountain	6052162	149.8973646	-36.6641805
+Governador Celso Ramos	296600	-48.5824187	-27.3728246
+Ballykinnacorra South	4166253	-9.0733323	52.9351648
+South Development Area	6426323	-106.6664135	52.0844646
+Saint-Maurice-d'Échazeaux	6800751	5.4974304	46.2569261
+Furnace or Bleankillew	2207673	-7.9267474	53.8719615
+High and Low Bishopside	7654572	-1.7277269	54.0994271
+Rossnaclonagh Outside	4502003	-7.6068887	52.9801480
+Vila Nova dos Milionários	3409093	-44.0005135	-19.9823256
+Elias Motsoaledi Ward 20	3663484	29.7178992	-25.0162437
+Elias Motsoaledi Ward 11	3663474	29.1696758	-25.2732587
+Younghusband Holdings	6695063	139.5493717	-34.8746694
+Municipio de Winifreda	3410628	-64.4437988	-36.2489184
+Place du Président Wilson	4126109	1.4478089	43.6048571
+Zamochok Rural Council	2806360	23.9443762	50.1297570
+Avana at Carolina Point	5344056	-82.3082866	34.8204782
+Bullards Bar Reservoir	253919	-121.1552848	39.4598950
+Barrio Justo P Castro IV	6040579	-68.3005414	-31.6282302
+Sanlidong Subdistrict	7848698	109.0978552	35.0945757
+Passeig de Lluís Companys	6580934	2.1815671	41.3901229
+Theodor-W.-Adorno-Platz	4275377	8.6668472	50.1276019
+Piazza Salvatore Gallo	6937205	14.5472804	36.9560162
+Place du Président Wilson	7065742	0.6183388	44.2047993
+Place Scheurer-Kestner	7014688	7.3577368	48.0821739
+Largo Tommaso Gismondi	2187719	13.1615297	41.7429723
+Piazza Marinai d'Italia	7025514	17.1347565	39.0796218

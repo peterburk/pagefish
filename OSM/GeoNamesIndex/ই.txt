@@ -1,0 +1,40 @@
+Saint-Christophe-sur-Avre	1028988	0.7957483	48.6964546
+Tangier-Tetouan-Al Hoceima	1592819	-5.4350789	35.2184964
+Saint-Martin-de-la-Brasque	73867	5.5410320	43.7655352
+Sidi Ali Boussidi District	6820402	-0.8842592	35.1020229
+Bijelo Polje Municipality	2319527	19.6920872	43.0787479
+Moree Plains Shire Council	6088821	149.4597027	-29.3213220
+Castiglione Messer Marino	41593	14.4447983	41.8728679
+Corregimiento Filogringo	2885032	-72.9734614	8.6619058
+Minicipality of Kavadarci	2577610	21.9958942	41.3051179
+Microrregião de Votuporanga	4778549	-49.8609136	-20.2529213
+Mamusa Local Municipality	611659	25.3600229	-27.2003250
+Rivière Pierriche Nord-Ouest	3022773	-73.2714971	48.1110917
+Neifert Creek Impoundment	1568862	-76.0107163	40.8364146
+Neifert Creek Impoundment	1948183	-76.0107163	40.8364146
+Mitterkirchen im Machland	422746	14.7023819	48.1886724
+la Vila Olímpica del Poblenou	4160730	2.1955553	41.3898090
+Illion Electoral Division	4131366	-9.6702839	53.4898464
+Straid Electoral Division	6984547	-7.4316798	55.2520525
+Donore Electoral Division	5847289	-6.7335263	53.2566521
+Muara Angke Nature Reserve	7615058	106.7478847	-6.1014445
+Muara Angke Nature Reserve	7615801	106.7523127	-6.1028313
+Sítios de Recreio Presidente	6985637	-48.9808704	-16.4155427
+Ballinamona or Ballyellin	2225331	-6.8778896	52.5966550
+Ostseeviertel (Parkseite)	3686805	13.4257917	54.0880763
+Hewelsfield and Brockweir	5955879	-2.6423210	51.7112689
+Harold Bell Wright Estates	7697304	-110.8537521	32.2315794
+Residencial Jandaia 1 Etapa	7006270	-48.9897944	-16.2789793
+Gesi Cumhuriyet Mahallesi	3456986	35.6197871	38.7877350
+Tongjialiang Subdistrict	7688039	113.0873918	40.0193198
+Fort Caroline Club Estates	7172367	-81.5882773	30.3714749
+Osiedle Villa Park Brodowo	7836240	17.3308258	52.1903700
+Sector Norte Cruz Del Paraíso	5867167	-86.2503629	12.0997813
+Bungalowsiedlung Gahlkow	6313491	13.5318291	54.1293348
+Gorbitz-Nord/Neu-Omsewitz	191617	13.6630620	51.0490413
+Celina Royale Subdivision	1556437	120.9676098	14.4286011
+Highland Park Country Club	4464799	-58.7965512	-34.4169508
+Lajeosa da Raia e Forcalhos	6364298	-6.8194180	40.3568326
+Piazza Martiri della Mafia	4033302	14.8876448	37.0877378
+Largo Vincenzo Di Raimondo	4112869	15.2753141	37.0823811
+Zizur Mayor/Zizur Nagusia	339674	-1.6945988	42.7894447

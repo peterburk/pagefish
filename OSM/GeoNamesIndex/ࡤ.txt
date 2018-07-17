@@ -1,0 +1,52 @@
+Forcelles-Saint-Gorgon	2960947	6.1093194	48.4573483
+Saint-Gervais-en-Vallière	2268403	4.9625609	46.9450157
+Kushiro Subprefecture	4096489	144.5536324	43.2004555
+Puygaillard-de-Lomagne	144984	0.8977312	43.9726710
+Vozdovac Municipality	7737268	20.5251050	44.6833076
+San Giuseppe Vesuviano	40803	14.5119346	40.8218877
+Aldealengua de Santa María	341055	-3.4590559	41.4675224
+Ventosilla y Tejadilla	339777	-3.6896359	41.1837610
+Microrregião Poços de Caldas	2235362	-46.4305304	-22.0320000
+GVV Oberes Schlichemtal	2864200	8.7823538	48.2099948
+Santo Antônio do Sudoeste	297499	-53.6352151	-26.0650978
+Münchweiler an der Alsenz	1254712	7.8790953	49.5441744
+Mount Sedborough Lough	1604039	-7.3188358	54.2248410
+Straelens Schuitwater	7625015	6.2156270	51.4704684
+Lac aux Grandes Pointes	7006516	-71.5687900	49.1198613
+Las Virgenes Reservoir	4045679	-118.8328288	34.1278492
+Schwarzau am Steinfeld	111146	16.1816193	47.7345811
+Parroquia Machurucuto	2461814	-65.6610581	10.1917929
+Martinlamitzer Forst-Süd	1022889	12.0271688	50.1761757
+Slokhyni Rural Council	2593538	22.8716271	49.5299099
+Barrage Ahmed El Hansali	3422414	-5.8740555	32.7187667
+Carvins Cove Reservoir	216178	-79.9503512	37.3871627
+Brightwater Reservoir	3479817	-106.5380387	51.5953313
+Municipio de Villaguay	2857432	-59.0345719	-31.8578398
+Crevinishaughy island	3998479	-7.7521549	54.4870765
+Xaiphouthong District	5831799	104.9941804	16.3773382
+Krasnokamsky District	361784	54.0734609	55.9669885
+Tashtagolsky District	1148323	88.0757853	52.7607484
+Nizhnekamsk Reservoir	1625807	52.5790231	55.8682728
+Zemetchinsky District	961236	42.4925303	53.5908209
+Palmeiras do Tocantins	336749	-47.6613011	-6.5827784
+Glesbygd Nedansjöbodarna	2775911	16.8086526	62.4381336
+Ward 15 Vanasthalipuram	7850268	78.5625576	17.3362596
+Kazım Karabekir Mahallesi	6745142	32.6551194	39.9474213
+Monkland and Stretford	6192953	-2.8058500	52.2087809
+Kazım Karabekir Mahallesi	3473401	35.4356855	38.7154366
+Molchanovsky District	1311343	83.9730554	57.7265961
+Urbanización Alto Verde II	6121275	-89.5715603	13.9596326
+The Willows at Lake Rhea	2060435	-81.5498788	28.5148564
+Ballston Spa Reservoir	2378373	-73.8437145	43.0288364
+Les Villas du Cap de Nice	7277185	7.3034460	43.6925735
+Ballston Spa Reservoir	2378372	-73.8452578	43.0531437
+Bear Lake Highland Acres	2080790	-81.4617747	28.6620845
+Oknoname 051023 Reservoir	4872070	-97.9433762	35.2134864
+Fox Canyon Subdivision	4139415	-103.9225073	44.5089894
+Municipio de Garruchos	3164514	-55.7656488	-28.0936601
+Ockbrook and Borrowash	546947	-1.3735249	52.9189216
+Municipio de Herlitzka	3161643	-58.3371633	-27.6303214
+Municipio de El Piquete	4453817	-64.5876920	-24.0351628
+Batería Alta de Santa Clara	4256860	-1.9917149	43.3239498
+Piazza del Molo Piccolo	3348349	14.2572587	40.8427392
+Piazza Vigili del Fuoco	2788400	12.5263906	41.9472518

@@ -1,0 +1,25 @@
+Sainte-Honorine-des-Pertes	130980	-0.8077589	49.3467493
+Morvillers-Saint-Saturnin	2178684	1.8254870	49.7797268
+Saint-Sauveur-de-Landemont	305069	-1.2498090	47.2917780
+Saint-Pardoux-la-Croisille	1268379	1.9685786	45.2537188
+Agana Heights Municipality	7403848	144.7470578	13.4659854
+Montebello della Battaglia	43953	9.0902770	45.0052149
+San Bartolomeo Val Cavargna	46830	9.1603516	46.0951933
+Les Eyzies-de-Tayac-Sireuil	2795327	1.0477863	44.9339777
+Communauté urbaine de Bamenda	3837910	10.1422709	5.9542860
+Lane Cove Municipal Council	6275980	151.1697155	-33.8232026
+San Francisco de Chinimbimi	3719690	-78.2154655	-2.6874308
+Manhattan Community Board 3	7340074	-73.9833225	40.7208535
+Nkandla Local Municipality	611179	30.9649440	-28.6471450
+Rusty Lake;Vermilion River	2413909	-99.6028074	56.5704589
+Kamsko-Ustyinsky District	367120	48.9795929	55.2780017
+Diamond Electoral Division	5502959	-7.5702419	54.0378398
+Santo Antônio da Vargem Alegre	6123675	-44.1753797	-20.3195345
+Tagheen Electoral Division	6856635	-9.1064395	53.6974890
+Killaan Electoral Division	6729548	-8.4696603	53.3279842
+Cloghan Electoral Division	4281541	-7.8760662	53.2253094
+Cloghan Electoral Division	6942436	-7.9461334	54.8529379
+Lytchett Minster and Upton	5652214	-2.0394758	50.7427735
+Emnambithi/Ladysmith Ward 2	3645744	29.9266065	-28.6014238
+Hochstadt-Marktzeuln (VGem)	2983336	11.1818765	50.1472742
+Cantón San Miguel de Los Bancos	113717	-78.9232892	-0.0161879

@@ -1,0 +1,7 @@
+Fezile Dabi District Municipality	593793	27.7784427	-27.4746956
+Verwaltungsgemeinschaft Mosbach	2969766	9.1690245	49.3819568
+Verwaltungsgemeinschaft Hausach	2958062	8.1695130	48.2776352
+Montejo de la Vega de la Serrezuela	348972	-3.6217876	41.5554659
+Comunidad Nueva Israel San Antonio	6203593	-89.2236601	13.6934130
+Place du Trocadéro et du 11 Novembre 1918	1202448	2.2872664	48.8629615
+Verwaltungsgemeinschaft Mössingen	2946702	9.0367370	48.4046839

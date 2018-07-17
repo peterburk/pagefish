@@ -1,0 +1,29 @@
+Montmoreau-Saint-Cybard	127699	0.1337032	45.4207260
+Saint-Urbain-Maconcourt	3187809	5.1900944	48.3974975
+London Borough of Newham	185505	0.0293179	51.5299995
+Bandar-e-Mahshahr County	6554940	49.2566908	30.5284674
+Municipality of Rahovec	1332196	20.6114156	42.4134416
+Casalnuovo Monterotaro	41401	15.0712476	41.6269896
+Santo Stefano Quisquina	39279	13.5143932	37.5976356
+Neunkirchen am Potzberg	1246625	7.4901317	49.5089623
+Tataryniv Rural Council	2522617	23.7706819	49.5477083
+Snyatynka Rural Council	2147167	23.4918776	49.4016022
+Krylatskoye Rowing Lake	71894	37.4408423	55.7626587
+Whitmanville Reservoir	3188052	-71.9135711	42.5995674
+La Puebla de los Infantes	340896	-5.4275373	37.8106081
+Cayos de las Cinco Leguas	6520961	-80.8926455	23.1359493
+Village of Prairie du Sac	242811	-89.7270254	43.2926347
+Benjamin Constant do Sul	242355	-52.6336395	-27.4843095
+Zestaponi Municipality	2024541	43.0480665	42.1341985
+Tazumuddin Subdistrict	4820008	90.8880696	22.4521220
+Pravoberezhny District	1060632	44.4878907	43.2681471
+Cornagleragh or Oldtown	5386546	-7.3470537	53.9694866
+Lisheennavannoge (Blake)	5663655	-8.2928723	53.2693022
+Cypress Cove Apartments	6485987	-81.5111963	30.3225335
+The Sanctuary at Bay Hill	1121395	-81.4939552	28.4567797
+Prism Co-Operative Homes	3556681	-80.9914665	46.5097360
+Miasto Kazimierzowskie	2374331	21.1433554	51.4029648
+Mikuszowice Krakowskie	2135592	19.0836233	49.7862375
+Norcross Pond Number One	3188124	-72.2671019	42.0539300
+Piazza Ludovico Ariosto	6142562	15.1011846	37.5186001
+Distrito Las Compuertas	2989640	-68.9381888	-33.0297079

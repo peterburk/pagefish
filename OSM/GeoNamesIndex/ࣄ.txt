@@ -1,0 +1,38 @@
+United States of America	148838	-99.0090672	36.8184300
+Hendecourt-lès-Cagnicourt	1166432	2.9505613	50.2145177
+Boueilh-Boueilho-Lasque	2146988	-0.3168733	43.5405650
+Chauconin-Neufmontiers	87636	2.8293553	48.9696305
+Saint-Didier-au-Mont-d'Or	175207	4.7971378	45.8158706
+Brandenburg an der Havel	62470	12.5615747	52.4266761
+Landkreis Main-Spessart	62641	9.7080547	49.9938503
+Kaišiadorių rajono savivaldybė	1518453	24.4269415	54.8263764
+Santa Eufemia del Arroyo	343461	-5.2763126	41.8945032
+Microrregião de Valença do Piauí	5145088	-41.5777137	-6.2410001
+Surdulica Municipality	2190332	22.2824689	42.6934336
+Lake Byllesby Reservoir	2195923	-92.9695526	44.5155391
+Bound Lake;Puttock Creek	4172781	-85.3284848	49.4576169
+Waterberging Veersloot	1604199	5.0095204	52.6670620
+Eucísia, Gouveia e Valverde	5729055	-7.0229166	41.3060356
+Municipal Unit of Nikaia	1394008	23.6358039	37.9791530
+Pererosle Rural Council	6495864	26.3949791	50.1406161
+Dyment Creek;Dyment Lake	3897650	-82.7602342	47.8132489
+Stavchany Rural Council	2520274	23.8254536	49.7643949
+Callenberger Forst-West	1083313	10.8410132	50.2860429
+Loch nan Sruthan Neonach	3200121	-7.3556532	57.2536745
+Tschenets Rural Council	2535361	23.0761604	49.7945932
+Wolseley Centre Wetland	2229156	-1.9649736	52.7807967
+South Taranaki District	4307956	174.4506861	-39.5209892
+Cashtown-McKnightstown	189299	-77.3460882	39.8780405
+Ottenhöfen im Schwarzwald	452981	8.1649618	48.5604477
+Gemarkung Hausen am Tann	7362548	8.8350082	48.2007308
+Palacios de la Valduerna	340354	-5.9454109	42.3124157
+Sainte Genevieve County	1180447	-90.1997438	37.8962969
+Vila São Vicente (Igrejinha)	6985626	-48.9790764	-16.4168513
+Quartiere Centro Urbano	6620859	12.2311982	44.1250582
+Carrigoona Commons West	4557414	-6.1586365	53.1722290
+Partido de General Pinto	2554695	-61.9771074	-34.6990278
+Municipio de Sauce Viejo	4112694	-60.7449390	-31.8209793
+Youghiogheny River Lake	2170778	-79.4081048	39.7396358
+Spicer Meadow Reservoir	2443605	-119.9343601	38.4141393
+Municipio de San Eugenio	4092894	-61.0956386	-32.0800586
+Largo Massimo Gurciullo	7161675	15.2711151	37.0432558

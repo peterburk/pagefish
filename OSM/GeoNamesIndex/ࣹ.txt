@@ -1,0 +1,26 @@
+Saint-Maurice-de-Beynost	149445	4.9791950	45.8322124
+Saint-Jacques-de-la-Lande	92709	-1.7259860	48.0779781
+Saint-Pierre-de-Plesguen	146022	-1.8843122	48.4562086
+Verneuil-en-Bourbonnais	2807428	3.2475345	46.3539878
+Mesorregião Jequitinhonha	2235299	-42.1683561	-17.1802211
+Municipio Julio César Salas	3448343	-70.8764910	9.1217609
+Municipio Jesús María Semprum	3447442	-72.5303669	8.9961070
+Municipio Arzobispo Chacón	3448191	-71.4107087	8.1055210
+Inkhundla Madlangempisi	1253036	31.5911165	-26.1086450
+gmina Juchnowiec Kościelny	3092521	23.1407570	53.0030356
+caïdat d'Ouled Abbou-Lahdami	5212799	-7.8086936	33.1558828
+Microrregião de Campo Maior	5145087	-41.5842895	-5.1575572
+Khoroshyovsky District	445299	37.5254783	55.7817035
+Bellefontaine Neighbors	139878	-90.2256086	38.7479275
+Parroquia Capital Garcia	2529422	-63.8777717	10.9792429
+La Visitation-de-l'Île-Dupas	7710963	-73.1239528	46.1055359
+Municipio Fernández Alonso	4511508	-63.2062405	-16.8707830
+Distrito de Carnaíba do Sertão	5353496	-40.3694545	-9.5709103
+Loteamento Mansões Goianas	6870135	-49.2829124	-16.6294823
+Ballinkeeny or Mosstown	3365181	-7.6080678	53.4691022
+Bezirksteil Glockenbach	65791	11.5718864	48.1268957
+Drnovice u Valašských Klobouk	429839	17.9606777	49.1867341
+Centennial Neighborhood	2336062	-95.2429817	38.9464520
+Santa Rosa Garden Villas 1	3880692	121.1157622	14.3096548
+Paranatinga II Reservoir	3351074	-53.2840000	-13.9094322
+Place Auguste Lafourcade	5726182	1.4447831	43.5922426

@@ -1,0 +1,41 @@
+Saint-Laurent-de-Condel	280262	-0.4010785	49.0302792
+Saint-Sylvestre-Cappel	103076	2.5559335	50.7769122
+Bettencourt-Saint-Ouen	2026244	2.1167318	50.0197400
+Saint-Aulaye-Puymangou	5815554	0.1117322	45.1815373
+Saint-Gilles-des-Marais	2574696	-0.7005509	48.5864645
+Saint-Laurent-d'Andenay	1312810	4.5120855	46.7290907
+Saint-Sulpice-de-Ruffec	1736196	0.3224819	45.9368094
+Saint-Martin-de-Valamas	414398	4.3765082	44.9368341
+Saint-Bonnet-des-Bruyères	146575	4.4705301	46.2669842
+Santa-Lucia-di-Mercurio	2649799	9.2162937	42.3185069
+San Pedro Mártir Quiechapa	5999927	-96.2571012	16.4615978
+Distrito Lucas al Norte	2840162	-58.9823130	-31.4082527
+Pachalik de Chefchaouen	4826449	-5.2766583	35.1700832
+Marijampolė Municipality	974204	23.4816338	54.5355395
+Microrregião de Guarabira	4507896	-35.4363977	-6.7805040
+Municipality of Sifnos	5305696	24.7081359	36.9714013
+gmina Ustronie Morskie	2913180	15.7358233	54.1863005
+Microrregião de Itaparica	5129348	-38.4044113	-8.7821875
+Verwaltungskreis Thun	1684825	7.6397426	46.7570107
+Bilyakivske reservoir	3008820	33.4070194	49.6007506
+Boranakanive Jalashaya	1596938	76.6237373	13.5937137
+Upper Tumalo Reservoir	4073991	-121.4214724	44.1372999
+Parroquia Gral. Vernaza	2649354	-79.7874871	-1.7715374
+Hungry Horse Reservoir	340286	-113.7705870	48.1808975
+Khâi-Ma Local Municipality	81972	19.2670763	-29.4953900
+Zhiryatinsky District	1241822	33.6461440	53.2206545
+Ostashkovsky District	570639	33.1435933	57.1696339
+Santa Rita de Ouro Preto	2965508	-43.5025001	-20.5595000
+Presbítero Manuel Acevedo	7182665	-67.0202927	-27.6634494
+Sector Questa del Plomo	5839038	-86.3225140	12.1529303
+Derreenataggart Middle	5823917	-9.9185869	51.6488163
+Craigmonaghan (Funeton)	4603213	-7.5774360	54.7141671
+Parque Estrela Dalva XIX	4142013	-48.3232587	-15.9243112
+Vranovice nad Svratkou	433063	16.6069836	48.9704869
+Karargahtepe Mahallesi	5525921	32.8599308	39.9726102
+Nelson Mandela Bay Ward 4	3591545	25.5921809	-33.9966776
+Maitland Garden Village	2034994	18.4839177	-33.9335275
+Inzersdorf im Kremstal	970836	14.0734261	47.9203426
+Residencial Valladolid	6249375	-89.6441342	13.9965816
+Alcubilla de Avellaneda	346696	-3.3040275	41.7130148
+Vorotsiv Rural Council	2559551	23.8340995	49.8653735

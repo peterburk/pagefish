@@ -1,0 +1,33 @@
+Gonneville-sur-Honfleur	126406	0.2391469	49.3829683
+Martigny-les-Gerbonvaux	938054	5.7932617	48.4471583
+Saint-Germain-sur-Sarthe	107591	0.0874917	48.2801735
+Guigneville-sur-Essonne	397179	2.3739044	48.4635835
+Saint-Romain-en-Viennois	184053	5.1032089	44.2624013
+East Azerbaijan Province	2232180	46.6924087	38.0858397
+La Chapelle-Saint-Maurice	297126	6.1549934	45.7717322
+Varvarovskoe reservoir	2770882	44.2389084	48.4864568
+Varvarovskoe reservoir	2770880	44.2688784	48.4816480
+Mamouros, Alva e Ribolhos	6338942	-7.9656670	40.8563236
+Varvarovskoe reservoir	2770881	44.1797239	48.5136575
+Varvarovskoe reservoir	2770879	44.1581545	48.5341596
+Varvarovskoe reservoir	2770883	44.1678802	48.5630302
+Hamaliivka Rural Council	2529618	24.1713010	49.9005078
+Rohrbach in Oberösterreich	962306	13.9767637	48.5606980
+Orunia - Święty Wojciech - Lipce	2642952	18.6568449	54.3079778
+batas dusun karang lebah	3816468	116.3677509	-8.6171017
+Rahan Electoral Division	4436313	-7.6215222	53.2853821
+Mehendiganj Subdistrict	4638969	90.4991292	22.8082280
+Ballynarooga More (North)	6125162	-8.8831116	52.4636453
+Presidente Roque Saenz Peña	5281595	-60.6421001	-33.0108771
+Conjunto Cruzeiro do Sul	6814238	-49.2739477	-16.7590530
+Dokuzkavaklar Mahallesi	5557708	29.1057832	37.7909093
+Hernando Velez Marulanda	7762957	-75.6805443	4.8123818
+Varvarovskoe reservoir	2816170	44.3019056	48.4760046
+Varvarovskoe reservoir	2770884	44.2935592	48.4763754
+Prairie Park Neigborhood	2330937	-95.2119323	38.9354895
+Rohrbach in Oberösterreich	2984946	13.9885074	48.5719980
+Albufeira das Andorinhas	2462594	-8.1810809	41.5701777
+Municipio de Bella Italia	4162942	-61.3808470	-31.2639023
+Piazza Felice Cavallotti	5405987	10.3977043	43.7200333
+Piazza Felice Cavallotti	4626465	10.7900165	45.1575385
+Piazza Geremia Bonomelli	2050334	12.4917485	41.8647484

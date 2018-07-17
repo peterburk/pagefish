@@ -1,0 +1,24 @@
+Saint-Sauveur-de-Montagut	2084794	4.5680590	44.8202050
+Chervonohrad City Council	2552619	24.2259515	50.3740127
+Shiribeshi Subprefecture	4103325	140.5375378	43.1384860
+Fredensborg Municipality	2190810	12.4418298	55.9509290
+Manganeses de la Lampreana	343825	-5.7235372	41.7615131
+Unincorporated Water Area	4662501	-75.0475861	39.0448241
+Unincorporated Water Area	4822350	-74.3585182	39.3685513
+Gemeinde Göstling an der Ybbs	964286	14.9556841	47.7790058
+Cummer Electoral Division	6739250	-8.8875190	53.4496526
+Derrew Electoral Division	5634194	-8.2591908	53.1992719
+Governador Jorge Teixeira	325894	-63.2397500	-10.8235000
+Clonlahy Corporation Land	4508195	-7.6444264	52.9131923
+Chácaras Recanto da Cachoeira	5548924	-41.9395591	-18.8961965
+Kachurivka Microdistrict	7645612	29.2396342	48.5071025
+Popovice u Brandýsa nad Labem	431830	14.6191079	50.1819389
+Colonia Altos de Guadalupe	6808082	-89.2358967	13.6735015
+Lotificación Santa María Mizata	6701122	-89.5968906	13.5133582
+Municipio de Colonia Elisa	1619896	-59.4149964	-26.9479656
+Municipio de Coronel Fraga	4142184	-61.9305135	-31.1886903
+Distrito Nueva California	2958039	-68.1572157	-32.7557238
+Bischof-von-Zollern-Platz	3926233	10.8765250	48.3854600
+Piazza Alonzo Di Benedetto	6130872	15.0867619	37.5017746
+Piazza Davide Scamporrino	4052428	15.2783582	37.0967279
+Dobropillia Municipality	2875250	37.0885556	48.4702021

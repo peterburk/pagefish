@@ -1,0 +1,25 @@
+Saint-Pierre-de-Manneville	104238	0.9430185	49.3956732
+Laneuveville-devant-Nancy	52369	6.2314627	48.6501561
+Laneuveville-devant-Bayon	2961984	6.2617436	48.4695150
+Saint-Germain-en-Brionnais	3336906	4.2497542	46.3464549
+Saint-Sulpice-de-Roumagnac	2966015	0.3991279	45.2003088
+Mesorregião Leste Maranhense	5129417	-43.6116000	-4.8406929
+Municipality of Leposaviq	1332176	20.8223600	43.1255131
+Rural City of Murray Bridge	7071420	139.2170920	-35.2000957
+Municipality of Kravarsko	5518652	16.0334186	45.5633660
+Keski-Karjalan seutukunta	6442793	29.9826207	62.0697997
+Furtwangen im Schwarzwald	1240885	8.2229168	48.0477671
+Municipal Unit of Psychiko	1403235	23.7714104	38.0093612
+Neumarkt im Hausruckkreis	397982	13.7295576	48.2752131
+Bruck an der Großglocknerstraße	1019508	12.8440179	47.2904329
+West Marlborough Township	3050160	-75.8089455	39.8917821
+Verkhneuslonsky District	367670	48.7385153	55.5641098
+Saint-Jean-de-Pourcharesse	6858063	4.1003649	44.4908260
+Islandavanna Upper (Inlake)	5248380	-8.9782956	52.7754817
+Long Whatton and Diseworth	6487386	-1.3049232	52.8098135
+Barrio Boulevard del Sol III	7705042	-84.7294534	9.9696822
+Susumansky Urban District	1922206	146.8147002	63.2539538
+Sector Central 1 Lago Xolotlán	5846108	-86.2694035	12.1595841
+Sector Oeste Lomas De San Ángel	5857669	-86.2817476	12.1150213
+Camella Homes Tierra Nevada	3481903	120.9230195	14.3181838
+Plaça de Josep M. Folch i Torres	2517283	2.1665862	41.3765572

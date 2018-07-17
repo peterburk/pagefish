@@ -1,0 +1,44 @@
+Saint-Vaast-sur-Seulles	280402	-0.6286280	49.1376996
+Saint-Sever-du-Moustier	77172	2.6912023	43.7752447
+Saint-Pantaléon-de-Lapleau	2939460	2.1968439	45.3195973
+Villingen-Schwenningen	1242298	8.4847379	48.0530721
+Châteauneuf-les-Martigues	74267	5.1493969	43.3897601
+San Miguel Quetzaltepec	5999882	-95.7670793	16.9790309
+San Giorgio di Lomellina	44328	8.7796773	45.1751196
+La Neuville-Sire-Bernard	3359754	2.5216964	49.7441293
+Valeyres-sous-Montagny	1685170	6.6017293	46.8007199
+Villarrubia de Santiago	347342	-3.3285282	40.0082900
+Liuzhi Special District	2780187	105.3424188	26.2590401
+Plandiste Municipality	1639502	21.0699249	45.2281569
+Frederiksted Southeast	255303	-64.8779910	17.7061915
+Bulley Creek;Bulley Lake	3810878	-83.8759330	47.4484495
+Moreira do Rei e Várzea Cova	4174010	-8.0796027	41.5015320
+Monte Redondo e Carreira	6546936	-8.8373456	39.8956234
+Franz Number 1 Reservoir	362714	-106.0232901	38.5436601
+Shangfuchong Reservoir	5232881	111.9284828	26.8971436
+Ranevychi Rural Council	2122767	23.5587641	49.3377671
+Horishnie Rural Council	2525832	24.1757483	49.4920441
+Hualiangting Reservoir	309841	116.1968749	30.5146249
+Distrito Ciudad de Tunuyán	3023107	-69.0213088	-33.5705558
+Lianmenglu Subdistrict	7640589	114.4564384	38.0768559
+Gort Electoral Division	5648956	-8.8107344	53.0656725
+Soligalichsky District	1697802	42.3374239	59.0801160
+Municipio de Huillapima	7327956	-65.9477551	-28.6678713
+Municipio de Las Parejas	4078475	-61.5753849	-32.6556773
+Karachayevsky District	1059283	41.8918152	43.5561949
+Quartier Administratif	6609743	1.2152055	6.1255350
+Ballywatermoy Crankill	4265263	-6.3544860	54.9271445
+Covenham St Bartholomew	1316194	0.0095330	53.4388340
+Radovesice u Libochovic	423578	14.0746249	50.4127834
+Mladotice nad Doubravou	429041	15.5466056	49.8634989
+Municipio de Villa Elisa	2864068	-58.4046641	-32.1308986
+Maine Avenue Villas West	2068568	-81.5211148	28.6858533
+Área Residencial Campo Rico	5446703	-66.8157237	10.4822420
+Summerfield Apartments	2077743	-81.4567677	28.4964730
+Municipio de El Soberbio	3203339	-54.0745481	-27.0870183
+Municipio de Almafuerte	3207194	-55.4029540	-27.5354014
+Quartier de Croulebarbe	2191497	2.3476470	48.8338816
+Municipio de San Eduardo	4069959	-62.0844033	-33.9247781
+San Antonio de Antaparco	1933632	-74.4351152	-13.0675991
+Katharina-Fischer-Platz	3300429	11.9064689	48.3054604
+Gartenstadt-Stadtweide	288446	12.0768336	54.0756094

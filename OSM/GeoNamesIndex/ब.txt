@@ -1,0 +1,31 @@
+Saint-Aubin-sous-Erquery	532386	2.4900159	49.4122337
+Maisoncelle-Saint-Pierre	158848	2.1222490	49.5144510
+Pierrefontaine-lès-Blamont	146610	6.8223961	47.3715355
+London Borough of Enfield	51841	-0.0809801	51.6487400
+Tepecoacuilco de Trujano	5606474	-99.4563272	18.1244427
+cercle de Meknes-Banlieue	4819050	-5.4100335	33.9313066
+Shakhtarsk Municipality	2916659	38.4112449	48.0874168
+Maneh and Samalqan County	6555195	56.7101306	37.7322541
+Landkreis Südliche Weinstraße	62653	7.9497657	49.1719022
+La Villeneuve-sous-Thury	1083116	3.0608950	49.1618083
+Landkreis Nienburg/Weser	62728	9.2578105	52.6487602
+Municipio de La Esperanza	3491673	-65.2942702	-26.6624921
+Prijepolje Municipality	2872871	19.6817946	43.3289785
+Tianshengqiao Reservoir	286450	104.9658576	24.7703749
+District of Medzilaborce	388249	21.9353344	49.2452014
+La Bonite Cr above Platte R	2730533	-105.3667511	42.6242326
+Zhangye Road Subdistrict	7034374	103.8222127	36.0608817
+Telephone Flat Reservoir	1288171	-120.6771602	41.7739365
+Little Wellington Island	2717165	-74.7904766	-48.4031239
+Huangbizhuang Reservoir	2075511	114.2623270	38.2654705
+Geraz do Lima (Santa Leocádia)	5714272	-8.6572534	41.6972099
+Windmill or Blackislands	4160777	-7.2625417	53.4487650
+Frankford or Ballykieran	4762643	-7.4856401	52.7586227
+Summerhill or Aghnaharna	4637234	-7.2782063	53.0285785
+Mill Creek Run Apartments	7699973	-83.7216951	32.7261683
+Killeen or Killeenlynagh	4497994	-7.2616189	53.0885773
+Killeen or Killeenlynagh	4497993	-7.2610647	53.0969771
+Central Park Morada do Sol	2986598	-48.1652986	-21.7784628
+Multifamiliar Los Cerros	6153465	-76.5539966	3.3990474
+Municipio de La Esperanza	4442691	-64.7660553	-24.1975667
+Molodizhne Rural Council	7383704	30.5873063	46.3123045

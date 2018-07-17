@@ -1,0 +1,45 @@
+Saint-Martin-du-Manoir	110008	0.2323150	49.5390545
+Saint-Mury-Monteymond	88129	5.9277788	45.2091286
+Saint-Laurent-de-Cuves	1004254	-1.1132404	48.7454431
+Haraucourt-sur-Seille	1267394	6.6034025	48.8098197
+Mittelschaeffolsheim	373787	7.6507338	48.6977066
+Thiaville-sur-Meurthe	113039	6.8011748	48.4055539
+Beaulieu-sur-Sonnette	111349	0.3639889	45.9285448
+Neuville-en-Verdunois	2983977	5.3119191	48.9489693
+Saint-Jean-de-la-Ruelle	147558	1.8709325	47.9102580
+Saint-Pierre-des-Corps	77321	0.7347377	47.3875924
+Saint-Privat-du-Dragon	3066759	3.4462462	45.1965190
+Saint-Martin-de-Sanzay	152467	-0.1975985	47.0685749
+Kecamatan Mantikulore	4278173	119.9541467	-0.8599265
+Hammam Nbails District	6537614	7.7165513	36.3225862
+Nishikambara District	4115694	138.8380653	37.6872610
+Gemeinde Herzogenburg	134350	15.7382876	48.2940998
+Ebersbach-Neugersdorf	1605089	14.6032584	50.9938095
+Villamartín de Don Sancho	341617	-5.0956861	42.5882408
+Bakhchisaray District	1574582	33.9790105	44.6768054
+caïdat de Tidili Mesfioua	5377933	-7.6454686	31.4739289
+Kaustisen seutukunta	6442510	23.9856533	63.5010879
+La Chapelle-Montlinard	1248256	2.9864573	47.1807669
+Kleiner Schwielochsee	2860905	14.1863195	52.0182874
+Gemeinde Grimmenstein	110614	16.1075836	47.6184895
+Unterer Gemeindeteich	2236349	14.2817992	51.3440593
+Domingo Martínez de Irala	6604961	-54.6905716	-25.8693497
+San Sebastián de la Gomera	340733	-17.1670730	28.0940609
+Microrregião de Três Passos	568937	-53.9796213	-27.4531654
+Latinoamericana Norte	2607767	-100.9831341	25.4488004
+Provincia de Cachapoal	1561023	-70.7595811	-34.2772359
+Hermakonon Permanence	5567225	-13.6460899	9.5598047
+Upton CP (Peterborough)	1608493	-0.3719333	52.5931370
+Maluti-a-Phofung Ward 13	3596577	28.7948053	-28.5670947
+Maluti-a-Phofung Ward 31	3596597	28.8791913	-28.5533951
+Maluti-a-Phofung Ward 22	3596587	29.3241002	-28.1793551
+Ticuantepe (Municipio)	5835755	-86.2186190	12.0183105
+Comun General de Fascia	1590879	11.7293084	46.4207666
+Loteo Avellaneda Oeste	4678860	-60.6924653	-32.9801541
+Golf Resort Darovanský Dvůr	2748154	13.5204882	49.8328017
+Lázaro Cárdenas (Riachuelos)	5730452	-96.9601634	20.4190947
+Colonia Las Margaritas	6100370	-89.6698001	13.9904744
+Carmen del Darién (Curbaradó)	1343139	-76.9205950	7.0404790
+Kamianka Rural Council	6600739	26.6215100	48.6966091
+Kamianka Rural Council	2825865	23.5886631	49.0186159
+Trzeszczany Pierwsze	7093564	23.7374924	50.8209330

@@ -1,0 +1,37 @@
+Cricqueville-en-Bessin	131254	-0.9982720	49.3784246
+Saint-Martin-sur-Écaillon	54762	3.5146109	50.2400695
+Bilhorod-Dnistrovskyi	3200259	30.3332474	46.1840236
+Kecamatan Ngaha Ori Angu	7238412	120.0096087	-9.7272574
+Santa Caterina Albanese	39993	16.0835205	39.5937539
+Santa María del Mercadillo	343386	-3.5550339	41.8629281
+Municipio de Los Toldos	7216566	-64.6295092	-22.4471235
+Zivinice municipality	2528295	18.6961913	44.4134995
+Municipality of Prilep	2593112	21.6320201	41.2803112
+Ugljevik municipality	2528282	18.9885321	44.6741741
+Mercatello sul Metauro	42526	12.3502729	43.6352269
+Solanillos del Extremo	344854	-2.6926025	40.7585991
+North Fayette Township	6885703	-80.2237637	40.4156447
+North Western Province	4630837	79.9720052	7.9745867
+Helechosa de los Montes	345656	-4.8491520	39.3498752
+Lac de la Passe d'Orignal	1480702	-76.2043502	47.8657968
+Drummond-North Elmsley	7426081	-76.2103457	44.9568981
+Municipio Waldo Ballivián	4500789	-68.2241173	-17.1132092
+North Lake of the Island	1347100	-100.2272917	49.0180013
+Sant'Agata sul Santerno	43195	11.8630994	44.4488185
+Creaghmacwallen Island	3516497	-7.5768349	54.2514090
+Distretto di Mendrisio	1688759	9.0001798	45.8762989
+Union Hill-Novelty Hill	237544	-122.0350539	47.6815632
+Ejido José María Morelos y Pavón	7687005	-114.0339693	28.2951337
+Batas Dusun Retot Timur	3817758	116.3521467	-8.6572582
+Batas Dusun Lendang Ara 2	3816510	116.3699332	-8.6179890
+Kochkurovsky District	1537974	45.4022819	54.0270580
+Sankt Anton im Montafon	76721	9.8687661	47.1153863
+Dukhovnitsky District	1746024	48.3944986	52.3995096
+Derryleedigan (Jackson)	5374551	-7.1279202	54.2661902
+Bois Cadet, Montesquieu	1845284	2.4853026	48.8501050
+Loughlinstown Commons	4641332	-6.1309616	53.2436221
+Ballyhacket Magilligan	4784511	-6.8383512	55.1389145
+Minimes - Barrière de Paris	2344059	1.4317600	43.6306576
+Taubstummenheim Edelweiß	2054993	15.9413129	47.7164885
+Juodės III (Verbalaukio) tv.	5195529	25.1118683	54.9086606
+Estación Capilla del Sauce	3227794	-55.6239857	-33.4516253

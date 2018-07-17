@@ -1,0 +1,31 @@
+Dompierre-sur-Charente	138500	-0.5001000	45.7080816
+Villeneuve-en-Montagne	2897589	4.5886815	46.7613925
+Saint-Julien-de-Crempse	2956927	0.5274844	44.9483731
+Saint-Julien-la-Geneste	116489	2.7461640	46.0454687
+Montcourt-Fromonville	1427770	2.7141507	48.2982191
+Saint-Pierre-des-Champs	1426902	2.6087795	43.0481231
+Santa Ana Ateixtlahuaca	5999965	-96.8887610	18.2198865
+San Bartolomé Jocotenango	377424	-91.0360530	15.1865869
+Microrregião de Canoinhas	4807765	-50.3598291	-26.4324333
+Lago Barragem Poço do Magro	5340591	-42.8024627	-14.2782355
+Garcia Moreno (Chumaqui)	2661631	-78.5421604	-1.3003429
+Kokoshkino settlement	1668007	37.1596080	55.6030817
+Parroquia La Candelaria	4141767	-68.0133231	10.1742247
+Microrregião de Jeremoabo	4606176	-38.3234192	-10.0181529
+St. Jacques - Coomb's Cove	2837853	-55.5819854	47.4504083
+Kurtamyshsky District	398438	64.5153579	54.7383461
+Alphaville Residencial	6960404	-49.3738723	-16.7302593
+Residencial Alphaville	6985992	-48.9499201	-16.3626517
+Poulton-with-Fearnhead	1433112	-2.5575338	53.4074277
+uMhlabuyalingana Ward 5	3647013	32.7162428	-27.3577648
+Residencial Alphaville	4675093	-60.0990839	-12.7287887
+Jiřice u Kostelce nad Labem	427116	14.5533236	50.2292096
+Carrigatogher Bog (Ryan)	5582763	-8.2632998	52.8370000
+Condomínio Verona Village	7848147	-38.4645864	-3.8783138
+Los Vaqueros Reservoir	106233	-121.7407476	37.8192134
+Coulonges-en-Tardenois	6828988	3.6282935	49.1957880
+Piazza Alcide De Gasperi	4722610	14.2769924	40.8565027
+Piazza Alcide De Gasperi	6295550	16.9740275	40.6125997
+Piazza Alcide De Gasperi	3068720	9.4087074	45.5329114
+Piazza Alcide De Gasperi	7194095	15.1956288	37.7611257
+Zaouiat Sidi Abdelkader	2470159	-4.1266141	34.9203353

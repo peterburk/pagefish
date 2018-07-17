@@ -1,0 +1,35 @@
+Saint-Michel-en-Beaumont	1111051	5.9120890	44.8691192
+Saint-Romain-de-Jalionas	104756	5.2270455	45.7526361
+Mortefontaine-en-Thelle	533709	2.1886144	49.2677131
+Saint-Michel-de-Montjoie	975778	-1.0253224	48.7644927
+Villeneuve-Saint-Salves	2399809	3.6455198	47.8504058
+Coalcomán de Vázquez Pallares	5605673	-103.0798315	18.6732855
+Basavana Bagevadi Taluku	3695799	75.9189290	16.5478340
+Pachalik de Fkih Ben Salah	5145210	-6.6789797	32.5060483
+Comunità della Vallagarina	6536061	11.0535333	45.8289429
+Municipality of Zhelino	2615107	21.1175781	41.9262923
+Municipality of Piraeus	1398530	23.6559483	37.9461680
+gmina Szulborze Wielkie	3146534	22.2434468	52.7581418
+Autrans-Méaudre-en-Vercors	5805194	5.5475379	45.1713351
+Municipio Puerto Suarez	4511328	-58.3825421	-19.0696576
+City of Saratoga Springs	3143405	-73.7801219	43.0596265
+Vynnychky Rural Council	2524588	24.1822044	49.7678430
+Embalse Lateral Villa Unión	6362029	-68.2236186	-29.2985584
+Mohyliv-Podilskyi Raion	1748953	27.7504830	48.4972320
+Gornozavodsky District	1074637	58.6652249	58.6241008
+Barrio Parque de la Gruta	3132938	-65.7891329	-28.4347296
+Dun Laoghaire-Salthill ED	4247587	-6.1486732	53.2963936
+Rathfarnham-Ballyroan ED	4563288	-6.3041501	53.2928391
+Conjunto Morada do Morro	7589028	-49.1181875	-16.6900296
+Holymoorside and Walton	4717601	-1.4887263	53.2176383
+Holme upon Spalding Moor	918118	-0.7744507	53.8177514
+Matalahib (Santo Domingo)	104861	121.0090070	14.6297005
+Őriszentpéter (Galambosszer)	5411220	16.4071922	46.8429438
+Unicorn Non-Profit Homes	3556672	-80.9937290	46.5096995
+Őriszentpéter (Galambosszer)	5411221	16.4034614	46.8404602
+Őriszentpéter (Galambosszer)	5411214	16.4111380	46.8420338
+Őriszentpéter (Galambosszer)	5411218	16.4092439	46.8424007
+Urbanización San Francisco	6084160	-89.5536592	13.9986699
+Leopold-Mistinger-Platz	176812	16.3195412	48.1977148
+Piazza del Risorgimento	6090658	15.0701418	37.5012497
+Pinilla de los Barruecos	340371	-3.3040817	41.9136352

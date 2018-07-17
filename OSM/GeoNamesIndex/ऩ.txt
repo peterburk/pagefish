@@ -1,0 +1,32 @@
+Charbonnières-les-Varennes	1022046	2.9721950	45.8900110
+Wudinna District Council	7122479	135.3230637	-32.9833176
+Sokolinaya Gora District	1299031	37.7301441	55.7728247
+Glassmill Lane Reservoir	4028171	0.0105763	51.4027461
+Tekstilshchiki District	455184	37.7378173	55.7067716
+Rohrbach bei Mattersburg	109316	16.4295156	47.6964987
+Distretto di Vallemaggia	1688773	8.5791883	46.3451055
+Parque Industrial Pesado	4679574	-65.0475840	-42.7318074
+Erlands Point-Kitsap Lake	237322	-122.7058160	47.5956278
+Shancarrigeen or Oldrock	3299496	-8.5629797	54.0732584
+Ring Commons 1st Division	5441670	-6.2367419	53.5824266
+Birobidzhansky District	1701712	132.7736088	48.5275105
+Ingeniero Manuel Pizarro	5253504	-64.3642313	-33.1482695
+Lincoln-Lemington-Belmar	6437395	-79.8980461	40.4735234
+Chengpingyiji Reservoir	2183093	119.2158422	28.5258139
+Chicopee River Reservoir	3352148	-72.4029138	42.1812168
+Chicopee River Reservoir	3351311	-72.5683348	42.1601916
+Condominio Morada do Reis	7150079	13.1908391	-8.9132787
+Municipio de Tolar Grande	7303622	-67.7627201	-24.6390752
+Piazza Giacomo Matteotti	4348218	8.9325605	44.4070978
+Piazza Giacomo Matteotti	1984422	11.7576668	42.2541226
+Piazza Giacomo Matteotti	5370668	9.3922541	44.2697033
+Piazza Giacomo Matteotti	5370746	9.3930214	44.2698794
+Piazza Giacomo Matteotti	5581532	11.3286880	43.3215541
+Plac Stefana Stuligrosza	4872637	16.9164250	52.4069345
+Piazza Giacomo Matteotti	6424261	10.3161946	44.7998682
+Piazza Giacomo Matteotti	6947716	14.4972417	37.0260610
+Piazza Giacomo Matteotti	3354066	14.7809099	41.1305261
+Piazza Giacomo Matteotti	7032889	14.7042045	36.7907837
+Piazza Giacomo Matteotti	4710826	14.8776239	37.2256899
+Parque Antonio José de Sucre	4040303	-75.6690009	4.5360379
+Qinglongjiang Reservoir	6806596	108.6190032	22.7448009

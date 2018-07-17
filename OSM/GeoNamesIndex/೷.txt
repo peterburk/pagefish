@@ -1,0 +1,4 @@
+Regional District of North Okanagan	2218289	-118.9638465	50.3747656
+Verwaltungsverband Villingendorf	2957656	8.5658153	48.2267007
+Gemeinde Winzendorf-Muthmannsdorf	110446	16.1101909	47.8250260
+Setor Residencial Leste - Buritis III	4265034	-47.6321700	-15.6127542

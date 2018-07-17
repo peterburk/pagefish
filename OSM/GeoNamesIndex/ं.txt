@@ -1,0 +1,28 @@
+Saint-Privat-la-Montagne	122864	6.0387392	49.1849401
+Saint-Michel-de-la-Pierre	1107398	-1.3817489	49.1343662
+Villiers-aux-Corneilles	2750941	3.6742951	48.5734717
+Rouvray-Saint-Florentin	2162491	1.5659278	48.2588325
+Saint-Hippolyte-de-Caton	2585630	4.2001509	44.0727415
+Mesorregião Vale do Rio Doce	2235307	-42.1239678	-18.9863776
+Central Federal District	1029256	36.9092860	54.5908242
+Kecamatan Kepenuhan Hulu	7834491	100.5418902	0.9990329
+Tepeyahualco de Cuauhtémoc	4000791	-97.8669057	18.8097984
+Tlacotepec de Benito Juárez	4042069	-97.6373730	18.6343762
+Pachalik de Kalaat M'Gouna	5154599	-6.1215620	31.2347339
+London Borough of Sutton	17529	-0.1736402	51.3575113
+Microrregião Montes Claros	2235344	-44.0417739	-16.3200001
+Badesee Teningen-Nimburg	1641754	7.7835234	48.1153057
+Jezioro Borzyszkowskie	5655274	17.3584809	54.0333465
+McKinnon Creek;Moose Lake	3387664	-81.8880192	46.1402190
+Gemeinde Langenzersdorf	114764	16.3644218	48.3079553
+Jezioro Wieczno Południowe	2958381	18.7979679	53.2589559
+Lac Kamicta Minictikowok	186147	-74.6191882	47.3229089
+Plaza de la Puerta del Sol	7424032	-3.7043002	40.4168653
+Gan Rave Regional Council	1380425	34.7439342	31.9107882
+Santa Margarida Paulista	3049167	-46.3724871	-23.5209260
+Niederlana - Lana di Sotto	2208709	11.1635608	46.6014645
+Departamento Yerba Buena	3486113	-65.3213208	-26.7710323
+Urbanización Vista Paraiso	2691560	-16.5062938	28.4178262
+Klyazminskoe reservoir	1528602	37.5354887	55.9763449
+Villa Sandino (Municipio)	5758405	-84.8779157	12.0550059
+Plaza Virgen de los Reyes	1671377	-5.9920553	37.3860271

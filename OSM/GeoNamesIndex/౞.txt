@@ -1,0 +1,3 @@
+San Fernando del Valle de Catamarca	1846690	-65.7849124	-28.4654883
+Ephraim Mogale Local Municipality	611578	29.4584828	-24.8567450
+"Zbiornik retencyjny ""Platynowa"""	6461183	18.6115746	54.3268297

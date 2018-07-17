@@ -1,0 +1,5 @@
+Arrondissement des Chardonnières	394519	-74.2259529	18.3275858
+Microrregião do Litoral Piauiense	5145077	-41.6872347	-3.4674900
+Parroquia San Diego de Cabrutica	2533236	-64.9823201	8.4629175
+Carrowreagh Electoral Division	6745945	-8.1880077	53.3952228
+Residencial Dom Ivo Lorscheiter	4036294	-53.7595869	-29.7172836

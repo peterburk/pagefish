@@ -1,0 +1,41 @@
+Saint-Christophe-du-Foc	1066470	-1.7404298	49.5561108
+Sonthonnax-la-Montagne	142555	5.5121544	46.2238395
+Saint-Priest-la-Feuille	120464	1.5290259	46.1999710
+Saint-Vincent-de-Salers	447643	2.5428712	45.2052830
+Saint-Aignan-des-Noyers	1069725	2.8231698	46.7544546
+Saint-Antoine-du-Rocher	77218	0.6293236	47.4980258
+Saint-Martin-de-Boubaux	287408	3.9209636	44.1928126
+Kecamatan Kota Waingapu	7234797	120.1608611	-9.7281102
+Santiago Chimaltenango	377273	-91.5454356	15.5681450
+Laguna Villa Chica Norte	3404712	-58.9948889	-27.4330745
+Lehanaghbeg Lough North	2551848	-9.7003910	53.5011234
+Albufeira de Póvoa e Meadas	2431468	-7.5464921	39.4696694
+Tornada e Salir do Porto	6546085	-9.1370816	39.4653303
+Hanumannagar Yogigimai	7580421	86.8762874	26.4929960
+Bad Peterstal-Griesbach	452986	8.2347083	48.4472939
+Suchohrdly u Miroslavi	438707	16.3708740	48.9485965
+Microrregião de Carazinho	558071	-53.1930569	-27.9754470
+Vysokogorsky District	367667	49.1361089	56.1041799
+Várzea da Ovelha e Aliviada	5910295	-8.1095342	41.2032344
+Joint Base Lewis-McChord	237502	-122.5074136	47.0308342
+Departamento San Jerónimo	3587830	-61.0294683	-32.1275451
+Microrregião de Rio Branco	4748662	-67.7680528	-9.9776135
+Residencial Flamboyant	6775564	-48.9041434	-16.3340596
+Residencial Flamboyant	4568443	-51.7362915	-17.8673209
+Misterton with Walcote	6721860	-1.1561439	52.4500168
+Knockatarry (Brickeens)	2377418	-7.8236165	53.6536662
+Sibson-cum-Stibbington	1611197	-0.3922871	52.5643261
+Knockgarraun (Sergeant)	5813591	-7.7470750	52.1395235
+Suchohrdly u Miroslavi	426412	16.3708740	48.9485965
+Piazza Trieste e Trento	4616889	14.2490154	40.8371045
+Saint-Jacques - Ripossière	4660203	-1.5323431	47.1902820
+Area Comunal Rafael Rios	5839117	-86.3044597	12.1586169
+Parque Riacho das Pedras 2ª Seção	5535361	-44.0540706	-19.9570717
+Piazza Trento e Trieste	1991476	11.7584331	42.2541193
+Corniche Tawada d'Agadir	5393745	-9.6019980	30.4083064
+Piazza Trento e Trieste	3216687	9.2737702	45.5835725
+Piazza Trento e Trieste	6788232	8.8544240	45.6107423
+Largo Beniamino Scucces	4851288	14.7673196	36.8387288
+Piazza Trento e Trieste	4052248	14.9384200	37.1929525
+Região Administrativa Sul	4036611	-53.7977952	-29.7391528
+Michal na Ostrove - Kolónia	4203559	17.5639150	48.0597567

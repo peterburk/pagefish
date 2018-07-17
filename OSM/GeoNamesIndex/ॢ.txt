@@ -1,0 +1,22 @@
+Saint-Maurice-de-Satonnay	2971297	4.7851804	46.4054648
+Saint-Victor-Montvianeix	363650	3.6130059	45.9396218
+Saint-Laurent-de-Belzagot	1895074	0.1050580	45.3767979
+Municipality of Novo Selo	2589373	22.8902535	41.4330237
+Vukosavlje municipality	2531450	18.2472086	45.0173129
+Municipality of Xiromero	1462142	21.1175959	38.6043055
+Starozhilovsky District	1066113	39.9256773	54.2655267
+Lackner Creek;Lackner Lake	3896316	-83.1086652	47.7864594
+Tysovytsia Rural Council	2674823	22.9122524	49.3423461
+la Maternitat i Sant Ramon	4130191	2.1154723	41.3819750
+Canton Cachuela Esperanza	4054849	-65.6208590	-10.6160609
+Osiedle Tadeusza Kościuszki	2720075	20.4869274	53.7723201
+Ward 145 Karaneeswarapuram	114825	80.2782019	13.0395302
+Residencial Santa Edwiges	7589013	-49.1281054	-16.7053282
+Jesup's Landing Townhomes	2579401	-81.2635932	28.7057654
+Residencial Mediterraneo	6807758	-89.2341731	13.6776995
+Pacifico Place Apartments	1994333	-81.3080181	28.5321103
+Comfamiliar Villasantana	7791013	-75.6657217	4.7996285
+Bosques de Puente Palma III	6153832	-76.5479040	3.4010265
+American Heritage Estates	1176684	-81.3799999	28.4570263
+Osiedle Tadeusza Kościuszki	6317328	18.3854833	50.0473897
+San Miguel de Chaccrapampa	1929591	-73.5992538	-13.9641785

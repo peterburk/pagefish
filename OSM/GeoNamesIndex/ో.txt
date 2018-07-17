@@ -1,0 +1,4 @@
+Landkreis Schmalkalden-Meiningen	62618	10.4065941	50.6218473
+Municipio de Benjamín Aráoz y El Tajamar	3491886	-64.8541936	-26.5602422
+Mealhada, Ventosa do Bairro e Antes	6021551	-8.4552122	40.3898108
+Abbeygormacan Electoral Division	6031147	-8.3305767	53.2082304

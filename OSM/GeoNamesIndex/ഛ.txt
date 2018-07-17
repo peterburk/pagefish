@@ -1,0 +1,5 @@
+Landkreis Neumarkt in der Oberpfalz	62620	11.6036515	49.1919845
+Federally Administered Tribal Areas	358004	70.0082006	33.0210850
+Metropolitan Region of Porto Alegre	2843209	-51.2821857	-30.0548869
+Villanueva del Rebollar de la Sierra	344356	-1.0106379	40.9019695
+Presa Nueva del Las Navas del Marques	7439507	-4.3050511	40.6385787

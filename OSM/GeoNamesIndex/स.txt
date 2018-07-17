@@ -1,0 +1,30 @@
+Landkreis Hameln-Pyrmont	62766	9.4157113	52.0967048
+Codronzanu/Codrongianos	40633	8.6899444	40.6592711
+Municipality of Tigbauan	3498991	122.3851907	10.6633046
+Curiglia con Monteviasco	46807	8.8264910	46.0593916
+Ramanathapuram district	1819773	78.8154962	9.3959111
+Municipality of Plasnica	2608063	21.1061530	41.4536048
+Campoli del Monte Taburno	41098	14.6640794	41.1139091
+South Saskatchewan River	6679193	-108.4530765	50.8443164
+London Borough of Hackney	51806	-0.0476669	51.5488122
+Nedre Trollebotnsvatnet	6331171	5.1480092	61.1815663
+Sukhovolia Rural Council	2814910	23.8376592	49.8316294
+Dobrostany Rural Council	2535243	23.6315868	49.8801603
+!Kheis Local Municipality	82051	21.5825744	-29.2132350
+Fischteiche an der Elster	6302865	12.2893623	51.3766834
+South Saskatchewan River	6679194	-106.5165839	52.2526296
+Canton San Pedro de Quemes	4136116	-68.1752203	-20.7685371
+Peschanokopsky District	1000503	41.2940725	46.1703564
+Sour El Ghozlane District	4156856	3.6384223	36.0802648
+Glenmagoo or Firoda Lower	4749365	-7.2497317	52.8225120
+Ballyhugh or Springfield	4207565	-7.2112716	53.3008578
+Industrial Alves Marques	1920383	-40.6710810	-19.5052255
+Koshylivci Rural Council	6768642	25.5649845	48.8906516
+Shangyoujiang Reservoir	406309	114.3852276	25.8510237
+Villa Rosedal Dios es Amor	7162884	-66.2490739	-17.3619630
+Whispering Pines Estates	2098738	-81.4117837	28.6338225
+Piazza delle Universiadi	6146094	15.1021570	37.5271250
+Piazza delle Universiadi	6310535	15.0740195	37.5577528
+Distrito Los Campamentos	2941130	-68.4325357	-33.2717528
+Weiyuan Road Subdistrict	7034363	103.8617364	36.0552566
+Gongxingdun Subdistrict	7034368	103.8963372	36.0444676

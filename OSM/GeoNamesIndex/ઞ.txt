@@ -1,0 +1,5 @@
+Belleville-et-Châtillon-sur-Bar	3287037	4.8258210	49.4618958
+La Magdalena Tlatlauquitepec	6037712	-98.0938697	18.7425576
+Pachalik de El Aïoun Sidi Mellouk	4821824	-2.5073760	34.5789297
+Sergiyevo-Posadsky District	171922	38.0790895	56.4812597
+Sylvenskoe Rural Settlement	1385804	56.7133706	58.0637916

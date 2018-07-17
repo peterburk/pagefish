@@ -1,0 +1,5 @@
+Cangyuan Va Autonomous County	2726016	99.3132380	23.2935064
+Sayano-Shushenskoe Reservoir	184691	92.3616711	52.1921208
+Krasnoshchyokovsky District	1100148	82.9073102	51.5282237
+Shorewood-Tower Hills-Harbert	135262	-86.6115672	41.8821734
+Parque Residencial Mestre Álvaro	1856298	-40.2709666	-20.1649431

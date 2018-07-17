@@ -1,0 +1,7 @@
+Shannonbridge Electoral Division	4210719	-7.9989509	53.2767586
+Buncrana Urban Electoral Division	6987277	-7.4486860	55.1336690
+Croaghpatrick Electoral Division	6188720	-9.6260329	53.7636801
+Conjunto Habitacional Serra Verde	7121040	-44.9064985	-20.1149701
+Residencial Lomas de San Francisco	6807756	-89.2353697	13.6769792
+St. Pauls (Eppan) - San Paolo (Appiano)	5458280	11.2609748	46.4732133
+Residencial Lomas de San Francisco	6808041	-89.2303983	13.6727315

@@ -1,0 +1,39 @@
+Grainville-la-Teinturière	141933	0.6552696	49.7409639
+Villeneuve-sous-Pymont	152523	5.5491925	46.6944356
+Saint-Front-sur-Nizonne	146030	0.6299851	45.4732542
+Prats-de-Mollo-la-Preste	2918640	2.4251736	42.4176490
+La Salvetat-Saint-Gilles	158885	1.2671580	43.5762897
+Villanueva de la Condesa	340246	-5.0960012	42.1514766
+gmina Godziesze Wielkie	2715141	18.1673747	51.6530529
+Municipality of Kochani	2454874	22.4233749	41.9930213
+gmina Tomaszów Mazowiecki	2924731	20.0898025	51.5053446
+Holstebro Municipality	1927494	8.7094893	56.3960296
+Greta Lake;Treptow Creek	4162308	-87.0248506	49.9841472
+Parroquia Vista Hermosa	2595475	-63.5240611	8.0951907
+Cerdeira e Moura da Serra	6549087	-7.9370042	40.2547814
+Sungai Tinggi Reservoir	6166845	101.4899164	3.5791463
+Dolyniany Rural Council	2520318	23.5674903	49.7594533
+Clifton Lake;Stump Creek	4019511	-83.5106816	48.2006779
+Parroquia Luz de America	287821	-79.3378349	-0.4439911
+Convey Creek;Convey Lake	3599256	-84.0250906	47.4638402
+Xinghuacun Subdistrict	7423708	117.2743427	31.9115352
+Mizhenets Rural Council	2581286	22.9208615	49.6756518
+Hofheim in Unterfranken	388771	10.5410621	50.1387309
+Santa Efigênia de Caratinga	6142247	-42.1937277	-19.6440000
+Staryya Darohi District	71135	28.2469077	53.0547786
+Ramotshere Moiloa Ward 10	3668276	25.8682426	-25.4474590
+Ward 96 Vivekanandapuram	55420	80.2681299	13.0419395
+Guilden Morden CP (S Cambs)	1634167	-0.1411082	52.0600632
+Kobylnice nad Doubravou	435204	15.3743866	50.0105643
+Tattenhall and District	7486155	-2.7524404	53.1246675
+Strachovice u Bernartic	423512	12.8194677	49.6346668
+Municipio de Montecarlo	3207695	-54.4983564	-26.6567228
+Prats-de-Mollo-la-Preste	2929038	2.5080993	42.4139307
+Departamento Godoy Cruz	2204158	-68.8896795	-32.9331090
+The Element at MetroWest	1767713	-81.4769247	28.5162244
+Condomínio Lagoa Jóquei Ville	7838861	-38.5723739	-3.7636415
+Shohola Marsh Reservoir	2790447	-74.9869636	41.3748750
+Flood Storage Reservoir	3405510	-0.8433674	52.2322981
+Municipio de Miraflores	1661005	-61.0419186	-25.4766117
+Junta de Villalba de Losa	345540	-3.0679015	42.9538971
+Place de la Légion d'Honneur	7319611	1.4564521	43.6108177

@@ -1,0 +1,49 @@
+Saint-Pierre-du-Bosguérard	536470	0.8848681	49.2600670
+Saint-Jean-de-Folleville	106013	0.4998806	49.5047938
+Puttelange-lès-Thionville	2032450	6.2547943	49.4862251
+Frontignan-de-Comminges	1449974	0.6610548	42.9636363
+Lourdoueix-Saint-Michel	2139946	1.7197610	46.4194045
+Sant'Alessio con Vialone	44478	9.2298553	45.2246867
+Rietzneuendorf-Staakow	1389286	13.6831241	52.0226816
+City of Eastern Sarajevo	2567396	18.7327470	43.8988438
+La Croisille-sur-Briance	115777	1.6042670	45.6197277
+El Cubo de Tierra del Vino	345552	-5.7116058	41.2549087
+Quartiere VIII Tuscolano	5459756	12.5395864	41.8698651
+Kosivshchyna Reservoir	6656016	34.7248988	50.9215367
+Fortaleza dos Nogueiras	332809	-46.1109492	-6.9850000
+Guia, Ilha e Mata Mourisca	6548156	-8.7869554	39.9387060
+Saint-Constant-Fournoulès	5759906	2.2412641	44.6893996
+Burl Lakes;Tomwool Creek	3969925	-80.3672926	48.2673271
+Muslin Creek;Towart Lake	5226534	-86.4394789	50.5210767
+Fenshui River Reservoir	7025541	119.3413504	30.0600000
+North Rendezvous Island	4136180	-125.0670738	50.2870122
+Nossa Senhora de Lourdes	303890	-37.0225126	-10.0796657
+Malopurginsky District	956084	53.0054269	56.5491793
+Soloneshensky District	1150949	84.4041955	51.6182578
+Nossa Senhora de Lourdes	6164096	-37.0225126	-10.0796657
+Quintas de Martim Tirado	5717595	-6.8212847	41.1512636
+Nossa Senhora de Lourdes	3482076	-53.7942905	-29.6987595
+Kostomlaty pod Milešovkou	439355	13.8743550	50.5561291
+Shelopuginsky District	1758044	117.6673243	51.6648716
+Forst Schmalwasser-Nord	1156761	10.0250030	50.3527149
+Nossa Senhora de Lourdes	5582288	-37.4389031	-10.2111594
+Gorteenafoly or Newhall	4269472	-7.8839348	53.0219031
+Kostomlaty pod Milešovkou	428034	13.8743550	50.5561291
+Nossa Senhora da Apresentação	1757051	-35.2774866	-5.7452966
+Nossa Senhora de Lourdes	7296607	-51.1630744	-29.1670645
+Nossa Senhora de Lourdes	7113873	-44.8783934	-20.1706803
+Claydon with Clattercot	4196162	-1.3269971	52.1502233
+Quartier de la Grand'Mare	2859848	1.1376818	49.4471699
+Tabuleiro dos Oliveiras	6849163	-48.6192736	-27.1035258
+Nossa Senhora de Lourdes	7037660	-44.0457073	-20.0213162
+Nossa Senhora de Lourdes	5547045	-43.3265796	-21.7693637
+Nossa Senhora de Lourdes	4823156	-52.4022810	-26.8583811
+Nossa Senhora de Lourdes	5956216	-48.7402711	-27.6789440
+Oost West en Middelbeers	1576132	5.2732702	51.4672268
+Nossa Senhora de Lourdes	5536500	-43.9268589	-19.6894477
+Poospatuck Reservation	398241	-72.8334805	40.7888166
+Overlake at Sunset Ridge	6396552	-78.7968507	35.6469043
+San Pedro de Putina Punco	1919887	-69.2235533	-13.6148900
+Custom House Ward (pre1849)	5608660	-6.2401178	53.3536772
+Stephens Green Ward (c.1780)	5717870	-6.2515270	53.3398789
+Slavutych Municipality	2431029	30.7450251	51.5327000

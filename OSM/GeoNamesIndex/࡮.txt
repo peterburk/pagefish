@@ -1,0 +1,58 @@
+Riencourt-lès-Cagnicourt	1206570	2.9624199	50.1936965
+Beuzeville-la-Bastille	1106396	-1.3700160	49.3499324
+Berteaucourt-lès-Thennes	3347731	2.4594976	49.8219986
+Colombier-en-Brionnais	3337389	4.3396816	46.3494065
+Mauzac-et-Grand-Castang	2545447	0.7813605	44.8780813
+Colombey-les-Deux-Églises	418840	4.9228599	48.2426639
+Colombey-les-Deux-Églises	6820394	4.8934229	48.2127566
+Thorigny-sur-le-Mignon	154825	-0.5475544	46.1523269
+Saint-Hilaire-Taurieux	1108656	1.8321562	45.0789772
+Regional Unit of Lesbos	958516	25.9989741	39.1758433
+Cumignano sul Naviglio	44731	9.8407323	45.3476693
+Krasnoborsky District	1330720	46.2987352	61.8135060
+Hillsborough Township	963383	-74.6951625	40.4985160
+Choroszczewo (kolonia)	6783266	23.0248421	52.5342776
+Karlviks-Uddervattnet	5742383	18.8701287	63.6735231
+Volytsia Rural Council	2552661	24.3296781	50.4024387
+Municipio Todos Santos	4494971	-68.7666246	-19.0378193
+Kulaksizlar Reservoir	3749843	33.9346539	41.6443925
+Mammoth Pool Reservoir	1142184	-119.2985305	37.3584273
+Villanueva del Río y Minas	342571	-5.7305429	37.6505158
+La Plaine-des-Palmistes	317242	55.6423711	-21.1529064
+Gloucester Courthouse	207068	-76.5213419	37.4085189
+Georgiyevsky District	1030145	43.4608840	44.2657609
+Taufkirchen an der Pram	400792	13.5329226	48.4126711
+Velykyi Bereznyi Raion	1738791	22.6548245	48.9412738
+Pochinkovsky District	1168240	44.6823645	54.6962115
+Cabinteely-Kilbogget ED	4218145	-6.1400069	53.2559033
+Busan New Port District	4059982	128.8337809	35.0731622
+Sankt Marein-Feistritz	3894321	14.8595718	47.3078140
+South Buffalo Township	4046656	-79.6365224	40.7244367
+Williamsburg Township	3201959	-84.0661311	39.0392992
+Pochinkovsky District	1694047	32.5314114	54.3650700
+South Lebanon Township	7354648	-76.3757952	40.3046690
+Sint Maartensvlotbrug	144735	4.6975725	52.7903287
+Sruhangarrow Mountain	5538610	-8.0125305	54.9827568
+Altos del Vista Hermosa	3510486	-67.5091854	-46.4563675
+Gafney (E.D. Julianstown)	4562570	-6.3687998	53.6707106
+Bezirksteil Maßmannbergl	66086	11.5566324	48.1543157
+Residencial Boa Vista II	7611208	-49.1090632	-16.6768704
+Vratislavice nad Nisou	430566	15.0937024	50.7353325
+Jardim Arco Verde 1 Etapa	6985918	-48.9415602	-16.3668370
+Ponte Alta do Tocantins	336830	-47.3706181	-10.7525001
+Pilaszkowice Pierwsze	7600426	22.8755091	50.9913435
+Estates at Green Trails	4443213	-95.7150999	29.7669599
+Condomínio Recanto das Águas	7346348	-44.9342706	-20.1138578
+Trails of Winter Garden	2014852	-81.5617453	28.5863035
+The Villas at Pinecrest	1994918	-81.3074520	28.5213641
+Country Los Algarrobos	7327684	-64.2405235	-31.4832190
+Stratos Reservoir Lake	1351956	21.3400413	38.6737158
+Municipio de Juan Pujol	3156445	-57.9134816	-30.3927555
+Bordj El Emir Abdelkader	6534579	2.2369199	35.8222005
+Liubotyn Municipality	2578832	35.9277541	49.9454594
+Municipio de Choromoro	3492623	-65.4101073	-26.4499376
+Place du Docteur Yersin	3370004	2.3720664	48.8203535
+Place du Marché Brauhauban	5527719	0.0754776	43.2310610
+Passeig Cortils i Vieta	3890233	2.7923971	41.6734151
+Villayerno Morquillas	342542	-3.6450741	42.3993128
+Urbanización Ciudalcampo	6658141	-3.6125587	40.6226719

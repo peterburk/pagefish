@@ -1,0 +1,4 @@
+South-Eastern Administrative Okrug	1278703	37.7652479	55.6993352
+Harbour Main - Chapel's Cove - Lakeview	2829134	-53.1716599	47.4120029
+Curry (Macmanus) - (Clanmorris Barony)	5984902	-9.1352021	53.7537552
+Sector Oeste Dupla Norte (San Sebastián)	5846057	-86.2780420	12.1547386

@@ -1,0 +1,51 @@
+Campagne-lès-Wardrecques	287499	2.3333193	50.7127305
+Komo-Margarima Distric	4793634	143.0105208	-6.0500451
+Mangilau Municipality	7403851	144.8402821	13.4630239
+Municipio Guaicaipuro	3337388	-66.9996117	10.2478615
+Messenia Regional Unit	959149	21.8669909	37.0364725
+Petnjica Municipality	7463938	19.9794887	42.9300222
+Pachalik de Sebt Gzoula	5173104	-9.0929180	32.1164932
+San Colombano al Lambro	44363	9.4872929	45.1817068
+La Chapelle-de-Guinchay	1531702	4.7620967	46.2176768
+Gemeinde Prinzersdorf	129502	15.5191073	48.1984206
+gmina Środa Wielkopolska	2568168	17.2808481	52.2399480
+gmina Janowice Wielkie	2936216	15.9067441	50.8926255
+caïdat de Soualem Trifiya	5210682	-7.8682580	33.4538920
+Cabanillas de la Sierra	345612	-3.6321130	40.8269432
+Alibunar Municipality	1639497	20.9572842	45.1014873
+Indira Sagar Reservoir	2810519	76.6307397	22.1634097
+Nedre Skromdalsvatnan	4511415	13.8028706	66.9285185
+Valle Grande Reservoir	1322908	-68.5310616	-34.8544396
+Parroquia Manglaralto	278708	-80.7734710	-1.8173559
+Dunhuang Road District	7065623	103.7535090	36.0743100
+Represa Salto Iporanga	4076012	-47.7329249	-24.1063267
+Hrebeniv Rural Council	2825862	23.5089797	48.9658503
+Eager Lake;Laurie River	2423212	-101.6425728	56.5580610
+Santa Rita de Jacutinga	315237	-44.0946701	-22.1125085
+Churchtown-Woodlawn ED	4262229	-6.2504415	53.2976363
+Santu Diadòru/San Teodoro	39373	9.6294202	40.7793587
+Conquista del Guadiana	2101845	-6.0372013	39.0754420
+Bauernschaft Ostleven	3826153	7.2833427	51.7022592
+Parish of Haslingfield	1634838	0.0575739	52.1544316
+Residencial Ouro Velho	7318739	-44.3275446	-20.0755165
+Isla Redonda o Rondella	3590764	-0.7488801	37.6655491
+Mezopotamya Mahallesi	7151135	40.5756717	37.2048332
+Mezopotamya Mahallesi	5501698	40.1569817	37.9429143
+Corr and Aughantarragh	5175465	-6.7922977	54.4020979
+Yaremche Municipality	2822414	24.4867894	48.3272873
+Portal de San Joaquin II	7628543	-75.7382241	4.7916652
+Teniente Roberto Estévez	4830341	-55.9080719	-27.4020946
+La Colline Saint-Pierre	6483404	5.9125486	43.1557827
+Villarica Subdivision	5803956	121.1086301	14.5911163
+Les Biolettes (Morrens)	1457482	6.6276046	46.5804309
+Residencial das Flores	6922514	-53.7667024	-29.7175083
+Desperado Subdivision	5875855	-103.6522859	44.4404580
+Island Creek Reservoir	223799	-78.4581527	36.5437750
+Hinojosas de Calatrava	344042	-4.1695157	38.5536417
+Piazza Cesare Battisti	3902268	10.2029241	45.6533448
+Piazza Cesare Battisti	4110781	15.2936041	37.0657144
+Piazza Cesare Battisti	7822527	12.8599803	42.4020298
+Piazza Cesare Battisti	4284787	11.0437873	45.8900723
+Piazza Cesare Battisti	1211565	10.8408915	45.8842638
+Valdemanco del Esteras	344642	-4.7207347	38.9698151
+Sidi Makhlouf District	6810432	2.8749803	34.0465710

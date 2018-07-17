@@ -1,0 +1,10 @@
+City and County of Broomfield	1411321	-105.0353649	39.9666138
+City and County of Broomfield	112968	-105.1063726	39.9576201
+Distrito Costa Uruguay Norte	2921926	-58.3805235	-32.9974469
+Fuentelahiguera de Albatages	347448	-3.3048159	40.7792705
+Ozero Bol'shoye Pachishskoye	2516581	44.1180665	63.5469320
+Cederberg Local Municipality	79630	18.8761109	-32.3612650
+London Borough of Wandsworth	51906	-0.1993723	51.4518447
+Governador João Durval Carneiro	6089866	-39.0576605	-12.3240330
+Upwood & The Raveleys CP (Hunts)	1626003	-0.1671562	52.4199042
+San Francisco de Asís de Yarusyacán	1948472	-76.2330092	-10.5487072

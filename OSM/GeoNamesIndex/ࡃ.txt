@@ -1,0 +1,69 @@
+Banneville-la-Campagne	145751	-0.2326145	49.1668466
+Parvillers-le-Quesnoy	3357030	2.7282433	49.7464885
+Saint-Fort-sur-Gironde	126517	-0.7266252	45.4623858
+Sainte-Céronne-lès-Mortagne	2622279	0.5264896	48.5911639
+Schaerbeek - Schaarbeek	58260	4.3800268	50.8622733
+Saint-Georges-le-Fléchard	1244894	-0.5109886	48.0338253
+Beauharnois-Salaberry	7765237	-73.9522248	45.2484101
+Malborghetto Valbruna	179262	13.4331498	46.4978491
+Lajkovac Municipality	2871514	20.1267527	44.3840166
+Villafranca del Bierzo	345873	-6.7923056	42.6949077
+Marano di Valpolicella	45233	10.9129803	45.5565018
+gmina Szczawin Kościelny	295875	19.6025575	52.3518749
+Bartelshagen II b. Barth	374316	12.5755597	54.3132135
+Municipio de Humahuaca	4502115	-65.2987717	-23.1735242
+Buenavista de Valdavia	345616	-4.5928393	42.6301805
+Nachrodt-Wiblingwerde	1800166	7.6166289	51.3137101
+Dozhanka Rural Council	7405759	29.3752600	47.4908515
+Gemeinde Kottingbrunn	111506	16.2411465	47.9545657
+Upper Holman Marsh Lake	1086236	-63.7686056	44.5812882
+Parroquia San Fernando	2550314	-64.0627218	10.2562765
+Parsa Wildlife Reserve	5862116	84.7568733	27.4969291
+Parsa Wildlife Reserve	6536107	84.8333665	27.3480730
+Fossambault-sur-le-Lac	7716432	-71.6027990	46.8883795
+Lac au Bonhomme-Michaud	1594745	-69.4740267	48.4600913
+Lavochne Rural Council	2825559	23.3504752	48.8192535
+Cherneve Rural Council	2535312	23.0597792	49.8554426
+Berehove Rural Council	2829539	23.2903671	49.7985208
+Third Christopher Lake	5356264	-65.0223931	44.3121036
+Bolingbroke Stock Pond	2966017	-0.1680221	51.4542043
+Butnau River;Cache Lake	1795282	-94.8404438	56.3162769
+Santa Maria de Miralles	342590	1.5195688	41.5072339
+Megalos Anthropofagos	532282	26.5403106	37.5151003
+Cachoeira de Santa Cruz	6126806	-42.8116081	-20.7075231
+Santo Antônio da Boa Vista	6154262	-44.1288146	-15.8992655
+Colonia La Nueva Rosita	4829715	-97.5981618	20.2959361
+Jardim Santa Gertrudes	3430505	-48.3674971	-24.1060607
+Departamental Parques	4102560	-100.4031121	20.6114216
+Dogstown (1st Division)	4431288	-6.8075845	53.5431410
+Jardim Alto do Cerrado I	6822364	-49.4411971	-16.6704579
+Lotissement de Manhal 2	3334927	2.2018287	44.9688083
+Prairie-Grands Jardins	3548352	6.8155795	47.5193300
+Claggan Mountain North	5537956	-8.0264161	55.0137738
+Monkstown (Castle Farm)	4800951	-8.3437323	51.8454201
+Condomínio Recanto do Sol	6464560	-42.4741547	-22.9130045
+Didube-Chugureti Raion	2012257	44.7757393	41.7437150
+Jardim Dom Oscar Romero	7725755	-54.6207112	-16.4308183
+Medlovice u Uherského Hradiště	433147	17.2730174	49.0531660
+Fracc. Ciudad San Isidro	5553399	-104.6929069	24.0604067
+Bairro das Laranjeiras	1853772	-40.1910828	-20.1267974
+Municipio de Barrancas	4092885	-60.9240289	-32.2501994
+Municipio de Alpachiri	3413546	-63.8453730	-37.4140682
+Vila Presidente Vargas	4033963	-53.7430565	-29.6907335
+Résidence universitaire	6736270	7.1270233	35.4529339
+Vila Presidente Vargas	5535389	-44.0258066	-19.9681176
+Valentina Norte Urbana	2618534	-68.1557055	-38.9497029
+Casco Urbano Ramiriqui	4078362	-73.3340806	5.4014209
+Buffalo Bill Reservoir	1822056	-109.2048807	44.4683928
+Municipio de Andacollo	3343665	-70.5997132	-37.2360358
+Amherstdale-Robinette	239855	-81.7797307	37.7825830
+Departamento O'Higgins	1606185	-60.6963614	-27.2191244
+Normanton on the Wolds	198501	-1.0687200	52.8906729
+Pianottoli-Caldarello	1120356	9.0545632	41.5210724
+Municipio de Barrancas	3332963	-69.9571379	-36.8221494
+Municipio de Casalegno	4092886	-61.1511779	-32.2550563
+Plaza San Pedro Nolasco	7109652	-0.8769064	41.6527289
+Piazza della Concordia	7411040	9.2053756	45.6496950
+Saint Catherine Square	6813451	25.1305519	35.3376301
+Ferienpark Sierksdorf	3735913	10.7840474	54.0724766
+Piazza della Concordia	6981868	14.4945011	36.7872594

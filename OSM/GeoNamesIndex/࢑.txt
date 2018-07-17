@@ -1,0 +1,37 @@
+Saint-Hilaire-du-Rosier	191605	5.2476552	45.0930822
+Saint-Pardon-de-Conques	93005	-0.1870586	44.5501589
+Saint-Vincent-le-Paluel	3243841	1.2751003	44.8834152
+Saint-Martin-de-Londres	276410	3.7079165	43.7953423
+Saint-Bazile-de-la-Roche	2202384	1.9574942	45.1520489
+Lourouer-Saint-Laurent	2145568	2.0206722	46.6177377
+Saint-Lumine-de-Coutais	88833	-1.7191345	47.0576923
+Sainte-Flaive-des-Loups	170081	-1.5784189	46.6067802
+Sannazzaro de' Burgondi	44148	8.9021801	45.0939910
+Gardabani Municipality	2014334	44.9724509	41.5994378
+Municipio Rafael Rangel	3449335	-70.7193725	9.3398309
+Concepción de Buenos Aires	5605689	-103.2320744	19.9786432
+Gilgandra Shire Council	6268488	148.7044488	-31.6325819
+Les Châtelliers-Notre-Dame	238274	1.2091615	48.3469007
+Alessandria della Rocca	39260	13.4697764	37.5431114
+Morrow Point Reservoir	358927	-107.4300978	38.4480971
+English Clearwater Lake	3266110	-65.8764442	43.8606050
+Gagliano Castelferrato	39333	14.5406759	37.7197382
+Agios Stefanos Langadas	533026	26.1532483	38.4714255
+Brejo Grande do Araguaia	6335244	-48.4984004	-5.7637353
+Terenure-Cherryfield ED	4445687	-6.3245871	53.3137836
+Weißenkirchen im Attergau	102310	13.4007768	47.9507534
+Departamento San Rafael	3006740	-68.6651164	-35.0491814
+Ballinvally (Valentine)	4511332	-6.1681553	52.8681913
+Weeting-with-Broomhill	1022324	0.6289936	52.4731691
+Portaliff or Townparks	5335646	-7.5255099	54.0102638
+Brejo Grande do Araguaia	185595	-48.4984004	-5.7637353
+Case Bella Condominiums	7184765	-81.6047504	30.3785313
+Apartel Taman Sejahtera	6770753	112.7149698	-7.3263846
+Progressive Village 20/21	1556157	120.9776786	14.4226548
+Campbell Mobile Estates	5306216	-87.4082849	36.5837439
+VillageWalk at Lake Nona	2010611	-81.2707678	28.3901992
+Urbanización San Jeronimo	6161710	-89.5666137	13.9674041
+Departamento Humahuaca	3556160	-65.4119360	-23.0108636
+Porttipahta reservoir	298789	26.7523648	68.0684760
+Piazza Maria Immacolata	4675236	17.2427945	40.4712495
+Ferhat Bostan Mahallesi	6894251	37.0264625	39.7514140

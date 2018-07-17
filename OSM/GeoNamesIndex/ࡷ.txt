@@ -1,0 +1,36 @@
+Saint-Julien-de-Mailloc	232874	0.3320548	49.0832058
+Saint-Pierre-de-Mailloc	280372	0.3070530	49.0699512
+Conilhac-de-la-Montagne	2279906	2.2048888	42.9782305
+Courcelles-en-Montagne	3101028	5.2237048	47.8455047
+Saint-Hilaire-d'Ozilhan	384222	4.5952443	43.9695874
+Saint-Mathieu-de-Tréviers	276438	3.8646674	43.7681336
+Saint-Aubin-des-Chaumes	161674	3.7589829	47.3893684
+Moustiers-Sainte-Marie	364778	6.2421528	43.8369664
+Santa Catarina Lachatao	5999980	-96.4970094	17.1880140
+Totoltepec de Guerrero	6037852	-97.8523549	18.2833376
+Municipality of Shtime	1332175	21.0326708	42.4347474
+Pokrovsk Municipality	2910226	37.1703832	48.3097857
+Forest Grove Reservoir	2142552	-95.9538126	32.2262032
+Loch Stadhlaigearraidh	3113062	-7.3828067	57.3182229
+Lower Gwynedd Township	3079690	-75.2363183	40.1878211
+Krzeczkowo-Szepielaki	7051690	22.3363315	52.8299357
+Sant Esteve Sesrovires	342427	1.8806077	41.4816728
+Asentamiento 10 de Junio	6600603	-65.3025262	-24.1794590
+Rio Verde de Mato Grosso	4111119	-54.9739078	-18.7847708
+Shankill-Rathsallagh ED	4233952	-6.1201581	53.2395669
+Zmeinogorsky District	1083293	82.1300978	51.2189377
+Rio Verde de Mato Grosso	334018	-54.9744831	-18.7869382
+Krasnoyarsky District	1270388	50.3653105	53.5720511
+Mukhorshibirsky Rayon	194891	107.7965266	51.0939250
+Krasnoyarsky District	1863174	48.3805579	46.9876036
+Bairro José Maria Tanajura	3927838	-41.8368384	-13.6430912
+Residencial Della Penna	6956431	-49.3826950	-16.7168504
+Residencial Pedra Linda	5543301	-42.6250719	-19.4792662
+Francisco Machado Filho	7097791	-44.8854676	-20.1553656
+1re Baconnois Grand Fond	407631	-73.3974816	18.5034991
+Utkinton and Cotebrook	1451786	-2.6653325	53.1816564
+Stanton upon Hine Heath	6809937	-2.6106064	52.8210312
+Union Valley Reservoir	172990	-120.4131722	38.8740150
+Surrey Park Apartments	6907455	-81.4391920	41.2354739
+Westerville Reservoir	1194020	-82.9338947	40.1611504
+Estació Sant Andreu Arenal	7431078	2.1832109	41.4306822

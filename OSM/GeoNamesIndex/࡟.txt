@@ -1,0 +1,59 @@
+Longchamp-sous-Châtenois	939380	5.8356325	48.2867716
+Oinville-Saint-Liphard	1891725	1.9280700	48.2363240
+Saint-Barthélemy-le-Plain	127968	4.7395135	45.0489101
+Saint-Julien-Chapteuil	118661	4.0790737	45.0276907
+Saint-Sulpice-de-Favières	1214206	2.1811334	48.5342853
+Zvezdara Municipality	6930224	20.5403980	44.7700181
+Chikkamagaluru taluku	4433758	75.7231396	13.3664721
+Robecchetto con Induno	45194	8.7692821	45.5201112
+Hvidovre Municipality	2192198	12.4672585	55.6318990
+Kaabiya Tabash Hajajira	1933846	35.1844644	32.7544345
+Velyka Pysarivka Raion	1745947	35.3490694	50.3831669
+Villamayor de Santiago	344284	-2.9290510	39.7244006
+Gazoldo degli Ippoliti	44401	10.5688978	45.1951223
+Kauno miesto savivaldybė	1067534	23.9557768	54.8900217
+Villamuriel de Cerrato	341645	-4.5002187	41.9537922
+Gribskov Municipality	2186270	12.2212376	56.0489253
+Silva Escura e Dornelas	6022252	-8.3881519	40.7683159
+Étang de la Ville (ex-Étang Lévêque)	5223483	7.0353594	48.7264134
+Lagune de la Berle Neuve	3022961	-0.7987921	44.9184898
+Kvitneve Rural Council	6520600	26.5648180	49.9816015
+San Antonio de Bayushig	3728523	-78.5195122	-1.5492141
+Thandaunggyi Township	5996858	96.7407115	19.0545610
+Zastavne Rural Council	2529406	24.4538893	49.8179517
+Zhaopingtai Reservoir	1956424	112.7431022	33.7420825
+Shire of East Gippsland	3359756	148.5080627	-37.3466157
+Osiedle Pracze Odrzańskie	2341618	16.9147284	51.1832013
+Sant Feliu de Buixalleu	344940	2.5780299	41.7801173
+Gulkevichsky District	918974	40.7184785	45.2512569
+Municipio de Esperanza	4129006	-60.9063426	-31.4322198
+Kalachyovsky District	1106825	43.5844828	48.6896699
+Saraktashsky District	1395095	56.2120349	51.8520231
+Klein Kreutz/Saaringen	6644954	12.6474895	52.4420601
+Karakulinsky District	954159	53.6587573	56.0404663
+Bowling Green Township	2272888	-82.3090296	39.9390605
+Safakulevsky District	398450	62.4487291	54.8869133
+Chancellorstown Lower	5552032	-7.7601585	52.3810288
+Townparks 5th Division	4178881	-8.8390448	53.5184269
+Vivenda dos Coqueiros 2	4142049	-41.2944547	-21.7910876
+Friedrichskoog-Spitze	3289035	8.8432260	54.0320010
+Grangerosnolvan Lower	4593552	-6.8798289	52.9697291
+Townparks 5th Division	4178880	-8.8247489	53.5238070
+Bowling Green Township	7462874	-83.3553683	40.5532536
+Ostufer Schweriner See	449794	11.5375122	53.6731449
+Municipio de Payogasta	7303624	-66.0098182	-24.9603204
+La Palazza at MetroWest	2021278	-81.4797382	28.5123595
+Sector Este Dupla Norte	5846107	-86.2696306	12.1541440
+Cromwellsfort Heights	3332689	-6.4603140	52.3278012
+Dakshinpuri Extension	3777339	77.2424427	28.5203357
+Morrison Creek Commons	7471291	-125.0243096	49.6800470
+Quartier Morne Lazarre	2378960	-72.2936152	18.5263953
+Cidade Jardim Eldorado D	5535308	-44.0351230	-19.9463849
+Torvinge industriområde	6429709	15.6693641	58.4202563
+Villages of Dorchester	7449394	-76.7385032	39.1582623
+Sunday Creek Reservoir	5646639	-106.5467620	46.7667148
+French River Reservoir	3338415	-71.8869102	42.0280108
+French River Reservoir	3337697	-71.8787142	42.0732142
+Distrito Arroyo Grande	2843440	-58.4486839	-31.6615086
+Municipio de Los Varela	7317913	-65.9555940	-27.8313407
+Place du Poilu de France	3596046	-1.7836609	46.4967671

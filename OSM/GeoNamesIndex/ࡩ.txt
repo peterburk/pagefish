@@ -1,0 +1,43 @@
+Colleville-Montgomery	163566	-0.2986096	49.2761688
+Saint-Georges-Montcocq	406204	-1.1143200	49.1374062
+Saint-Germain-de-Vibrac	154245	-0.3266270	45.4214537
+Charmois-devant-Bruyères	145134	6.5923124	48.1711947
+Chauvency-Saint-Hubert	2972565	5.2955603	49.5386280
+Saint-Martin-d'Armagnac	133261	-0.0616899	43.7131104
+Sainte-Croix-de-Caderle	1019339	3.8715642	44.0667981
+South Waikato District	4266614	175.8479833	-38.1656177
+Nossa Senhora das Dores	303935	-37.2145013	-10.4600910
+Mirueña de los Infanzones	346252	-5.0951478	40.7324598
+Commune Sainte-Suzanne	391989	-72.0614334	19.5327239
+Vestre Solheimsvannet	6183284	8.6958750	58.5459571
+Parroquia El Progresso	2677052	-89.3678095	-0.7387757
+Lac des Trois Montagnes	900172	-74.7807506	46.1654353
+Liujiazhaizi Township	6776082	105.3598989	36.2694788
+Commune Anse-d'Hainault	389326	-74.4105477	18.4648728
+Rückhaltebecken Berner Au	33449	10.1239719	53.6211266
+Compton Lake;Snow Creek	1476502	-100.0941660	55.0413257
+Przeździecko-Drogoszewo	7041264	22.2374074	52.8833671
+Hallstahammars kommun	935590	16.2379531	59.5662599
+Zelenodolsky District	367671	48.5413095	55.7816655
+Port Jefferson Station	175773	-73.0655466	40.9229087
+Zernogradsky District	1552931	40.4948731	46.7908924
+Rathfarnham-St. Edna's ED	4652632	-6.2866905	53.2895974
+Nossa Senhora das Dores	6170299	-37.2145013	-10.4600910
+Zona XL Magliana Vecchia	5326785	12.4047949	41.8251369
+Nossa Senhora das Dores	3481534	-53.7919392	-29.6901517
+Maslyaninsky District	960829	84.4299481	54.4178314
+Carrickavrantry South	5651272	-7.1744963	52.1732298
+Cooleeshil or Richfort	2385714	-7.7183808	53.6815883
+Lotherton cum Aberford	4781424	-1.3265720	53.8218707
+Leverington CP (Fenland)	1608933	0.1317584	52.6846809
+Ballynamullan (part of)	4203828	-6.4513670	54.7201928
+Theewaterskloof Ward 13	6580239	18.9997949	-34.1615057
+Wekiva Springs Reserve	2027173	-81.5221299	28.7014410
+Loteamento Grazziotin	4517708	-53.7251732	-29.6999941
+Ciudadela Comfamiliar I	7639956	-75.7376209	4.7968734
+Sector Sur Club Terraza	5878094	-86.2604610	12.0980959
+Monte Vista Apartments	2061489	-81.4716958	28.4956134
+Dutton Creek Reservoir	11540	-105.9951763	41.5937448
+Souk El-Tenine District	4112884	5.4069406	36.5987512
+Plaza de los Bermejales	1704703	-4.0427155	37.1998349
+Longwanggou Reservoir	2969433	112.5274863	33.1861762

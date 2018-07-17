@@ -1,0 +1,46 @@
+Bailleul-Sir-Berthoult	1135408	2.8436907	50.3354141
+Saint-Langis-lès-Mortagne	2596927	0.5369886	48.5101119
+Villeneuve-Saint-Denis	1381816	2.7891890	48.8128365
+Saint-Jean-Pierre-Fixte	2031650	0.8326218	48.2946180
+Fontaines-Saint-Martin	73664	4.8550449	45.8445213
+Municipality of Lipjan	1332188	21.0189653	42.5337703
+South Gloucestershire	82631	-2.4809529	51.5491916
+Sant'Ilario dello Ionio	39579	16.1921115	38.2149428
+Municipality of Dojran	2591259	22.7040295	41.2253118
+Microrregião do Médio Mearim	5138364	-44.7412995	-4.4655001
+Ljubinje municipality	2528227	18.0926967	42.9487138
+Microrregião de Itabaiana	4507897	-35.5751082	-7.2581736
+Villanueva de la Serena	344722	-5.7229010	38.9969417
+Zhyrivka Rural Council	2506578	24.1008763	49.7150754
+Municipio Quirusillas	4511439	-63.9461304	-18.3442962
+Rohrbach an der Lafnitz	3865147	15.9704260	47.3908410
+Wuguishan Subdistrict	5668306	113.3978517	22.4390921
+Shuiyuanchi Reservoir	5802555	109.4775916	18.3629827
+Commune Pointe-à-Raquette	387087	-73.1819932	18.8577767
+Ouderkerk aan de Amstel	1357540	4.9185168	52.2877072
+Villanueva del Rosario	347395	-4.3629131	37.0055939
+Santo Antônio do Cruzeiro	5196623	-45.2826319	-21.1718164
+Ballinteer-Broadford ED	4234447	-6.2605308	53.2783853
+Conquista del Desierto	4679419	-65.0416976	-42.7706603
+Chichigalpa (Municipio)	5721087	-87.0364867	12.5800487
+Duldurginsky District	919867	113.3905251	50.7910707
+Svobodnensky District	1748664	127.5763547	51.4161037
+Sector Sureste San Juan	5860883	-86.2665307	12.1157099
+The Ridge at Hunton Park	3067421	-77.5271580	37.6841036
+Silvermead at Vint Hill	7206280	-77.6657908	38.7501870
+Strilkiv Rural Council	2541147	23.9362103	49.2069503
+Municipio de Los Amores	4242819	-60.2172093	-28.1243977
+Municipio de Las Juntas	7317914	-65.9602256	-28.0500509
+Municipio de Monigotes	4208616	-61.6071731	-30.5014144
+Mlynyska Rural Council	2541186	24.2462801	49.3081052
+Plaza del Ayuntamiento	3995331	-1.6842152	42.8045402
+Plaza del Ayuntamiento	7846861	-4.0246167	39.8570198
+Plaza del Ayuntamiento	7752110	-3.3685790	38.0085340
+Plaza del Ayuntamiento	7752109	-3.3683183	38.0085283
+Plaza del Ayuntamiento	1739494	-0.8516652	37.7390138
+Doctor Struyckenplein	4561155	4.7551098	51.5770519
+Plaza del Ayuntamiento	4041626	-0.7546282	41.3064842
+Plaza del Ayuntamiento	3616157	-6.5904993	42.5458809
+Plaza del Ayuntamiento	1286184	-5.6603859	43.3925902
+Plaza del Ayuntamiento	6503470	-7.0498453	43.4643544
+Hulivtsi Rural Council	6520402	26.4895022	50.0060660

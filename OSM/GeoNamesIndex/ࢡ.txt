@@ -1,0 +1,27 @@
+Al Hudaydah Governorate	383894	43.0846302	14.6375132
+Espagnac-Sainte-Eulalie	122590	1.8574403	44.5909180
+Pontcharra-sur-Turdine	405659	4.4973079	45.8753788
+Saint-Maurice-sur-Adour	75956	-0.4649972	43.7932371
+Saint-Pierre-de-Vassols	181261	5.1386316	44.0987912
+Pachalik de Bouizakarne	5194251	-9.7114810	29.1742223
+Portescusi/Portoscuso	39830	8.4183397	39.1993991
+Lake of the Woods County	1796052	-94.8888162	48.8762345
+"Terrenos del Lote ""Alazán"""	5762540	-97.7273561	21.1086861
+gmina Międzyrzec Podlaski	3101238	22.7666593	52.0180927
+Michaelerberg-Pruggern	3842144	13.8833388	47.3853140
+San Colombano Certenoli	43090	9.3281979	44.3971621
+Albufeira de Fonte Longa	3357130	-7.2779214	41.2295908
+Santa Margarida da Serra	6444662	-8.5979817	38.1048777
+Banaripara Subdistrict	4643350	90.1396838	22.8059265
+Bhola Sadar Subdistrict	4819695	90.6380977	22.7050402
+Residencial Nova Aurora	6957030	-49.3721320	-16.6875489
+Ballyclare North Island	6810814	-8.0042065	53.6644169
+Ramotshere Moiloa Ward 8	3668293	26.0761471	-25.3670720
+Porteen And Ballyrevagh	5334860	-8.2141454	53.4219877
+Hickory HIll Apartments	3622608	-83.1570436	40.0047296
+Falcon Trace Apartments	2027165	-81.4014569	28.3628560
+Marsa Ben M'Hidi District	6817775	-2.1133663	35.0301173
+La Paz Centro (Municipio)	5722999	-86.5487983	12.3848230
+Piazza Leonardo Da Vinci	1987792	13.8710400	42.0991670
+Piazza Leonardo Da Vinci	2939640	9.1577674	45.1863041
+Reichenbach im Vogtland	2986255	12.3333278	50.6217299

@@ -1,0 +1,21 @@
+Éclaron-Braucourt-Sainte-Livière	418803	4.8301802	48.5697033
+Saint-Projet-Saint-Constant	397148	0.3441894	45.7265648
+Mesorregião Centro Fluminense	2215526	-42.5044173	-22.0775011
+San Francisco Telixtlahuaca	5999747	-96.9258325	17.3669531
+caïdat de Sidi allal El Bahraoui	5140998	-6.4528891	34.0066731
+Parroquia Francisco Fajardo	2529425	-63.9205047	10.9602434
+East Branch Twelvemile Creek	7088052	-78.8390967	43.3096666
+Presa Presidente Benito Juárez	7468316	-95.4470720	16.4888723
+Gemeinde Dunkelsteinerwald	129511	15.4617870	48.2662931
+Mesorregião do Nordeste Baiano	4552868	-39.0904587	-10.9950290
+Rahasane Electoral Division	6157309	-8.7863986	53.2023568
+Milltown-Head of Bay d'Espoir	2840195	-55.7284289	47.9285285
+Marseille 2e Arrondissement	76098	5.3628782	43.3153865
+Mesorregião Leste Rondoniense	4748686	-61.7898597	-11.1323029
+Castlefarm (E.D. Kilsallaghan)	5446373	-6.3144891	53.4757543
+King Sabata Dalindyebo Ward 32	3594578	28.6350437	-31.7080376
+King Sabata Dalindyebo Ward 14	3594558	28.6181642	-31.6028505
+King Sabata Dalindyebo Ward 23	3594568	28.6998004	-31.8860825
+Arvoredos Clube Residencial	5418104	-44.1053621	-19.9491158
+Westonbirt with Lasborough	6065248	-2.2192183	51.6220416
+"Chilonzor 24 mavzesi ""Vatan"""	1804989	69.1746873	41.2805719

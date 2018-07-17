@@ -1,0 +1,14 @@
+Saint-Georges-lès-Baillargeaux	142100	0.4420206	46.6678166
+Arrondissement de Fort-Liberté	394452	-71.8501483	19.5691388
+Provincia Manuel M. Caballero	4510325	-64.5315715	-17.8277648
+Mid-Western Regional Council	6268502	149.7367441	-32.6021362
+Council of the City of Sydney	1251066	151.2049267	-33.8888845
+Gemeinde Unterstinkenbrunn	114537	16.3419149	48.6792620
+"Terrenos del Lote ""Miahuapa"""	5671653	-97.6431508	20.6131722
+"Terrenos del Lote ""Camalote"""	5691855	-97.5177309	20.8835534
+Berendrecht-Zandvliet-Lillo	67940	4.3066730	51.3344934
+O'Dempsey Electoral Division	4453831	-7.2795811	53.2192260
+Wormhole Electoral Division	3967930	-9.1918231	53.3959870
+Terminal Intermodal da Serra	1854912	-40.2886299	-20.2142632
+Barrio Nuestra Señora de Loreto	4461171	-58.9090611	-34.3405050
+Verwaltungsregion Oberland	1684606	7.8360127	46.5816022

@@ -1,0 +1,5 @@
+Xhariep District Municipality	593797	25.7522392	-29.7613001
+Municipio de Villa La Angostura	3343683	-71.6249782	-40.7740917
+Parroquia San Rafael de Orituco	2465612	-66.5074722	9.8533125
+Krzesiny-Pokrzywno-Garaszewo	1851935	16.9784055	52.3513542
+District de l'Ouest lausannois	365554	6.5667509	46.5460159

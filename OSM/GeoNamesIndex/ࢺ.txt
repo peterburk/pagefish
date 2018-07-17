@@ -1,0 +1,40 @@
+Pomeranian Voivodeship	130975	18.0009576	54.1634689
+Vattetot-sous-Beaumont	1672515	0.4473262	49.6285416
+Saint-Martin-Lacaussade	1689073	-0.6432567	45.1398092
+Moutiers-sous-Argenton	150294	-0.3743809	46.9649177
+Mandailles-Saint-Julien	133173	2.6635007	45.0776691
+Saint-Laurent-sur-Gorre	453795	0.9719624	45.7708745
+Bir Mourad Rais District	2711707	3.0407788	36.7070369
+Linkenheim-Hochstetten	659818	8.4106180	49.1273775
+San Salvatore di Fitalia	39506	14.7833660	38.0658945
+Silkeborg Municipality	1926837	9.6087462	56.1817863
+Regierungsbezirk Münster	63594	7.4713498	51.9777397
+Kelurahan Oluhuta Utara	6703349	123.0995700	0.5492126
+Crna Trava Municipality	2860203	22.3483309	42.8480411
+Nova Crnja Municipality	1639822	20.6457190	45.6903708
+Helena Valley Southeast	3356246	-111.9297834	46.6147944
+Cinderella's Castle Moat	3966211	-81.5802616	28.4188878
+Rodatychi Rural Council	2826076	23.5108069	49.8014118
+Parroquia Urbana Elorza	2704655	-69.3250260	6.7231144
+Municipio Rurrenabaque	4055186	-67.2751465	-14.7827372
+Fengyangshan Reservoir	5946702	117.6088714	32.6776847
+Voloshcha Rural Council	2390125	23.6136450	49.5191228
+Albrechtice nad Vltavou	437523	14.3038422	49.2846886
+Village of Saint Charles	135037	-84.1456266	43.3008664
+Loteamento Santa Esther	7692135	-54.6107368	-16.4686451
+Condomínio Gran Ville Igarapé	7318815	-44.3413496	-20.0564583
+Albrechtice nad Vltavou	433029	14.3187472	49.2500842
+Municipio de Bernasconi	3419001	-64.0132231	-38.1313919
+Fuchungjiang Reservoir	334795	119.5121617	29.4437499
+Fuente De Paz Apartments	4094085	-116.1801644	33.6658625
+Santa Juana de Las Villas	7426494	-75.7534555	4.7981563
+Le Verger de Valbertrand	6087945	5.8921504	43.1359057
+Urbanización de Torneiros	1352638	-8.6314108	42.1528421
+Theodore Roosevelt Lake	1078803	-111.1661298	33.7046893
+Ain Temouchent District	6535189	-1.1579738	35.2884550
+Piazza Victorine Le Dieu	6047099	15.0504600	37.4938905
+Piazza Vincenzo Bellini	3611990	14.2522634	40.8500095
+Piazza Vincenzo Bellini	1152400	15.0910195	37.5043422
+Latviešu strēlnieku laukums	5213288	24.1060276	56.9467978
+Santa Cruz del Valle Urbión	347675	-3.2076659	42.2772854
+Aldeanueva de Santa Cruz	344141	-5.4212519	40.3784962

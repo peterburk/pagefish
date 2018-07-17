@@ -1,0 +1,5 @@
+Metropolitan City of Florence	42472	11.3743562	43.8461388
+Loteamento Vertentes da Serra	7318822	-44.3102871	-20.0790188
+Mullaghattin (E.D. Jenkinstown)	5230138	-6.2714613	54.0309213
+Nyzhnia Stynava Rural Council	2541015	23.6382029	49.1374966
+Elisabeth-Schwarzhaupt-Platz	534584	13.3874726	52.5324353

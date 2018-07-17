@@ -1,0 +1,36 @@
+Lachapelle-Saint-Pierre	457025	2.2287455	49.2670325
+Marquette-en-Ostrevant	56076	3.2724404	50.2928207
+Świętokrzyskie Voivodeship	130914	20.7984268	50.7637273
+Dossenheim-Kochersberg	84421	7.5786626	48.6414195
+Villiers-sous-Mortagne	2648243	0.5846710	48.5419925
+Saint-Barthélemy-de-Bussière	146290	0.7465884	45.6420089
+Doncourt-aux-Templiers	2969300	5.7238942	49.0602188
+Dissay-sous-Courcillon	107688	0.4887340	47.6662819
+Saint-Merd-les-Oussines	2929862	2.0215826	45.6201124
+Mesorregião Norte de Minas	2235302	-43.9778929	-16.1895000
+Meranti Islands Regency	7833398	102.7019636	1.0613048
+Warangal Urban District	2022181	79.4646608	18.0266492
+Saint-Georges-sur-Meuse	2002544	5.3612098	50.5969154
+Bartenshagen-Parkentin	156532	11.9653866	54.0873255
+Microrregião de Guarulhos	2627415	-46.3046883	-23.3466760
+Microrregião de Moji-Mirim	4802968	-46.8749817	-22.3752378
+Santo Stefano Lodigiano	44183	9.7349987	45.1229093
+San Romano in Garfagnana	42905	10.3373889	44.1856938
+Big Eau Pleine Reservoir	2827411	-89.8799248	44.7540662
+Little Sandcherry Creek	3382736	-81.3358946	46.8075888
+Blay Lake;Jackfish River	4134413	-87.9925779	49.2948911
+Naas Municipal District	5857138	-6.6440101	53.1886579
+Bolshoy Kuskovsky pond	173793	37.8081599	55.7335586
+Commune Môle-Saint-Nicolas	389610	-73.3752099	19.7717593
+Département de Ziguinchor	5568936	-16.1940989	12.5054718
+San Ferdinando di Puglia	41202	16.0384494	41.2782942
+Samtgemeinde Tarmstedt	1022894	9.1316199	53.2400032
+Barra Grande de Mesquita	6138242	-42.6472084	-19.3255001
+Corraree and Ballygatta	5318813	-8.0976283	53.4038472
+Barrrio de la Candelaria	6036577	-88.2059783	20.6957557
+Quartier Gare / Jouvenet	2859845	1.0992351	49.4499711
+Santo Antônio do Paraibuna	5547063	-43.3120865	-21.7726147
+Parque Jardim 1º de Outubro	7037643	-44.0607420	-20.0292509
+Osman Kavuncu Mahallesi	3468573	35.4440280	38.7298397
+Cabinet Gorge Reservoir	2418747	-115.8755119	48.0354018
+Municipio de Colonia Ana	4206704	-61.9628620	-30.1212969

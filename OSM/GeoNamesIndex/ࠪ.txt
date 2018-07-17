@@ -1,0 +1,44 @@
+Saint-Nicolas-aux-Bois	153626	3.4378935	49.6004318
+Ancretteville-sur-Mer	2673889	0.5034203	49.7890653
+Saint-Martin-d'Arrossa	167609	-1.3178820	43.2312094
+Saint-Florent-le-Vieil	301728	-1.0108123	47.3455936
+Saint-Colomb-de-Lauzun	2774262	0.4731638	44.6063445
+Saint-Brice-sur-Vienne	116594	0.9855540	45.9092167
+Ixcateopan de Cuauhtémoc	5605893	-99.7659831	18.4633650
+Dubbo Regional Council	6268489	148.8368618	-32.4745294
+Qingbaijiang District	3581622	104.3167034	30.7918363
+Trezzano sul Naviglio	44941	9.0569774	45.4216238
+New Town municipality	2528240	18.3346724	43.8666152
+Microrregião de Blumenau	4836573	-49.1998312	-26.8983499
+Gemeinde Rauchenwarth	111811	16.5227050	48.0873725
+Place Charles de Gaulle	1100818	2.2954441	48.8737673
+Rancho Santa Margarita	112975	-117.6086953	33.6280396
+Parroquia Chaguaramal	2655226	-63.4399901	9.8825460
+Gemeinde Breitenstein	103772	15.7817922	47.6516054
+Étang des Basses Godernes	359515	2.7923805	48.3895073
+São Salvador e Santa Maria	6437463	-8.6229413	37.6128153
+Haken Lake;Larkin Creek	4165513	-84.6949739	49.1042500
+Lac Masko Oponapananik	3349973	-75.1008330	48.7126048
+Tao Lake(Changdang Lake)	6317213	119.5515023	31.6116442
+Mogoytuysky District	919866	115.3040515	51.1253886
+Les Marolles - Marollen	7052507	4.3466759	50.8380284
+Yuryevetsky District	389798	42.9443947	57.3462522
+Bhandaria Subdistrict	4631867	90.0168007	22.4571234
+Departamento Río Segundo	1934102	-63.5492063	-31.6895930
+Carrigacat and Milleen	5837365	-9.7587117	51.5050970
+Tour Chabot Gavacherie	2568940	-0.4909430	46.3298941
+Bourton And Draycote CP	3011006	-1.3506307	52.3274196
+Microrregião de Boa Vista	4815222	-61.6815509	3.6579664
+Montclar-sur-Gervanne	82259	5.1589244	44.7502011
+Saint-Laurent-des-Bois	271149	1.4584681	47.8583874
+Quartier Agban Village	4782829	-4.0329712	5.3611134
+Laguna de Atlangatepec	2315051	-98.1830095	19.5617215
+Saint-Laurent-des-Bois	3301280	1.3182140	48.8466538
+El Castillo (Municipio)	6641395	-84.3201357	11.0909878
+Place Charles de Gaulle	3189088	3.4252750	46.1250700
+Piazza Elia Benamozegh	6831075	10.3088746	43.5489162
+Place Charles de Gaulle	965379	1.4392874	44.4509627
+Paseo de Soledad González	2964853	-5.6819153	42.0006295
+Place Charles de Gaulle	1142530	1.5328374	45.1588210
+Place Charles de Gaulle	5309135	-0.6471491	44.8423269
+Berrocalejo de Aragona	339705	-4.5932515	40.6956652

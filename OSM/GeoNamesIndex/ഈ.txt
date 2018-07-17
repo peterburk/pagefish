@@ -1,0 +1,5 @@
+Verwaltungsregion Bern-Mittelland	1684745	7.4957800	46.8968080
+Verwaltungsgemeinschaft Konstanz	2952478	9.1238847	47.7139976
+Bahmanshir-e Shomali Rural District	6556770	48.3559968	30.3935747
+Commune Petite Rivière de l'Artibonite	392115	-72.3396798	19.0694481
+Portal del Sol Conjunto Residencial	7734980	-75.6855668	4.8274523

@@ -1,0 +1,3 @@
+Phra Nakhon Si Ayutthaya Province	1908806	100.5319446	14.3972205
+Kilkenny City Municipal District	6805298	-7.1890295	52.5700183
+Monasteroris Electoral Division	4448327	-7.1411527	53.3200390

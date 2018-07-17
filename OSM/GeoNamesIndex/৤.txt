@@ -1,0 +1,17 @@
+Saint-Laurent-en-Grandvaux	380001	5.9610459	46.5706679
+Moutiers-sous-Chantemerle	150299	-0.6321406	46.6873519
+Caminha (Matriz) e Vilarelho	5688092	-8.8428868	41.8674157
+Brandenburgisches Viertel	2706538	13.7622543	52.8283889
+Clogher Electoral Division	6897440	-7.9619316	54.6901134
+Killian Electoral Division	6744563	-8.4210335	53.4809107
+Clogher Electoral Division	6853327	-9.4664372	53.8233093
+Killeen Electoral Division	6798944	-8.8363262	53.5608684
+Clogher Electoral Division	6854695	-9.2296208	53.7675063
+Gimenells i el Pla de la Font	345920	0.3846563	41.6711704
+Russko-Polyansky District	1314130	73.9078758	53.7295628
+Rigollots, Roublot, Carrières	1845293	2.4631261	48.8509832
+Setor Médico Hospitalar Norte	5739261	-47.8845245	-15.7848832
+Residencial Jardins do Lago	6780394	-48.9291205	-16.3493019
+Partido de General Alvarado	2621700	-58.0598914	-38.2011655
+Partido de General Belgrano	2599608	-58.6117603	-35.8484641
+Piazza Giambattista Bodoni	4219674	7.6842729	45.0632165

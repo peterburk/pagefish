@@ -1,0 +1,55 @@
+Honnecourt-sur-Escaut	55858	3.2099933	50.0339110
+Saint-Palais-de-Négrignac	124635	-0.2075099	45.2719258
+Saint-Martin-des-Monts	107414	0.5905003	48.1501975
+Saint-Michel-de-Bannières	124329	1.6832075	44.9751549
+Saint-Georges-sur-Erve	1137582	-0.2991536	48.1781071
+Libreville Department	2804109	9.5161605	0.4502020
+Ioannina Regional Unit	558486	20.8385878	39.8288245
+cercle de Tilal Al Gharb	5011800	-5.7063216	34.6533800
+Valdefuentes de Sangusín	343876	-5.8263156	40.4693674
+Landkreis Cloppenburg	62597	7.9625322	52.9314875
+Zagubica Municipality	2869912	21.7482291	44.2218516
+Castagnole Monferrato	43825	8.3035335	44.9558278
+San Fernando de Henares	347592	-3.5097737	40.4399074
+Municipio de Ibarlucea	3380565	-60.8034551	-32.8485034
+Gradacac municipality	2528203	18.4329442	44.8464178
+Santo Domingo-Caudilla	341773	-4.3194669	40.0100661
+San Vicente del Palacio	343465	-4.8534280	41.2199421
+San Gregorio di Catania	39272	15.1091091	37.5576959
+Boljevac Municipality	2869100	21.9021947	43.8677420
+Parroquia Capital Piar	2655232	-63.4055660	10.0268575
+Indian Creek Reservoir	1333149	-92.4606605	31.1113958
+Trollebotnsvatnet, øvre	6331191	5.1597075	61.1804392
+Little Sandcherry Lake	3381923	-81.3313917	46.8142275
+San Jacinto de Yaguachi	2664546	-79.7168180	-2.0423368
+Bang Talat Subdistrict	3322044	100.5290783	13.8920810
+Second Government Lake	4165514	-84.8992557	49.1994508
+Barragem do Descoberto	3359509	-48.2084292	-15.7426245
+Comberton Village Pond	4767222	0.0186723	52.1872792
+Kwaskwaypichikin Lake	6655561	-96.4944648	55.7742173
+Independence Township	571976	-83.3893197	42.7476364
+Frankenthal Kernstadt	2603049	8.3508766	49.5379621
+Ballymore Eustace East	5441962	-6.5924060	53.1374693
+Residencial Privé Itanhangá	6870255	-49.2751557	-16.5731622
+Residencial Ouro Verde	7318820	-44.3337710	-20.0973989
+Glebe (E.D. Dundalk Rural)	5274159	-6.3996679	54.0251949
+Residencial Aeroporto	6980916	-49.4472793	-17.5020035
+Residencial Santa Cruz	7005195	-48.9465010	-16.2836658
+Coolnaharragill Upper	6192289	-10.0107483	52.0366576
+Keadby with Althorpe CP	1274118	-0.7556373	53.5862720
+Little Paxton CP (Hunts)	1629284	-0.2579882	52.2512628
+Victor Manuel Tinoco Rubí	4266367	-102.2197694	17.9812114
+Ivete Guerreiro Daniel	3111949	-49.1957626	-18.7247545
+Theewaterskloof Ward 9	6580248	19.1267365	-34.0566003
+Creekside Subdivision	4020957	-103.8652261	44.5070620
+Residencial Jurupari I	6991932	-38.6189438	-3.7597267
+Barrio Altos de Pacheco	3528182	-58.6820268	-34.4349596
+Hilliard Condominiums	310647	-83.1569256	39.9873102
+Balcones de Villa Verde	7666900	-75.7080868	4.7910335
+Mirador de Llano Grande	7811232	-75.7360625	4.8268715
+Estates at Lake Clarice	2008196	-81.5802933	28.4980944
+Indian Creek Reservoir	5196046	-79.4564538	39.9770550
+Municipio de Garmendia	3491893	-64.6243102	-26.5464726
+Jardins del Petit Príncep	7096302	2.1754896	41.4316086
+Place Georges Pompidou	556816	2.3517423	48.8607766
+Largo Armando Tantillo	4103861	15.2862029	37.0920327

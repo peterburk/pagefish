@@ -1,0 +1,21 @@
+Saint-Germain-lès-Senailly	145900	4.2796710	47.5987703
+Saint-Jean-Saint-Gervais	359501	3.3764150	45.4260514
+Municipio de Corrientes	3127758	-58.7657854	-27.5267483
+Regional Unit of Islands	957704	22.9858147	36.2131891
+Ylä-Pirkanmaan seutukunta	6440634	24.1228288	62.1024733
+Prokuplje Municipality	2863769	21.5093028	43.1992729
+Tiruvanamalai district	1819597	78.9890507	12.4138475
+Sundsvall Municipality	935497	16.8707381	62.5231644
+Dachsberg (Südschwarzwald)	1240387	8.0870575	47.7050215
+Lettershask Lough North	2548668	-10.0463313	53.4317084
+Popovychi Rural Council	2581276	22.9060287	49.7327893
+Chernushinsky District	1076251	56.1258085	56.5310399
+Gloucester-South Nepean	7101978	-75.6829179	45.2899073
+Solares de las Ensenadas	6901873	-64.5195282	-31.4501178
+Curraghboy or Woodfield	4122885	-7.6222581	53.3705022
+Chipping Warden & Edgcote	58372	-1.2630325	52.1294861
+Stainton by Langworth CP	1866252	-0.3978456	53.2927424
+Steeple Morden CP (S Cambs)	1634162	-0.1171691	52.0669735
+Gamovo Rural Settlement	1440431	56.1061209	57.8565923
+Xiangshuitan Reservoir	4859785	106.4263435	30.6007948
+Xiangshuitan Reservoir	3144106	115.2183084	30.8896393

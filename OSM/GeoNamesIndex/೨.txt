@@ -1,0 +1,7 @@
+Edenderry Rural Electoral Division	4257067	-7.0407238	53.3057703
+Clonleigh South Electoral Division	6997156	-7.5331197	54.8253838
+Shannonharbour Electoral Division	4281547	-7.9418796	53.2115280
+Aghagower South Electoral Division	6853290	-9.4352586	53.7387314
+Comisión de Fomento de Adolfo Van Praet	3355248	-64.0146986	-35.0795112
+Centro Administrativo La Alpujarra	5011360	-75.5733484	6.2445169
+Darmstadt Hauptbahnhof Busstation	6674147	8.6316019	49.8715749

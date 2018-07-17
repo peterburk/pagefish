@@ -1,0 +1,5 @@
+Anglesqueville-la-Bras-Long	3007981	0.7827867	49.7796861
+Região Metropolitana de São Paulo	2661855	-46.3776386	-23.6236476
+Quartier de la Chaussée-d'Antin	2189601	2.3322583	48.8731948
+Residencial Parque Mendanha	6931291	-49.3382362	-16.6694623
+Upton & Coppingford CP (Hunts)	1627543	-0.2841901	52.4003191

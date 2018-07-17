@@ -1,0 +1,15 @@
+Chasseneuil-sur-Bonnieure	111363	0.4407963	45.8241654
+Saint-Maurice-de-Rotherens	80060	5.7014852	45.6207737
+Lachapelle-sous-Rougemont	80685	7.0146197	47.7152960
+Comunità della Valle dei Laghi	6535942	10.9822227	46.0475083
+Comunità della Valle di Cembra	6535915	11.2468905	46.1937511
+Andaman and Nicobar Islands	2025855	92.7693852	12.0919743
+Parroquia Capital El Callao	2595349	-61.8090580	7.2196679
+Binbane Electoral Division	6913051	-8.2248569	54.7251079
+Kirchrode-Bemerode-Wülferode	1863359	9.8380548	52.3387769
+Hoca Ahmet Yesevi Mahallesi	7734563	35.4875540	38.7554755
+Cloonascarberry (Cheevers)	5389724	-8.3793666	53.5087499
+Country Altos de Carlos Paz	6902362	-64.5185835	-31.4375041
+The Atriums at Silver Pines	2075900	-81.4538471	28.5738624
+Little Lake Georgia Terrace	2090643	-81.2468614	28.6121195
+Zavodoukovsky Urban Okrug	1711469	66.7474968	56.5644036

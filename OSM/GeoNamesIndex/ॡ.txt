@@ -1,0 +1,16 @@
+Saint-Germain-de-Montbron	1861998	0.4201550	45.6355725
+Saint-Bonnet-de-Rochefort	2215313	3.1429408	46.1491415
+Saint-Dizier-les-Domaines	180708	2.0424953	46.3233145
+Quartier du Montparnasse	2191530	2.3324276	48.8376793
+Courdimanche-sur-Essonne	396799	2.3705425	48.4202105
+Pachalik de Ribate El Kheir	4813313	-4.4121888	33.8182163
+Gemeinde Obersiebenbrunn	106292	16.7039331	48.2721412
+Sernaglia della Battaglia	46303	12.1476428	45.8624262
+Batas Dusun Lendang Telaga	3815404	116.3651540	-8.5768506
+Distrito de Paz de Salobro	5633325	-41.6913945	-11.8209974
+Bitteswell with Bittesby	6721612	-1.2216344	52.4717628
+Dalešice u Jablonce nad Nisou	426747	15.1922172	50.6850371
+Şehit Cengiz Topel Mahallesi	6767479	32.8807379	39.9186505
+Fossumsletta borettslag	1804539	10.9200962	59.9606085
+Silverwood at Thetis Cove	6589276	-123.4288562	48.4478559
+Broadstone Falcon Landing	7623857	-95.7979454	29.7393684

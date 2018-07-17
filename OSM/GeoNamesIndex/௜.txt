@@ -1,0 +1,5 @@
+North Caucasus federal district	389344	44.2929518	43.7109019
+Microrregião de Santa Maria da Vitória	4593972	-45.2761504	-13.9506282
+Ballycahalan Electoral Division	5646310	-8.7069952	53.0683016
+Karlshof / Israelsdorf / Gothmund	367841	10.7247979	53.8966705
+Khokhlovskoye Rural Settlement	1385788	56.2818337	58.2417672

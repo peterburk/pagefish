@@ -1,0 +1,10 @@
+Microrregião São Sebastiao do Paraíso	2235368	-46.7146923	-21.1364307
+West Bridgford Urban District	6445305	-1.1277786	52.9226047
+Malnivska Volia Rural Council	2535279	23.1230505	49.9000951
+Drumkeary Electoral Division	5525825	-8.4427683	53.1122334
+Killooley Electoral Division	4406030	-7.6754122	53.2022722
+Parque Residencial das Flores	7004694	-48.9203549	-16.2878412
+Residencial Parque das Flores	7613787	-49.0821794	-16.7196652
+Gemarkung Bischbrunner Forst	5906694	9.4615903	49.8830026
+Archstone South San Francisco	5729061	-122.4453578	37.6640400
+Archstone South San Francisco	5729008	-122.4467868	37.6642250

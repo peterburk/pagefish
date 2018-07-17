@@ -1,0 +1,38 @@
+Charmont-sous-Barbuise	414977	4.1800208	48.4131060
+Saint-Maurice-des-Lions	236642	0.6936797	45.9634143
+Chevillon-sur-Huillard	110096	2.6180137	47.9679353
+Sainte-Croix-Volvestre	1959881	1.1745248	43.1252603
+Saint-Sulpice-en-Pareds	170069	-0.8325825	46.6106457
+Saint-Flour-de-Mercoire	403826	3.8334702	44.6823771
+Rovaniemen seutukunta	6442913	25.9875276	66.4314246
+Castiglione Chiavarese	42992	9.5209131	44.2806986
+Vsevolozhsky District	1162549	30.6745673	60.3572197
+Quartiere XIV Trionfale	5460486	12.4357044	41.9179201
+Clarke Lake;Duncan Creek	3940412	-80.8997902	47.9473098
+Lac aux Pistes d'Orignal	1480544	-76.3301001	47.7883309
+Embalse del Guadalhorce	2378166	-4.8212307	36.9142076
+Embalse del Guadalhorce	2335251	-4.7700955	36.9688687
+Moromoro (Cab. en el Vado)	2674282	-79.7610805	-3.6627498
+Lac Hehipitan Kaiakutet	7614729	-60.8711444	50.4135917
+Willingale Fishing Lake	4027807	0.3124278	51.7318353
+Creaghanarourke Island	3516647	-7.5021736	54.2285911
+Saint-Martin-le-Supérieur	6858050	4.6538261	44.6412287
+Foxrock-Carrickmines ED	4244578	-6.1687280	53.2634288
+Zona XXIV Fonte Ostiense	5326810	12.4712518	41.8089767
+Pylypy-Oleksandrivski	7598951	27.1615202	49.0209743
+Whiskeytown Reservoir	60079	-122.5637772	40.6257909
+Departamento Bariloche	3541555	-71.5384803	-41.5092265
+Drumellihy (Mac Donnell)	4452963	-9.4491172	52.7151737
+Conistone with Kilnsey	7309722	-2.0146923	54.1192145
+Woodfield or Tullynisk	4256524	-7.9050035	53.1077122
+Woodfield or Tullynisk	4247762	-7.9061762	53.1156774
+Flasby with Winterburn	7319921	-2.1008854	54.0256477
+Tibradden Farm Cottages	2972469	-6.2770525	53.2440159
+Residencial Rui Barbosa	5640911	-53.8146945	-29.6759761
+Residencia La Esperanza	5865355	-86.2682461	12.0677768
+Jardim Dona Carmem Silva	5227299	-45.2853264	-21.6672041
+Osiedle Oskara Kolberga	4669578	21.1269992	51.3627124
+San José Obrero Ex Tacuaral	7565184	-54.6020273	-25.9751195
+Urbanizacion La Heroica	6076021	-89.5632346	13.9673127
+San Fernando (Municipio)	5730764	-86.3083472	13.7443101
+Bruno-Pittermann-Platz	5542019	16.3343105	48.1845775

@@ -1,0 +1,21 @@
+Amfreville-sous-les-Monts	536177	1.2682399	49.3028659
+Saint-Germain-la-Chambotte	74337	5.8780926	45.7777634
+Monasterolo di Savigliano	43475	7.6127388	44.6839567
+Kecamatan Pendalian IV Koto	7834616	100.4850616	0.4932439
+Les Jardins-de-Napierville	7785071	-73.5540982	45.1663066
+Municipio de El Sombrerito	4279063	-59.3001924	-28.6280889
+Camporotondo di Fiastrone	42343	13.2655599	43.1370493
+Quartiere XII Gianicolense	5460439	12.4535078	41.8722157
+Parroquia Puerto Villamil	1640265	-90.9552317	-1.1735433
+Belokholunitsky District	382780	51.3793220	59.0808658
+Governador Dix-Sept Rosado	301207	-37.4779305	-5.4053849
+Revolución (Adolfo López Mateos)	1779804	-101.0244398	25.4484539
+Governador Dix-Sept Rosado	6236985	-37.4779305	-5.4053849
+Oswaldo de Castro Silveira	5231372	-41.5682090	-21.1557961
+Duddington-with-Fineshade	6589102	-0.5398101	52.5850641
+Vila Franca do Campo (São Pedro)	7540289	-25.4444796	37.7290508
+Roper Mountain Plantation	7013852	-82.2608786	34.8303581
+Largo Michele Boccadifuoco	4103860	15.2866107	37.0893694
+Kardinaal van Rossumplein	4032391	5.3082159	51.6910742
+Mistkovychi Rural Council	2819117	23.2538532	49.6103023
+Susidovychi Rural Council	2824712	23.0408900	49.5506659

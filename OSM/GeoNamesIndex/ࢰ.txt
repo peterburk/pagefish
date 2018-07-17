@@ -1,0 +1,43 @@
+Saint-Laurent-en-Royans	61041	5.3585616	45.0103890
+Saint-Barthélemy-d'Agenais	2699546	0.3722975	44.5208925
+Saint-Pierre-de-Trivisy	135659	2.4529611	43.7482896
+Saint-Antonin-sur-Bayon	72102	5.5976770	43.5191110
+San Antonio Suchitepéquez	4473086	-91.4025516	14.5132227
+San Francisco de Conchos	5606234	-105.3621900	27.5808207
+Podgorica Municipality	2319360	19.2779017	42.4449152
+Broken Hill City Council	5892296	141.4782314	-31.9500560
+Schirgiswalde-Kirschau	1605086	14.4464809	51.0857785
+Santa Cruz do Capibaribe	303669	-36.3385307	-7.8877882
+Sokobanja Municipality	2869102	21.8868216	43.6557003
+Parroquia Narcisa de Jesús	282563	-80.0670670	-1.9817843
+Spider Creek;Spider Lake	4013191	-81.0147557	47.5656568
+Mier Local Municipality	82047	20.3573252	-26.3426912
+Tinkle Creek;Tinkle Lake	5148991	-87.0988771	50.0959862
+Dobrovelychkivka Raion	1738455	31.1686959	48.3600929
+Königsfeld im Schwarzwald	1242297	8.4145820	48.1503822
+Samtgemeinde Sittensen	1050509	9.5002023	53.3088683
+Santa Cruz do Capibaribe	6197132	-36.2734714	-7.8966709
+Kelurahan Durian Luncuk	7812431	102.9981184	-1.8819596
+Gemarkung Waltenhausen	1389574	10.3610832	48.1893503
+Doon Electoral Division	4232794	-7.8163671	53.3260932
+Bogong Peaks Wilderness	6024144	148.3940167	-35.5248193
+Craystown or Ennistown	4669201	-6.6868362	53.5824635
+Loteamento Monte Libano	7779462	-54.6507429	-16.4465320
+Amsterdam-Duivendrecht	3461059	4.9259334	52.3219172
+Nelson Mandela Bay Ward 41	3591547	25.4577512	-33.8480376
+Nelson Mandela Bay Ward 50	3591557	25.3880325	-33.7429206
+Nelson Mandela Bay Ward 32	3591537	25.4936777	-33.8878606
+Nelson Mandela Bay Ward 23	3591527	25.6095198	-33.8064965
+Nelson Mandela Bay Ward 14	3591517	25.5924226	-33.9013265
+Pueblo of Sandia Village	171300	-106.5704988	35.2564015
+Departamento Santa Rosa	1564365	-65.3534200	-28.0890822
+Departamento Santa Rosa	2993090	-67.9973422	-33.6330021
+Quadrilatero della Moda	6648187	9.1953148	45.4695269
+Albufeira de Santa Luzia	3301627	-7.8371698	40.1074309
+Tagore Garden Extension	3878381	77.1128678	28.6510732
+Campo Chico Country Club	4833458	-58.8187692	-34.4099124
+Municipio de Santa Clara	4453820	-64.6122448	-24.2677884
+Largo Ettore Di Giovanni	4480876	15.2856093	37.0838764
+Viale Umberto Terracini	4728678	14.2815533	40.8576786
+Viale Umberto Terracini	4728668	14.2819197	40.8559593
+Schweinfurter Oberland	2330185	10.3104182	50.1312193

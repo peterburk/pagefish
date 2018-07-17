@@ -1,0 +1,6 @@
+Montaignac-Saint-Hippolyte	2944329	2.0153897	45.3458165
+Le Vernet-Sainte-Marguerite	533769	2.9442707	45.6185162
+Municipal District of Boyle	5536467	-8.2122853	53.9291374
+Longpoint Lake;Sydney Creek	3929570	-80.6042630	47.6722019
+Longpoint Lake;Sydney Creek	3929474	-80.6152888	47.7049821
+Condominio Villas de Suiza I	6742544	-89.7976503	13.8668129

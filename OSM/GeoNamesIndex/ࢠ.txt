@@ -1,0 +1,38 @@
+Bogota Capital District	1387968	-74.1758040	4.2823405
+Royaucourt-et-Chailvet	2202428	3.5358346	49.5122119
+Colombiers-sur-Seulles	163576	-0.5038635	49.2997550
+Paussac-et-Saint-Vivien	2991283	0.5452284	45.3394101
+Saint-Julien-sur-Dheune	2816563	4.5430691	46.7726370
+Saint-Germain-sous-Doue	1308350	3.1424693	48.8513616
+Saint-Cirgues-la-Loutre	2934266	2.1017260	45.0886711
+Saint-Vitte-sur-Briance	117231	1.5451621	45.6233906
+Scalepranu/Escalaplano	40000	9.3559773	39.6366683
+Municipio Rómulo Gallegos	3419324	-69.3250260	6.7231144
+Matamata Piako District	4266574	175.6523139	-37.6843364
+Saint-Laurent-du-Maroni	1663806	-54.0277541	4.9473027
+La Neuville-sur-Essonne	168329	2.3775174	48.1806056
+Santa Margherita d'Adige	44394	11.5537775	45.1930105
+Neunkirchen-Seelscheid	173122	7.3444892	50.8576171
+Castelnuovo Bocca d'Adda	44206	9.8620284	45.1077382
+Babusnica Municipality	2860572	22.3795454	43.0112313
+Tindeulvtjernet, Store	5155947	9.0079202	60.8723702
+Harvie Creek;Harvie Lake	3887792	-83.9658402	47.5597973
+Harvie Creek;Harvie Lake	3887828	-83.9664835	47.5632633
+Irdning-Donnersbachtal	3837719	14.1501913	47.4112330
+Mill Cove Cranberry Lake	1365367	-64.0762377	44.5578715
+Fishermans Harbour Lake	3170706	-61.7319367	45.1193329
+Osiedle XXX-lecia PRL – Piastów – Dąbrówki	3862270	18.4520832	50.0121905
+Conjunto Residencial Tisú	7681671	-75.7197554	4.8133192
+Gemeinde Sankt Valentin	911500	14.5496245	48.1684773
+Congregación José María Morelos	4844945	-97.5449640	20.2158097
+Residencial Sonho Verde	6891043	-49.2121092	-16.6860485
+Residencial Sonho Verde	6891047	-49.2139711	-16.6887162
+Ramotshere Moiloa Ward 7	3668292	26.0825070	-25.3128285
+Residencial Solar Ville	6870256	-49.3628464	-16.6313551
+Centre Ville Rive Gauche	2868222	1.0851383	49.4328051
+Samtgemeinde Wesendorf	1384918	10.5406385	52.6192189
+Lotificación Cuzcachapa II	6106393	-89.6708750	13.9784271
+Saint-Laurent-du-Maroni	1663787	-53.7302824	3.9304574
+Birkwitz-Pratzschwitz	6179832	13.9000406	50.9768459
+Paseo Antonio Pérez Goyena	3712442	-1.6749853	42.8091121
+Plaça de Jordi de Sant Jordi	2197880	2.8220022	41.9846667

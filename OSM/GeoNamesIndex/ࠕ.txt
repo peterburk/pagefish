@@ -1,0 +1,32 @@
+Landelles-et-Coupigny	133861	-1.0180166	48.8967536
+Neuville-lez-Beaulieu	3266145	4.3590095	49.9046636
+Courcelles-sur-Blaise	3087992	4.9442090	48.4115549
+Tremblay-les-Villages	233451	1.3597311	48.5900897
+Cocos (Keeling) Islands	82636	96.8442066	-12.0173443
+Dampierre-en-Yvelines	1202549	1.9683620	48.7066400
+Mesorregião de Jaguaribe	5161831	-38.3359332	-5.3060913
+Magdalena Milpas Altas	374552	-90.6730318	14.5430356
+Municipality of Shtip	2580154	22.1860125	41.7171335
+Port de la Grande Motte	7183392	4.0813565	43.5563251
+Recezinhos (São Martinho)	5928141	-8.2161430	41.2270262
+Notre-Dame-de-Pontmain	1490843	-75.6860201	46.3045252
+Neustadtl an der Donau	131852	14.9312449	48.1957521
+Ballymagaghran Island	3998532	-7.9761606	54.4954974
+Fyodorovsky District	398533	55.2820958	53.1236733
+Microrregião de Guanambi	4558479	-42.9496453	-14.2218554
+Voznesensky District	1111196	42.8568074	54.9216898
+Ytterhogdal distrikt	7426326	15.0824115	62.1643201
+Fyodorovsky District	1746089	47.5412903	51.2371876
+Zvenigovsky District	901019	47.9746874	56.1936422
+Residencial Campo Belo	6442988	-50.1048344	-24.9645923
+Residencial Campo Belo	7041381	-48.9619079	-16.6102707
+Residencial Anuar Auad	7611508	-49.0954234	-16.6916017
+Residencial Campo Belo	7611190	-49.1203766	-16.6766914
+Karlov u Josefova Dolu	430550	15.2125508	50.7804743
+Pedanía de San José de la Vega	4090989	-1.0833714	37.9660571
+Bedřichov u Horní Stropnice	434738	14.7180174	48.7527397
+Urbanització Sant Daniel	6434770	2.7625060	41.7113989
+Laguna Santa María del Mar	1907793	-71.6368002	-33.6645146
+Residencial Campo Belo	7278357	-50.1048344	-24.9645923
+Lotificación San Antonio	6801526	-89.3685161	13.7837530
+Piazza di Venere e Roma	1841083	12.4892812	41.8913337

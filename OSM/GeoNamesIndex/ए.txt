@@ -1,0 +1,31 @@
+Fleury-devant-Douaumont	2108364	5.4229237	49.1950980
+Saint-Quentin-la-Poterie	383359	4.4375125	44.0581571
+Mesorregião do Sul Cearense	5161844	-39.3977134	-7.3098570
+San Pablo Macuiltianguis	5999905	-96.5256338	17.5171247
+Atlamajalcingo del Monte	5605551	-98.5823530	17.2607465
+GVV Kaiserstuhl-Tuniberg	1953600	7.7195818	48.0731459
+Almonacid del Marquesado	344436	-2.7888978	39.8240592
+City of Canada Bay Council	6217271	151.0984665	-33.8485128
+Stanley Park Boating Lake	4018177	-3.0180809	53.8158415
+Octavio Cordero Palacios	3693286	-78.9719921	-2.7758051
+Black Loch or Loch Crindil	5678889	-4.9495872	54.9147384
+Clare Municipal District	1354847	-66.0298992	44.2030395
+Deutsch Schützen-Eisenberg	185387	16.4346304	47.1586935
+Microrregião de Montenegro	358953	-51.4612677	-29.5692252
+Batas Dusun Lingkok Godak	3815405	116.3758216	-8.5870473
+Södra kyrketorps distrikt	4491601	13.6990033	58.2415790
+District of Banská Bystrica	388240	19.2296362	48.7583910
+Residencial Anita Tiezzi	6357688	-51.4605837	-22.1436112
+Bezirksteil Waldperlach	66963	11.6694591	48.0895554
+Parque Estrela Dalva XVIII	4142014	-48.3143850	-15.9280229
+Vítonice u Bystřice pod Hostýnem	430836	17.6908134	49.4481949
+Ballymartin Water Bridge	4500050	-6.0608150	54.7059619
+Departamento San Alberto	1903607	-65.1057949	-31.6744521
+Departamento Pellegrini	3566960	-64.1331654	-26.2550624
+San Miguelito (Municipio)	5758807	-84.7679872	11.4372727
+Piazza Guglielmo Oberdan	1762884	13.7757177	45.6541830
+Piazza Guglielmo Oberdan	2473932	11.2747276	43.7726083
+Place du Corps Franc Pommiès	6040481	0.0549132	43.3869073
+Suitbertus-Stiftsplatz	456943	6.7332108	51.3006426
+Piazza Guglielmo Oberdan	4069951	15.0007070	37.2820519
+Wahlkreis Sarganserland	1687214	9.3757272	47.0137028

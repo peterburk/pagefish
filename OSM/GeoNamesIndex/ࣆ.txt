@@ -1,0 +1,43 @@
+Saint-Louet-sur-Seulles	280272	-0.6770888	49.0971454
+Saint-Samson-de-la-Roque	542634	0.4357279	49.4231321
+Montureux-et-Prantigny	900582	5.6320154	47.5046650
+Saint-Martin-Belle-Roche	912203	4.8560970	46.3807842
+Saint-Jean-Saint-Germain	1245625	1.0673955	47.0839074
+Saint-Juire-Champgillon	169197	-1.0192888	46.5920958
+Neustadt an der Weinstraße	62724	8.1160605	49.3484885
+Yorke Peninsula Council	6673799	137.6854875	-34.6930270
+Paracuellos de la Ribera	342775	-1.5514752	41.4188395
+gmina Nowogródek Pomorski	2896953	15.0593973	52.9043530
+caïdat de Touissit Boubker	4761380	-1.8088749	34.5060314
+gmina Koźmin Wielkopolski	2712227	17.4363243	51.8378844
+Wülfershausen an der Saale	387431	10.3206879	50.3245220
+Zehnhausen bei Rennerod	533269	8.0588991	50.6490919
+Little Harbour Gull Pond	2036460	-53.9062587	47.6554963
+Lago do Parque Municipal	6154278	-45.9390179	-21.4529325
+Vizhomlia Rural Council	2531940	23.4250298	49.8432706
+Rivière de la Petite Nation	556927	-75.0851018	45.7988494
+Rivière de la Petite Nation	7607908	-75.0743814	46.0365757
+Sokolivka Rural Council	2514123	23.8017994	49.6475828
+Massey Creek;Massey Lake	3981090	-81.8497014	48.5220237
+Parroquia Santo Domingo	3400348	-72.0794454	7.6213927
+Darrol Lake;Murray Creek	6655968	-99.6919616	56.3828696
+Hanzan Chō Higashi-Sakamoto	5899104	133.8744556	34.2736835
+Sant Miquel de Campmajor	344627	2.6855342	42.1299885
+Moczydlnica Klasztorna	6109457	16.5746595	51.4009609
+Ballynalahessery South	5686905	-7.5667397	52.0902521
+Caddelstown (E.D. Killary)	4723729	-6.6577421	53.8204132
+Parque Estrela Dalva XVII	4242311	-48.3164243	-15.9351499
+Parish of Great Shelford	1633895	0.1305610	52.1577201
+Christchurch CP (Fenland)	1608817	0.1856601	52.5605470
+Cordevlis (E.D. Cremartin)	3679154	-6.8456196	54.1452193
+Dr. Ziya Barlas Mahallesi	5350662	32.4997918	37.8547654
+Ballyhealy or Ballinure	4222637	-7.0605979	53.5861010
+Brockish (part of Cargin)	4203546	-6.4514347	54.7449176
+Municipio de San Vicente	4142192	-61.5627295	-31.6852863
+Municipio de San Vicente	3203340	-54.4438886	-26.9555555
+Villa Capri at MetroWest	2013846	-81.4607014	28.5083858
+Sandalwood Country Club	6482645	-81.5218222	30.3109794
+Unidad Residencial Guaraní	6138720	-76.5492854	3.3901017
+Tecno Parque Industrial	2641738	-92.8984298	18.0232738
+Piazzale dei Navigatori	7508260	12.8216787	41.4159135
+Villanueva de San Carlos	340226	-3.8717073	38.5994201

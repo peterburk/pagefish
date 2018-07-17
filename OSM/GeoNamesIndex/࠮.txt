@@ -1,0 +1,47 @@
+Saint-Pierre-du-Mesnil	3333143	0.5687228	48.9336236
+Verteuil-sur-Charente	397133	0.2226334	45.9688944
+Saint-François-Longchamp	128256	6.3725549	45.4102580
+Saint-François-Longchamp	6856014	6.3443419	45.3959173
+Saint-Georges-sur-Cher	1746110	1.1347922	47.3027052
+Saint-Hilaire-de-Voust	166515	-0.6513873	46.5889649
+Peyrolles-en-Provence	72041	5.5731587	43.6262384
+San Jacinto Tlacotepec	5999757	-97.3638071	16.5060773
+Hassi Mameche District	6822014	0.0658157	35.8453649
+Higashikambara County	4137087	139.4407042	37.6507169
+Provincia de Capitán Prat	1981571	-74.2047072	-48.0354110
+Landkreis Lichtenfels	62515	11.0934593	50.1045421
+Francavilla di Sicilia	39409	15.1197627	37.9347576
+Kelurahan Tanggilingo	6703353	123.1106629	0.5386886
+gmina Komarówka Podlaska	3103641	22.9410262	51.8283461
+El Playón de San Francisco	3726374	-77.6860859	0.5181367
+Lochan an Talamh Dheirg	1202143	-5.5239591	57.0406694
+Sacca degli Scardovari	2962390	12.4179409	44.8557315
+Poole Park Boating Lake	4608817	-1.9689836	50.7178682
+Baía de São Martinho do Porto	6171321	-9.1408802	39.5077921
+Cayo Romano Occidental	5339718	-78.1566240	22.3413961
+Microrregião de Não-Me-Toque	548277	-52.7873101	-28.5537670
+Sector Galeria Central	7739334	-75.6918199	4.8131030
+Maximiliano de Almeida	242403	-51.8172930	-27.5964337
+Ust-Kulomsky District	1082925	54.5416585	61.7948518
+Balneário Arroio do Silva	296681	-49.4752385	-29.0172171
+Drumneen (Prendergast)	5848678	-8.9963120	53.7452181
+Derrinkeher (Raycroft)	5479194	-7.8970145	54.0637963
+Maluti-a-Phofung Ward 11	3596575	28.7094487	-28.5749165
+Maluti-a-Phofung Ward 20	3596585	28.8559891	-28.6900049
+Chomutovice u Dobřejovic	429242	14.6028838	49.9481438
+St. Michael - San Michele	5454149	11.2640727	46.4486588
+Grodzkie Szczepanowięta	7062030	22.5423371	53.0409563
+Isla Alejandro Selkirk	7504090	-80.7907620	-33.7691958
+Departamento Belgrano	3549049	-61.6786630	-32.6997897
+Departamento Eldorado	3199541	-54.4622108	-26.3250983
+Departamento Río Senguer	2655834	-70.4853179	-45.3216048
+Samtgemeinde Hanstedt	252894	9.9695719	53.2328351
+Linksmakalnio seniūnija	3536780	23.9335755	54.7619330
+Orchards Neighborhood	2342548	-95.2770778	38.9607609
+Barrio Santa Guadalupe	4462335	-58.8806148	-34.3860306
+Pyalovskoe reservoir	1315588	37.6830689	56.0377304
+Embalse Playa de Piedra	1084604	-66.0637842	9.4777326
+Departamento Belgrano	3575549	-62.1711749	-29.1511032
+Piazza Enrico De Nicola	3813919	14.2645168	40.8543036
+Plaza Mariano Granados	4185260	-2.4689883	41.7640774
+Piazza Angelo Majorana	6133818	15.0940739	37.5053345

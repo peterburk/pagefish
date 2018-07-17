@@ -1,0 +1,45 @@
+Chevigny-Saint-Sauveur	153566	5.1377789	47.2985526
+Turquestein-Blancrupt	2449429	7.0507683	48.5741422
+Saint-Hilaire-au-Temple	2696339	4.3745589	49.0573009
+Saint-Bonnet-le-Chastel	358702	3.6386467	45.4583871
+Saint-Martin-sur-Armançon	3105957	4.0683513	47.8761312
+Escarabajosa de Cabezas	347886	-4.1835953	41.1050190
+Villarroya de la Sierra	345736	-1.7904137	41.4892018
+Ljubuski municipality	2528228	17.5412918	43.2034233
+South Fayette Township	6885702	-80.1649259	40.3574174
+Gemeinde Schwarzenbach	109365	16.3455296	47.6430768
+Santa Filomena do Maranhão	332902	-44.6211377	-5.5053365
+Septmoncel les Molunes	6837773	5.9222369	46.3559000
+Notre-Dame-des-Prairies	7706449	-73.4164686	46.0520802
+Sylvester Impoundment	1947162	-84.6898538	46.2982438
+Pozdymyr Rural Council	2552633	24.3032920	50.3644450
+Salajärvi eli Nurmelanjärvi	7188954	27.9801490	60.6692512
+Yelyzaveto-Mykolaivka	3941039	38.3460605	47.8249450
+Timashyovsky District	365309	38.8774883	45.5756537
+Budyonnovsky District	1030136	44.1288667	44.7925294
+Ouro Fino do Mato Dentro	6133233	-43.5981170	-18.9171144
+Altos de las Vendientes	6896664	-64.4729273	-31.4104549
+Skogsbygdens distrikt	5663406	12.7104067	57.8957415
+Samtgemeinde Harsefeld	446427	9.4433242	53.4242966
+Kolyshleysky District	968979	44.5090600	52.7271772
+Dietkirchen b. Neumarkt	7476027	11.5839214	49.2919659
+West Cornwall Township	7354651	-76.4548809	40.2622564
+Yenotayevsky District	1853856	46.3241455	47.6628248
+Rasskazovsky District	1777915	41.7128922	52.6190862
+Kortkerossky District	1082923	52.1513594	61.8416314
+Ballykeel Edenagonnell	4754383	-6.0475219	54.4541038
+Ballykeel Edenagonnell	4754375	-6.0501713	54.4660543
+Hawsker-cum-Stainsacre	7267432	-0.5729173	54.4608910
+uMhlabuyalingana Ward 1	3647001	32.7384515	-26.9864366
+Nelson Mandela Bay Ward 6	3591567	25.5435815	-33.9687155
+Brackagh Slieve Gallion	4869849	-6.7024688	54.7459069
+Myrtiuky Rural Council	2518599	23.8580279	49.2335097
+Kirovsky City District	1268698	55.9546587	58.0217495
+Plaça de Josep Tarradellas	6146764	2.0359744	41.4957546
+Viale Piero Calamandrei	4722878	14.2791965	40.8577647
+Terrasse de l'Orangerie	2024865	2.3220287	48.8637781
+Rose Revolution Square	2185657	44.7923388	41.7039605
+Viale Piero Calamandrei	4722826	14.2795325	40.8558386
+Vilallonga / Villalonga	343511	-0.2313667	38.8821256
+Merchant's Quay Ward (1849)	5538130	-6.2798152	53.3376598
+Ait Sedrate Sahl Charkia	2887616	-6.0426674	31.1754654

@@ -1,0 +1,35 @@
+Vaucelles-et-Beffecourt	444869	3.5603989	49.5214517
+Saint-Sébastien-de-Morsent	68007	1.0780208	49.0140475
+Saint-Georges-de-Didonne	121749	-0.9793778	45.5998929
+District of Mitrovica (02)	6898597	20.7837437	42.9359859
+Saint-Germain-près-Herment	120613	2.5850538	45.7168256
+Saint-Michel-de-Boulogne	2574026	4.4312989	44.6988131
+Saint-Nazaire-de-Ladarez	270007	3.0803068	43.5203918
+Saint-Denis-en-Margeride	1070511	3.4704514	44.7380429
+Santo Domingo de Morelos	6000143	-96.6441557	15.8423771
+Zakynthos Regional Unit	5207386	20.7768727	37.7747135
+Municipio de Los Pereyra	3489045	-64.8439819	-27.0036403
+Microrregião de União da Vitória	4769847	-51.2229090	-26.1955291
+Municipality of Larissa	2246178	22.3340683	39.6285567
+Santu Sparau/San Sperate	39898	9.0171161	39.3543633
+Vinogradovsky District	1330712	43.5418013	62.9337315
+Babayurtovsky District	1858716	46.7872560	43.5447314
+Muar District Reservoir	7802114	102.5786991	2.3337453
+Mansfield-et-Pontefract	7045161	-76.7263786	45.9835037
+Ferreiros e Gondizalves	4139389	-8.4473882	41.5362805
+Saint-Paul-de-l'Île-aux-Noix	1600482	-73.2857760	45.1253693
+Chyzhykiv Rural Council	2521427	24.2488391	49.7783714
+Willow Reserve Wetlands	399829	-93.1174471	44.9797796
+District of Tuggeranong	5333901	149.1034344	-35.4765273
+Nettlestone and Seaview	2273394	-1.1250284	50.7233468
+Samtgemeinde Fredenbeck	445846	9.3883667	53.5107011
+Chernyshevsky District	1761299	117.3223882	52.9198064
+Municipio de Arroyo Seco	4053328	-60.5468052	-33.1742225
+Boston or Coolballyogan	4625563	-7.4507257	52.9685938
+Fordstown or Ballaghboy	4669791	-6.9049040	53.6882849
+Partido de Leandro N. Alem	2554600	-61.6427281	-34.4876162
+Partido de Monte Hermoso	2584665	-61.2800580	-38.9687962
+Conjunto Miguel Gustavo	6208433	-53.8160582	-29.6948496
+Spicket River Reservoir	6201230	-71.1909210	42.7278090
+Distrito Villa Tulumaya	2980572	-68.5925489	-32.7030752
+Krasnoufimsky District	1240375	57.8421033	56.5206275

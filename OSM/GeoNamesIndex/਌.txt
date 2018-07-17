@@ -1,0 +1,14 @@
+Coral Sea Islands Territory	3225677	151.4363655	-17.3777989
+Area G (Saltair / Gulf Islands)	3470676	-123.9252144	48.9548117
+Montefalcone di Val Fortore	41220	15.0165866	41.3204788
+Blue Mountains City Council	6299568	150.4375036	-33.6351143
+Manhattan Community Board 12	7339675	-73.9325603	40.8544616
+Lafayette Water Supply Lake	118144	-85.2576194	34.7330186
+Kornalovychi Rural Council	2820054	23.3432523	49.5497882
+Osiedle Stefana Rogozińskiego	4862316	22.7802666	49.7950668
+Northfield Center Township	3748942	-81.5291048	41.2997095
+Emnambithi/Ladysmith Ward 11	3645735	29.7409669	-28.5695062
+Emnambithi/Ladysmith Ward 20	3645745	29.8360481	-28.6092806
+Municipio de Coronel Moldes	7286295	-65.5311349	-25.2987370
+Plaza de San Carlos Borromeo	7843636	-4.5391536	42.0151844
+Tairove Settlement Council	7476026	30.6835128	46.3762884

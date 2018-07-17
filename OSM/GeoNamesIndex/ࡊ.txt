@@ -1,0 +1,53 @@
+Amfreville-la-Campagne	536469	0.9215788	49.2121309
+Caorches-Saint-Nicolas	3328405	0.5459334	49.0763696
+Neuilly-sous-Clermont	1079221	2.3969525	49.3527231
+Allouville-Bellefosse	107976	0.6720465	49.5964993
+Saint-Georges-Antignac	154483	-0.4841612	45.4900503
+Saint-Genix-sur-Guiers	75612	5.6602203	45.5972033
+Pleisweiler-Oberhofen	1252827	8.0002566	49.1147490
+San Miguel Suchixtepec	5999885	-96.4570695	16.0786300
+San Antonio Ilotenango	377423	-91.2130549	15.0516524
+Municipio Pueblo Llano	3448346	-70.6495116	8.9611610
+Xiangkhouang Province	5831670	103.3558232	19.4180780
+San Benedetto dei Marsi	41704	13.6035498	42.0066936
+Castiglion Fiorentino	42409	11.9110155	43.3218873
+East Baton Rouge Parish	1836609	-91.0898224	30.5167959
+Torremocha de Jadraque	342115	-2.9052483	41.0132489
+Chiclana de la Frontera	346951	-6.1162529	36.4017619
+Torrecilla de los Ángeles	339953	-6.4257672	40.2556247
+Herrsching am Ammersee	932292	11.1816521	48.0018691
+McLeod Creek;McLeod Lake	3399571	-81.2153338	46.8338275
+Bud Lake;Pickerel River	6525968	-91.3660131	48.5624778
+Little Otterslide Lake	2973296	-78.5975761	45.6827764
+Zadilske Rural Council	2538799	23.1393578	48.9890472
+Kwaskwaypichikun Lake	2413904	-100.1008090	56.6565007
+Seewalchen am Attersee	103041	13.5675193	47.9547609
+Tabasaransky District	1858755	47.9842361	41.9533689
+Bezirk Oberpullendorf	109411	16.4944302	47.5045159
+Lyon 5e Arrondissement	10688	4.8036396	45.7555315
+Disappointment Island	2443507	165.9732724	-50.6056110
+Arkhangelsky District	398523	56.8902218	54.5041126
+Gemeinde Krumau am Kamp	443308	15.4602183	48.5888051
+Nutana Suburban Centre	6426652	-106.6137223	52.1037206
+Cur Electoral Division	4137990	-9.6131891	53.5155572
+Chagrin Falls Township	3732559	-81.3965715	41.4440021
+Municipio de Chos Malal	3341549	-70.2747062	-37.3467388
+Torrecilla de los Ángeles	4632757	-6.4193300	40.2470729
+Gouranadi Subdistrict	4640616	90.2139248	22.9736408
+1re Anotte ou 1re Tapion	409257	-74.2680034	18.5669893
+Chapelizod (Co. Borough)	5484363	-6.3452905	53.3499251
+Residêcial Jarbas Barbosa	7321373	-45.5435089	-21.0834911
+Ballynasculloge Lower	3904049	-6.4417493	53.1665526
+Lytiachi Rural Council	6768644	25.4827610	48.8339395
+Kolonia Bobrowska Wola	4629635	19.8749742	50.9689152
+São Salvador do Tocantins	336762	-48.3517045	-12.5382597
+Departamento Cruz Alta	3488360	-64.9523784	-26.9109985
+Wharncliffe Reservoir	3618709	-1.5374120	53.4758159
+Los Alamos Club de Campo	3529207	-60.7611583	-32.8719832
+Swiss Park Residencial	7637794	-47.9238323	-22.0158183
+Neuhof an der Zenn (VGem)	2984776	10.6236344	49.4560460
+Municipio de La Leonesa	1634268	-58.8304264	-27.0523546
+Esquipulas (Municipio)	5751949	-85.7630674	12.7061839
+Piazza Amedeo di Savoia	7420694	12.8279553	41.5908013
+Mokhnate Rural Council	2538867	23.1202849	48.9184242
+Maojianshan Reservoir	3220660	116.3891574	30.8344741

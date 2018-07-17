@@ -1,0 +1,24 @@
+Saint-Martin-Saint-Firmin	3321292	0.5603626	49.2946090
+Saint-Aubin-de-Terregatte	961595	-1.2911918	48.5684212
+Saint-Nicolas-de-Sommaire	1923427	0.6074532	48.8137353
+Saint-Germain-en-Montagne	155553	5.9435172	46.7798457
+Saint-Sulpice-d'Excideuil	146035	1.0154592	45.3944751
+Wabamun Indian Reserve #133A	6282046	-114.4245346	53.5121431
+l'Hospitalet de Llobregat	345401	2.1145795	41.3583944
+Municipality of Strumica	2591087	22.6385439	41.4079411
+Municipality of Petrovec	2460743	21.6943825	41.9094634
+Starokostiantyniv Raion	1739096	27.4701473	49.7514789
+Étang Fraignot-et-Vesvrotte	2226482	4.9296154	47.6630767
+Étang Fraignot-et-Vesvrotte	1708240	4.9280063	47.6637890
+Hough Creek;McDougall Lake	3917358	-81.5924980	47.0024741
+Huston Lake;Ryerson Creek	3438068	-95.1114148	50.3981243
+Parque Liceo Primera Sección	5293707	-64.1713996	-31.3531821
+Samtgemeinde Niedernwöhren	2972354	9.1650771	52.3686595
+Parque Alto dos Pinheiros	7583435	-45.4500595	-21.5336438
+Parque Residencial Damha I	6357686	-51.4206394	-22.1461631
+Kiltotan and Collinstown	4172717	-7.3191673	53.3942886
+Samtgemeinde Hankensbüttel	1392732	10.5229116	52.7389271
+Áreas Industriais Contagem I	5535396	-44.0810615	-19.9253763
+Greenview at Silver Pines	2075496	-81.4570161	28.5733187
+Distrito Puente de Hierro	2962926	-68.6653620	-32.8575231
+Plaza Enrique García-Herrera	7277074	-4.4245280	36.7197889

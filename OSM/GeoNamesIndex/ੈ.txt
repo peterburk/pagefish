@@ -1,0 +1,20 @@
+Poiseul-la-Ville-et-Laperrière	146346	4.6623147	47.5659193
+Arrondissement Port-de-Paix	393379	-72.8804414	19.8310175
+La Vacheresse-et-la-Rouillie	1246373	5.7970538	48.1469789
+Hoya de Huesca / Plana de Uesca	6479877	-0.4433697	42.2263208
+Lordelo do Ouro e Massarelos	3382145	-8.6419364	41.1517056
+Baviaans Local Municipality	88163	23.7903495	-33.2567350
+Parroquia Pedro María Morantes	3417231	-72.1726425	7.7580238
+Mbonambi Local Municipality	611177	32.1312872	-28.5556751
+Saint-Augustin-de-Desmaures	7716091	-71.4718377	46.7526776
+Ardmalin Electoral Division	6979100	-7.3006078	55.3531998
+Oatfield Electoral Division	6728965	-8.3491997	53.2723085
+District of Turčianske Teplice	388259	18.8570565	48.8538755
+Mayfield or Ballynagalliagh	5500099	-7.0078111	53.1445701
+King Sabata Dalindyebo Ward 28	3594573	28.6909834	-31.8130343
+King Sabata Dalindyebo Ward 19	3594563	28.5762258	-31.8161350
+Marseille 7e Arrondissement	76217	5.3591489	43.2814610
+Ramat Negev Regional Council	1376786	34.7326499	30.7417659
+Childers Place Condominiums	7491902	-87.3557598	36.5280731
+Municipio de Bernardo Larroudé	3355249	-63.5768486	-35.0806500
+Municipio de General San Martín	3418963	-63.6998415	-38.2075911

@@ -1,0 +1,5 @@
+Microrregião o Sertão de Quixeramobim	5162200	-39.3247054	-5.0985001
+Parroquia Francisco Aniceto Lugo	2616772	-60.2728679	8.2590394
+General Leonidas Plaza Gutierrez	2676492	-78.5563126	-2.9969404
+Tieveskeelta Electoral Division	6907949	-8.4453631	54.6881570
+Gemeinde Alberndorf im Pulkautal	103126	16.0969080	48.7109392

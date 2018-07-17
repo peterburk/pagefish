@@ -1,0 +1,52 @@
+Anneville-Ambourville	104760	0.8874671	49.4514476
+Montfort-sur-Boulzane	2615676	2.3158733	42.7299494
+Sonnenberg-Winnenberg	1244317	7.2744274	49.6774045
+Distrito El Divisadero	2958038	-68.2374913	-32.8486572
+Provincia de Melipilla	1560881	-71.2626259	-33.6911251
+Kepulauan Seribu Utara	5802411	106.5680837	-5.6544434
+Guangming New District	5664192	113.9301019	22.7631500
+powiat hrubieszowski	2690987	23.8488222	50.7077704
+Castiglione dei Pepoli	42869	11.1889967	44.1666674
+Hämeenlinnan seutukunta	6440395	24.4534810	61.0349884
+Municipio de Ricardone	3840941	-60.8095841	-32.7784582
+gmina Lasowice Wielkie	2812969	18.2190688	50.8814364
+Pajares de la Lampreana	344447	-5.7016694	41.7035740
+Alto Alegre dos Parecis	325858	-61.7647500	-12.5715000
+Doberdò del Lago / Doberdob	179159	13.5538366	45.8411740
+Janowiec Wielkopolski	3093877	17.4870546	52.7580538
+Commune de Antsiranana	7742476	49.2511252	-12.2630944
+Lagoa de Ponta das Canas	2403968	-48.4276616	-27.4077010
+Santiago de Montalegre	6482831	-8.1583209	39.5950843
+Córrego Passo dos Cavalos	7416822	-48.2748748	-15.1506774
+Little Singletary Lake	195887	-78.6962734	34.8277308
+Xianjiadong Reservoir	6303811	111.4439309	21.8913361
+Lac de la Motte ou d'Ilay	2985331	5.8958735	46.6245724
+High Maynard Reservoir	7151439	-0.0451550	51.5909995
+Kouchibouguacis River	2073075	-64.9869924	46.7311601
+Wiener Neustadt Island	3241055	58.4861957	80.8018812
+East Bradford Township	3049923	-75.6414517	39.9621274
+Schönwald im Schwarzwald	1242149	8.1951944	48.1057682
+Lyon 8e Arrondissement	10686	4.8693803	45.7340707
+Divino das Laranjeiras	315417	-41.4811042	-18.7005001
+Beihuanlu Subdistrict	7751832	111.7271735	36.5866791
+Distrito de Lagoa Funda	5633322	-41.8424262	-11.7706645
+Zarzecze Jeleniewskie	6800515	22.8232949	54.1953254
+West Ballymaclevennon	4538599	-6.6509323	55.1801643
+Jardim Marques de Abreu	6957103	-49.3663313	-16.7142885
+Ballyoughteragh North	4286295	-10.4366277	52.1844350
+Jardim Flamboyant 2ª Etapa	7613368	-49.0987118	-16.7170342
+4e Bellevue-la-Montagne	392172	-72.1947622	18.4583102
+Vila Vitória da Conquista	3409161	-44.0235493	-20.0146321
+Ballynasculloge Upper	3904050	-6.4577758	53.1590479
+Podlesie Mleczkowskie	3387579	21.0207217	51.4326237
+Contralmirante Villar	1986975	-80.7206940	-3.9258736
+Broccy Creek Reservoir	4056064	-73.9638843	41.3196479
+Summertime Residences	4833561	-48.1939121	-21.7993369
+Cedar Valley Reservoir	1126425	-95.3207045	38.2380847
+Claireville Reservoir	456768	-79.6334264	43.7415711
+Municipio de Rivadavia	4142136	-61.0355746	-31.3026443
+Piazza Antonio Gramsci	4028431	11.3278572	43.3227579
+Piazza Antonio Gramsci	3494982	9.1684063	45.4815672
+Piazza Antonio Gramsci	6410606	10.1008833	44.0788949
+Piazza don Guido Macchi	6332360	8.6500502	45.8284343
+Skelivka Rural Council	2593552	22.9745371	49.5384607

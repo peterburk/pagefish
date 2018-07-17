@@ -1,0 +1,27 @@
+Sainte-Colombe-près-Vernon	550120	1.3425710	49.0942865
+Saint-Maurice-des-Champs	3346262	4.6255430	46.6223288
+Saint-Georges-des-Gardes	295112	-0.7708272	47.1674883
+Saint-Michel-de-Volangis	191427	2.4814352	47.1406225
+Saint-Germain-les-Belles	2115669	1.4885028	45.6022100
+San Juan Bautista Cuicatlán	5999779	-96.9221941	17.7254965
+Municipality of Partesh	6901844	21.5051069	42.4033701
+Municipio de El Puestito	3491891	-64.7803229	-26.3559332
+Filyovsky Park District	446112	37.4976551	55.7506801
+Parroquia Puerto La Cruz	2517965	-64.6285869	10.2159949
+Visvijver De Walvissers	1657857	5.5275509	51.2148430
+Lake Goyder (Coolangirie)	1258013	140.1750006	-27.0175050
+Krotoshyn Rural Council	2510552	24.0950395	49.7479909
+Dokuzparinsky District	1858724	47.8798676	41.3569205
+Selizharovsky District	921392	33.4752703	56.7711550
+Maliy Lelikovsky island	3175231	35.1558627	61.9821746
+Munipalityb of Victoria	6824946	124.3119588	12.4472181
+La Serena -Barrio Cerrado-	6091816	-64.2908122	-31.2638189
+Gornomariysky District	921546	46.6541200	56.3271167
+Conjunto Valéria Perillo II	7624321	-49.1752046	-16.6827362
+Mitchelstowndown North	5959039	-8.4054230	52.4171279
+Parque Residencial Tubarão	1856303	-40.2367416	-20.1512205
+Staw Ujazdowski-Kolonia	7424235	23.0016798	50.8200403
+Sainte-Anne-de-Sabrevois	1600485	-73.2152743	45.2136058
+Wola Korybutowa-Kolonia	6833305	23.0730116	51.2236287
+Résidence Les Villageoises	7699556	3.8388925	43.5958780
+Camella Homes Fairfields	1556499	120.9486345	14.4227343

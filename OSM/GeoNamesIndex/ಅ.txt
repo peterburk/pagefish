@@ -1,0 +1,3 @@
+Mesorregião Sudoeste Mato-Grossense	4875160	-58.6773764	-15.1420000
+Núcleo Habitacional Fernando Ferrari	3944802	-53.7280378	-29.7099722
+Área residencial Barriada de Caricuao	3800107	-66.9844478	10.4277188

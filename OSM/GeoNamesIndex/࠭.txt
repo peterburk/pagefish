@@ -1,0 +1,47 @@
+Montigny-en-Arrouaise	153438	3.4849862	49.9136333
+Courcelles-lès-Montbéliard	123706	6.7824200	47.4957205
+Saint-Sulpice-de-Royan	121735	-1.0024832	45.6752576
+Region of Banská Bystrica	388270	19.4196737	48.5004495
+Saint-Martin-des-Olmes	358538	3.7983592	45.5230746
+Saint-Projet-de-Salers	447651	2.5660093	45.0852199
+Saint-Michel-sur-Loire	79870	0.3269403	47.3173199
+Ksar Chellala District	6818396	2.3750879	35.0618600
+Landkreis Teltow-Fläming	62364	13.2658440	52.0994194
+Varėnos rajono savivaldybė	1076929	24.4174700	54.1718553
+Kanchanaburi Province	1908777	98.9054091	14.6945305
+Plungės rajono savivaldybė	1360452	21.8335406	55.9539159
+Bad Neuenahr-Ahrweiler	378389	7.1216916	50.5300977
+Meuselbach-Schwarzmühle	1273289	11.0918813	50.5735323
+Betzdorf-Gebhardshain	7649403	7.8396652	50.7452292
+gmina Kobylin-Borzymy	3094542	22.6692282	53.0820210
+Villar de los Navarros	345734	-1.0205301	41.1698881
+La Croix-de-la-Rochette	121613	6.1195054	45.4752322
+Villamediana de Iregua	343451	-2.3937530	42.4313665
+Rotenturm an der Pinka	196252	16.2804496	47.2618683
+Fabbriche di Vergemoli	42795	10.3667228	44.0271689
+Aubigny-les-Clouzeaux	5815725	-1.4842769	46.6122955
+Notre-Dame-de-l'Île-Perrot	7696234	-73.9038623	45.3710606
+Duck Creek Cooling Pond	237974	-89.9612186	40.4806224
+Saint-Édouard-de-Maskinongé	7711435	-73.1397240	46.3288301
+Municipio Pampa Grande	4511438	-64.1764783	-17.9339696
+Microrregião de Serrinha	4606180	-39.3424465	-11.5161807
+Microrregião de Salvador	4606178	-38.4482831	-12.7962039
+Valaškovce (vojenský obvod)	2322594	22.0782052	48.8969760
+Eggby-Istrum distrikt	6414338	13.6105091	58.4393242
+Samtgemeinde Nenndorf	2972353	9.3751234	52.3499115
+Chodorówka Stara-Kolonia	6848153	23.1662684	53.5286730
+Provincia de Chacabuco	1673446	-70.7275284	-33.1533570
+Kurung Kumey district	3841144	93.3187735	28.0202985
+Pollranny (Lynchaghan)	5764244	-9.8932470	53.9460434
+Boolinarig School Land	4240265	-7.8975101	53.1241469
+Bezirksteil Echarding	5428611	11.6174614	48.1273656
+Chvalov u Červených Janovic	427723	15.2826427	49.8282419
+Abbots Ripton CP (Hunts)	1627232	-0.1886132	52.3861013
+Maluti-a-Phofung Ward 10	3596574	28.7702189	-28.5803400
+Lergadaghtan Mountain	4124330	-8.6706977	54.6473190
+Residencial Joana d'Arc	6819277	-54.6272718	-20.5217302
+Thunderbird Residence	1418094	-123.2484362	49.2596019
+Condomínio Solar Oriente	6010702	-53.7965641	-29.6901783
+Condomínio Villa Fortuna	7848166	-38.4475925	-3.8731968
+Steinberg-Deckenhardt	5637293	7.1141679	49.5408292
+Piazza Beniamino Gigli	2707685	12.4957299	41.9005031

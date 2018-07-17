@@ -1,0 +1,7 @@
+Sedibeng District Municipality	594496	28.1015083	-26.5479400
+Masilonyana Local Municipality	593829	26.5900878	-28.6274200
+Municipio San Ignacio de Velasco	4511303	-61.0244511	-15.1069643
+Curraghmore Electoral Division	6804624	-8.5018323	53.5574385
+Parque Residencial Cidade Alta II	7691623	-54.6004912	-16.4677417
+Bezirksteil Schwere-Reiter-Straße	66998	11.5575830	48.1620211
+Piazza di San Pietro in Montorio	2770221	12.4668739	41.8886268

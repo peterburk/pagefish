@@ -1,0 +1,31 @@
+Villeneuve-les-Sablons	532299	2.0759136	49.2331982
+Tilloy-lez-Marchiennes	56324	3.3140556	50.4314515
+Saint-Thomas-en-Argonne	2635290	4.8647988	49.1896026
+Sainte-Anne-sur-Vilaine	145264	-1.8128464	47.7361328
+Landkreis Bad Kreuznach	62741	7.6728415	49.8182518
+Archipiélago Los Testigos	3473019	-63.0511123	11.3831739
+Walallawita DS Division	5745917	80.1943715	6.3995633
+Pachalik de Jorf El Melha	5011851	-5.5059624	34.4914350
+Landkreis Bad Kissingen	62406	10.0023408	50.2275595
+Le Tremblay-sur-Mauldre	946242	1.8764564	48.7859808
+Microrregião de Bodoquena	4831918	-56.1818546	-21.2407336
+Municipality of Oropos	2081958	23.7715233	38.2456156
+Valencina de la Concepción	342570	-6.0636751	37.4233491
+Eesti SEJ settebassein I	3581831	27.9629552	59.2880308
+gramoznica Stanko Polanič	5122007	16.1840770	46.5934369
+Klingbach-Panzergraben	3469227	8.2564597	49.1511831
+Teniente Esteban Martínez	6590352	-59.7561724	-23.9712786
+Muromtsevsky District	1314134	75.4456073	56.3136835
+Departamento La Capital	3550091	-60.6316381	-31.4931515
+Samtgemeinde Kirchdorf	1250476	8.7540846	52.6082092
+Madinat Khalifa North (32)	1922280	51.4749013	25.3286448
+Residencial Mangueiras	4142019	-48.2764554	-15.9446416
+Woodhouse or Tinakilly	5876792	-7.7870323	52.0773713
+Jardim Ipiranga - Continuação	5741327	-49.2714062	-16.8221976
+Parish of West Wratting	1632834	0.3317504	52.1447731
+Weston-under-Redcastle	6810006	-2.6450201	52.8552261
+Circolo di Lugano ovest	1689483	8.9377685	45.9833475
+Parque Riacho das Pedras 1ª Seção	5535360	-44.0537427	-19.9483710
+Osiedle 2. Pułku Lotniczego	3250768	20.0080888	50.0793189
+Piazzetta VII Settembre	3614517	14.2495028	40.8472916
+Villarrubia de los Ojos	340224	-3.6534108	39.2163834

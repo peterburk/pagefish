@@ -1,0 +1,31 @@
+Blangerval-Blangermont	2917305	2.2226353	50.3256043
+Montgaillard-Lauragais	155463	1.7073107	43.4293348
+Saint-Julien-en-Vercors	60445	5.4537281	45.0600127
+Villanueva de Argecilla	347335	-2.9175090	40.9006015
+Eshkol Regional Council	1473950	34.4079894	31.2529797
+Nossa Senhora de Machede	6439487	-7.7719258	38.5585149
+Salome Creek;Salome Lake	3919352	-81.9237032	47.3206054
+Boulder Lake;Bryce Creek	3996025	-82.2636120	48.2103768
+Berlin Fish and Game Pond	4115092	-72.4154038	41.4474824
+Circle Lake;Circle River	4461293	-80.0739081	49.1978043
+Zolotetskoe reservoir	2763128	34.6633305	64.4990411
+Swarkestone gravel pit	2217742	-1.4571461	52.8459546
+Second Christopher Lake	1071127	-64.9940073	44.3213314
+Weil im Schönbuch (Kernort)	4868138	9.0599341	48.6165837
+Gemarkung Niederraunau	1386028	10.3911512	48.2262207
+Chminianske Jakubovany	2320230	21.0017074	48.9925495
+Carn Electoral Division	6882753	-7.5516222	54.0711905
+Cams Electoral Division	6829328	-8.2732493	53.6664808
+Flinders Ranges Council	6805430	138.2140156	-32.1344681
+Gemeinde Rohr im Gebirge	110422	15.7219800	47.8851560
+Sofiivska Borschahivka	3572141	30.3613129	50.4099241
+Chminianske Jakubovany	2320096	21.0017074	48.9925495
+Samtgemeinde Barnstorf	1621068	8.5083782	52.7016963
+Provincia de Marga Marga	1561140	-71.2508763	-33.0811212
+Condomínio Uma Grande Família	5395608	-53.7221414	-29.6963522
+Surribas e Fonte do Ouro	5756831	-8.2504953	42.1066395
+Jardim Riacho das Pedras	5535344	-44.0604893	-19.9664150
+Quartier Cite Fairmont 2	4831108	-4.0368889	5.3590583
+Lotificacion El Rosario	6307876	-89.6761897	13.8629657
+Municipio de Jacinto Aráuz	3418154	-63.4715057	-38.2010048
+Largo Enrico Berlinguer	3812691	12.4809257	41.8950638

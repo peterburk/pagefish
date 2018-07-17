@@ -1,0 +1,43 @@
+Saint-Julien-de-l'Escap	155489	-0.4889858	45.9291269
+Vantoux-et-Longevelle	373429	5.8429280	47.4495692
+Villeneuve-sur-Bellot	1320569	3.3342902	48.8773219
+Guignicourt-sur-Vence	3281991	4.6408909	49.6882526
+Challand-Saint-Anselme	2202524	7.7630439	45.7154622
+Santa Catarina Juquila	5999979	-97.3303514	16.1799826
+Theniet El Had District	6822747	1.9670611	35.8470198
+Landkreis Nordsachsen	62547	13.0383007	51.4420827
+Landkreis Germersheim	62698	8.3143677	49.1321473
+San Germano Vercellese	44737	8.2549030	45.3577018
+La Terrasse-sur-Dorlay	127163	4.5808498	45.4479109
+Municipio de Río Gallegos	3439487	-69.2697593	-51.6474778
+Fiumefreddo di Sicilia	39364	15.2064388	37.7861104
+Burgauberg-Neudauberg	109734	16.1241221	47.1577485
+Central Banat District	1639821	20.5136532	45.4355598
+Bassillac et Auberoche	6837676	0.8685662	45.1576798
+Changi Creek Reservoir	2338150	103.9955141	1.3875333
+Potterwallkagee Creek	4616812	141.3780711	-34.1446578
+Bang Tanai Subdistrict	2694937	100.4901525	13.9371992
+Vereda Carmen de Bulira	2280222	-75.1847644	4.3231556
+Little Rock Island Lake	5985183	-110.2457026	54.0554963
+Bad Teinach-Zavelstein	1183355	8.6665383	48.6993063
+Vallfogona de Balaguer	347882	0.8169269	41.7530881
+Gemeinde Fels am Wagram	107125	15.8341096	48.4599192
+Asentamiento Aeroclub	3604997	-65.2718688	-24.2365123
+Stillorgan-Merville ED	4217379	-6.2013615	53.2824938
+Sant Julià del Llor i Bonmatí	341397	2.6487992	41.9780036
+Bakerganj Subdistrict	4644904	90.4224098	22.5623905
+Nowa Grzybowszczyzna	6845495	23.7218529	53.2152997
+Área 2 de Transição Urbana/Rural	5543346	-42.6701834	-19.4799740
+Illaunawehicky Island	4023037	-9.5594566	53.2704737
+Maluti-a-Phofung Ward 27	3596592	28.8213838	-28.5227081
+Maluti-a-Phofung Ward 18	3596582	28.8353300	-28.5671700
+Zemborzyce Tereszyńskie	2585916	22.4432871	51.1849187
+Baixa Grande do Ribeiro	302841	-45.1171142	-8.5125001
+Condomínio Terra de Minas	7318719	-44.2954337	-20.0717201
+Errol Golfside Village	2073059	-81.5275674	28.7087779
+Lake Jessamine Estates	2064887	-81.3769891	28.4848962
+Condomínio Montes Verdes	5378412	-53.8065671	-29.6692145
+Multifamiliar La Villa	7188471	-75.7489073	4.8071684
+Villanueva (Municipio)	5720941	-86.7910874	12.9448785
+Municipio de Garibaldi	4142187	-61.8591770	-31.6592822
+Plaza de Santa Catalina	2623234	-1.1327651	37.9849969

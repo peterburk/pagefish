@@ -1,0 +1,28 @@
+Landes-Vieilles-et-Neuves	3010032	1.6356172	49.7849312
+Saint-Gengoux-le-National	919265	4.6637472	46.6092667
+Saint-Romain-de-Monpazier	3247732	0.8854982	44.7209027
+Freienfeld - Campo di Trens	47330	11.5089546	46.8571866
+San Francisco Tlapancingo	5999750	-98.2574080	17.4806034
+Khemis El Khechna District	4275314	3.3450943	36.6355751
+La Villeneuve-les-Convers	146141	4.5902468	47.5756667
+Mönchpfiffel-Nikolausrieth	2387351	11.3645820	51.3755088
+Castiglione della Pescaia	42170	10.8911980	42.8208843
+Villamor de los Escuderos	345352	-5.5793675	41.2495222
+Jakubov u Moravských Budějovic	442171	15.7575937	49.0872219
+Sidi Slimane Moul Al Kifane	2808055	-5.4429363	33.8416362
+Parroquia Urbana Achaguas	2714673	-68.2438350	7.7747680
+Milfair Creek;Milfair Lake	4144911	-86.6711399	49.6143134
+Embalse del Guadalmellato	1181081	-4.7091175	38.0719824
+Alimmainen Penninkilampi	7322546	24.4573132	63.3256180
+Juan de Fuca Electoral Area	7848479	-124.1244783	48.4737629
+Gersdorf an der Feistritz	3881709	15.8456143	47.1379042
+Creagh Electoral Division	4207454	-8.1711612	53.3274130
+Lackan Electoral Division	6808067	-8.1648110	53.5259439
+Bystroistoksky District	1150950	84.3232048	52.3290599
+Oldtown or Puddingstreet	3359605	-7.7783762	53.4639405
+Conjunto Margarida Procópio	7624974	-49.1882015	-16.6894421
+Brookthorpe-with-Whaddon	181347	-2.2369061	51.8120925
+Jakubov u Moravských Budějovic	426089	15.7575937	49.0872219
+Barri de Can Puig - Banyoles	4113368	2.7763694	42.1219503
+Casa Maria Apartment Homes	2204591	-116.1612159	33.6720862
+Lavilleneuve-aux-Fresnes	6820316	4.8480059	48.2213052

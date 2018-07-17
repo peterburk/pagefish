@@ -1,0 +1,87 @@
+Courcelles-sur-Vesle	969479	3.5777603	49.3462909
+Villez-sous-Bailleul	74816	1.3638032	49.1054497
+Ferrières-Saint-Hilaire	3333238	0.5685190	49.0289059
+Martainville-Épreville	1672484	1.2882656	49.4506774
+Saint-Aubin-du-Perron	1107395	-1.3819736	49.1543638
+Fontenai-les-Louvets	3295858	0.0092131	48.5302765
+Saint-Martial-d'Albarède	3252401	1.0407631	45.3205120
+Saint-Seurin-de-Bourg	2906395	-0.5800805	45.0516860
+Dommartin-sur-Vraine	939912	5.9132903	48.3437214
+Castelnau-Rivière-Basse	1812983	-0.0337770	43.5794753
+Laneuville-sur-Meuse	929380	5.1419087	49.4959119
+Saint-Ouen-des-Alleux	972316	-1.4334027	48.3286033
+Saint-Eutrope-de-Born	3228789	0.7055688	44.5791976
+Saint-Santin-de-Maurs	2865524	2.2003832	44.6534091
+Dampierre-sous-Bouhy	157442	3.1288891	47.5064184
+Oberbergischer Kreis	62373	7.5243532	51.0346131
+Saint-Michel-Chef-Chef	93875	-2.1284949	47.1703911
+Saint-Julien-le-Petit	116646	1.6929248	45.8208515
+Villafranca Piemonte	43588	7.4769079	44.7907843
+Le Grand-Village-Plage	113760	-1.2391130	45.8645382
+Caicos and East Caicos	4022028	-71.5039938	21.7036936
+Athens - Clarke County	1020709	-83.3973781	33.9436035
+Garbagnate Monastero	46030	9.3045827	45.7674115
+caïdat de Souira Laqdima	5369223	-9.3116683	31.9905767
+Microrregião de Tijucas	4836705	-49.0716923	-27.3945000
+gmina Kuźnia Raciborska	2827215	18.3564403	50.2065887
+Kelurahan Kamalaputi	7234735	120.2647926	-9.6476199
+Parroquia La Sabanita	2595473	-63.5534141	8.0947553
+Laguna de Cuyutlán Vaso 2	1937294	-104.2811840	19.0235138
+Represa Guarapiranga	2888948	-46.7580405	-23.7346935
+Plan d'eau de Louvarel	2934375	5.3229892	46.4947459
+Canal do Furado Grande	2848999	-51.2214838	-29.9768365
+São Domingos de Ana Loura	6439072	-7.5119694	38.8711528
+Makwa Creek;Makwa Lake	3935739	-81.7227216	47.5365935
+Gemeinde Aspang-Markt	910594	16.0916024	47.5521094
+Schlossteich Borbeck	2012128	6.9426410	51.4686529
+Estanque de los Patos	7397811	-5.8506597	43.3623926
+Lahdenpohja District	1020363	30.0951135	61.3970346
+Microrregião de Boquira	4558480	-42.4548215	-12.7050809
+Vila Fernando Ferrari	7275040	-49.9690583	-29.5364076
+Gemarkung Hailtingen	88425	9.5444243	48.1351811
+Santo Antônio do Boqueirão	6117093	-46.7272581	-16.3192591
+Nossa Senhora das Graças	1900785	-41.5494140	-20.4030673
+Bromma stadsdelsområde	5689303	17.9311517	59.3415353
+J. P. Coleman State Park	7193930	-88.1698939	34.9314620
+Nossa Senhora das Graças	6307750	-50.0016745	-24.8222636
+Nossa Senhora das Graças	7215620	-50.0016745	-24.8222636
+Nossa Senhora das Graças	5548953	-41.9493361	-18.8471393
+Nossa Senhora das Graças	7826584	-43.8587795	-16.7628232
+Nossa Senhora das Graças	7582545	-45.4256977	-21.5736118
+Bonniamillish Island	6768031	-9.2671953	53.7167641
+Bezirksteil Daglfing	66114	11.6574695	48.1478083
+Nossa Senhora das Graças	7175004	-60.0198986	-3.1040834
+Ballywilliam Demesne	6133770	-8.9071327	52.5143682
+Nossa Senhora das Graças	6262513	-48.2783152	-18.8720187
+Nossa Senhora das Graças	2745665	-51.1921063	-29.2140316
+Nossa Senhora das Graças	6634546	-48.6812456	-26.8722503
+St Cross, South Elmham	4788141	1.3786752	52.4036324
+Commons (6th Division)	4551772	-6.7775779	53.5529713
+Condomínio Bosque dos Ipês	3115570	-47.0194324	-19.5421949
+Corstown ( E.D. Dunleer)	5383969	-6.3700485	53.8411734
+Nossa Senhora das Graças	7258292	-51.1447864	-29.9404368
+Kgetlengrivier Ward 4	3668079	26.8868660	-25.8453632
+Greater Tzaneen Ward 7	3656064	30.3747600	-23.6412938
+Nossa Senhora das Graças	5994885	-45.9850864	-20.0128845
+Bezirksteil Südgiesing	66116	11.6007654	48.0939986
+Nossa Senhora das Graças	5543280	-42.6328019	-19.5757677
+Tierra de Sueños Casilda	5532615	-61.1242966	-33.0412993
+Blue Crane Route Ward 6	3579919	25.4599905	-32.9722316
+Greater Tubatse Ward 4	3663698	30.2122292	-24.6169653
+Nossa Senhora das Graças	6484611	-46.6073991	-20.7369171
+Kooperatif Mahallesi	5421477	40.2188005	37.9253346
+Kaynartepe Mahallesi	5504778	40.2133437	37.9219662
+Santa Colomba de Curueño	344179	-5.4063336	42.7512122
+San Carlos (Municipio)	5758820	-84.8339109	11.1780572
+Nossa Senhora das Graças	297537	-51.7878500	-22.9170001
+Tauragės miesto seniūnija	4273243	22.2923426	55.2509170
+Castelnau-Rivière-Basse	2520305	-0.0239850	43.5433244
+Lake Catherine Shores	2099087	-81.3732756	28.6204273
+Najafgarh Park Colony	3551718	76.9827912	28.6188798
+Residencial Victoria	6807794	-89.2334291	13.6742703
+Lake Florence Estates	2070415	-81.5000917	28.5669533
+Residencial Zanzibar	6097176	-89.2239682	13.7246197
+Departamento Tilcara	3556161	-65.3112277	-23.5841905
+Departamento Mburucuyá	3127988	-58.1971602	-28.0110187
+Plaça Maria Aurèlia Capmany	2776292	2.2203740	41.4291138
+Plaça de la Vila de Madrid	305087	2.1719607	41.3845058

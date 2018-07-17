@@ -1,0 +1,6 @@
+Lower Michegama Lake;Michegama Creek	3954159	-81.4762279	48.0803583
+Lower Michegama Lake;Michegama Creek	3954158	-81.4762279	48.0803583
+Parroquia San Francisco de Tiznados	2497258	-67.7512119	9.4907534
+Roscommon Rural Electoral Division	6826265	-8.1908349	53.6306136
+Providence Island at Queens Harbour	6787796	-81.4560224	30.3366472
+Fisherman's Village Apartment Homes	1997782	-81.3080846	28.4922981

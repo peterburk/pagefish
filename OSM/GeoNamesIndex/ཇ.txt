@@ -1,0 +1,4 @@
+Landkreis Sächsische Schweiz-Osterzgebirge	62485	13.9238296	50.9033863
+Gemeindeverwaltungsverband Raum Bad Boll	2825290	9.6064179	48.6480383
+Verwaltungsgemeinschaft Biberach an der Riß	2951721	9.8053073	48.0652524
+Ciudad Universitaria Rodrigo Facio Brenes	6215882	-84.0433604	9.9407672

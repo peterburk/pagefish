@@ -1,0 +1,35 @@
+Notre-Dame-de-Bondeville	113532	1.0407087	49.4887061
+Champagne-sur-Vingeanne	152599	5.4073645	47.4411097
+Saint-Quentin-Fallavier	79637	5.1027737	45.6392083
+South Sinai Governorate	3060793	33.8711312	28.6449563
+Roche-Charles-la-Mayrand	2371093	3.0251655	45.4505600
+Cousances-lès-Triconville	2993327	5.4018733	48.7703268
+Vieille-Église-en-Yvelines	957111	1.8671985	48.6688975
+Distrito Atencio al Este	2804280	-58.3634968	-30.7159894
+Norddjurs Municipality	1926320	10.6086888	56.4511783
+Municipio de Chañar Ladeado	4069955	-62.0149996	-33.2861459
+Doboj East municipality	2528183	18.1904343	44.7378718
+Municipio de Androsetti	4208459	-61.5268601	-29.9759415
+Nefteyugansky District	1129847	71.6935252	60.2832569
+Stevens Creek Reservoir	409604	-122.0809612	37.2919088
+Nieuwe Diep (Benedendiep)	5712943	4.9545333	52.3616047
+Indals-Lidens kommundel	2776032	16.6764290	62.7286754
+Okny Settlement Council	7543997	29.4506898	47.5791257
+Kelleythorpe Trout Lake	4038824	-0.4548403	53.9923711
+Tonglinglu Subdistrict	7424427	117.3253724	31.8690072
+Kulchytsi Rural Council	2532051	23.2947068	49.5100698
+Zona XXVI Castel di Decima	5358596	12.4676976	41.7317468
+Ardbrackan or Wrightown	4577283	-6.7099185	53.5423761
+Residencial Morro do Sol	5536871	-44.5834382	-20.0903012
+Royal Palms Subdivision	4088960	-116.1749894	33.6713423
+Royal Palms Subdivision	4088961	-116.1751919	33.6720911
+Lucky Ville Subdivision	1556152	120.9757428	14.4233962
+Qingshuitang Reservoir	2682832	107.1913094	29.5764516
+Stoney Falls Apartments	7068937	-84.4734672	37.9700610
+Terre Rouge Subdivision	4270456	-103.8179515	44.5045530
+Carron Valley Reservoir	1110399	-4.1057405	56.0338314
+Piazza Giuseppe Mazzini	7175566	10.9271115	44.6466958
+Agiou Visarionos Square	7428624	22.4195186	39.6401391
+Piazza Giuseppe Mazzini	5540472	13.4547183	43.2991045
+Cooksville Four Corners	3445165	-79.6159504	43.5802378
+Piazza Giuseppe Mazzini	6044166	15.0849205	37.5018042

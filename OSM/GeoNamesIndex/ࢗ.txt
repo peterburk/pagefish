@@ -1,0 +1,55 @@
+Saint-Nazaire-les-Eymes	80470	5.8437752	45.2655263
+Saint-Victor-de-Cessieu	83818	5.3827428	45.5377020
+Dampierre-sur-Boutonne	152912	-0.3907505	46.0745624
+Illkirch-Graffenstaden	75143	7.7318593	48.5223295
+Azannes-et-Soumazannes	919968	5.4583343	49.2882491
+Montigny-lès-Vaucouleurs	2966194	5.6039124	48.5790971
+Foucaucourt-sur-Thabas	927397	5.1052836	49.0070311
+Gallargues-le-Montueux	390739	4.1756558	43.7136709
+Saint-Calez-en-Saosnois	107539	0.3131496	48.3060584
+Saint-Jean-des-Mauvrets	332691	-0.4570732	47.3840707
+Sauveterre-de-Rouergue	115839	2.3136790	44.2503808
+Saint-Julien-de-Toursac	2073465	2.2106983	44.7707454
+Rokiškio rajono savivaldybė	1111073	25.6811568	55.9536487
+Konyshyovsky District	1645644	35.3042765	51.9063269
+Clarence Valley Council	6143220	152.7922751	-29.6945597
+Castelvecchio Calvisio	41933	13.6847370	42.3089278
+San Demetrio ne' Vestini	49121	13.5550455	42.2755594
+Fontaines-sur-Grandson	1684975	6.5992709	46.8538933
+caïdat de Houara Oulad Raho	4761813	-3.2987788	34.1969712
+Montenero Val Cocchiara	41477	14.0804928	41.7110766
+Gemeinde Klein-Neusiedl	111819	16.5923178	48.0960336
+Pedro Vicente Maldonado	3810338	-79.0400619	0.1612052
+Laughing Whitefish Lake	3693809	-87.0422593	46.4193653
+Dyer Lake;Metcalfe Creek	5149566	-87.6642859	50.1374342
+Franziskanerwasser A 3.2	2527841	11.4742878	48.7561651
+Whitlingham Great Broad	179864	1.3326362	52.6227653
+Diana Memorial Fountain	1972843	-0.1711107	51.5046407
+Clarke Creek;Conlin Lake	6632609	-98.6729502	54.7479635
+Clondalkin-Monastery ED	4596749	-6.3756930	53.3222695
+Östermalms stadsdelsområde	5695415	18.0984320	59.3466834
+Ward 150 Avvai Nagar South	114819	80.2710646	13.0209506
+Residencial Barravento	6870208	-49.3068945	-16.6220664
+Residencial Monte Carlo	6357692	-51.4584019	-22.1531857
+Weston under Wetherley	3552991	-1.4709178	52.3207352
+Lilford-cum-Wigsthorpe	6597310	-0.4748413	52.4374391
+Başakpınar Gaziler Mahallesi	3449480	35.6187639	38.6527405
+Voděrady u Rychnova nad Kněžnou	428652	16.1475720	50.2081598
+Wroxeter and Uppington	4600518	-2.6037893	52.6718072
+Residencial Monte Carlo	7289823	-54.8508233	-22.2071892
+Tullyvallan (Macullagh)	5266632	-6.5814827	54.1381674
+Novo Horizonte do Oeste	325865	-62.0847500	-11.6895001
+Kendall Lake Apartments	7153728	-81.5505405	30.3401264
+Departamento Sanagasta	3586753	-67.0614159	-29.1455686
+Santiago de Lucanamarca	1931012	-74.5043514	-13.8286029
+Saint-Sulpice-la-Pointe	144552	1.6903847	43.7566033
+Piazza Giovanni Paolo II	2233999	17.2125207	40.9935241
+Piazza Giovanni Paolo II	2233998	17.2122514	40.9930709
+Piazza Giovanni Paolo II	7144520	15.0554369	37.6187812
+Piazza Giovanni Paolo II	2788399	12.5050036	41.8863991
+Piazza Giovanni Paolo II	2187084	13.1587561	41.7424415
+Piazza Giovanni Paolo II	7619348	10.2788063	45.5841115
+Piazza Giovanni Paolo II	3914196	10.2060489	45.9472115
+Piazza Giovanni Paolo II	6081627	15.0759472	37.5438874
+Christian Science Plaza	1723651	-71.0835021	42.3443473
+Piazza Giovanni Paolo II	3895117	7.7015937	45.1487052

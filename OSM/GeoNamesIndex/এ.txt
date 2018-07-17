@@ -1,0 +1,21 @@
+Élincourt-Sainte-Marguerite	1433699	2.8216543	49.5292859
+Villefranche-de-Lauragais	126283	1.7157201	43.4066809
+Saint-Gervais-sur-Roubion	1929977	4.8980588	44.5846068
+Arrondissement des Gonaïves	392359	-72.5920453	19.4736170
+Ziama Mansouriah District	6820024	5.5122066	36.6151345
+Bocana El Pecho o Los Jiotes	7252648	-87.8494076	13.4196994
+Viade de Baixo e Fervidelas	4022991	-7.8571068	41.7405239
+Saint-Étienne-de-Beauharnois	7765241	-73.9010089	45.2341538
+uMdoni Local Municipality	610722	30.6766177	-30.3507600
+Neuteich Kleinsaubernitz	2973387	14.6120500	51.2725913
+Bolsherechensky District	1314117	74.3959817	56.1909836
+Chválkov u Kamenice nad Lipou	426373	14.9769435	49.3227616
+Michalovice u Velkých Žernosek	429462	14.0840552	50.5374262
+Eyton upon the Weald Moors	7011581	-2.5145553	52.7307961
+Dethick, Lea and Holloway CP	946709	-1.5048576	53.1135720
+Ludwigshafen-Gartenstadt	68545	8.4037531	49.4636619
+Villefranche-de-Lauragais	2734471	1.7067299	43.4057301
+Autobahnanschlussstelle	5929200	11.6619111	52.2122145
+Urbanizacion Los Naranjos	2691095	-16.4474949	28.4663136
+Barrio Universitario Bajo	4515883	-66.1464395	-17.4406959
+Plazoleta de San Francisco	6169427	-76.5335695	3.4495461

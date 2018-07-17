@@ -1,0 +1,56 @@
+Pommier-de-Beaurepaire	167682	5.1061939	45.3885699
+Saint-Hilaire-du-Harcouët	975372	-1.0854618	48.5714837
+Saint-Hilaire-du-Harcouët	5812082	-1.1394292	48.5678929
+Hauteville-la-Guichard	1071098	-1.3019356	49.1255371
+Saint-Remy-sous-Broyes	1771146	3.7703655	48.7046634
+Lavelanet-de-Comminges	124272	1.1141337	43.2545623
+Saint-Loup-sur-Semouse	161095	6.2655906	47.8910828
+Villeneuve-les-Corbières	1411829	2.7747936	42.9620667
+Saint-Martin-de-Villeréal	3231355	0.8150285	44.6389499
+Saint-Amans-de-Pellagal	145040	1.1287802	44.2228019
+Srirangapattana taluk	4481913	76.7039324	12.4014822
+La Gonterie-Boulouneix	145385	0.5837861	45.3811049
+Santa Giustina in Colle	45322	11.8943659	45.5796106
+Stadtbezirk 06 Sendling	54393	11.5483866	48.1159213
+Municiplaity of Tearce	2615128	21.0499952	42.0962640
+Pinzano al Tagliamento	179200	12.9411718	46.1789492
+Santovenia de Pisuerga	343469	-4.6612481	41.7041131
+Morsano al Tagliamento	179186	12.9424304	45.8570841
+Varvarin Municipality	2867203	21.2611079	43.7451333
+Portico e San Benedetto	42790	11.7201835	44.0037135
+Santa Cruz del Comercio	346795	-3.9728958	37.0632675
+Cheryomushki District	1281263	37.5647515	55.6651507
+Bernstadt auf dem Eigen	418663	14.8264205	51.0469109
+Hells Canyon Reservoir	4047643	-116.7616208	45.1108836
+Presidencia Roque Sáenz Peña	1656397	-60.4375831	-26.7933663
+Thayetchaung Township	5996865	98.4217245	13.6561407
+Santo António dos Olivais	6386153	-8.3922104	40.2082141
+Nogueira e Silva Escura	5923281	-8.5809101	41.2462599
+Domazhyr Rural Council	2552859	23.8391296	49.9075553
+Loch Baile Mhic Chailein	2745774	-5.2217552	56.5771193
+Little Falls Reservoir	6191020	-117.8858038	47.8390730
+Quartier de la Chapelle	2195144	2.3646817	48.8932086
+Torrelles de Llobregat	346099	1.9700267	41.3546045
+Kyaukpadaung Township	5996665	95.2805267	20.8295290
+Kolchuginsky District	389673	39.4345852	56.2846038
+Lychakivskyi District	2126564	24.0735757	49.8387308
+Brasher Falls-Winthrop	176291	-74.7961633	44.8010830
+Torrelles de Llobregat	2214609	1.9820388	41.3568628
+Carrickavrantry North	5651271	-7.1840116	52.1777597
+Jardim Novo Prudentino	3513599	-51.4576346	-22.1621826
+Gosford and Water Eaton	4155866	-1.2703837	51.8003156
+Kilmaloo or Clashganny	5903452	-7.8039177	51.9950048
+Cruzeiro de Santo Antônio	5547015	-43.4141866	-21.7766825
+Vila Furtado de Menezes	5547073	-43.3329517	-21.7718150
+Residencial Nenê Garpelli	7751536	-47.8456372	-23.0582210
+Pindorama do Tocantins	336841	-47.5797500	-11.1970000
+Rosental an der Kainach	51336	15.1117508	47.0491787
+Sun Prairie Apartments	3696806	-93.7927535	41.5907609
+Conjunto Bruno Ferrari	404437	-35.7571761	-9.6194230
+Yuanyangchi Reservoir	6698658	98.8645328	39.8669195
+Zdziechowice Pierwsze	7009484	22.1179420	50.7977779
+Saint-Martin-de-Pallières	2698762	5.8883016	43.5769983
+Berpizkundearen plaza	6831157	-2.6651760	42.8413891
+Mariupol Municipality	2900753	37.5865070	47.1286979
+Kurianky Rural Council	6587718	26.3742760	50.1039794
+Rathmines West Ward (1946)	5610576	-6.2691738	53.3201627

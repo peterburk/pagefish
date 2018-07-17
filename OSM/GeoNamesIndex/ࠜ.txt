@@ -1,0 +1,40 @@
+Saint-Étienne-du-Vauvray	536118	1.2166201	49.2417959
+Charleville-sous-Bois	1685906	6.4106458	49.1929373
+Saint-Jean-de-Liversay	339187	-0.8805197	46.2819203
+Bettancourt-la-Longue	2767801	4.8797864	48.8336902
+Saint-Martin-de-Sescas	93270	-0.1690495	44.5850774
+Villeneuve-les-Bordes	1403579	3.0232170	48.4947472
+Sainte-Croix-en-Plaine	69062	7.3902887	48.0096552
+L'Hôpital-sous-Rochefort	570463	3.9358152	45.7721489
+Sainte-Agathe-en-Donzy	122496	4.3076323	45.8358386
+Saint-Jean-aux-Amognes	161182	3.3391803	47.0079422
+Mesorregião Leste Goiano	4874109	-47.9257510	-15.2055589
+Saint-Sornin-la-Marche	278762	0.9906836	46.1930539
+Kecamatan Rokan IV Koto	7834624	100.3543360	0.5803866
+San Esteban Atatlahuca	5999730	-97.6895502	17.0748662
+Barbadillo del Mercado	343868	-3.3586630	42.0462945
+San Biagio Saracinisco	41414	13.9504389	41.6264572
+Sotillo de las Palomas	343001	-4.8505231	40.0925136
+Grand Étang de Chardenoux	3046950	5.2808346	46.5821524
+Argentat-sur-Dordogne	6837624	1.9404253	45.1165803
+Amelia Lake;Makwa Creek	3935728	-81.7298559	47.5043241
+South River Reservoir	3187984	-70.7325775	42.0530148
+Saint-Luc-de-Vincennes	7711548	-72.4092374	46.4909880
+Ljusnarsbergs kommun	935563	14.9866315	59.9349237
+Reichenbach am Heuberg	1231964	8.8433188	48.1362497
+Vilske-Kleva distrikt	4486233	13.4211931	58.2203761
+Stora Mellby distrikt	6801072	12.5911327	58.1618639
+Norman's Cove-Long Cove	2834429	-53.6935195	47.5697345
+Microrregião de Altamira	4826883	-54.2670742	-6.0697869
+Jijoca de Jericoacoara	302593	-40.5085596	-2.8755367
+Tokaryovsky District	1777920	41.1768902	51.9972692
+Albrechtice u Lanškrouna	434816	16.6613318	49.9230990
+Jindřichovice u Blatenky	424169	13.8577950	49.3844300
+Donnington and Muxton	7010298	-2.4188948	52.7141684
+Samtgemeinde Isenbüttel	1363363	10.6014554	52.4240677
+Las Casas II Apartments	2205773	-116.1609884	33.6732527
+Las Casas II Apartments	2205774	-116.1629115	33.6742074
+Polo's Apartment Homes	1997436	-81.3125941	28.4957324
+Angelita Tagliapietra	6845933	-57.9961637	-30.7633756
+Urbanització Terra Brava	6434809	2.7330463	41.7339579
+Ann Arbor Charter Township	903166	-83.6745196	42.3025985

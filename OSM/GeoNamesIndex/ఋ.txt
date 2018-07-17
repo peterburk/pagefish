@@ -1,0 +1,5 @@
+Merafong City Local Municipality	599242	27.3741041	-26.3693701
+Clonbullogue Electoral Division	4460256	-7.0980645	53.2644582
+Carrowrevagh Electoral Division	6799080	-8.7738460	53.5540471
+Plaza del Castillo / Gaztelu Plaza	3962390	-1.6425430	42.8168528
+Place de la Bataille de Stalingrad	3465648	2.3696553	48.8837732

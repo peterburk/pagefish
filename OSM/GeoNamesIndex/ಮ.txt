@@ -1,0 +1,5 @@
+Gemeinde Grafenbach-Sankt Valentin	111059	16.0260765	47.6743186
+Westport Rural Electoral Division	6780669	-9.5484133	53.7839040
+Residencial Village Garavelo - 2ª Etapa	5851218	-49.2609036	-16.8162629
+Setor Residencial Leste - Buritis II	4261362	-47.6402786	-15.6148713
+Residencial San Francisco Colonial	6807753	-89.2352926	13.6752620

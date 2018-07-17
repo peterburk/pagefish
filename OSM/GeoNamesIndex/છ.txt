@@ -1,0 +1,11 @@
+Dongxiang Autonomous County	2700756	103.4446175	35.7112552
+Champagne Lake;Pembroke Creek	3935730	-81.6393770	47.5512008
+Bocana de la Quebrada Del Níspero	6704712	-89.6289183	13.5227430
+Microrregião de Lageado-Estrela	556859	-51.9736949	-29.4382662
+Stadtbezirk 15 Trudering-Riem	52747	11.6852957	48.1266781
+Seubersdorf in der Oberpfalz	1028806	11.6200064	49.1595957
+Katastralgemeinde Emmerberg	5887662	16.1028586	47.8200950
+Residencial Recreio Panorama	6870145	-49.3049403	-16.6272834
+Francisco Pizarro (Salahonda)	1311767	-78.5854057	2.3024573
+Sagrato Papa Giovanni Paolo II	3887052	9.3324738	45.5263564
+Parvis du Parc des Cormailles	5676654	2.3893897	48.8143461

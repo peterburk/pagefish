@@ -1,0 +1,11 @@
+Microrregião do Leste Sergipano	3795371	-36.9929519	-10.5383227
+Thulamela Local Municipality	611437	30.8234945	-22.8759651
+Fetakgomo Local Municipality	611574	29.8550225	-24.4153101
+Phumelela Local Municipality	593824	29.2228793	-27.6348701
+Gemarkung Dettingen am Albuch	3653447	10.1449725	48.5941536
+Muingnabo Electoral Division	6096988	-9.6633586	54.2963855
+Loughkeel Electoral Division	6971687	-7.7663257	55.0719003
+Greethill Electoral Division	6325947	-8.8112035	53.2861239
+Tivannagh Electoral Division	4480593	-8.3617121	53.9762919
+Killannin Electoral Division	3996547	-9.3535834	53.3003279
+Municipio de Villa Río Bermejito	1661531	-60.4662131	-25.4580383

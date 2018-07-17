@@ -1,0 +1,42 @@
+Saint-Capraise-d'Eymet	3219290	0.5036862	44.7083775
+Longeville-en-Barrois	2642475	5.2059350	48.7389775
+Courcelles-en-Barrois	2992527	5.4237635	48.8251080
+Branoux-les-Taillades	391419	3.9724336	44.2292134
+Sainte-Eulalie-en-Born	76253	-1.2167632	44.2723885
+Saint-Michel-de-Veisse	120250	2.0502116	45.9507852
+Saint-Nicolas-de-Redon	112498	-2.0655497	47.6363699
+Saint-Michel-le-Cloucq	170058	-0.7468425	46.4906372
+Plessis-Saint-Benoist	1223209	2.0060109	48.4450120
+Pervomaysky District	1170923	43.8274016	54.9489485
+San Francisco Huehuetlán	5999739	-96.9384342	18.2043083
+Microrregião Sete Lagoas	2235365	-44.0248126	-19.1700000
+Microrregião do Médio Oeste	5167424	-37.2351953	-5.8270001
+San Martino di Venezze	44237	11.9029098	45.1201707
+Estero Enganche de Carbón	7102394	-88.6620048	13.2706630
+Parroquia Caraballeda	2442705	-66.8253095	10.5792525
+Municipio José Antonio Páez	7244847	-69.8488103	7.9455834
+North Burntbush River	4606222	-80.1822026	49.6820451
+General Higinio Morínigo	2263975	-56.0532125	-26.0232720
+Tsimlyansk Reservoir	966973	42.9624055	48.1000717
+Robinson-Crusoe-Insel	2905927	9.2909986	47.7708749
+Islotes de la Pimienta	122098	-80.1961221	-3.4164838
+Pervomaysky District	1314056	84.1669867	53.4240374
+Pervomaysky District	1375570	39.7898059	58.5652920
+El Cristo y Buenavista	3910938	-5.8701143	43.3565695
+Cooperativa 10 de Marzo	4803213	-67.9095764	-38.9551789
+Quartier Saint-Victor	2188161	2.3552690	48.8479260
+Väikeheinamaa küla / Lillängin	7497410	24.5147454	59.5535318
+Glushkovsky District	1645641	34.5073750	51.3284302
+Kormilovsky District	1314108	74.1360195	54.9329883
+Pervomaysky District	1752952	40.3697617	53.2074597
+Aclare Cottage Demesne	4727924	-6.6364618	53.8409684
+Residencial Morada do Ipê	6870170	-49.2622017	-16.5900900
+Condomínio Fazenda Solar	7318757	-44.3512756	-20.0468614
+Utenos miesto seniūnija	5561294	25.6107742	55.5016456
+Refugio de los Samanes	6153833	-76.5470731	3.4009171
+Fountains at Rio Pinar	2013625	-81.2584176	28.5125581
+Horsetooth Reservoir	5379637	-105.1541707	40.5528900
+Mittelzentrum Artern	2387421	11.3479583	51.3488589
+Moulay Idriss Zerhoun	2561365	-5.5224200	34.0556013
+Piazza dell'Esquilino	1507670	12.4975688	41.8982364
+Zhongziwan Reservoir	6703822	111.9051021	32.1677315

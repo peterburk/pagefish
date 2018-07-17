@@ -1,0 +1,39 @@
+Honguemare-Guenouville	1223740	0.8191035	49.3788553
+Varneville-Bretteville	2085649	1.0436945	49.6553949
+Saint-Ferréol-de-Comminges	1480035	0.7365244	43.3410127
+Saint-Michel-de-Lapujade	279990	0.0770772	44.5859306
+Plogastel-Saint-Germain	277313	-4.2712191	47.9748401
+Bordj Zemmoura District	4454806	4.8466147	36.2544936
+Municipio de Chiltiupan	7369381	-89.4663587	13.5728383
+Municipality of Dragash	1332198	20.6776155	42.0063461
+Les Contamines-Montjoie	104726	6.7384542	45.7854592
+South Kazakhstan Region	215739	68.7192303	43.2845332
+Municipio de Valle Viejo	7327977	-65.7248526	-28.6275882
+Municipio de Monte Bello	3466502	-65.8902314	-27.4362183
+Municipality of Livadia	1936529	22.8854338	38.4093619
+Kalavryta Municipality	2182850	22.0301590	37.9650709
+Les Quatre-Routes-du-Lot	124337	1.6389476	44.9971233
+Castiglione in Teverina	42118	12.1754079	42.6536150
+Schonach im Schwarzwald	1240838	8.1869152	48.1500093
+Municipio Puerto Acosta	4499654	-69.1218429	-15.5572287
+Ante Puerto Buenos Aires	2364201	-58.3456059	-34.5789571
+Donaustaufer Altwasser	1744143	12.1995631	49.0249563
+Artist Creek;Muriel Lake	3221729	-81.4380795	46.0533195
+Liuguangling Reservoir	3070658	111.9305858	27.2512625
+Płonia-Śmierdnica-Jezierzyce	2871703	14.7387526	53.3544568
+Huanglongtan Reservoir	1924267	110.4557582	32.5295919
+Mantiqueira do Palmital	2962753	-43.7028754	-21.2712190
+Ross Electoral Division	4139092	-9.5512814	53.5664698
+Sagamore Hills Township	3748941	-81.5621868	41.3136347
+Quartier de la Madeleine	2188826	2.3192840	48.8710057
+Burra Eastern Districts	6498125	139.2415012	-33.6444534
+Saint-Jean et Charmilles	2261610	6.1245622	46.2079323
+Bairro Novo das Indústrias	3408702	-43.9943680	-19.9746961
+Santa Maria do Tocantins	336854	-47.8974578	-8.8010000
+Tlaquepaque Apartments	2203008	-116.1632150	33.6773700
+Sector Norte Linda Vista	5839424	-86.3012236	12.1607796
+The Reserve at Schertz II	7188340	-98.2704638	29.4915208
+West Lake Butler Estates	2049750	-81.5670853	28.4855219
+Piazza Principe Umberto	3818692	14.2676695	40.8539153
+Friedrich-Wilhelm-Platz	3200126	6.7612548	51.4320393
+Piazza Vincenzo Spedini	6044165	15.0708952	37.5149156

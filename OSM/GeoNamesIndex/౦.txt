@@ -1,0 +1,4 @@
+Landkreis Garmisch-Partenkirchen	62726	11.0845729	47.5651776
+Unione di comuni Terre di Castelli	6534573	10.9371510	44.4451185
+Baixa da Banheira e Vale da Amoreira	6444785	-9.0430938	38.6587744
+U.F Barreiro de Besteiros e Tourigo	6451768	-8.1713748	40.4930672

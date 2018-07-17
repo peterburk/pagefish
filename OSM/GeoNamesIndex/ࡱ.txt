@@ -1,0 +1,57 @@
+Liancourt-Saint-Pierre	375773	1.9100127	49.2339625
+Beaulieu-les-Fontaines	1433414	2.9210183	49.6673716
+Sainte-Marie-des-Champs	113358	0.7823486	49.6255074
+Provence-Alpes-Côte d'Azur	8654	6.2385723	44.0756091
+Dommartin-lès-Remiremont	941100	6.6349249	47.9888453
+Sainte-Marie-en-Chanois	1744611	6.5199009	47.8411339
+Bourg-Saint-Christophe	149269	5.1371710	45.8854101
+Saint-Jean-de-Maurienne	128281	6.3503036	45.2730038
+Saint-Clément-sur-Durance	971973	6.5776271	44.6480597
+Sainte-Lucie-de-Tallano	2690777	9.0658556	41.6730761
+Niederdorf - Villabassa	47313	12.1722375	46.7285800
+Vasylkiv Municipality	3586905	30.3129901	50.1874255
+cercle de Moulay Yacoub	4807559	-5.1325881	34.0927315
+Tlaltenango de Sánchez Román	5606525	-103.2446739	21.7746322
+Palazzolo dello Stella	179238	13.0937011	45.7826305
+Volokolamsky District	178921	36.0035552	56.0103044
+Derventa municipality	2528182	17.9139822	44.9340913
+Savignano sul Rubicone	42849	12.4043879	44.1164587
+Drohobytskyi District	1749221	23.3043872	49.3402970
+Outhoumphone District	5831737	105.0286476	16.7524786
+Mikhaylovsky District	1059365	39.0746622	54.1730639
+Estany de Romedo de Dalt	6476842	1.3235924	42.7046722
+Freixo de Cima e de Baixo	5830095	-8.1214467	41.2984450
+Cité des sciences de Tunis	1502880	10.1883897	36.8476692
+Pingtouchuan Township	6776085	105.3210808	35.8640759
+Wenjiakouzi Reservoir	4822500	108.7559769	37.3278619
+Jezioro Wysokie Brodno	223251	19.3742082	53.3121068
+Reichelsheim (Odenwald)	451796	8.8477700	49.7005240
+Bartošovice v Orlických horách	440626	16.5401797	50.1944191
+Mikhaylovsky District	1082035	79.6258463	51.8389028
+Saint-Jean-de-Maurienne	1670150	6.9265086	45.3246129
+Jezioro Studzieniczne	3304178	23.1114750	53.8663238
+Ozurgeti Municipality	1995403	42.0000732	41.9113089
+South Ikebukuro 4-chome	3048373	139.7200006	35.7228115
+Samtgemeinde Schwaförden	2268167	8.7658696	52.7594728
+Mikhaylovsky District	1714062	128.6631268	49.7240908
+Carricknaheelia Island	7013809	-10.2369642	53.6227883
+St Lawrence, Ilketshall	4805439	1.4863577	52.4115356
+San Carlos de Horizonte	7328194	-64.1537862	-31.4623033
+Grovesend and Waungron	1395009	-4.0419161	51.6932145
+Bartošovice v Orlických horách	433184	16.5491744	50.1581074
+Village of Four Seasons	140340	-92.7087360	38.2008049
+Mikhaylovsky District	1644091	132.3119760	43.9436127
+Saint-Georges-d'Hurtières	122300	6.2861370	45.5090049
+Tanygrisiau Reservior	6813358	-3.9681476	52.9788466
+Dolenci (Veliki Dolenci)	5423062	16.2848811	46.8484399
+Dolenci (Veliki Dolenci)	5423066	16.2865476	46.8504787
+Dolenci (Veliki Dolenci)	5423069	16.2889397	46.8490247
+Dolenci (Veliki Dolenci)	5423071	16.2878696	46.8516711
+Dolenci (Veliki Dolenci)	5423085	16.2872159	46.8554390
+Dolenci (Veliki Dolenci)	5423092	16.2866986	46.8562173
+Dolenci (Veliki Dolenci)	5423080	16.2880970	46.8537788
+Christenson Reservoir	5636112	-106.5208685	46.9260719
+Lotificación La Esperanza	6666495	-89.4248703	13.7471560
+Radziszewo-Sobiechowo	7045542	22.6338208	52.6572610
+Plazuela de la Rogativa	3613992	-66.1198271	18.4656999
+Plaça de Marcel·lina Monteys	2348759	2.3164927	41.4806047

@@ -1,0 +1,5 @@
+McConnell Creek;Schroder Lake	4154086	-87.9080713	49.8226000
+Villedieu-les-Poêles-Rouffigny	5812091	-1.2230160	48.8247550
+Charneca de Caparica e Sobreda	6444462	-9.1853693	38.6070030
+Monastyrshchinsky District	3345860	31.7687352	54.3274960
+Residencial Pompílio da Fonseca	7506040	-52.6886859	-31.3859763

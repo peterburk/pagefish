@@ -1,0 +1,31 @@
+Saint-Julien-sur-Calonne	280255	0.2312845	49.2879290
+Villeneuve-sur-Verberie	142099	2.6720453	49.2758519
+Millencourt-en-Ponthieu	1363161	1.9135632	50.1484672
+Petit-Palais-et-Cornemps	110583	-0.0504374	44.9822870
+Romagne-sous-Montfaucon	1824519	5.0674585	49.3274750
+Pierrefitte-sur-Sauldre	280548	2.1483678	47.5318959
+Saint-Nicolas-des-Motets	173428	1.0287730	47.5839281
+Saint-Nicolas-de-la-Grave	145049	1.0154591	44.0630842
+Kefallonia Regional Unit	957829	20.5031910	38.2521251
+Saint-Pierre-d'Entremont	114867	5.8446347	45.3830220
+East Retford (Unparished)	6446737	-0.9237241	53.3203640
+Wipptal - Alta Vall'Isarco	6536748	11.3919657	46.8874414
+Cantón San Isidro Los Planes	6480100	-89.2640273	13.7320870
+Parroquia San Jacinto de Búa	287478	-79.4304056	-0.1549862
+Parroquia Cecilio Acosta	2458070	-66.8957379	10.3408243
+Arrowhead Lake;Celt Creek	3616854	-92.9190495	50.7298460
+Parget Lake;Parland Creek	4134430	-87.9219159	49.4384232
+Chamarajanagar district	2019940	77.1065417	11.9514999
+Saint-Pierre-d'Entremont	1874929	5.8778363	45.4172638
+Aille Electoral Division	5740199	-8.6084118	53.1435646
+Ust-Pristansky District	1100151	83.5913398	52.3137165
+Severo-Yeniseysky Rayon	1164603	93.1763560	59.9218638
+Maidan-Karachiievetskyi	7599398	27.2062328	48.9420979
+Mesorregião Sul Amazonense	4775845	-62.9989722	-6.8345000
+Garthorpe and Fockerby CP	1274114	-0.7233176	53.6622894
+Svídnice u Kostelce nad Orlicí	428707	16.2269848	50.0899841
+Vápenice u Starého Hrozenkova	433111	17.8269523	48.9600471
+Saint-Pierre-d'Entremont	1268211	-0.6515675	48.8121003
+Bellagio Apartment Homes	1997429	-81.3124533	28.5088953
+Calle Josefa Reina Puerto	5655358	-5.9973075	37.3912973
+Parque Rafael Uribe Uribe	3871093	-75.6763510	4.5283928

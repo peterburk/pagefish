@@ -1,0 +1,58 @@
+Saint-Georges-d'Aunay	280195	-0.6898675	49.0289957
+Heugleville-sur-Scie	2689687	1.0955285	49.7360385
+Grosbois-en-Montagne	139237	4.6010477	47.3191396
+Heucourt-Croquoison	3087984	1.8837064	49.9288135
+Saint-Jean-de-Savigny	393835	-1.0055871	49.1900653
+Conches-sur-Gondoire	402901	2.7187600	48.8589763
+Verpillières-sur-Ource	3003222	4.5851612	48.0391783
+Dompierre-sur-Besbre	1744272	3.6621133	46.5336683
+Saint-Laurent-de-Veyrès	111915	3.1218272	44.7662520
+Tepetitla de Lardizábal	6000182	-98.3759798	19.2828223
+San Nicolás Buenos Aires	6037784	-97.4848960	19.2214126
+Hammam Delaa District	6821306	4.2818022	35.8397498
+Olevano sul Tusciano	40661	15.0293506	40.6627319
+Gemeinde Trattenbach	83767	15.8814856	47.5926740
+Arroyo de las Fraguas	345634	-3.1396819	41.0245842
+gmina Puszcza Mariańska	337025	20.3475497	51.9836683
+gmina Skarżysko Kościelne	2908899	20.9320782	51.1347236
+gmina Dąbrowa Tarnowska	2777452	21.0263566	50.1787637
+Villar de Domingo García	339524	-2.2799699	40.2100782
+Torzhoksky District	570643	34.9579988	56.9476009
+Jezioro Przywidzkie	2536241	18.3524073	54.2006265
+Grimmelbachspeicher	7198780	10.1826179	50.6137990
+Espírito Santo do Turvo	298102	-49.4226786	-22.6610001
+Plan d'eau des Hurtières	1664642	6.2886862	45.4831791
+El Rosario (Rumichaca)	2661630	-78.5556718	-1.2821462
+Parroquia Fernández Feo	3400347	-71.9191367	7.5983763
+Estero Puerto Arturo	5830882	-87.5074149	12.8139940
+Municipio Filadelfia	4050224	-68.4952399	-11.8672740
+Temryuksky District	364171	37.2940500	45.2642735
+Microrregião de Erechim	567656	-52.3191622	-27.6035444
+la Dreta de l'Eixample	4127732	2.1664706	41.3941239
+Honaunau-Napoopoo CDP	119195	-155.8579718	19.4527798
+Santo Antônio de Nova Belém	6137434	-41.0446685	-18.4953468
+Espírito Santo do Turvo	5684881	-49.4226786	-22.6610001
+Santo Expedito do Sul	242405	-51.6678594	-27.9225092
+São Sebastião do Tocantins	336763	-48.3209604	-5.2430000
+Passagem Franca do Piauí	302734	-42.3991592	-5.8740001
+Altiplano Cabo Branco	3062495	-34.8295161	-7.1339735
+Tattykeel (Brakannah)	4720525	-7.3892962	54.5695237
+Colnbrook with Poyle	3687300	-0.5161494	51.4816702
+Dunkerton and Tunley	2952279	-2.4239613	51.3348931
+Tawnylust Barr Upper	5589181	-8.0437229	54.3147193
+Svatá Kateřina u Rozvadova	431121	12.6028189	49.6641050
+Parque dos Coqueiros	7286648	-54.7968375	-22.2456256
+Şehit Kubilay Mahallesi	5537178	32.8050195	39.9950463
+Şehitmustafa Mahallesi	6548525	34.8912795	36.9148147
+Colônia Juliano Moreira	5520970	-43.3988559	-22.9398088
+Moorerow or Tonlegee	4161069	-7.3515453	53.4400372
+Grambker Feldmarksee	4656023	8.7281613	53.1544080
+Stonybrook-Wilshire	188150	-76.6399803	39.9767995
+Osiedle Księcia Bogusława X	2418562	14.5505827	53.5373751
+Residencial Piacenza	6367694	-53.8276826	-29.6990469
+Lotificacion Monte Frío	6298277	-89.6704610	13.8776557
+Albufeira da Marateca	7768755	-7.4855970	39.9866325
+San Lorenzo de Quinti	1944818	-76.1189547	-12.1073198
+Patio de la Santa Cruz	4107243	-100.3841502	20.5929835
+Horcajo de las Torres	347004	-5.1063759	41.0682298
+San Lorenzo de Tormes	344319	-5.4984610	40.3771458

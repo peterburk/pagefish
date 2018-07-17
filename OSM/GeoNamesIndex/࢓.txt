@@ -1,0 +1,36 @@
+Saint-Georges-du-Mesnil	3314276	0.5659606	49.2095224
+Saint-Georges-de-Livoye	1014009	-1.2219537	48.7394074
+Lawarde-Mauger-l'Hortoy	2952864	2.2732465	49.7136722
+Bellegarde-Sainte-Marie	147543	1.1046008	43.6779279
+Dompierre-les-Tilleuls	94168	6.1638517	46.8861733
+Saint-Laurent-d'Aigouze	302129	4.2518023	43.5766099
+Saint-Mars-de-Locquenay	107637	0.5182340	47.9366031
+Montagnac-sur-Auvignon	148166	0.4561871	44.1646425
+Saint-Cyr-en-Talmondais	169140	-1.3385088	46.4582337
+Saint-Hilaire-le-Vouhis	169194	-1.1572556	46.6854779
+Valverde de Valdelacasa	344866	-5.7805964	40.4841976
+Megliadino San Fidenzio	44448	11.5140036	45.2269185
+Microrregião de Meia Ponte	4857386	-49.3979305	-17.8307206
+Stetten am kalten Markt	2851522	9.0796532	48.1254260
+Kraaijenbergse Plassen	1192277	5.8268147	51.7411185
+St. Peter am Kammersberg	50810	14.1753188	47.2050039
+Nedre Fiplingvatnet 364m	4061595	13.5852041	65.3493750
+Saint-Jacques-le-Mineur	7785074	-73.4373778	45.2615358
+Presa Santiago Bayacora	4006493	-104.6873748	23.8484489
+Gemeinde Schrattenthal	103971	15.8913816	48.7415372
+Megido Regional Council	1380229	35.1181898	32.6088375
+St. Georgen ob Judenburg	37905	14.5171017	47.1963411
+Weilen unter den Rinnen	2781623	8.7725485	48.1885346
+Condomínio Vale dos Pássaros	6985837	-48.9558696	-16.3670446
+Derrindaffderg Commons	6171969	-9.3713254	53.7106350
+Residencial Santanense	5536873	-44.6071184	-20.0835325
+Lynsted with Kingsdown	2422949	0.7940583	51.3089473
+Wabe-Schunter-Beberbach	3407262	10.5671877	52.3012768
+Chickasaw Ranch Estates	2006212	-81.2679281	28.5151436
+Departamento Rinconada	3542034	-66.5201722	-22.6244423
+Paseo Catalina de Ribera	5612785	-5.9875142	37.3834717
+Place Haute Nikola Tesla	7846283	5.4390183	43.3434204
+Plaza de Alfredo Floristán	6266810	-1.6399446	42.8051026
+Canton Esch-sur-Alzette	1113898	5.9992771	49.5188519
+Kalahliia Rural Council	7378673	30.3821714	46.2850598
+Death Shelf Camping Zone	3988673	-110.8927543	43.6657783

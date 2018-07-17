@@ -1,0 +1,16 @@
+Arrondissement de Baradères	407263	-73.6681747	18.4934058
+Akhalkalaki Municipality	2013750	43.5003462	41.4349502
+Siberian Federal District	1221148	95.4899031	65.2729258
+Sainte-Suzanne-et-Chammes	5812102	-0.3695981	48.0916960
+Cleaver Creek;Cleaver Lake	3939992	-80.8295292	47.7848645
+Villa de los Industriales	3664172	-58.4104935	-34.6879816
+Gobernador Álvarez Guerrero	6117180	-63.0116038	-40.8262443
+Asentamiento Las Delicias	3606780	-65.3174521	-24.1730177
+Burtonwood and Westbrook	1433121	-2.6445070	53.4261302
+Charles Sturt University	5918999	147.3544164	-35.0580952
+Kretingos vienuolyno tv.	4651482	21.2476601	55.8920062
+Lakeside Place Apartments	4641555	-82.3540781	34.8620892
+Largo San Giovanni De Matha	2860151	12.4737018	41.8893677
+Strada Parcul Regina Maria	2882243	23.5677317	46.0677365
+Praza de San Fiz de Solovio	898544	-8.5418053	42.8793916
+Yosypivtsi Rural Council	6501783	26.3260630	50.1509432

@@ -1,0 +1,47 @@
+Couvron-et-Aumencourt	152242	3.5226069	49.6465310
+Saint-Pierre-sur-Dives	280384	-0.0354545	49.0143034
+Wangenbourg-Engenthal	89263	7.3134791	48.6257466
+Saint-Ouen-le-Brisoult	1111112	-0.3533801	48.5062426
+Al Sharqia Governorate	4103407	31.7893739	30.6332774
+Saint-Martin-des-Puits	2617718	2.5759781	43.0394597
+Gavarret-sur-Aulouste	130440	0.6579982	43.7806010
+La Ville-aux-Bois-lès-Dizy	153033	3.9817532	49.6628526
+Saint-Aignan-Grandlieu	77717	-1.6307102	47.1295213
+Tokachi Subprefecture	4094120	143.2883508	42.8790320
+Anuradhapura District	5351719	80.4399820	8.3681682
+Barajevo Municipality	3065610	20.3880944	44.5618780
+Gonnos/Gonnosfanadiga	39931	8.6497578	39.4953056
+Zhiganglaka Reservoir	4471803	101.8280430	36.1180753
+Bakers Brook Inner Pond	1919752	-57.6597891	49.6344987
+Chernobyl Cooling Pond	58367	30.1557601	51.3560663
+Mellomste Sirdalstjønni	7293176	8.5498857	59.3266764
+Lagos da Beira e Lajeosa	6553545	-7.8272935	40.3759483
+Sande e São Lourenço do Douro	5910304	-8.1830205	41.1117519
+Municipio Las Carretas	4509406	-65.3259735	-21.2851705
+Bunny Lake;Rabbit Creek	3599290	-84.0782349	47.3861810
+Ensenada de la Siguanea	7160596	-83.0842311	21.6604884
+Zona Franca Industrial	3554183	-67.5873164	-45.9003165
+Bº Islas Malvinas - Río Blanco	3801607	-65.2359111	-24.2325088
+Carvalhal de Vermilhas	6476606	-8.1447788	40.6523246
+Aghadoon or Ravenfield	3404357	-7.3232059	53.9096710
+Bagong Lipunan ng Crame	1086446	121.0495743	14.6105213
+Bezirksteil Neuhadern	66132	11.4840735	48.1190258
+Templenacarriga South	6384983	-8.1941177	51.9641016
+San Marcial del Rubicon	3108740	-13.8046915	28.8603093
+Knockardagannon South	4525288	-7.6887883	52.8438529
+Lotissement de Manhal 1	3334926	2.2030384	44.9673167
+Vila João Luiz de Oliveira	6986452	-48.9504303	-16.3518196
+Dodford with Grafton CP	1875195	-2.0993502	52.3385521
+Ballywindelland Upper	4523026	-6.5847974	55.0877826
+Chodov u Bečova nad Teplou	425552	12.8828339	50.0825109
+Kuzgunkavak Mahallesi	5385923	32.4985724	37.8782644
+Williamstown (Briscoe)	4217508	-7.1591207	53.5811113
+Ballywindelland Upper	4464509	-6.5901375	55.0946125
+Channelside Townhomes	6456974	-81.4174737	30.2871925
+Waldbezirk Breitungen	3121416	10.2724884	50.7572118
+Quintas de La Acuarela I	7662675	-75.7305214	4.8003232
+Tungabhadra Reservoir	1593736	76.2763595	15.2064263
+San Juan de Tantaranche	1944817	-76.1309316	-12.0098601
+Teresa de Calcuta Plaza	2449039	-1.9756633	43.3203809
+Piazza Daniele Ranzoni	6517338	8.5741049	45.9356908
+Navarredonda de Gredos	342369	-5.1150247	40.3449878

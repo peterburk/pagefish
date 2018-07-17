@@ -1,0 +1,62 @@
+Shady Pines Campground	4670178	-85.4067047	29.7801197
+Saint-Julien-de-l'Herms	167792	5.0915150	45.4304493
+Dampierre-sur-le-Doubs	124458	6.7382642	47.4631755
+Cabanac-et-Villagrains	104344	-0.5490980	44.5869745
+Saint-Julien-en-Beauchêne	279474	5.7172310	44.6203593
+Saint-Étienne-Vallée-Française	287690	3.8528061	44.1736077
+Saint-Germain-le-Châtelet	114636	6.9604585	47.7034740
+San Pablo Villa de Mitla	5999907	-96.3182467	16.9675629
+San Pedro Jaltepetongo	5999920	-97.0335429	17.6787175
+Cuartel Doce de Octubre	6661103	-61.0779561	-35.5261456
+Sorachi Subprefecture	4088192	142.0235554	43.4431450
+powiat krasnostawski	2680095	23.0995806	50.9634246
+Anton-von-Webern-Platz	7306654	16.3845262	48.2017912
+caïdat de Maarif Ouled M’hamed	5371595	-7.0794818	33.0282150
+Microrregião de Ourinhos	4781880	-49.5743895	-23.0202271
+Nakhon Phanom Province	1908789	104.6021853	17.4154129
+Castellino del Biferno	41458	14.7401657	41.6895526
+Cerecinos del Carrizal	345189	-5.6563739	41.6805436
+Monrupino / Repentabor	179280	13.7974450	45.7178121
+Slagelse Municipality	2181847	11.3511637	55.3478416
+Peschiera Pian vallese	5432746	10.4314849	44.2855496
+Kaunissaare veehoidla	3582623	25.3587717	59.3095234
+Maarsseveense Plassen	1125383	5.0758443	52.1490074
+Bang Kraso Subdistrict	3426041	100.4910248	13.8714030
+Fountain Lake North Bay	3390914	-93.3797266	43.6710172
+Heihejinpen Reservoir	6386618	108.1794750	34.0162172
+Pisochna Rural Council	2512793	23.9822244	49.4446832
+Dashuijiang Reservoir	5742396	110.8742380	26.7417204
+Helsinki Senate Square	2919121	24.9528700	60.1695088
+Municipio de Concordia	2826131	-58.0256353	-31.3381685
+Neuhaus am Klausenbach	154062	16.0310351	46.8593023
+Lyon 3e Arrondissement	120967	4.8760080	45.7513598
+Rakovica Municipality	7728561	20.4496470	44.7311114
+Churchtown Nutgrove ED	4307898	-6.2660015	53.2912026
+Velyka Bilozerka Raion	1738020	34.6382111	47.2325200
+Augusto Gómez Villanueva	4610804	-97.1876934	20.1946095
+Western Beqaa District	317307	35.7293894	33.5913202
+Santander de Quilichao	1717035	-76.5101994	2.9982884
+Grange (E.D. Holmpatrick)	5392638	-6.1506462	53.5697835
+Staghall Mountain East	5538831	-7.9560803	55.0005522
+Bezirksteil Königsplatz	2638829	11.5666715	48.1455421
+Ward 47 Nawab Saheb Kunta	7856364	78.4625814	17.3344984
+Região Urbana Homogênea XXVII	3118208	-46.6772812	-21.8468948
+Núcleo Habitacional São José III	7777044	-54.6454383	-16.4346392
+Felisberto de Carvalho	6618939	-53.1613746	-27.0759741
+Flitton and Greenfield	4069952	-0.4721328	52.0009357
+Turgut Türkalp Mahallesi	2471492	34.6140719	36.8072772
+Bauernschaft Klostern	3826143	7.3249744	51.6846251
+Departamento Los Lagos	2585498	-71.5344465	-40.7532339
+Senechiv Rural Council	7230250	23.6152415	48.7700102
+Lewis and Clark Village	141461	-95.0505509	39.5386599
+Bergstrup (zu Langförden)	1428967	8.2898160	52.7637196
+Santa María de Ordás-San Nicolás	5595928	-5.9745888	37.4035255
+Embalse de El Burguillo	3836574	-4.5647374	40.4341757
+Gower Place Apartments	4610741	-82.4165711	34.8493571
+Augusto Gómez Villanueva	5730424	-97.0062622	20.3719351
+Paso del Parque del Daymán	3424300	-57.0386408	-31.7806879
+Piazza dei Monaldeschi	6740815	11.9855966	42.6463132
+Plaza Gregorio Peláez García	4125587	-4.0488606	37.2002704
+Piazza Porta Ravegnana	374082	11.3467750	44.4943068
+Drohobych City Council	2595309	23.5070710	49.3464765
+Bilohiria Town Council	6588886	26.3854227	50.0168277

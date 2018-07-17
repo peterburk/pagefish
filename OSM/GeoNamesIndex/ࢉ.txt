@@ -1,0 +1,41 @@
+Saint-Nicolas-de-la-Haie	108850	0.6198114	49.5594708
+Labastide-Villefranche	168233	-1.0292522	43.4531093
+Villeneuve-la-Comtesse	155640	-0.4902309	46.0960040
+Saint-Germain-des-Grois	2937796	0.7978089	48.4064415
+Saint-Genest-de-Beauzon	123048	4.1847171	44.4459871
+Castillon-en-Couserans	2100667	1.0417629	42.9186699
+Saint-Jean-de-Minervois	254502	2.8113140	43.4052649
+Saint-Geours-de-Maremne	116834	-1.2415531	43.6859131
+Kröppelshagen-Fahrendorf	158674	10.3330325	53.4777849
+San Francisco Chapulapa	5999737	-96.7196529	17.9127157
+Manlio Fabio Altamirano	6037724	-96.3189628	19.0865281
+Santa Lucía Cotzumalguapa	4469382	-91.0773326	14.3002482
+San Bartolomé Milpas Altas	374554	-90.6805876	14.6031329
+Balranald Shire Council	5897433	143.7067652	-34.0439431
+Bass Lake;Fairbank Creek	3266479	-81.3658066	46.4538535
+Kalogria (Araxos) Lagoon	2243577	21.3962654	38.1925322
+Embarcadero de Cuemanco	5377443	-99.1017763	19.2883189
+Parroquia La Democracia	2461746	-66.6586819	10.0353635
+Lomonosovsky District	1281702	37.5324969	55.6792183
+Mesorregião do Vale do Itajaí	4097614	-49.4620484	-27.0754219
+Ensenada de Bacunayagua	7812318	-81.6766616	23.1441139
+Quartier de la Sorbonne	2188166	2.3453251	48.8491196
+Saint-Martin-des-Champs	1328061	3.3290164	48.7836980
+Distrito de Porto Feliz	5917085	-40.6848564	-11.7666469
+Federalismo 5 Viviendas	6687330	-68.9204558	-37.3922637
+Saint-Martin-des-Champs	1021463	1.7252545	48.8778493
+Saint-Martin-des-Champs	297386	-3.8579379	48.5754688
+Partido de Tres Arroyos	2590085	-60.2690909	-38.4738014
+Saint-Martin-des-Champs	1013490	-1.3344796	48.6647806
+Bairro Itamaraty 3 Etapa	7002737	-48.9664036	-16.3037039
+uMhlabuyalingana Ward 9	3647017	32.4335985	-26.9714555
+Brankill (Lanesborough)	4099826	-7.4547736	54.1132194
+Residencial Belas Artes	6771384	-48.9319311	-16.2968164
+Residencial Itaporanga	7733846	-47.8348495	-23.0334840
+Merkezefendi Mahallesi	5513468	29.0610332	37.7754085
+Samtgemeinde Bardowick	1969559	10.3317439	53.3153983
+Saint-Martin-des-Champs	957727	3.0282545	47.6576100
+Urbanització Tordera Parc	6434776	2.7488932	41.7231708
+Sandburg Residence Hall	5828397	-87.8823789	43.0792128
+Saint-Martin-des-Champs	1248243	2.9344151	47.1718421
+Piazza di San Silvestro	5457473	12.4811176	41.9025510

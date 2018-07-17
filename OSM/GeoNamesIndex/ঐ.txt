@@ -1,0 +1,16 @@
+Cologne Government Region	72022	6.8383406	50.7865474
+San Benedetto Val di Sambro	42923	11.2391101	44.1974342
+Carlow Municipal District	6488448	-6.7325712	52.8407032
+Dickison Lake;Kamuck River	4128948	-87.2916370	49.1922458
+Nahuievychi Rural Council	2303214	23.3366596	49.3694444
+Unterburger Absetzteiche	1973060	9.9161451	53.4820965
+Takhini Lake;Takhini River	2728314	-135.9201951	60.1357054
+Dawros Electoral Division	6908824	-8.4665713	54.8109602
+Letter Electoral Division	4460659	-7.6390537	53.1209104
+Residencial Buena Vista III	6963026	-49.4001372	-16.7256389
+Bezirksteil Angerviertel	65916	11.5763548	48.1341045
+Beaverdam Swamp Reservoir	6954034	-76.5404246	37.4586434
+Municipio de San Francisco	4490183	-64.9323364	-23.6384593
+Municipio de San Francisco	4069960	-62.1240283	-33.6120747
+Place des Bougainvilliers	4749681	7.4181740	43.7347216
+Dokuchaevsk Municipality	2899741	37.6723419	47.7486515

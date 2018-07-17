@@ -1,0 +1,38 @@
+Vieux-Rouen-sur-Bresle	1942624	1.7104092	49.8337481
+Saint-Pierre-de-Chérennes	60072	5.3866036	45.1230752
+Orthoux-Sérignac-Quilhan	1374604	4.0481234	43.8838162
+Schwarzwald-Baar-Kreis	62690	8.4889429	47.9794147
+Nuevo Parangaricutiro	5606101	-102.1836901	19.3930914
+Sainte-Geneviève-des-Bois	33338	2.3348044	48.6431198
+Bunschoten-Spakenburg	163550	5.3613384	52.2399674
+gmina Miejsce Piastowe	3015698	21.7814082	49.6315009
+Montagna in Valtellina	46964	9.9185248	46.2198842
+Villaluenga de la Sagra	342724	-3.9073763	40.0212986
+Quartiere XI Portuense	5460387	12.4638267	41.8616128
+Taipingshao Reservoir	2337176	125.2512310	41.0229528
+Embalse 15 de Septiembre	1934447	-88.4945479	13.6872042
+Staw Ośmiomorgowy Trzeci	6969079	19.1072970	51.8448128
+Luz de Tavira e Santo Estévão	6431733	-7.7287407	37.1162363
+Mittainvilliers-Vérigny	5812441	1.3096775	48.5138089
+Biranahalli reservoir	1732756	77.3614149	17.5772742
+Municipio Villa Tunari	4505644	-65.5671960	-16.5503774
+Grenville-sur-la-Rouge	7697276	-74.6599700	45.6991759
+Ringsted Municipality	2181892	11.8140829	55.4579270
+Delegación Centro Histórico	3230461	-100.3952528	20.5987998
+Sainte-Geneviève-des-Bois	111610	2.7908305	47.8106367
+Coldblow (E.D. Tacumshin)	3766099	-6.4165049	52.2190821
+Jardim das Américas 2 Etapa	7002994	-48.9456368	-16.2890835
+Culcheth and Glazebury	1433117	-2.5160892	53.4566852
+Residencial Mansões Paraíso	6870249	-49.3449746	-16.6222723
+Elias Motsoaledi Ward 29	3663493	29.4433724	-25.1242171
+Menomonee River Valley	6065930	-87.9425179	43.0298115
+Winnewana Impoundment	5184982	-84.1026793	42.3540363
+Westheimer Lakes North	2365422	-95.8391459	29.7015678
+Omas Pine Grove Estates	4423062	-88.7457783	30.4261618
+Villas at Marsh Landing	6429777	-81.4061165	30.2535626
+Horlivka Municipality	2912085	38.0946080	48.3278115
+Luis Alberto de Herrera	3678105	-57.5567444	-25.3000456
+Represa Hidroeléctrica Urrá	1325790	-76.2866563	7.9173750
+Trg Republike Hrvatske	6239144	19.0019839	45.3509354
+Winkelcentrum Leesten	7813532	6.2432892	52.1259912
+Merchants Quay Ward (1946)	5607297	-6.2798646	53.3380547

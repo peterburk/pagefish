@@ -1,0 +1,41 @@
+Villecomtal-sur-Arros	125071	0.1989315	43.3989425
+Dieppe-sous-Douaumont	2971716	5.5121517	49.2216380
+Charmes-sur-l'Herbasse	71431	5.0197279	45.1590337
+Sainte-Croix-du-Verdon	1952615	6.1485018	43.7620375
+Saint-Laurent-de-Muret	960292	3.1762407	44.6001633
+Ouled Djellal District	4120750	4.9445181	34.5917420
+Pachalik de Outat El Haj	4829577	-3.7053174	33.3403515
+Boffalora Sopra Ticino	45007	8.8223399	45.4557332
+Commune de Port-de-Paix	389658	-72.9502769	19.8372459
+Shangganling District	5647186	128.9473737	48.0498266
+Amnat Charoen Province	2746948	104.7310667	15.9156933
+Pedrajas de San Esteban	342805	-4.5919558	41.3565876
+Cajetina Municipality	2872866	19.7053048	43.7088980
+Landkreis Neunkirchen	62474	7.0901692	49.3633129
+Loring Commerce Center	132496	-67.8960290	46.9371909
+Hooksieler Binnentief	949303	8.0620579	53.6362628
+Ghost Lake;Pearce Creek	4207332	-82.3994650	49.6762213
+Las Navas de la Concepción	345565	-5.4582965	37.9322438
+Maladzyechna District	70566	26.9022247	54.2520464
+Microrregião de Cruz Alta	558341	-53.6438635	-28.6639094
+Departamento Las Heras	2202833	-69.2076324	-32.5231000
+Samtgemeinde Holtriem	1202006	7.4993547	53.5802277
+East Ballymaclevennon	4538598	-6.6400306	55.1765798
+Crowpark (1st Division)	4555371	-6.8071622	53.5585173
+Lhota za Červeným Kostelcem	428677	16.0736846	50.4812478
+Zdechovice u Nového Bydžova	431486	15.5831039	50.2279420
+Mountain Lodge Demesne	5643113	-6.9828608	54.0700343
+Residencial Junqueira	6825864	-49.3777908	-16.6607066
+Maluti-a-Phofung Ward 29	3596594	28.8172368	-28.5180901
+Theewaterskloof Ward 2	6580241	19.5367605	-34.0976390
+Mitte / Hamm-Bossendorf	3838866	7.1979359	51.7302246
+Kervansaray Mahallesi	5561154	29.1411550	37.7243791
+Bychawka Druga-Kolonia	7569991	22.5438066	51.0524572
+Quartier de la Cathédrale	7052715	4.3603727	50.8485484
+Duvall Mobile Home Park	6281775	-1.2468017	51.9264620
+Cathedral Canyon Vista	4002748	-116.4792128	33.7615240
+Urbanización San Lorenzo	6084122	-89.5520320	14.0058193
+Provincia Sud Carangas	4493775	-67.5758037	-18.8435947
+Place des Trois Maréchaux	7429282	0.5290329	49.0089899
+Piazza Matilde Canossa	6146685	10.7928290	45.1599045
+Heiwa Dori Kaimono Koen	7125615	142.3610331	43.7688793

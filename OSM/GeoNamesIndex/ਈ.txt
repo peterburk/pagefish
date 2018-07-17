@@ -1,0 +1,19 @@
+Bourgtheroulde-Infreville	550360	0.8780649	49.2992810
+Capesterre-de-Marie-Galante	279867	-61.2240598	15.9176704
+Guldborgsund Municipality	2171069	11.6967996	54.7730845
+Wicklow Municipal District	6961733	-6.2475506	53.0225309
+Horodok Settlement Council	7672908	29.4714533	50.5859135
+Lemmon Valley-Golden Valley	170149	-119.8211179	39.6721949
+Umzumbe Local Municipality	610725	30.3533950	-30.4859199
+Convey Creek;Starlight Lake	3599257	-84.0084851	47.4586463
+Domingo Faustino Sarmiento	6949942	-64.4918590	-31.4227324
+Dunlewy Electoral Division	6934398	-8.0948683	55.0423771
+Knocknamase or Goldengrove	4258279	-7.8176079	52.9821773
+2e Ecrevisse ou Grosse Roche	411084	-71.9888728	19.4832637
+Palente-Orchamps-Saragosse	3549463	6.0407592	47.2651366
+Tullyvallan (Hamilton) West	5234483	-6.5938283	54.1499103
+Zemborzyce Wojciechowskie	2585917	22.4651408	51.1712373
+Mirador Norte Santo Domingo	5881274	-86.2422578	12.0929720
+Seevorstadt-Ost/Großer Garten	191591	13.7585659	51.0374515
+Cross State Highway Heights	2094782	-81.2720579	28.5668694
+Domingo Faustino Sarmiento	4679145	-60.6910987	-32.9065601

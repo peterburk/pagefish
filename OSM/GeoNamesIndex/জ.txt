@@ -1,0 +1,33 @@
+Lesser Poland Voivodeship	224459	20.2654682	49.8494740
+Sainte-Eugénie-de-Villeneuve	3065565	3.6346316	45.1415068
+Saint-Cyprien-sur-Dourdou	2530198	2.3835131	44.5368388
+Saint-Quentin-sur-Indrois	1245626	1.0413521	47.2107742
+Kreis Schleswig-Flensburg	27014	9.5331938	54.5797193
+Herschweiler-Pettersheim	1246490	7.3431650	49.4769278
+Ninotsminda Municipality	2013751	43.7292286	41.3239501
+Municipality of Kallithea	1391435	23.6976676	37.9505732
+Municipality of Nafpaktia	1462739	21.8708093	38.5438840
+Verwaltungskreis Seeland	1684810	7.3293220	47.0803782
+Frey Creek;Little Frey Lake	3957082	-81.9079383	48.4021846
+August A Busch Lake Number 16	1592422	-90.7444317	38.7070477
+Amazonas (Rosario de Cuyes)	2661220	-78.7917371	-3.4312425
+Pidberiztsi Rural Council	2524625	24.2109178	49.8073253
+Beaver Lake;Pukaskwa River	4081857	-85.3695580	48.2926376
+Kilgour Creek;Kilgour Lake	4130870	-87.8974945	49.2417766
+Terrier Creek;Terrier Lake	5244845	-86.9947052	50.5746313
+Mistake Lake;Mistake River	4178688	-85.3024986	49.6048372
+Pidhorodtsi Rural Council	2540955	23.3490787	49.1125073
+Doorus Electoral Division	5652280	-8.9961560	53.1578728
+Maloserdobinsky District	968981	45.0158158	52.5018184
+Saint-Maurice Pellevoisin	2643162	3.0900752	50.6471898
+Sundays River Valley Ward 2	3580030	25.4781055	-33.3761895
+Gottfried-Keller-Siedlung	7361522	11.9757918	51.5160255
+Bezirksteil Untergiesing	67218	11.5690369	48.1164471
+Municipio de Villa Berthet	1611286	-60.3641791	-27.1859159
+Riviera Villas Apartments	2857583	-81.4292470	28.5638871
+Villa Marquis Condominium	1994339	-81.3015018	28.5211870
+San Sebastián de Yalí (Municipio)	5745841	-86.1294748	13.3741141
+Municipio de Yataity Calle	3153111	-58.7598959	-29.0965448
+Municipio de Puerto Eva Perón	1635726	-58.6285987	-26.6997238
+Zhangye Pedestrian Street	6768406	103.8167273	36.0596789
+União das Freguesias de Viseu	7687620	-7.9077619	40.6599647

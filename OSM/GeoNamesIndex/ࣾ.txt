@@ -1,0 +1,29 @@
+Saint-Martin-de-Fontenay	280302	-0.3528794	49.1152220
+Saint-Martin-de-Bossenay	2997458	3.6948597	48.4454940
+Las Palmas de Gran Canaria	340783	-15.4574714	28.1023679
+Novomoskovsky District	1741297	38.4628121	54.1320404
+Chalkidiki Regional Unit	568383	23.4734824	40.2700430
+Mallersdorf-Pfaffenberg	959637	12.2116478	48.7798529
+Lichterfeld-Schacksdorf	1322949	13.7750899	51.5928155
+Microrregião de Rondonópolis	4922643	-54.4733278	-16.5120001
+Microrregião de Guarapuava	4769825	-52.1212500	-25.3900000
+UTI Giuliana / Julijska MTU	7596731	13.7837527	45.6946318
+Oulunkaaren seutukunta	6440812	27.0976042	65.1090887
+McGowan Lake;Vondet Creek	3917200	-81.5919514	47.1725703
+McGowan Lake;Vondet Creek	3916820	-81.6109666	47.1949966
+Notre-Dame-du-Mont-Carmel	7711551	-72.6635316	46.4962937
+Lakes of the Four Seasons	127206	-87.2220777	41.4073840
+Fahan Electoral Division	6170274	-7.4233643	55.0838441
+Colonia Ignacio Zaragoza	4623367	-97.3356239	20.4392530
+São Francisco de Assis do Piauí	302718	-41.5983000	-8.1850001
+Hammondstown ( E.D. Dromin)	5386345	-6.4171970	53.8270300
+Residencial Buena Vista I	6962976	-49.4072892	-16.7277686
+Vila Nossa Senhora de Fátima	3409082	-43.9053008	-19.9365886
+Grottes et Saint-Gervais	2266210	6.1356328	46.2106933
+Arlindo Angelo Villaschi	1850695	-40.4140889	-20.3627758
+Ballyclogh (North Centre)	4464420	-6.5345407	55.1875492
+Carlos Alberto Benavides	7650161	-75.7280996	4.7950638
+Mayfield Park Residences	5803954	121.1078004	14.5928269
+Vila Nossa Senhora de Fátima	5234074	-45.2411598	-21.6906026
+Residencial Santa Teresa	6776198	-89.6787365	13.7402338
+Ait Sedrate Jbel El Soufla	2887495	-5.9715470	31.5103850

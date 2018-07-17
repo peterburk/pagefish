@@ -1,0 +1,8 @@
+Miniwaski Creek;Miniwaski Lake	3687962	-82.3305956	47.0971783
+Conglomerate Lake;Onaman River	4154073	-87.7333136	49.9891492
+Desertegny Electoral Division	6987211	-7.5021816	55.1949008
+Sector Norte Comarca Las Viudas	5864306	-86.2794943	12.0852096
+Provincia Gualberto Villaroel	4499511	-67.8672772	-17.6483958
+Piazza Madre Teresa di Calcutta	6456899	9.0697316	45.4162644
+Plaza Nuestra Señora de la Soledad	7290401	-4.4287578	36.7238172
+Piazza Madre Teresa di Calcutta	6633797	8.8840283	45.4364215

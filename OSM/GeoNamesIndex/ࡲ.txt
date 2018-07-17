@@ -1,0 +1,38 @@
+Saint-Léger-sous-Margerie	1927096	4.4859141	48.5311050
+Nonvilliers-Grandhoux	238276	1.1543587	48.3398612
+Saint-Jean-le-Centenier	121625	4.5374964	44.5861682
+Sauveterre-Saint-Denis	2164473	0.6993214	44.1488714
+Putla Villa de Guerrero	5999665	-97.7798491	16.7867827
+Yutanduchi de Guerrero	6000230	-97.2921500	17.0761420
+Regional Unit of Kozani	956726	21.6077029	40.3311941
+Novi Grad municipality	2528167	16.4631071	45.0255014
+Municipality of Alimos	1385659	23.7234428	37.9145502
+gmina Wieczfnia Kościelna	2994181	20.4858975	53.1907788
+Castronuevo de Esgueva	340761	-4.5892317	41.6743715
+Novogireyevo District	1298976	37.8075973	55.7478477
+Stora Tverrdalsvatnet	5740722	6.9386751	61.4034030
+San Bartolomé Matlalohcan	1391343	-98.1295549	19.4472922
+San Miguel de los Bancos	2676650	-78.9762820	-0.0154360
+Santo Domingo de Onzole	3659183	-79.1636410	0.6663930
+Balkam Creek;Balkam Lake	5135411	-86.7534310	50.1970734
+Torfstich Kleinwulkow	5167277	12.1694024	52.4929111
+Asurankundu Reservoir	5499769	76.2955023	10.6856826
+Putnamville Reservoir	2283861	-70.9463390	42.6005301
+Mykolaivskyi District	1749225	23.9410915	49.5048988
+Chistopolsky District	367112	50.6813293	55.2638419
+Romodanovsky District	1538225	45.2950248	54.4241389
+Blackrock-Templehill ED	4265265	-6.1751251	53.2954685
+West Shenango Township	6027702	-80.4972175	41.5194674
+Zaliznychnyi District	2128327	23.9437473	49.8327586
+Santa Rosa do Tocantins	336744	-48.1403315	-11.4113300
+Maria Delfina Benevides	5543276	-42.6424600	-19.4863628
+Kobylnice nad Svratkou	435956	16.3325979	49.5365389
+Kalenderhane Mahallesi	5385925	32.4981311	37.8824447
+Residencial Medianeira	7767638	-53.8087513	-29.7080289
+Richebourg - Saint-Clément	5553500	-1.5477882	47.2205606
+The Reserve at The Oasis	66494	-84.2524373	39.2376487
+Lotificación El Porvenir 1	6605982	-89.8029340	13.5648343
+Sun Valley Subdivision	4308254	-103.8725107	44.5099595
+Jonavos miesto seniūnija	4488376	24.2693867	55.0789172
+Gustav-Heinemann-Platz	7271971	7.2145554	51.4828997
+Bartholomäus-Weltz-Platz	318371	8.4294619	49.3148568

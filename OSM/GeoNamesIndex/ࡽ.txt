@@ -1,0 +1,31 @@
+Berteaucourt-les-Dames	1357320	2.1526848	50.0431886
+Foucaucourt-Hors-Nesle	1281095	1.7145438	49.9177642
+Saint-Loup-en-Champagne	3256366	4.2170907	49.4525578
+Thouarsais-Bouildroux	170094	-0.8854633	46.6064344
+Rossoshansky District	1144891	39.6629478	50.1186984
+Miklavž na Dravskem polju	1676322	15.7015130	46.4886179
+Valhermoso de la Fuente	339837	-2.0072313	39.5564673
+Val de Louyre et Caudeau	6837667	0.8146860	44.9751680
+Sankt Lorenzen im Mürztal	35195	15.3619863	47.5063818
+Voskresensky District	1164885	45.4151396	56.8195003
+Tatyshlinsky District	398500	55.7772334	56.2633495
+Voskresensky District	1026233	38.6985900	55.3906292
+Skarpnäcks stadsdelsområde	5695432	18.1354689	59.2656902
+Blackrock-Stradbrook ED	4265264	-6.1636704	53.2851016
+Voskresensky District	1746021	46.6963902	51.9290210
+Parque Estrela Dalva XIV	4244010	-48.3068795	-15.9380671
+Parque Estrela Dalva XVI	4242156	-48.3109219	-15.9451566
+Greetham with Somersby	1849317	-0.0147376	53.2259084
+Greaghrevagh More Glebe	5523171	-7.8750638	54.0802865
+Nelson Mandela Bay Ward 2	3591523	25.6470617	-33.9837280
+Samtgemeinde Heeseberg	1446630	10.8922514	52.1026260
+São Cristóvão de Mondim de Basto	4193249	-7.9470902	41.4033389
+Athena Classique Phase 1	5466556	120.9360175	14.3726249
+Plantations at Haywood	5325858	-82.3393314	34.8411205
+Lake Florence Highlands	2064885	-81.4967201	28.5674626
+Lotificación Montelindo I	6801525	-89.3670858	13.7833765
+Estación Piedras de Afilar	2588130	-55.5194299	-34.7416789
+Departamento Chacabuco	1606186	-61.3541890	-27.0909526
+La Concordia (Municipio)	5745842	-86.1892937	13.2150398
+Monasterio de la Sierra	339712	-3.1885438	42.0515342
+Pyrizhky Rural Council	7739126	29.2063946	50.8470411

@@ -1,0 +1,25 @@
+Saint-Seurin-de-Palenne	152680	-0.5152204	45.6224435
+Saint-Léger-sous-la-Bussière	1173315	4.5592669	46.3127239
+Sainte-Croix-de-Mareuil	146054	0.4205267	45.4642650
+Saint-Gervais-les-Bains	104744	6.7435281	45.8554084
+Saint-Hilaire-le-Lierru	107666	0.5494024	48.1086318
+Sainte-Gemmes-le-Robert	1137566	-0.3683236	48.2018338
+Pedrosillo de los Aires	342766	-5.7030993	40.6906630
+Solomianskyi district	1754514	30.4584287	50.4210411
+La Chapelle-en-Valgaudémar	906305	6.2414460	44.8069011
+Microrregião de Araripina	5129313	-40.1469755	-7.9095000
+Gemeinde Seefeld-Kadolz	103096	16.1910092	48.7237522
+Ylimmäinen Penninkilampi	7322553	24.4680272	63.3212058
+Lac du Grand Cheval Blanc	196494	-76.1650517	47.1714792
+Gryazovetsky District	1327508	40.4647523	58.8657890
+Residencial Santo Antônio	4142021	-41.3033145	-21.7992618
+Conjunto Residencial JK	7824700	-43.8448136	-16.6952702
+Condomínio Jardim Morumbi	2832379	-51.4154959	-22.1263683
+Tivetshall St. Margaret	1022484	1.1929624	52.4428293
+Emmendingen (Kernstadt)	2793189	7.8507574	48.1241051
+uMhlabuyalingana Ward 8	3647016	32.5790206	-27.1718394
+Neprobylice u Kutrovic	425632	14.0296818	50.2670855
+Bairro Itamaraty 2 Etapa	7002758	-48.9755967	-16.3043905
+Kleinpestitz/Mockritz	191604	13.7360167	51.0110461
+Résidence Ferney Voltaire	2418188	2.0903114	48.8934636
+Área residencial del Valle	6461987	-66.9039235	10.4680990

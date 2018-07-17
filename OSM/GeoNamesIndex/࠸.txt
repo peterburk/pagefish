@@ -1,0 +1,53 @@
+Port-en-Bessin-Huppain	130979	-0.7717469	49.3388859
+Dossenheim-sur-Zinsel	1169585	7.3548787	48.8167448
+Manoncourt-en-Vermois	1815260	6.2710251	48.5999538
+Creyssensac-et-Pissot	3216254	0.6669508	45.0718216
+Saint-Martin-de-Gurson	146306	0.1181080	44.9613534
+Lac-des-Rouges-Truites	390143	6.0043365	46.5978117
+Saint-Pierre-sur-Vence	3287214	4.6833227	49.7020161
+Bailleau-Armenonville	280701	1.6352794	48.5307668
+Saint-Bonnet-les-Oules	117700	4.3274715	45.5397778
+Saint-Sernin-sur-Rance	2436058	2.6237498	43.8794235
+Châteauneuf-Val-de-Bargis	157268	3.2183434	47.2807818
+Saint-Vincent-sur-Jard	170078	-1.5458659	46.4288970
+San Gervasio Bresciano	44654	10.1487263	45.3001755
+San Lorenzo Albarradas	5999830	-96.2671057	16.8887383
+Millienhagen-Oebelitz	374117	12.8192805	54.1996395
+Medvedja Municipality	2860306	21.5520382	42.8330463
+Santa Croce di Magliano	41490	15.0522466	41.7133604
+Municipio de El Cercado	3473074	-65.5640859	-27.1868454
+gmina Kamienica Polska	2831150	19.1332958	50.6718486
+Vinschgau - Val Venosta	6536148	10.6729423	46.6598224
+Microrregião de Botucatu	4782908	-48.3947096	-22.9204848
+Cantón Planes de Renderos	6487159	-89.1910346	13.6521120
+Cantón Planes de Renderos	6480162	-89.1984384	13.6473159
+San Costantino Calabro	39676	16.0851889	38.6261405
+Kirkebygjermenningen	1932853	10.9131975	60.1248153
+Schellingwouderbreek	553444	4.9523779	52.3887458
+Lansey Bark Island Pond	1852592	-55.6160827	46.9610489
+Szilvásszentmárton árvizi tározó	6791885	17.7264276	46.2693008
+Fonte Arcada e Oliveira	4170530	-8.2334096	41.5794581
+U.F São Pedro Sul, Várzea e Baiões	6454100	-8.0686793	40.7594455
+Sesquicentennial Lake	1516591	-80.9044544	34.0855944
+Blalock Lake Number Two	114834	-84.8860489	33.2926948
+Changhuai Subdistrict	7424423	117.3051152	31.8826778
+Luang Prabang District	5831718	102.0778347	19.8187329
+Distrito de Várzea Grande	5918654	-40.2458771	-10.7946551
+Curraghcloonabro East	6089281	-8.7763904	52.3270877
+Betws-y-Coed Community	297233	-3.8248746	53.0942692
+Belton and Manthorpe CP	1407959	-0.5917260	52.9421004
+Heathfield and Waldron	2853529	0.2536273	50.9654574
+Jardim Santa Terezinha	3335061	-48.1214753	-21.7373322
+Theewaterskloof Ward 3	6580242	19.5393251	-34.3231954
+Ratiboř u Jindřichova Hradce	435311	14.9051936	49.1406731
+Glananea or Ralphsdale	4203215	-7.1859526	53.6373026
+Departamento Cushamen	2658262	-70.7475322	-42.4711110
+Suburbio VII Portuense	5451952	12.4300145	41.8416142
+Sección 6ª Residencial Norte	2969999	-68.8521873	-32.8731696
+Colonia Santa Eduviges	6423598	-89.5685025	14.0106893
+Quartier Santé Carrefour	4782991	-4.0377928	5.3281215
+Travesuras - La Churria	7752592	-75.6930516	4.8041287
+San Carlos de Bariloche	3405247	-71.3206847	-41.1330358
+San Francisco de Daguas	1973538	-77.7453881	-6.2364619
+Piazza Santa Maria di Gesù	6083345	15.0785614	37.5122848
+Plaza de la Habana Vieja	5689630	-7.5980190	43.6582493

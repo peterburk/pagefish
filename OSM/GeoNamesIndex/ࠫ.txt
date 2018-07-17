@@ -1,0 +1,46 @@
+Neuville-sur-Margival	74040	3.3993528	49.4540945
+Bretteville-sur-Laize	147101	-0.3247767	49.0480741
+Sausseuzemare-en-Caux	144554	0.3481069	49.6708884
+Saint-Sorlin-de-Vienne	168927	4.9400345	45.4755216
+Saint-Germain-le-Vieux	3310125	0.3110809	48.6119480
+Saint-Just-en-Chevalet	910120	3.8401558	45.9255419
+Saint-Laurent-de-Gosse	76035	-1.2776957	43.5230914
+Césarville-Dossainville	150935	2.2798231	48.2631985
+Pierrefitte-sur-Seine	158807	2.3630900	48.9605247
+Gaillon-sur-Montcient	909950	1.8947647	49.0294796
+Saint-Jean-sur-Mayenne	1138450	-0.7575987	48.1422222
+Les Thilliers-en-Vexin	3156242	1.6040417	49.2365396
+Francavilla Marittima	40088	16.3785553	39.8078617
+Les Essarts-le-Vicomte	2747666	3.5512599	48.6650884
+Gemeinde Velm-Götzendorf	105904	16.7873839	48.4761969
+Aldeanueva del Codonal	348177	-4.5341329	41.0854026
+Becilla de Valderaduey	344545	-5.2118381	42.0940969
+Microrregião de Floriano	5147267	-43.0141235	-7.3910001
+San Giacomo Vercellese	45102	8.3300171	45.4879871
+Petit lac aux Outardes	2473042	-71.2470879	48.9471411
+Gorkovskoe reservoir	570391	40.7144454	57.9327356
+Gemeinde Leopoldsdorf	111838	16.4002390	48.1098919
+Wrightington Pond, New	1905353	-2.7052731	53.5906969
+Ammoudi tous Volakous	898895	24.1434817	35.1921853
+Montignies-sur-Sambre	3409942	4.4725339	50.4109373
+Clonskeagh-Milltown ED	4217648	-6.2421247	53.3093782
+Mount Morris Township	615194	-83.7538293	43.0898470
+Preston-Potter Hollow	176382	-74.2294750	42.4387024
+Aleksandrijos seniūnija	3613427	21.7145356	56.2893465
+Residencial San Marino	6957040	-49.3673651	-16.6876008
+Residencial Fortaleza	6398501	-49.3472666	-16.6096281
+Chácara João Carneiro Alves I	7159595	-54.7601930	-22.2569146
+Üniversiteler Mahallesi	6789069	32.7579269	39.8839227
+Fahri Korutürk Mahallesi	6767480	32.9229471	39.9090986
+Killinchy in the Woods	4653840	-5.7515887	54.4102074
+Campo Santa Margherita	4207323	12.3237768	45.4344050
+Departamento Libertad	1566159	-59.1735042	-27.3068123
+Departamento El Carmen	3560795	-65.1462339	-24.4544035
+Blue Water Bay Village-3	2677824	34.0087388	35.0571416
+Guru Tegh Bahadur Nagar	3712320	77.2060965	28.6961142
+Residencial Zilda Arns	4034226	-53.7576136	-29.7122195
+Lake Tennessee Village	1996821	-81.3320278	28.5087967
+Vila Francisco Mariano	5431832	-44.0238214	-19.8579158
+Stary Rembertów - Kolonia	6663367	21.1677483	52.2603397
+Municipio de María Teresa	4076185	-61.9162797	-34.0365014
+Largo Luciano Schifano	7713116	15.2911051	37.1028901

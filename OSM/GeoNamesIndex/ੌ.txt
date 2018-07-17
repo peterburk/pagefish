@@ -1,0 +1,8 @@
+Pembroke Creek;Pembroke Lake	3935743	-81.6524456	47.5313114
+Sinclair Creek;Sinclair Lake	3894820	-83.3649561	47.9141401
+Conjunto Antônio Teixeira Dias	3408754	-44.0163845	-19.9879372
+Katastralgemeinde Bichlbächle	37837	10.7920658	47.3945465
+Condomínio Jardim das Violetas	6970003	-38.6105920	-3.7378391
+Konstanz-Petershausen-West	2750469	9.1739180	47.6746175
+Valle del Guamuez (La Hormiga)	1311673	-76.8784509	0.4493222
+Verwaltungsgemeinschaft Höri	2952477	8.9632694	47.6969263

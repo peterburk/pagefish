@@ -1,0 +1,25 @@
+Bournainville-Faverolles	3293148	0.5031477	49.1227630
+Maizières-la-Grande-Paroisse	2036019	3.7935776	48.5042560
+Saint-Michel-de-Chavaignes	107608	0.5753049	48.0097450
+Lippersdorf-Erdmannsdorf	2778385	11.7898177	50.8298375
+Microrregião do Médio Jaguaribe	5163767	-38.6529407	-5.7040001
+Real Sitio de San Ildefonso	344597	-4.0121896	40.8520021
+Bristol Reservoir Number 1	4089338	-72.9879900	41.6782602
+Ballincollig - Carrigaline	7033456	-8.4852152	51.8520498
+Tha Wang Thong Subdistrict	3427234	99.9302923	19.2045080
+Steindorf am Ossiacher See	106202	13.9693684	46.6948169
+Jackson Meadows Reservoir	1355452	-120.5452979	39.4894307
+Stadtbezirk 13 Bogenhausen	56392	11.6366824	48.1584875
+Microrregião de Porto Seguro	4605277	-39.8927431	-17.1584044
+Gorodishchensky District	969647	45.7257004	53.2304321
+Gorodishchensky District	1107378	44.2024752	48.8691285
+Jardim Parque Morada do Sol	7824236	-43.8950606	-16.7455882
+Moneenalion Commons Lower	4545177	-6.4268791	53.3023950
+Ciutat Cooperativa i Molí Nou	6744124	2.0300660	41.3554021
+Aristides Stokler Azevedo	5544054	-44.8983465	-17.3548014
+Santo António de Nordestinho	7540340	-25.2212193	37.8337089
+Gutsbezirk Kaufunger Wald	943080	9.7189925	51.2915914
+Jardin de Mer Condominiums	6453991	-81.4083547	30.2867803
+Pine Shadows Condominiums	2077740	-81.4567141	28.4996209
+Washington Shores Village	1995814	-81.4078347	28.5327645
+Waterford East Apartments	2021288	-81.1928783	28.5502904

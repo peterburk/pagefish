@@ -1,0 +1,3 @@
+Gemeindefreies Gebiet Fichtelberg	1070981	11.8579057	49.9641064
+Parroquia Sección Capital Gran Sabana	2567043	-61.8808322	5.4104400
+Gurgaon Aravali Bio-Diversity Park	3774816	77.1119003	28.4847673

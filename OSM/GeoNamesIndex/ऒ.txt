@@ -1,0 +1,36 @@
+Bouvaincourt-sur-Bresle	1251403	1.4951416	50.0347505
+Labergement-Sainte-Marie	108629	6.2819274	46.7817513
+Saint-Maurice-sur-Huisne	3303259	0.6973182	48.4283961
+Saint-Broingt-les-Fosses	3100534	5.2664185	47.7134784
+Castelnaud-de-Gratecambe	1739399	0.6779597	44.5011467
+Mladenovac Municipality	2223784	20.6723906	44.4495093
+La Trinidad Vista Hermosa	5999604	-97.4961444	17.7744720
+Santa Cruz Tacache de Mina	5999997	-98.1664311	17.8171785
+Mustikkamaa-Korkeasaari	185352	24.9907204	60.1773254
+Villafranca in Lunigiana	42984	9.9613449	44.2961590
+Merelim (São Pedro) e Frossos	4140547	-8.4518010	41.5724813
+San Vicente de Huaticocha	3723867	-77.4871556	-0.6863376
+Shanacy Lake;Tassie Creek	3848796	-82.1265243	47.3828232
+Shanacy Lake;Tassie Creek	3869154	-82.1279475	47.3701630
+Ozera Sidya-Khakhayadato	2680113	72.3292053	70.0661233
+North Branch Lahave River	5405879	-64.6231320	44.5670112
+Kleiner Reinigungsteich	6974818	13.4813484	52.6634144
+Parroquia Guardatinajas	2497257	-67.8978976	8.7598315
+Allerheiligen bei Wildon	49311	15.5696029	46.9133116
+Kirchheim an der Weinstraße	1249675	8.1847491	49.5416890
+District of Dunajská Streda	388225	17.6159118	47.9667140
+Distrito de São José do Mucambo	6156530	-38.0931240	-11.7583320
+Astee Electoral Division	6359651	-9.5570498	52.5605986
+Sector Parque La Libertad	7739332	-75.6882312	4.8148989
+Osmussaare / Odensholm küla	353438	23.3949569	59.2889624
+Ballinvalla or Sleamaine	3908713	-6.2408135	53.0864757
+Ballynarooga More (South)	6125163	-8.8861117	52.4536361
+Administrative Building	7685513	-8.1330522	6.0610062
+Formoyle Eighteragh East	4112885	-9.1831007	52.8612591
+Strubby with Woodthorpe	1864662	0.1779121	53.3142704
+Nayland-with-Wissington	4564628	0.8440621	51.9751704
+Karaaslan Aybahçe Mahallesi	5351381	32.5184794	37.7916297
+Kecamatan Tolitoli Utara	4277116	121.0761020	1.2418986
+Avondale Apartment Homes	7242390	-95.9683122	36.0626101
+Lake View on Lake Fredrica	1994914	-81.3041557	28.5130688
+Piazza Luigi Leone Cuella	4094073	15.2892967	37.0740162

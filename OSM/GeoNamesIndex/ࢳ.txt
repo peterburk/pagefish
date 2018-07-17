@@ -1,0 +1,33 @@
+Narromine Shire Council	6271676	147.9528517	-32.2317016
+Sidi Boubekeur District	6820100	0.0785656	34.9890486
+Municipio Monte Carmelo	3449318	-70.8478826	9.2255870
+cercle d'Agadir-Banlieue	5163653	-9.4089239	30.5285321
+Ishikari Subprefecture	4088199	141.3839932	43.2918150
+Oberhausen-Rheinhausen	659809	8.4860228	49.2670647
+Microrregião de Umbuzeiro	4507898	-35.7018412	-7.6255384
+Svilajnac Municipality	2869338	21.2709722	44.1908091
+Fishing Creek Reservoir	377164	-80.8939856	34.6423840
+Wahnapitae First Nation	5697642	-80.8345346	46.7746183
+Shuanggang Subdistrict	7423706	117.2768418	31.8819179
+Barrio Parque El Remanso	2822525	-59.0867542	-34.3869433
+Seekirchen am Wallersee	86601	13.1055216	47.9010510
+Flaming Gorge Reservoir	168018	-109.5338367	41.1765474
+Pirching am Traubenberg	3945119	15.6093284	46.9486224
+Santo Antônio do Rio Grande	5193887	-49.1499270	-20.2538454
+Pfarrkirchen im Mühlkreis	905523	13.8047848	48.5198246
+Terebovlia City Council	3075894	25.7165016	49.3100317
+Francisco Jorge da Silva	5231366	-41.5661346	-21.1611947
+Lyneham and Bradenstoke	5491626	-1.9846924	51.5058809
+uMhlabuyalingana Ward 12	3647004	32.6744711	-26.9260282
+Nelson Mandela Bay Ward 44	3591550	25.4238435	-33.8137215
+Nelson Mandela Bay Ward 53	3591560	25.6801517	-33.6958365
+Nelson Mandela Bay Ward 17	3591520	25.5934847	-33.8940485
+Nelson Mandela Bay Ward 26	3591530	25.5683495	-33.8671120
+Nelson Mandela Bay Ward 35	3591540	25.5118173	-33.8788285
+Departamento Ojo de Agua	3574234	-64.1022613	-29.3031800
+Distrito General Campos	2843435	-58.4305080	-31.5317193
+Majdan Skierbieszowski	7090821	23.3847529	50.8802978
+Municipio de La Clotilde	1651383	-60.6865926	-27.1676322
+Hontoria de Valdearados	341161	-3.4993860	41.7515782
+Viale delle Rimembranze	6181861	11.4210346	43.2304751
+Piazza Cuore Immacolato	3271333	8.5682759	40.7347275

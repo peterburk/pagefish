@@ -1,0 +1,47 @@
+Bosguérard-de-Marcouville	550364	0.8380697	49.2663626
+Dampierre-Saint-Nicolas	1944556	1.2026284	49.8559535
+Saint-Maurice-Colombier	389983	6.6509478	47.4296043
+Merkwiller-Pechelbronn	92048	7.8284806	48.9291088
+Blanzaguet-Saint-Cybard	111370	0.3137019	45.4715659
+Guirguillano/Girgillao	341935	-1.8678902	42.7224993
+Saint-Brisson-sur-Loire	164460	2.6791500	47.6302954
+Saint-Germain-Chassenay	2012512	3.4030980	46.7829291
+Santa Cruz da Baixa Verde	303582	-38.1765962	-7.8415246
+La Chapelle-aux-Filtzméens	123365	-1.8172859	48.3828149
+Sant'Arcangelo Trimonte	41144	14.9334931	41.1701553
+Alconchel de la Estrella	344430	-2.5813563	39.7178488
+Königheim, Dr.-Bechtold-Str.	401804	9.5571278	49.5969378
+Bobritzsch-Hilbersdorf	416498	13.4447106	50.8934243
+Gale Lake;Montreal River	3889947	-83.6641640	47.6418347
+Figueira dos Cavaleiros	6432001	-8.2834811	38.1172760
+Berdykhiv Rural Council	2535242	23.5427657	49.8908556
+Waranga Basin Reservour	5165608	145.0784113	-36.5571996
+Privette Lake Number One	177693	-78.2655908	35.8225606
+San Pa Muang Subdistrict	3427232	99.7542935	19.1737030
+Torgelow-Ferdinandshof	1410802	13.8848897	53.6442235
+Cheremshansky District	367105	51.4810280	54.7603870
+Santa Cruz da Baixa Verde	6203161	-38.1765962	-7.8415246
+Chanayethazan Township	5996584	96.0935279	21.9759744
+Slobidka-Mushkativsjka	3167495	26.0977472	48.7929396
+Figueira dos Cavaleiros	7825069	-8.2047971	38.0945315
+Doulatkhan Subdistrict	4820093	90.7423040	22.6747242
+Marianópolis do Tocantins	336858	-49.7589440	-9.7718604
+Invernada do Matadoduro	6307768	-49.9892678	-24.8028313
+Ballyvroughaun Eighter	6229108	-8.8507730	52.8877435
+Setor Comendador Walmor	5761681	-49.2982136	-16.8351573
+Centre-Chapelle des Buis	3549791	6.0355175	47.2278983
+Russell's Quarter South	4602796	-5.6406792	54.3596527
+Thawi Watthana District	2939955	100.3691221	13.7703338
+Berdyansk Municipality	2870628	36.8025105	46.7746157
+Dekkhinathiri Township	5996602	96.0727148	19.7081352
+Guanshanliao Reservoir	7584674	108.4823766	21.6405553
+Lotissement Candassamy	1769955	55.4773689	-21.3237116
+Lower Lead Mountain Pond	282220	-68.1779564	44.8543413
+Longfengshan Reservoir	1257198	127.6384687	44.6992499
+Martindale Country Club	2275911	-58.8688198	-34.4739328
+Ollerton and Boughton CP	957399	-0.9995775	53.2096819
+Marhanets Municipality	2857919	34.5992997	47.6532151
+Piazza Giovanni Di Mauro	7832461	15.1881650	37.1559060
+Skvariava Rural Council	2530127	24.7209196	49.8663996
+Linxia Road Subdistrict	7034373	103.8101024	36.0615126
+Santa Isabel de las Lajas	5884804	-80.3342455	22.4487440

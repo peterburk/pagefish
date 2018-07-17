@@ -1,0 +1,18 @@
+Merville-Franceville-Plage	136226	-0.2129921	49.2668133
+Saint-Quentin-sur-Charente	224079	0.6793954	45.8391190
+Saint-Nizier-sous-Charlieu	900959	4.1246084	46.1625430
+San Dionisio Yauhquemehcan	1391361	-98.1826565	19.4094825
+Gemeinde Angern an der March	106236	16.8078949	48.4007963
+Taghboy Electoral Division	6744300	-8.2881716	53.4560749
+Taghboy Electoral Division	6749021	-8.2523833	53.4871355
+Cangort Electoral Division	4463371	-7.9734485	52.9893275
+Foxhall Electoral Division	6788688	-8.9663790	53.5863284
+Partido de General Pueyrredón	2621716	-57.7834552	-37.9724997
+Santa Maria de Palautordera	339515	2.4559447	41.6828934
+Walther-von-Cronberg-Platz	376601	8.6968067	50.1058125
+Piazzale Guglielmo Marconi	4256771	9.7049969	45.0515092
+Piazzale Guglielmo Marconi	4256827	9.7052831	45.0516792
+Piazzale Guglielmo Marconi	7372750	9.6744815	45.6908145
+Piazzale Guglielmo Marconi	3209430	13.4671414	45.9593112
+The Plaza at Cabrillo Marina	4554125	-118.2824153	33.7171350
+Piazzale Guglielmo Marconi	4106045	15.2836130	37.0664680

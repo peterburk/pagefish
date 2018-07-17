@@ -1,0 +1,3 @@
+Gemeinde Wolkersdorf im Weinviertel	106781	16.5052472	48.3818973
+Gemeinde Altenmarkt an der Triesting	111459	15.9836289	48.0390400
+Isla Presidente Gabriel González Videla	2715646	-74.4984963	-51.1148201

@@ -1,0 +1,27 @@
+Aillevillers-et-Lyaumont	152627	6.3431771	47.9345964
+Sainte-Colombe-sur-Guette	2615666	2.2495575	42.7443769
+Landkreis Amberg-Sulzbach	62765	11.7121502	49.4876365
+Rajanna Sircilla District	7691428	78.7619423	18.4535372
+Distrito Cuchilla Redonda	2922031	-59.1368012	-33.1058210
+Municipality of Vushtrri	1332164	20.9824717	42.8155728
+Microrregião de Curitibanos	4835660	-50.5662734	-27.1564724
+Horqin Right Middle Banner	2753438	121.5292145	45.1259346
+Heimste Kaldhussætervatnet	5864472	7.4332616	62.1614821
+Ahmet Turangazi Mahallesi	6899640	37.0816538	39.7954534
+Kamianobrid Rural Council	2529493	23.6341093	49.8440426
+Earl Lake;Kilpatrick Creek	3894166	-83.2956264	47.7744781
+Alton Lake;Sinaminda Creek	6503694	-81.9982513	47.0213250
+Gemeinde Artstetten-Pöbring	555397	15.2155078	48.2574650
+Parroquia Valentín Valiente	2541839	-64.0695701	10.4303014
+Lungòni/Santa Teresa Gallura	41138	9.2173470	41.2039335
+Dunaff Electoral Division	6984548	-7.4892101	55.2580908
+Grange Electoral Division	6721749	-8.5200686	53.2899526
+Donnybrewer Level (Intake)	5122394	-7.1892197	55.0530468
+Residencial Paulo Estrela	6156292	-49.1787280	-16.6438624
+Swaffham Bulbeck CP (E Cambs)	1610000	0.2776285	52.2465658
+Chácaras Reunidas Guaraciaba	5418119	-44.1710538	-20.0063546
+Martinice u Dolních Kralovic	428317	15.2033389	49.6414113
+Polígono Industrial El Prado	6791611	-6.3839056	38.9227394
+Park Triangel-De Rietkraag	3147036	4.6438856	52.0322747
+Largo Sebastiano Tarascio	7345894	15.2549652	37.0862403
+Vegesacker Bahnhofsplatz	4868331	8.6276667	53.1697051

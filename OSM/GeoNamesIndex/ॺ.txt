@@ -1,0 +1,14 @@
+National Capital District	269423	147.2042528	-9.4430185
+Saint-Oradoux-de-Chirouze	120252	2.3199261	45.7283570
+Eggenstein-Leopoldshafen	659822	8.3975720	49.0958307
+Sant'Andrea del Garigliano	41242	13.8515225	41.3573745
+Samoklęski-Kolonia Pierwsza	7793591	22.4002342	51.4592918
+Akonesi Creek;Akonewi Lake	3935912	-81.8344960	47.8298012
+Schmiedefeld am Rennsteig	165446	10.8028305	50.6194067
+Batas Dusun Montong Batu II	3817636	116.3192511	-8.6663700
+Caraun Electoral Division	6908602	-8.9293256	53.7178731
+Staroyuryevsky District	1752953	40.7685271	53.3675811
+Pelham Village Apartments	7006251	-82.2763809	34.8605143
+Barrio Privado Las Liebres	3541139	-58.7490435	-34.4376611
+El Prado-Parque de María Luisa	5500639	-5.9886790	37.3749479
+Shanliao Dakeng Reservoir	4288290	114.9273674	24.2472076

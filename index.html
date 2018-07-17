@@ -1,0 +1,282 @@
+<!--
+	PageFish - A search engine with a static web server. 
+	
+	2018-07-17
+	Peter Burkimsher
+	peterburk@gmail.com
+	
+	Example usage for OSM data: Type a city name, click search, see the results. 
+	
+	How to build the index:
+	
+		cc -lm geonamesToIndex.c -o geonamesToIndex
+		cat geonames_relations.txt | ./geonamesToIndex
+
+	Benchmarks:
+
+		> time grep -c "Paris" geonames_relations.txt
+		0.366s = 366 ms
+
+		Typical search time (by searching a few city names): 30 ms. 
+	
+		This gives a 10x speedup compared to grep. 
+	
+	Index building time:
+		> time cat geonames_relations.txt | ./geonamesToIndex
+		17.185s
+
+	Having many small files in the index uses more space. But storage is cheap. 
+		Original file geonames_relations_name_id_lat_lon.txt: 25.8 MB
+		Index size GeoNamesIndex: 94 MB
+	
+	How the hashing algorithm works:
+		1. Convert every character in the query to a number. (Peter = 80, 101, 116, 101, 114)
+		2. Add up the total of those numbers (80 + 101 + 116 + 101 + 114 = 512). 
+		3. Get the Unicode character for that number (512 = Ȁ). 
+		4. Load the index file that uses that character as a filename. (GeoNamesIndex/Ȁ.txt)
+		5. Grep the query again within that file (clashes exist, e.g. "Dover" = 68 + 111 + 118 + 101 + 114 = 512)
+		
+	Why this is important:
+		+ The router and filesystem help the search. 
+		+ Characters are just numbers. It's faster to search shorter strings. 
+		+ Server-side operations cost money. Client-side JavaScript is free. 
+		+ The index can be stored on a static file server e.g. Github. 
+	
+	Known limitations:
+		- Fuzzy matching isn't supported (but this is not a problem for Chinese)
+		- Some characters aren't allowed in filenames, URLs, etc. 
+		- The hash algorithm should be balanced so that index files are a similar size. 
+	
+	Name:
+		• The plan is to turn this into a real search engine later. 
+		• Page stands for Peter's Alternative Google Engine
+		• Fish stands for Filesystem Index Search Hash
+		
+	Future work:
+		• Fix queries with accented characters (they don't seem to hash the same in C and JavaScript)
+		• Make a more balanced hashing algorithm that still limits to a single character
+		• Group the index into folders based on the number of characters in the query string (more important for large indexes)
+		• Spellcheck and fuzzy matching by running multiple searches
+-->
+
+<html>
+	
+	<head>
+		<title>PageFish</title>
+
+		<meta charset="utf-8" />
+		<style>
+		  body {
+			font-family: Tahoma, Geneva, sans-serif;
+		  }
+		p {
+			margin-left: 50px;
+		}
+	
+				.DefaultButtonOuter
+				{
+					border: 2px solid black ;
+					border-radius: 8px;
+					width: 96px;
+					height: 26px;
+					text-align: center;
+			
+					/*background-color: #99999a;*/
+					background: #99999a; /* For browsers that do not support gradients */
+					/*background: -webkit-linear-gradient(left top, red, yellow);*/ /* For Safari 5.1 to 6.0 */
+					/*background: -o-linear-gradient(bottom right, red, yellow);*/ /* For Opera 11.1 to 12.0 */
+					/*background: -moz-linear-gradient(bottom right, red, yellow); */ /* For Firefox 3.6 to 15 */
+					background: linear-gradient(to bottom right, #dcdbde, #737374); /* Standard syntax */
+				}
+
+				.ButtonInner
+				{
+					border: 1px solid black ;
+					border-radius: 5px;
+					background-color: #dcdbde;
+					width: 88px;
+					height: 18px;
+					text-align: center;
+					margin: 3px;
+			
+					line-height: 18px;
+					font-family: "Charcoal CY", "Virtue", Geneva, sans-serif;
+					font-size: 11px;
+					color: #000000;
+				}
+		
+				.ButtonInner:active
+				{
+					background:#666666;
+					color: #ffffff;
+				}
+	
+		</style>
+
+	</head>
+	
+	<body>
+		
+		<div>
+			Type a city name:
+		</div>
+		
+    	<textarea id="queryTextArea" name="text" rows="4" cols="40">Auckland</textarea>
+	
+		<div id="defaultButton" class="DefaultButtonOuter" style="width:158px">
+			<div id="searchButton" class="ButtonInner" onclick="searchButtonClicked();" style="width:150px">
+				Search
+			</div>
+		</div>
+		
+		<div id="searchTime">
+		
+		</div>
+
+		<div id="resultsTable">
+		
+		</div>
+
+	
+	</body>
+	
+	<script>
+		
+		var searchQuery = "";
+		var searchData = "";
+		
+		var startTime;
+		var endTime;
+		
+		function replaceChars(thisString, searchString, replaceString)
+		{
+			//debugLog("replaceChars(" + thisString + "," + searchString + "," + replaceString + ")");
+
+			return thisString.split(searchString).join(replaceString);
+		} // end function replaceChars
+
+		function searchLoadedData(searchText)
+		{
+			if (searchText == "")
+			{
+				document.getElementById("resultsHtml").innerHTML = "Search cancelled";
+				return;
+			}
+	
+			var resultsHtml = "";
+			var resultsArray = [];
+		
+			var searchRegexString = "^" + "(.*" + searchText + ".*)";
+				
+			searchRegexString = searchRegexString + "$";
+				
+			var searchRegex = new RegExp(searchRegexString, "gm");
+				
+			//document.write(searchRegex);
+				
+			var searchResultsArray = searchData.match(searchRegex);
+
+		
+			return searchResultsArray;
+		
+		} // end function searchLoadedData
+
+
+		function loadFile(filename)
+		{
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+				   		searchData = xmlhttp.responseText;
+						
+						var searchResultsArray = searchLoadedData(searchQuery);
+						
+						endTime = Date.now();
+						
+						var searchTime = endTime - startTime;
+						
+						var searchResultsHtml = "No Results"
+						
+						// Add maps link
+						if (searchResultsArray != null)
+						{
+							var numberResults = searchResultsArray.length;
+							
+							for (var currentResult = 0; currentResult < numberResults; currentResult++)
+							{
+								var thisResult = searchResultsArray[currentResult];
+								
+								var thisResultArray = thisResult.split("	");
+								var thisResultLon = thisResultArray[2];
+								var thisResultLat = thisResultArray[3];
+								
+								var thisResultLink = "https://www.openstreetmap.org/#map=10/" + thisResultLat + "/" + thisResultLon;
+								thisResultLink = "<a href=\"" + thisResultLink + "\" target=_blank>Map</a>";
+								
+								searchResultsArray[currentResult] = thisResult + "	" + thisResultLink;
+							} // end for every result
+
+
+							searchResultsHtml = searchResultsArray.join("</td></tr><tr><td>");
+
+							searchResultsHtml = replaceChars(searchResultsHtml, "	", "</td><td>");
+							
+							searchResultsHtml = "<table><tr><td>Name</td><td>Relation ID</td><td>Longitude</td><td>Latitude</td><td>Link</td></tr><tr><td>" + searchResultsHtml + "</td></tr></table>";
+						}
+						
+						
+						document.getElementById("resultsTable").innerHTML = searchResultsHtml;
+						
+						document.getElementById("searchTime").innerHTML = "Searched in " + searchTime + " ms";
+						
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('error loading index');
+				   }
+				   else {
+					   alert('error loading index');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+			
+		} // end function loadFile	
+		
+		function searchButtonClicked()
+		{
+			startTime = Date.now();
+			
+			searchQuery = document.getElementById("queryTextArea").value;
+			
+			var numberCharacters = searchQuery.length;
+			
+			var thisCharacterInt = 0;
+			var searchQueryHashInt = 0;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				thisCharacterInt = searchQuery.charCodeAt(currentCharacter);
+				
+				searchQueryHashInt = searchQueryHashInt + thisCharacterInt;
+			} // end for every character in the string
+			
+			var searchQueryHashString = String.fromCharCode(searchQueryHashInt);
+			
+			//document.getElementById("queryTextArea").value = searchQueryHashString;
+			
+			var filename = "OSM/GeoNamesIndex/" + searchQueryHashString + ".txt";
+			
+			console.log(filename);
+			
+			loadFile(filename);
+			
+		} // end function searchButtonClicked
+		
+	</script>
+	
+</html>

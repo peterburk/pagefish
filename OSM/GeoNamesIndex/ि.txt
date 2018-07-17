@@ -1,0 +1,29 @@
+Saint-Nicolas-de-Macherin	184468	5.6170474	45.4055460
+Arrondissement des Cayes	394518	-73.8390224	18.2696331
+Monasterolo del Castello	45974	9.9358605	45.7593760
+Chernyakhovsky District	1179608	21.6995244	54.6682908
+Minusinsk Urban District	1241549	91.6784597	53.7183482
+La Salle-et-Chapelle-Aubry	302049	-0.9641768	47.2501122
+Municipio de Monte Nievas	3409937	-64.1178178	-35.8809740
+Municipality of Pehchevo	2583788	22.8746769	41.7840860
+Kursumlija Municipality	2863768	21.2695556	43.0705450
+Betty Lake;Sexsmith Creek	5199596	-86.7492238	50.3087226
+"Zbiornik Nr 12 ""Bytowska 4"""	3850208	18.5363672	54.4044932
+Santa Cruz Zacatzontetla	1391413	-98.0358701	19.3997431
+Badesee Camping Teichmann	2326908	8.8908820	51.1730566
+Knockquhassen Reservoir	5678577	-5.0893314	54.8899613
+Orchay Lakes;Orchay River	3508838	-132.6881246	62.1348009
+Keewatin River;Moses Lake	2416120	-100.7938384	56.7851023
+Quartier de Clignancourt	2195154	2.3459451	48.8920156
+Delegación Municipal Centro	5956445	-55.8929270	-27.3645775
+Carlton Scott Apartments	1184378	-80.4281763	37.2416665
+Comunità Rotaliana-Königsberg	1786401	11.1283465	46.2042369
+Augusta Charter Township	903158	-83.5991940	42.1283700
+Rathcusack or Rathcorrig	5233779	-7.1776706	52.5810776
+Knockersally or Colehill	4240765	-7.1036600	53.4212166
+Hofkirchen im Traunkreis	87640	14.3825317	48.1477098
+Riverbrook at Glen Kernan	6430685	-81.4737365	30.2609913
+Old Roshanpura Extension	3573751	76.9866050	28.6067739
+Sector B - Brazo de la Torre	6279926	-6.5620458	37.0063193
+Plaza de los Reyes Católicos	3171903	-16.5453241	28.4172232
+Place du Parvis Notre-Dame	2899743	-1.6044807	48.8367659

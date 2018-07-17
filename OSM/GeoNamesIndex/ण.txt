@@ -1,0 +1,34 @@
+Villers-sous-Foucarmont	3016776	1.5487417	49.8184570
+Maulévrier-Sainte-Gertrude	108886	0.7110774	49.5549055
+Saint-Mathurin-sur-Loire	333047	-0.3217729	47.4230464
+Arrondissement de Jacmel	394516	-72.4864952	18.2880205
+Glen Innes Severn Council	6163165	151.9172856	-29.6318996
+Breitenbrunn/Erzgebirge	419011	12.7625569	50.4751624
+Moraleja de las Panaderas	345729	-4.8223085	41.2733471
+Staffordshire Moorlands	165218	-1.9742007	53.0715567
+Pueblonuevo del Guadiana	346041	-6.7600575	38.9234798
+Plan d'eau du Pas des Ondes	1772172	5.3656542	44.4624179
+São Miguel, Santa Eufémia e Rabaçal	6553684	-8.3830140	40.0100630
+Atikwa River;Denmark Lake	3417904	-93.6135713	49.3741281
+Montealegre del Castillo	341168	-1.2881262	38.7573857
+Perez Companc Centro Este	6687333	-68.9200504	-37.3934941
+Lanchkhuti Municipality	1995783	41.9401481	42.0744192
+District of Bratislava IV	388245	17.0179356	48.2023060
+Pathorghata Subdistrict	4719073	89.9319536	22.0388489
+Chesterfield Court House	207067	-77.5115198	37.3820784
+Liberties of Carlingford	5214186	-6.1826929	54.0385900
+Rearour And Barretts Hill	5583563	-8.5463687	51.8192629
+Vila Colemar Natal e Silva	6888674	-49.2301326	-16.6665639
+Písek u Chlumce nad Cidlinou	430153	15.5135690	50.1607259
+Parish of Southoe & Midloe	1629231	-0.2861056	52.2734125
+Sutton-at-Hone and Hawley	2246521	0.2224362	51.4131735
+Bezirksteil Siebenbrunn	66120	11.5582017	48.1025847
+Seahill and Tuckmill Hill	5614811	-8.3384714	54.6346116
+Falcon Crest Subdivision	3998315	-103.8201351	44.4726007
+Villa de Empalme Graneros	5375917	-60.7052256	-32.9116847
+Tamarind Falls Reservoir	7419541	57.4638029	-20.3584152
+Honiatychi Rural Council	2514205	23.8944377	49.5397272
+Plac Generała Stanisława Maczka	6592502	15.3206071	51.6166129
+Piazza Scipione Ammirato	1612517	12.5187102	41.8742023
+Polo de Lazer da Parangaba	5707546	-38.5666156	-3.7748704
+Kleine-Gartmanplantsoen	7326191	4.8834773	52.3634349

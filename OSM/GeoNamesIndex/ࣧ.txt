@@ -1,0 +1,23 @@
+Sainte-Barbe-sur-Gaillon	3161319	1.3028358	49.1618329
+Saint-Michel-de-Rieufret	104346	-0.4382382	44.6272321
+Saint-Amant-de-Bonnieure	1268206	0.2931527	45.8568302
+Saint-Jean-de-Ceyrargues	2587410	4.2221689	44.0547500
+Saint-Pierre-Montlimart	296280	-1.0366350	47.2782948
+Saint-Silvain-Montaigut	120475	1.7556426	46.1421314
+Mesorregião de Ribeirão Preto	4791928	-47.9948535	-20.8810000
+La Chapelle-sur-Furieuse	546930	5.8525022	46.9847217
+Ruisseau de la Brasserie	215127	-75.7263921	45.4345879
+Vila do Bispo e Raposeira	6431752	-8.9050487	37.1031234
+Mação, Penhascoso e Aboboreira	6458560	-8.0202962	39.5619383
+Madjedonce (Retkocersko)	7204810	21.5225969	42.8342139
+Kellys Slough Reservoir	288988	-97.2549747	47.9827716
+Grassy Sprain Reservoir	1143936	-73.8503770	40.9741092
+Bereslavskoe reservoir	1523077	44.1019557	48.6105730
+Shchyolkovsky District	179588	38.1362101	56.0214736
+Tyulyachinsky District	367109	50.2298114	55.8420326
+Quartier du Palais Royal	2172739	2.3360531	48.8646063
+Mount Pleasant Township	6127500	-75.3934650	41.7486762
+Wojny-Szuby Szlacheckie	7057362	22.5669463	52.8068426
+Curborough and Elmhurst	6910621	-1.8370068	52.7092584
+Lotificación Los Compadres	6666496	-89.4228303	13.7513228
+Soportales del Corrillo	908775	-5.6648928	40.9644063

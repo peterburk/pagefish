@@ -1,0 +1,54 @@
+Beaumerie-Saint-Martin	2690418	1.8016027	50.4430432
+Saint-Aubin-Celloville	136488	1.1548154	49.3730472
+Klagenfurt am Wörthersee	105870	14.3027719	46.6415603
+Sainte-Marie-la-Blanche	129520	4.8936241	46.9726675
+Criteuil-la-Magdeleine	111402	-0.2151956	45.5356352
+Saint-Pierre-Lafeuille	123563	1.4552238	44.5192429
+Saint-Germain-lès-Corbeil	190663	2.4920299	48.6276842
+Provincia Tomas Barron	4493742	-67.4267831	-17.6184264
+El Carmen Tequexquitla	5999557	-97.6609026	19.3407453
+Municipio Paz Castillo	3339667	-66.6581158	10.3177125
+Sikhottabong District	5831770	102.4967271	17.9985640
+San Nicolás de los Ranchos	6037785	-98.5547578	19.0872987
+cercle de Lalla Mimouna	4826633	-6.1417184	34.8977602
+Vuhledar Municipality	2675430	37.2481736	47.7801865
+Sant'Agata di Militello	39500	14.6361252	38.0316729
+Sieversdorf-Hohenofen	1302374	12.3820369	52.8200443
+Malpartida de la Serena	341352	-5.6214471	38.7002097
+Rivière Nicolet Sud-Ouest	1422479	-72.0418723	45.8418163
+Rivière Nicolet Sud-Ouest	1427594	-72.3537906	46.0057935
+Barragem Dionísio Machado	6061037	-37.6891640	-10.9546742
+A dos Cunhados e Maceira	6543818	-9.3204848	39.1575972
+Grandmother Flowage 2269	300517	-89.7228071	45.3790344
+Municipio Portachuelo	4511497	-63.4300287	-17.3848885
+Shukongjiaya District	7065389	103.7266586	36.1235052
+Wannianbu Subdistrict	7423330	117.3027823	31.7091575
+Andreapolsky District	570641	31.9844737	56.7758661
+Röthenbach an der Pegnitz	966170	11.2568061	49.4743414
+Puerto Diego de Almagro	6437233	-75.1922502	-51.5835050
+Hodkovice nad Mohelkou	438995	15.0893987	50.6704182
+Barrio Virgen del Valle	2834677	-65.7758201	-28.4869909
+Berg b. Neumarkt i. d. OPf.	7587841	11.4390236	49.3301048
+Santo Antônio do Planalto	242460	-52.7062751	-28.3690615
+Mirzaganj Subdistrict	4848386	90.2211417	22.3483281
+3e Petit Bourg du Borgne	411966	-72.5841782	19.8016599
+Aghilly and Lenynarnan	4258151	-7.4234068	55.1352144
+Newtownmoneenluggagh	4144678	-6.7651424	53.3549513
+Drumminnamuckla North	5459446	-8.3952822	53.0662654
+Aghmanister and Spital	5972079	-8.7765288	51.6257441
+Hodkovice nad Mohelkou	430693	15.0888859	50.6656149
+Ward 43 Chandrayangutta	7856362	78.4787597	17.3232170
+Industrial Mejostilla	7348105	-6.3660480	39.5027195
+Elias Motsoaledi Ward 24	3663488	29.6006843	-25.0487020
+Elias Motsoaledi Ward 15	3663478	29.8425421	-25.0616651
+Faubourg Saint-Jacques	2169217	4.8968876	44.9314005
+Marquinton Residences	3428165	121.1005041	14.6357307
+Park Sierra Apartments	5719096	-121.9126766	37.7124568
+Rocky Meadow Brook Pond	1318620	-70.8043930	41.8681231
+Colonia Zapote Injerto	6084121	-89.5527030	14.0013831
+Paraiso de Ciudad Jardín II	7346506	-76.5289181	3.3594295
+Choke Canyon Reservoir	1935176	-98.3097257	28.4981333
+Distrito Villa Antigua	2992004	-67.4617465	-33.4533218
+Berezyna Rural Council	2525870	24.0631749	49.4408973
+Municipio de Aguilares	3462294	-65.6283367	-27.4453029
+Vila Frescainha (São Pedro)	4055617	-8.6453839	41.5290661

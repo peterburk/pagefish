@@ -1,0 +1,35 @@
+Lagraulet-Saint-Nicolas	150040	1.0730144	43.7904026
+Autreville-sur-la-Renne	3190008	4.9816990	48.1277932
+Tzaramonte/Chiaramonti	40676	8.8444929	40.7284975
+Santa Isabel Xiloxoxtla	6000009	-98.2071065	19.2635018
+Albalate de las Nogueras	340026	-2.2841796	40.3683692
+Villanueva del Pardillo	348117	-3.9684578	40.4862964
+Monteagudo del Castillo	343240	-0.8029205	40.4558020
+Trzciniak (Staw Matyldy)	7639397	17.8549606	50.8838957
+Santa Isabel Xiloxoxtla	1391404	-98.2071065	19.2635018
+Dharan Sub-Metropolitan	7463953	87.2770008	26.7953984
+Kupfer Lake;Walkup Creek	5201288	-86.9306731	50.4557039
+Shuangyanghe Reservoir	4630354	125.4792528	47.4414299
+Millers Creek Reservoir	2369334	-99.3939783	33.3995547
+Rong Mueang Subdistrict	3320987	100.5194805	13.7434543
+Village of Cottage Grove	251481	-89.2048799	43.0943046
+Little Raspberry Island	4253553	-152.9018888	57.9954113
+Heiligenkreuz am Waasen	3827920	15.5620502	46.9472483
+Vila Nova de Oliveirinha	6553846	-7.9188006	40.3628191
+Autreville-sur-la-Renne	6870072	4.9862496	48.1171034
+Gorshechensky District	1646082	37.9407790	51.4857685
+Khislavichsky District	1694053	32.0955801	54.1186303
+Kilruddery Demesne West	4238548	-6.1050459	53.1782383
+Mourne Mountains Middle	4552254	-6.0664262	54.1394280
+Desert Palms Apartments	4042095	-116.1823312	33.6800449
+El-Punto Mobile Home Park	2857567	-81.4071860	28.5811829
+Pidhirtsi Rural Council	2525901	23.9019307	49.2512570
+Municipio de La Eduvigis	1623951	-58.9140438	-26.7234043
+Municipio de Golondrina	4242814	-60.3568987	-28.4707610
+Place du Docteur Navarre	3385760	2.3664914	48.8278796
+Via Salvatore Quasimodo	1939756	13.8182092	42.1004643
+Piazza Paolo Borsellino	6036661	15.0885789	37.5011491
+Piazza Paolo Borsellino	4023385	15.0724135	37.0271077
+Piazzetta Louis Braille	6848802	10.2437356	45.5727867
+San Lorenzo de Calatrava	339920	-3.8372069	38.4707969
+Laghetti del Venerocolo	1713238	10.1550221	46.0559141

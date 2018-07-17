@@ -1,0 +1,50 @@
+Saint-Pierre-d'Allevard	91906	6.0442604	45.3570039
+Saint-Seurin-sur-l'Isle	89249	-0.0026112	45.0095533
+Saint-Didier-de-Formans	147980	4.7760366	45.9587582
+Saint-Germain-de-Salles	2804398	3.2131022	46.1881432
+Saint-Cirq-Souillaguet	124411	1.4460585	44.7049108
+Varennes-Saint-Honorat	1720802	3.6456453	45.1768164
+Castelnau-de-Montmiral	1579428	1.7756200	43.9912952
+Saint-Étienne-de-Mer-Morte	92693	-1.7148080	46.9461215
+Saint-Maurice-le-Girard	170057	-0.8044655	46.6397946
+Santa Catarina Barahona	374563	-90.8020650	14.5574017
+Tiran and Karvan County	6554972	51.0405536	32.7837975
+Virudhunagar district	1819213	77.8555458	9.4822124
+Microrregião de Aragarcas	4873259	-51.7648419	-16.0713267
+Microrregião Jacarezinho	4761093	-49.9233396	-23.2433620
+Torre de Miguel Sesmero	344411	-6.7672249	38.6492043
+South Branch Two Rivers	282669	-96.8212905	48.7346205
+Round Valley Reservoir	1288135	-121.0783478	42.1355980
+Oljato-Monument Valley	3126953	-110.2166925	36.9810644
+South Branch Two Rivers	282668	-96.6756861	48.7351332
+Commune La Vallée de Jacmel	391380	-72.7022894	18.2823011
+Ingeniero Luis A. Huergo	6427010	-67.2367727	-39.0718262
+Oljato-Monument Valley	198850	-110.2747339	37.0408046
+Tengushevsky District	1537172	42.7873385	54.6708380
+Ponto Chique do Martelo	2961190	-43.9305593	-21.3228260
+Villa de las Higueritas	3595903	-58.3538903	-34.7192596
+Distrito de Alto Bonito	6119408	-40.4001225	-11.7276698
+Clondalkin-Moorfield ED	4630843	-6.3931232	53.3380702
+Krutikhinsky District	1100038	80.9613842	54.0621766
+Peremyshlsky District	444016	36.3495593	54.3102372
+Novoduginsky District	1161438	34.1261785	55.6167715
+Taungdwingyi Township	5996847	95.5668709	19.8759880
+Kostamus City District	1020366	30.5324498	64.7288462
+Kosarzew Dolny-Kolonia	7569596	22.6041453	50.9867262
+Nossa Senhora das Graças II	7582546	-45.4261691	-21.5762203
+Konstanz-Wollmatingen	2890730	9.1468386	47.7020121
+Conj. Hab. Nello Parducci	7751537	-47.8436474	-23.0611675
+Manorland (2nd Division)	4554765	-6.8028176	53.5501941
+Robert S Kerr Reservoir	1948705	-94.8520479	35.3495913
+Lough Mourne Reservoir	5144056	-5.8065478	54.7634875
+Sutton Place Townhomes	2577424	-81.4262130	28.6604496
+Madeleine - Champ de Mars	4647429	-1.5459675	47.2119160
+Hermandades-La Carrasca	5579332	-5.9805996	37.4092217
+Noxon Rapids Reservoir	2417959	-115.7188981	47.8788316
+Villa Pizzo - complesso	7071696	9.0875880	45.8463059
+Asentamiento 20 de Julio	6684477	-56.1696395	-34.8130068
+Pontsticill Reservoir	2933160	-3.3711145	51.8092898
+Mokrotyn Rural Council	2541537	23.9328341	50.0000133
+Place Madou - Madouplein	6673971	4.3694618	50.8494416
+Soposhyn Rural Council	2319722	24.0281602	50.0596976
+Tielu West Subdistrict	7034365	103.8414979	36.0416188

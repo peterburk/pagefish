@@ -1,0 +1,4 @@
+Kizilsu Kirghiz Autonomous Prefecture	2710679	74.6247584	39.5610586
+Pokhara Lekhnath Metropolitan Ward No. 24	6104166	83.9038698	28.2535323
+Pokhara Lekhnath Metropolitan Ward No. 33	6104746	84.0416254	28.1194664
+Pokhara Lekhnath Metropolitan Ward No. 15	6275777	83.9934436	28.1842823

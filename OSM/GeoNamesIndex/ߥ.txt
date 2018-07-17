@@ -1,0 +1,65 @@
+Saint-Victor-sur-Avre	1028985	0.8526813	48.6981337
+L'Hôpital-Saint-Lieffroy	1223681	6.4557438	47.4006975
+Ludwigshafen am Rhein	62347	8.3900658	49.4872970
+Departamento de La Paz	3624477	-88.9850622	13.4669766
+Bettegney-Saint-Brice	153896	6.3136955	48.3046691
+Masevaux-Niederbruck	5815706	7.0088677	47.7817272
+Vaux-sur-Saint-Urbain	3153969	5.2041249	48.3710901
+Colombier-le-Cardinal	135519	4.7444106	45.2645991
+Saint-Médard-la-Rochette	120234	2.1495791	46.0194422
+San Francisco de Yojoa	6059579	-87.9818872	15.0307791
+Basavakalyana taluku	3671454	76.9270880	17.8366766
+Distrito Costa de Nogoyá	2918394	-59.7263933	-32.8537083
+Distrito Raíces al Norte	2889628	-59.2333331	-32.0420861
+Miracema do Tocantins	336828	-48.6148576	-9.7163994
+gmina Polska Cerekiew	2807133	18.1239233	50.2175772
+Cajnice municipality	2528175	19.1171305	43.5833931
+Martín Muñoz de las Posadas	343919	-4.5606732	40.9853697
+Loosdrechtse Plassen	1306728	5.0485161	52.1864960
+Loosdrechtse Plassen	1126513	5.0364331	52.1737571
+Rivière Missisquoi Nord	7407200	-72.3937440	45.0460864
+Kaysersberg-Vignoble	5815704	7.2478529	48.1549584
+Arroio Flor da Pintada	2848994	-51.2647989	-30.0202856
+World Showcase Lagoon	3930723	-81.5497803	28.3699771
+São Tomé do Castelo e Justes	4202163	-7.6674571	41.3701223
+Calderwood Reservoir	1284602	-119.7664976	42.2421139
+Saint-André-d'Argenteuil	7697272	-74.3074537	45.5628661
+Lochan Mam a' Chullaich	2399536	-5.6814997	56.5246334
+Tukhlia Rural Council	2825656	23.4677195	48.9180487
+Sokolia Rural Council	2535308	23.1578046	49.8589161
+Geese and the Bog Lakes	1522854	-112.8113669	53.5097301
+Charodinsky District	1858764	46.8005081	42.1148691
+Ampliación Jardín Espinosa	5297846	-64.1734060	-31.4552842
+Sundsvalls tätortsområde	3071382	17.2949565	62.4072648
+Glesbygd Västerlo, Österlo	2775922	16.6919072	62.4278151
+Monongahela Township	4163578	-79.9464823	39.8142184
+Dois Irmãos do Tocantins	336865	-49.0183628	-9.3360000
+Kolonia Siedliszczki	6866872	22.8959995	51.1235980
+San Juan de Lurigancho	1944815	-76.9779107	-11.9487508
+Herbertstown (O'Grady)	6036567	-8.4752263	52.5181088
+Inch St Lawrence North	6018915	-8.5078468	52.5942158
+Nossa Senhora da Penha	1920398	-40.6522487	-19.5198925
+Cornaglare or Palmira	4634445	-6.9870791	53.8418108
+Nossa Senhora da Penha	1865624	-40.3274890	-20.3565225
+Stanovice u Nové Cerekve	427825	15.1490882	49.4305538
+Nossa Senhora da Penha	5543279	-42.6301223	-19.5260713
+Praia da Armação do Itapocorói	6576290	-48.6149390	-26.7996512
+Nossa Senhora da Penha	1887701	-41.1084926	-20.8420515
+Nossa Senhora da Penha	1900777	-41.5298383	-20.3420369
+Partido de General Paz	2512688	-58.3358456	-35.4736042
+La Paz-Las Golondrinas	5562615	-5.9878832	37.4110169
+Ikere Gorge Reservoir	3338278	3.7716731	8.2247988
+Faneromeni Reservoir	2368659	24.8565473	35.1007298
+Embalse de Proserpina	4658705	-6.3627368	38.9723652
+Camella Alabang Homes 4	5415172	121.0372102	14.3908947
+Devon Place Townhomes	2582775	-81.3310945	28.6481116
+Barrio Los Pelegrinos	3503622	-68.8308470	-32.9522636
+Urbanización Casa Blanca	6100369	-89.6726168	13.9895062
+Circolo della Melezza	1689340	8.6456241	46.1635375
+Municipio de Josefina	4142188	-61.9887364	-31.4014896
+Municipio de Maggiolo	4069958	-62.2340241	-33.7207532
+San Pedro de Huancayre	1944828	-76.2028139	-12.0936616
+Municipio de Castelar	4110856	-62.1279231	-31.6859986
+Castillo Torre de Guzmán	6288784	-6.0896822	36.2746827
+Municipio de Trinidad	3467366	-65.4925070	-27.4014926
+Puente la Reina de Jaca	346256	-0.7604388	42.5908640

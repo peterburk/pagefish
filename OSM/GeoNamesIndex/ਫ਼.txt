@@ -1,0 +1,15 @@
+Saint-Laurent-de-la-Salanque	270405	3.0071297	42.8105966
+Santa Margherita di Staffora	43519	9.2241687	44.7364791
+Municipio Cardenal Quintero	3448342	-70.6716978	8.8810880
+Schweinegger Schlossweiher	4232232	10.5800802	47.6137906
+Maruleng Local Municipality	611427	30.7193666	-24.3000832
+Kai !Garib Local Municipality	82048	20.4723923	-28.8812650
+Dilla Lake;Sunnemequat Creek	4154076	-87.5040541	49.8296162
+Eleven Mile Creek;Mobout Lake	3598665	-84.3372968	47.4948625
+Kinvarra Electoral Division	5653802	-8.9568384	53.1212529
+Kilquain Electoral Division	5606711	-8.2350672	53.1671415
+Saint-Laurent-de-la-Salanque	2500278	2.9901119	42.7931605
+Municipio de Gobernador Roca	3213216	-55.3775827	-27.2466603
+Comisión de Fomento de Santo Tomás	3331265	-70.0927040	-39.8511547
+Municipio de Sargento Cabral	4063033	-60.6604336	-33.4573823
+Distrito Ingeniero Giagnoni	2951129	-68.4222859	-33.1294091

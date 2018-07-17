@@ -1,0 +1,18 @@
+Saint-Nicolas-de-Bliquetuit	106716	0.7268454	49.5013905
+Saint-Nicolas-de-Pierrepont	1107265	-1.5837254	49.3205352
+Saint-Sigismond-de-Clermont	154476	-0.5461942	45.4468562
+Saint-Christophe-le-Chaudry	1084120	2.3981873	46.5880845
+Landkreis Dingolfing-Landau	62707	12.6606467	48.6395250
+Municipality of Petroupoli	1372548	23.6748770	38.0446525
+Strugo-Krasnensky District	957270	29.0495411	58.2406659
+Glenalla Electoral Division	6969577	-7.6283878	55.0851663
+Laboratoire (Camp Assistant)	5833403	27.4863127	-11.6743984
+Greaghacholea or Coraghmuck	5372819	-7.6089492	54.0501074
+Simpliciano Fernandes Filho	4280501	-37.6052798	-11.1296849
+King Sabata Dalindyebo Ward 20	3594565	28.5463992	-31.9117635
+King Sabata Dalindyebo Ward 11	3594555	28.7170819	-31.5705175
+Parque Residencial Rosa Bororó	7552740	-54.6832958	-16.4487198
+Tatsugaike Pond (Dragon Pond)	1368114	136.9227206	35.1551622
+Parque Residencial Panorama	4068267	-53.8021870	-29.6966067
+Feriensiedlung Trausdorf II	3987419	16.5775082	47.8263903
+Industriegebiet Hohenstücken	7155270	12.5273150	52.4402994

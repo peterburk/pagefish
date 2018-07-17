@@ -1,0 +1,5 @@
+Arrondissement de Valenciennes	1645510	3.5094037	50.3792705
+Breukeleveensche of Stille Plas	1303160	5.0833540	52.1799897
+Malagueira e Horta das Figueiras	6439505	-7.9088477	38.5538713
+Silverbrook Electoral Division	4439196	-7.5707191	53.3089669
+Mountheaton Electoral Division	4463075	-7.9083022	52.9539030

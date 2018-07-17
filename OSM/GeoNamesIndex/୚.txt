@@ -1,0 +1,7 @@
+Sisonke District Municipality	611315	29.7455420	-30.0841649
+Verwaltungsverband Jestetten	2957730	8.5588347	47.6341936
+Lancang Lahu Autonomous County	2715426	100.0706081	22.6434367
+Severnoye Medvedkovo District	446086	37.6517697	55.8872216
+Floodwood Lake;Floodwood River	4590903	-80.2607723	49.4692360
+File River;Limestone Point Lake	3096043	-100.5155310	55.1232731
+Brobury with Monnington on Wye	6307227	-2.9211402	52.0904251

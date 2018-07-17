@@ -1,0 +1,38 @@
+Saint-Martin-de-Mailloc	158025	0.2840736	49.0889381
+Saint-Jean-de-la-Léqueraye	3314266	0.5608121	49.2253176
+Rouxmesnil-Bouteilles	148252	1.1038213	49.8986599
+Wavrechain-sous-Denain	53824	3.4208238	50.3336278
+Saint-Siméon-de-Bressieux	180451	5.2558246	45.3211058
+Champlat-et-Boujacourt	2674591	3.8284482	49.1544006
+Sainte-Foy-de-Peyrolières	123091	1.1254342	43.4755373
+Saint-Pourçain-sur-Besbre	2884784	3.6604374	46.4854704
+Sainte-Maure-de-Peyriac	1551132	0.1570713	44.0060465
+Saint-Bazile-de-Meyssac	121671	1.7244473	45.0546198
+Courcelles-de-Touraine	105192	0.3458681	47.4889317
+Mourioux-Vieilleville	119349	1.6294633	46.0762394
+Microrregião de Alto Guaporé	5011737	-59.7110624	-15.1332019
+gmina Mikołajki Pomorskie	1582851	19.2108032	53.8496685
+Villanueva de las Peras	347699	-5.9768817	41.9210525
+Gemeinde Waidmannsfeld	110432	15.9533930	47.8685244
+Nossa Senhora do Pranto	6458532	-8.2769665	39.7530942
+Lasucor Lake;Rush River	3904417	-82.1111851	47.8873435
+North Tushino District	445279	37.4282261	55.8636561
+Upper Hanover Township	3115073	-75.5340455	40.3952079
+Ciudad de los Cuartetos	7090777	-64.1303839	-31.3567484
+Pobladura de Pelayo García	344762	-5.6703490	42.3041362
+Staromaynsky District	1760243	49.0958253	54.6235796
+Residencial Fazendinha	5543300	-42.6354298	-19.4852803
+Pointon & Sempringham CP	1400880	-0.3324962	52.8674444
+Jardim Primavera 2 Etapa	6775440	-48.8899736	-16.3039955
+Parish of Whittlesford	1633811	0.1422889	52.1100876
+Great Gransden CP (Hunts)	1629607	-0.1397710	52.1936860
+Condomínio Portal do Igarapé	7318768	-44.2998334	-20.0767314
+Neue Kolonie / Moselbach	3826024	7.4135492	51.6262367
+Springs at Laurens Road	7604069	-82.3230591	34.8056025
+Urbanización San Fernando	6088627	-89.5589427	13.9995098
+Kensington at Eastwood	2031645	-81.1720822	28.5280747
+Tongue River Reservoir	1344397	-106.7914842	45.0911727
+Kamyshlovsky District	1014759	62.5426815	56.8547676
+Municipio de Dos de Mayo	3187043	-54.5848289	-27.1055107
+Place François Mitterrand	5450002	1.4412211	44.4455064
+Place François Mitterrand	3775659	6.0932129	49.3186770

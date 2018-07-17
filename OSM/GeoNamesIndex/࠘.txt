@@ -1,0 +1,41 @@
+Écardenville-la-Campagne	3328413	0.8352153	49.1247695
+Saint-Paul-lès-Monestier	1345719	5.6201865	44.9303604
+Castillon-de-Larboust	1398534	0.5513913	42.7538012
+Niederschaeffolsheim	85910	7.7437448	48.7719296
+Saint-Pierre-de-Frugie	3217442	1.0083190	45.5875324
+Cirfontaines-en-Azois	1813322	4.8620405	48.1064500
+Saint-Lubin-de-Cravant	2167864	1.0978432	48.7076845
+Saint-Jean-d'Aubrigoux	3060684	3.8114566	45.3624129
+San Antonio Nanahuatípam	5999703	-97.1604039	18.1486674
+La Magdalena Contreras	5605960	-99.2633386	19.2754700
+Locusantu/Luogosanto	41019	9.2247913	41.0680524
+caïdat de Sidi Abderrazak	5141134	-6.1971547	34.0160062
+La Chapelle-Anthenaise	1003914	-0.6577710	48.1291904
+Samoklęski-Kolonia Druga	7793601	22.4369532	51.4385441
+Oberbrucher Baggersee	3798393	8.0839128	48.7288111
+Sonny Lake;Wadi's Creek	3924052	-80.0029231	47.3776010
+Riudellots de la Selva	344932	2.7944401	41.8917239
+Krasnoturansky Rayon	1152538	91.5400268	54.4161314
+Milyutinsky District	1607220	41.6400802	48.7280221
+Samtgemeinde Liebenau	2936841	9.0940587	52.6229924
+Saint-Nicolas-des-Bois	1111933	0.0369487	48.5109635
+Powerscourt Mountain	3908645	-6.2916269	53.1785571
+Setor Lago dos Buritis	7008133	-48.9772466	-16.2749485
+Lugaphuill (Ballyhean)	6793804	-9.2671523	53.8089467
+STKRJ Mata-Mata Kawasan 1	7425207	114.8782458	4.8985559
+Hardwick-with-Yelford	4237429	-1.4679278	51.7467046
+Lickey and Blackwell CP	1875249	-2.0162929	52.3624515
+Hardwick with Tusmore	4179531	-1.1653955	51.9673302
+Residencial Dom Felipe	7006242	-48.9968185	-16.2775947
+Brannock Island Middle	3518821	-9.8432505	53.1409199
+Birley with Upper Hill	6313472	-2.7856516	52.1731721
+Saint-Nicolas-des-Bois	1014441	-1.1950068	48.7627173
+Trilogy at Power Ranch	7268335	-111.6945722	33.2615675
+Lancaster Residences 6	3273127	120.9081000	14.4066054
+Condomínio Vila Maestria	3949800	-37.0595713	-10.9708253
+North Park Townhouses	6614095	-87.4055289	36.5915999
+The Manors of Bryn Mawr	1992790	-81.3155322	28.5075064
+Speicherbecken Geeste	1375938	7.2931782	52.5880547
+Elvira Ochoa de Hernández	3634702	-94.4452722	18.1106837
+Municipio de María Grande	2871398	-59.8907003	-31.6675533
+Syktyvkar Urban Okrug	421732	50.8168787	61.7307175

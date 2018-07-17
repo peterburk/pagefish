@@ -1,0 +1,21 @@
+Saint-Maurice-lès-Charencey	2247508	0.7494909	48.6413585
+Saint-Julien-Beychevelle	164155	-0.7542864	45.1559931
+Barbezieux-Saint-Hilaire	111338	-0.1419473	45.4812212
+Garrigues-Sainte-Eulalie	396555	4.3040306	43.9910930
+Monteignet-sur-l'Andelot	2788133	3.2462502	46.1145597
+Saint-Gilles - Sint-Gillis	58248	4.3429489	50.8304757
+Rhino Refugee Settlement	7624825	31.3433646	3.1011005
+Civitella in Val di Chiana	42435	11.7564939	43.4251484
+Crasto, Ruivos e Grovelas	5628167	-8.4330931	41.7593966
+San Vicente Xiloxochitla	1391376	-98.3141128	19.2846943
+Sadkovychi Rural Council	2826751	23.1704179	49.6384635
+Laguna del Difunto Manuel	4729379	-59.0774094	-36.0061613
+Ashford Hill with Headley	3813118	-1.2269200	51.3526150
+District of Kysucké Nové Mesto	388204	18.7987866	49.3179265
+Formoyle Eighteragh West	4132205	-9.2070890	52.8541674
+Formoyle Oughteragh East	4132140	-9.1743628	52.8530450
+Bezirksteil Obermenzing	66809	11.4631649	48.1651452
+Vila Nicolau Alves de Melo	5418280	-44.2005129	-19.9659697
+The Pines Apartment Homes	2077745	-81.4568281	28.4977052
+Rozghirche Rural Council	2541045	23.6999780	49.1093029
+Bollullos Par del Condado	343809	-6.5273560	37.3248369

@@ -1,0 +1,4 @@
+Municipio Francisco Javier Pulgar	3447440	-71.5506190	8.8881095
+Castleforward Electoral Division	6991223	-7.4742187	54.9947952
+Kilbride North Electoral Division	6826136	-8.2069475	53.7224997
+Metropoolregio Rotterdam Den Haag	4448046	4.2502828	51.9877436

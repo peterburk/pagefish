@@ -1,0 +1,27 @@
+Saint-Germain-des-Essourts	3010628	1.3190497	49.5366419
+Saint-Gilles-de-la-Neuville	1131963	0.3625988	49.5721308
+Saint-Sauveur-la-Pommeraye	900256	-1.4334035	48.8418816
+Sidi M'hamed Ben Ali District	6823457	0.7360258	36.1260844
+Parroquia Capital Caripito	2653217	-63.1296674	10.1173050
+Kawakanika River;Kawin Lake	5129450	-86.3863107	50.0809847
+Rhyl Cut Coarse Fishing Lake	3644530	-3.4907943	53.3098268
+Advanced wakeboarders lake	3969436	54.5446594	24.4030302
+Sdot Negev Regional Council	1473953	34.5362209	31.4215193
+Quartier des Quinze-Vingts	2192616	2.3746549	48.8468181
+Aughrim Electoral Division	6736212	-8.3523357	53.3174106
+Maghery Electoral Division	6923179	-8.3950569	54.9145867
+Aughrim Electoral Division	6326124	-8.8345852	53.3164575
+Les Collines-de-l'Outaouais	5362745	-75.8362614	45.6235106
+Partido de General Las Heras	1934039	-58.9923531	-34.9132109
+Bezirksteil Hackenviertel	65917	11.5691810	48.1356266
+Fenghuangshan Subdistrict	7838387	109.4541067	36.6007677
+Glendive West Sewage Lagoon	6147346	-104.7280307	47.1148105
+Lago General Vintter/Palena	4841319	-71.5489716	-43.9251544
+Piazza Vittorio Emanuele II	7420632	12.8312235	41.5906057
+Piazza Vittorio Emanuele II	5299336	10.3994164	43.7107693
+Piazza Vittorio Emanuele II	1599169	12.8604826	42.4024489
+Piazza San Pasquale a Chiaia	4815320	14.2363060	40.8340326
+Piazza Vittorio Emanuele II	5887128	11.7900778	45.0706421
+Piazza Vittorio Emanuele II	6426515	17.9477451	40.6398424
+Piazza Vittorio Emanuele II	5768118	14.6591918	41.5583649
+Lago di San Giacomo di Fraele	1085989	10.2663588	46.5415869

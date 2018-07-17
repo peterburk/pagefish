@@ -1,0 +1,40 @@
+Villaines-en-Duesmois	146135	4.5161207	47.6880109
+Fontaines-en-Duesmois	146139	4.5351102	47.6484975
+Monestier-de-Clermont	279272	5.6382632	44.9227251
+Saint-Julien-de-Lampon	146050	1.3786747	44.8624127
+Ventenac-en-Minervois	2220590	2.8535849	43.2516503
+San-Gavino-di-Fiumorbo	1782446	9.2439047	41.9657459
+Chanteloup-les-Vignes	909987	2.0331601	48.9772653
+Kecamatan Pahungalodu	7228583	120.6579520	-10.1358777
+Bluefields (Municipio)	5776259	-83.8347398	11.5495429
+Microrregião de Campinas	4802988	-47.1245304	-22.8964916
+La Valla-sur-Rochefort	415908	3.8466442	45.7572409
+San Pablo de los Montes	347922	-4.3325782	39.5369972
+Beryozovsky District	1442694	62.4379952	63.7075408
+Laguna de la serpiente	6008250	-59.9961052	-30.6663470
+Lammershagener Teiche	2169837	10.4339734	54.2643444
+Lough Crockaillenalee	2569591	-9.4241692	53.3028468
+Antuzede e Vil de Matos	6386145	-8.4854951	40.2626023
+U.F Sequeiros e Grandiz	6406863	-7.5055204	40.8436917
+French Clearwater Lake	1416447	-65.9195902	43.8846370
+Beckenpeterloheteich	3850952	12.3144586	49.8875323
+Santa Lucrécia de Algeriz	4140540	-8.3650107	41.5905290
+Lyubytinsky District	178002	33.2736062	58.9985873
+Môle d'Escale de La Pallice	4516256	-1.2402307	46.1600505
+Beryozovsky District	1075337	57.5771727	57.6475843
+Ponta Delgada (São Sebastião)	7540328	-25.6711469	37.7545210
+Ballynarooga Beg (West)	6054267	-8.8717966	52.4572523
+Residencial Brasicon I	5741367	-49.2496055	-16.8345159
+Grand Parc - Paul Doumer	2456641	-0.5832459	44.8562236
+Lotificación El Progreso	6647332	-89.4351354	13.7622513
+San Lorenzo di Rovetta	1738224	9.9751530	45.8780827
+Barrio Talar del Lago II	3492035	-58.6529037	-34.4384705
+Provincia de Nicolás Suárez	404938	-67.9215861	-10.8921204
+Wola Studzieńska-Kolonia	7467389	22.4869619	50.9003011
+Clumber and Hardwick CP	957417	-1.0596364	53.2724844
+San Javier de Alpabamba	1930992	-73.2946231	-15.0510834
+Calle Juan Reverón Sierra	4102614	-16.7158167	28.0509764
+Plac Tadeusza Kościuszki	2325293	19.2021268	52.0592388
+Esplanade Jean Bruneau	7274752	-1.5762115	47.2024941
+Plazoleta de la Caleñidad	6110087	-76.5347712	3.4550161
+Ait Bouyahya El Hajjama	2808196	-6.2788071	33.8758451

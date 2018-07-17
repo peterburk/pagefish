@@ -1,0 +1,7 @@
+Zhijiang Dong Autonomous County	3074581	109.5743592	27.3570234
+Yingshouyingzi Mining District	2989000	117.6683919	40.5234453
+Penassi Lake;West Montreal River	6462608	-80.8943207	47.7417706
+Gabodin Creek;Little Gabodin Lake	3223777	-81.1467960	46.2347481
+Austen Lake;West Night Hawk River	3954608	-81.0579381	48.0462258
+Austen Lake;West Night Hawk River	3954609	-81.0579381	48.0462258
+Parque Residencial Padre Caetano	4871135	-53.8259939	-29.6984093

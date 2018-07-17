@@ -1,0 +1,55 @@
+Saint-Just-Chaleyssin	173373	5.0091532	45.5860780
+Saint-Germain-la-Ville	2635628	4.4603548	48.8916615
+Saint-Clair-de-Halouze	304593	-0.6241715	48.6873226
+Saint-Pardoux-la-Rivière	146034	0.7509263	45.5036197
+Saint-Privat-en-Périgord	6837668	0.2125411	45.2268275
+Villard-Saint-Sauveur	398251	5.8595241	46.3629463
+Champigneul-sur-Vence	3262291	4.6573957	49.7028643
+Luttenbach-près-Munster	905904	7.1295007	48.0107359
+Saint-Joseph-des-Bancs	2574025	4.4192910	44.7517620
+Saint-Didier-en-Donjon	2854784	3.8681845	46.3846399
+Beaulieu-sur-Dordogne	120551	1.8289708	44.9821504
+Hammam Debagh District	6537613	7.1880466	36.5323045
+New Plymouth District	4308094	174.4544250	-39.0023188
+Pachalik de Er Rachidia	5150479	-4.4284690	31.9298013
+Elektrėnai Municipality	968950	24.7691338	54.7634399
+La Chapelle-sur-Oreuse	949204	3.2980770	48.2946531
+caïdat de Fezna-Arab Sebah	5313076	-4.4275884	31.5175094
+Garganta de los Montes	345010	-3.6891736	40.9293439
+Canal Gobernador Arias	3648822	-58.6672507	-34.3101509
+Sankt Veit im Innkreis	403565	13.2789259	48.2082628
+Cherbourg-en-Cotentin	5812062	-1.6090151	49.6272751
+Fischbecker Kiesteich	2069572	9.2760671	52.1487121
+Cleveland Cliffs Basin	1938469	-86.8674407	46.2894782
+Parroquia Arévalo González	2461434	-66.2092342	10.2666950
+Loch Iain Mhic Aonghais	2963985	-5.5109287	57.1898645
+Murky Creek;Murky Lake	5130709	-86.8876787	50.0845464
+Stone Lake;Stone River	5264873	-87.5277533	50.5917498
+Zhushuqiao Reservoir	447138	113.8989999	28.2063750
+Upper Merion Township	3067078	-75.3662297	40.0860219
+Microrregião de Soledade	558322	-52.4886290	-28.9484901
+Quartiere XVII Trieste	5473366	12.5157982	41.9279025
+Buturlinsky District	1161650	44.9099604	55.5173364
+Port Washington North	174423	-73.7017448	40.8428175
+Teixeira do Progresso	5271861	-39.4181679	-15.7318725
+Santo Aleixo da Restauração	6435455	-7.0984924	38.0608893
+Irishtown-Summerside	2846363	-57.9458583	48.9882048
+Steinbach an der Steyr	1017123	14.2810001	47.9577546
+Yantikovsky District	1761239	47.8108633	55.4846278
+Lonfield Level (Intake)	5121802	-7.1562884	55.0558749
+Wolverley and Cookley	1875331	-2.2452608	52.4233554
+Moneystaghan-MacPeake	4186311	-6.5330068	54.8592324
+Chroustov u Bohdalova	426298	15.8505772	49.4554139
+Oprechtice ve Slezsku	432073	18.2639253	49.7273210
+University of Alberta	7822033	-113.5228267	53.5238572
+Conj. Hab. Pedro Zanella	7759797	-47.8306081	-23.0687060
+Killylifferbane Glebe	2098148	-7.2443238	54.2329877
+Tarzymiechy Pierwsze	6868743	23.1153657	50.8717044
+Saint-Pardoux-la-Rivière	2500702	0.8027056	45.5319627
+Saint-Germain-des-Bois	401300	2.4614384	46.8864416
+Saint-Germain-des-Bois	161669	3.5147709	47.3677665
+Brache - Siedlung Spora	2748681	12.2573892	51.0349746
+Lotificación Villa Nueva	6117691	-89.5492443	13.9841829
+La Libertad (Municipio)	5758782	-85.1386619	12.3786645
+Albertus-Magnus-Platz	3464276	6.9277504	50.9275282
+Blasconuño de Matacabras	339703	-4.9814165	41.1415394

@@ -1,0 +1,6 @@
+Regional Municipality of Niagara	2712312	-79.3774813	43.0520388
+Township of East Zorra-Tavistock	3550289	-80.7823345	43.2318200
+Gimnasia y Esgrima Rosario - Anexo	7114411	-60.5685367	-33.0909374
+Quartier de la Porte-Saint-Martin	2189687	2.3616261	48.8720377
+Pittsfield Village Condominiums	5657098	-83.6928831	42.2502457
+North Fork of Cascade Camping Zone	3983258	-110.8296436	43.7821021

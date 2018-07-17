@@ -1,0 +1,46 @@
+Clavans-en-Haut-Oisans	106782	6.1538384	45.1033244
+Saint-Pierre-es-Champs	1751079	1.7508020	49.4263579
+Saint-Jean-Pied-de-Port	168589	-1.2347100	43.1570108
+Saint-Coutant-le-Grand	1075108	-0.7876201	45.9478336
+Montgaillard-sur-Save	1479477	0.7145827	43.2547819
+Laneuveville-aux-Bois	113129	6.6475115	48.6210419
+Conflans-sur-Lanterne	1670982	6.2088917	47.8110655
+Saint-Léger-sur-Vouzance	2860837	3.9379580	46.4093065
+Saint-Geours-d'Auribat	1377649	-0.8436297	43.7547408
+Rennes-en-Grenouilles	1786373	-0.5092486	48.4885192
+Saint-Vallier-de-Thiey	1387779	6.8476985	43.6989167
+Schweigen-Rechtenbach	1252832	7.9349960	49.0593325
+Xochitlán de Vicente Suárez	6037870	-97.6482791	19.9342973
+Villaseco de los Reyes	344474	-6.1645949	41.1468371
+Kerguelen Archipelago	6063085	69.6227590	-49.2374420
+Milles de la Polvorosa	348907	-5.7334265	41.9234258
+Gemeinde Harmannsdorf	114796	16.3678889	48.4096672
+Cheseaux-sur-Lausanne	1684899	6.5991248	46.5842823
+Grube Prinz von Hessen	1845214	8.7337544	49.8998408
+Admiral Creek;Seal Lake	4026762	-83.5711473	48.2679736
+Şehit İbrahim Kundakçı Mahallesi	7068748	36.1117554	37.3590692
+Zapayán (Punta de Piedras)	1423494	-74.6873007	10.1368137
+San Bartolomé de Tirajana	340790	-15.5864912	27.8498439
+Krzeczkowo-Gromadzyn	7051688	22.3325374	52.8400613
+Microrregião de Cotegipe	4593969	-44.2007404	-11.6496044
+Novouzensky District	1746036	47.9886659	50.4934933
+San Rafael de la Albaida	1564729	-4.8082161	37.8971308
+Altgemeinde Espelkamp	1339220	8.6138669	52.3982583
+Stainton by Langworth	5232954	-0.4076824	53.2864549
+Pedra Branca do Amapari	331465	-52.6877679	1.2320000
+Microrregião de Almeirim	4820218	-53.6858806	-0.1197984
+Residencial Palmeiras	7007911	-48.9862266	-16.2860638
+Residencial Vale Verde	7622979	-49.1640371	-16.6885969
+Erkilet Yukarı Mahallesi	4287497	35.4155848	38.8264336
+Johnstown or Dunshane	5634906	-6.6720648	53.1532738
+Elias Motsoaledi Ward 4	3663496	29.0955465	-25.1871994
+Salmanbeyli Mahallesi	6582862	35.2148403	36.8413800
+Kiremithane Mahallesi	7541383	34.6210031	36.7942013
+South Wentworthville	5549765	150.9716682	-33.8216064
+Odilon Rezende Andrade	5259026	-45.2455959	-21.6807428
+Lotificación El Porvenir	7084163	-90.0823737	13.8580335
+Biadoliny Szlacheckie	6080597	20.7375861	49.9980347
+El Almendro (Municipio)	5758811	-84.6934934	11.7134586
+Federal Triangle Plaza	5478282	-77.0297201	38.8942192
+Largo Doutor Amândio Paul	1705621	-7.2694625	40.5378826
+Grißheimer Rathausplatz	3914992	7.5902349	47.8733517

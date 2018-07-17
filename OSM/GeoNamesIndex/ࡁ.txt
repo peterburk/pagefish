@@ -1,0 +1,36 @@
+Garcelles-Secqueville	172207	-0.2805446	49.0952540
+Courcelles-sous-Thoix	2452272	2.0854987	49.7200468
+Couilly-Pont-aux-Dames	954994	2.8667786	48.8817204
+Saint-Quentin-le-Petit	1779199	4.0833158	49.5867879
+Saint-Victor-des-Oules	390768	4.4863740	44.0431343
+Saint-Thomas-en-Royans	60461	5.2930256	45.0469623
+Lentillac-Saint-Blaise	124434	2.1205641	44.5903093
+Saint-Hilaire-de-Chaléons	102381	-1.8867572	47.0994045
+Port-Saint-Louis-du-Rhône	74030	4.7986254	43.4059129
+Landkreis Wesermarsch	62731	8.3452306	53.3588290
+Higashichikuma County	4768541	138.0132329	36.4312720
+La Fuente de San Esteban	343565	-6.2218781	40.7886706
+East Kazakhstan Region	215699	81.9705902	48.6224224
+Castagnole delle Lanze	43557	8.1378519	44.7574890
+Castelvecchio Subequo	41749	13.7176990	42.1064148
+Gladsaxe Municipality	2186643	12.4750541	55.7467867
+La Chapelle-Thouarault	128195	-1.8619739	48.1266915
+Neukirchen/Erzgebirge	536007	12.8646493	50.7695702
+La Chapelle-Montmartin	1839015	1.7486357	47.2571996
+Audrey Lake;Maund Creek	4661443	-81.3170646	50.1094905
+Amfreville-Saint-Amand	5815618	0.9259071	49.2193953
+Zöld-Tócsa horgásztó és szabadidőpark	4076900	19.3472562	47.4933526
+Commune Bombardopolis	389607	-73.3471278	19.6972249
+Zell im Fichtelgebirge	1021693	11.7973420	50.1356056
+Gemarkung Attenhausen	1386361	10.4058023	48.2668298
+Selim Sultan Mahallesi	5394617	32.5280924	37.8348951
+Sultanselim Mahallesi	5011344	37.3874269	37.0533324
+Wólka Modrzejowa-Kolonia	3778277	21.3716202	51.0747138
+Baotashan Subdistrict	7838886	109.5071403	36.6084688
+Old Middleton Greenway	5708173	-89.4848288	43.0867729
+Alcores de San Fernando	6073628	-76.5478704	3.4313276
+Orange Blossom Terrace	2097903	-81.4070742	28.4787259
+Albufeira de Montargil	7684323	-8.1302200	39.1065462
+Derevnia Rural Council	2806387	24.0404536	50.1736531
+Plaza de la Escandalera	7145694	-5.8477679	43.3621874
+Saint Benedicts Square	3790521	-0.5416618	53.2281756

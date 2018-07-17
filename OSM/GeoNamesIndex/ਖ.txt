@@ -1,0 +1,7 @@
+8th Arrondissement of Paris	20872	2.3111408	48.8734976
+Municipal Unit of Ano Liosia	3601260	23.6958265	38.0978801
+Pirojpur Sadar Subdistrict	4628009	89.9975971	22.5966457
+Bezirksteil Trudering-Riem	2168237	11.6740565	48.1388378
+Quartier Vieux-Marché Cathédrale	2234329	1.0915330	49.4427140
+King Sabata Dalindyebo Ward 8	3594587	28.7722909	-31.5737640
+Vila Franca do Campo (São Miguel)	7540290	-25.4328924	37.7489236

@@ -1,0 +1,31 @@
+Sainte-Honorine-de-Ducy	279167	-0.7860788	49.1376338
+Wattignies-la-Victoire	55109	4.0058986	50.2010594
+Charmois-l'Orgueilleux	941575	6.2613962	48.0903304
+Bosseval-et-Briancourt	153826	4.8753013	49.7564587
+Saint-Mamet-la-Salvetat	127316	2.3445094	44.8649719
+Ramdane Djamel District	6543270	6.9061613	36.7684083
+Pachalik de Bni Bouayach	4826312	-3.8426563	35.0992584
+Tauragės rajono savivaldybė	1479204	22.2210606	55.3018593
+Town of North Greenbush	2661515	-73.6645473	42.6695695
+gmina Jabłonowo Pomorskie	2645426	19.1997032	53.3890862
+Microrregião de Itapipoca	5161581	-39.5495834	-3.3255001
+Noordergat van de Plomp	6831826	4.7954088	51.7197082
+Barragem Maranguapinho	6950509	-38.6548786	-3.8859404
+U.F Pereiros e Vilarouco	6446338	-7.3614461	41.0882483
+District de Lavaux-Oron	365552	6.7860476	46.5457311
+Samtgemeinde Rodenberg	2864482	9.3810121	52.2730721
+Priyutnensky District	945066	43.7037981	46.1172180
+Ponazyrevsky District	1697481	46.2022383	58.4201635
+Residencial Morada Nova	6775514	-48.9077882	-16.3168264
+Bledlow-cum-Saunderton	3737720	-0.8621588	51.6966087
+Gortawee or Scotchtown	5659917	-7.5722003	54.1289724
+Burrow or Glennanummer	4122222	-7.6482417	53.3938191
+Mustafa Kemal Mahallesi	6728843	32.5119163	39.9890191
+Mustafa Kemal Mahallesi	6789073	32.7637793	39.9124157
+Jardim Recreio Vianópolis	5418190	-44.2726184	-19.9475590
+Departamento Cochinoca	3542033	-65.9577107	-23.0602328
+Barrio Santa María de Tigre	3529868	-58.6315435	-34.3949232
+Sieniawa-Osiedle Górnicze	3523498	15.3455409	52.3592605
+Quintas de La Acuarela II	7662673	-75.7300006	4.8002585
+Marina Seaport IJmuiden	1521138	4.5617911	52.4589837
+plaza del Ayuntamiento	1687277	-0.4810872	38.3449885

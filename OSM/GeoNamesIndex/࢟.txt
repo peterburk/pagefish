@@ -1,0 +1,39 @@
+Theuville-aux-Maillots	2965129	0.5514571	49.7586051
+Eastern Anatolia Region	2094154	41.2347589	39.2813976
+Saint-Nazaire-en-Royans	60258	5.2462616	45.0595448
+Saint-Romain-les-Atheux	418786	4.3716755	45.3638229
+Saint-Augustin-des-Bois	178347	-0.8057864	47.4548867
+Saint-Quentin-en-Mauges	301726	-0.9116332	47.2927221
+Calvagese della Riviera	45190	10.4570641	45.5284780
+San Ildefonso Villa Alta	5999755	-96.1068783	17.3725039
+Renmark Paringa Council	6704735	140.8725037	-34.1433059
+Le Bosc-Roger-en-Roumois	550361	0.9190382	49.2957989
+Nervesa della Battaglia	46153	12.1951373	45.8216447
+San Costantino Albanese	40213	16.2840179	40.0422970
+Valverde de los Arroyos	340976	-3.2336284	41.1353992
+Sarrebourg-Château-Salins	5524922	6.9037119	48.7599493
+Farkadona Municipality	2238563	22.0390892	39.6130000
+Microrregião de Petrolina	5129271	-40.3969051	-8.7616950
+Lough Hasvnaghaneekyne	2554424	-9.5512970	53.2953944
+Nala Local Municipality	593826	26.4682730	-27.6013051
+Ricardo Ramirez Carmona	7737304	-75.7055578	4.8128060
+Košice - mestská časť Sídlisko Ťahanovce	1593426	21.2811182	48.7692071
+Asentamiento Huilliche	3499625	-67.5589647	-46.4726895
+Samtgemeinde Horneburg	445843	9.5573275	53.5181587
+Residencial Mauro Bento	4592973	-51.7237386	-17.8533420
+Těmice u Kamenice nad Lipou	426231	15.0392701	49.3496165
+Ballynorthland Demesne	5477841	-6.7599299	54.4966673
+Residencial Forteville	6962379	-49.3715075	-16.7416471
+Ballyhacket Glenahorry	4784516	-6.8371806	55.1441256
+Samtgemeinde Neuenhaus	2014144	7.0005297	52.5215870
+Novo Horizonte do Norte	333681	-57.2760806	-11.3969440
+Sección 7ª Residencial Parque	2970000	-68.8659707	-32.8738254
+Loteamento New Villas II	6361854	-52.7028434	-27.0784600
+Vila Nossa Senhora da Saúde	4068146	-53.7942890	-29.6954555
+Industriegebiet Weende	7166347	9.9214313	51.5609554
+Kaeng Krachan Reservoir	897733	99.6235536	12.9225065
+Provincia Alonso de Ibañez	4137021	-66.4802193	-18.1688951
+Passage Bahnhofstrasse	6605179	8.5403966	47.3778909
+Grand Mall Park Art Plaza	6152750	139.6312263	35.4574172
+Professor-Neyses-Platz	4712217	6.7898201	51.2503860
+Embalse del Quiebrajano	7635999	-3.7196142	37.6265541

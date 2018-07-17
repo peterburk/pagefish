@@ -1,0 +1,26 @@
+Northern Borders Region	3673927	42.6857310	29.8393818
+Marcillac-Saint-Quentin	3221594	1.1980502	44.9531968
+Pontamafrey-Montpascal	129374	6.3298468	45.3102142
+Faucon-de-Barcelonnette	363723	6.6796395	44.4145926
+Congerville-Thionville	1225480	1.9812302	48.3827448
+Distrito Gualeguaycito	2804296	-58.0298110	-31.0554021
+San Juan Juquila Vijanos	5999804	-96.2982914	17.3304137
+La Fontaine-Saint-Martin	109236	0.0465659	47.7964693
+Bigu Rural Municipality	6743313	86.0528997	27.8402896
+Municipality of Glyfada	1400080	23.7689332	37.8837173
+Borough of Queenscliffe	3290265	144.6643074	-38.2652213
+Antofagasta de la Sierra	2306123	-67.4051684	-26.0619975
+Parroquia Valle Hermoso	287806	-79.2353215	-0.0700089
+Dongtingqiao Reservoir	4051454	112.2030546	28.0037077
+London Borough of Ealing	181321	-0.3143120	51.5250711
+Krakowiec - Górki Zachodnie	2642946	18.7517724	54.3615154
+Reutlingen-Ohmenhausen	2988908	9.1426784	48.4752301
+Schulenberg im Oberharz	1421442	10.4326643	51.8336544
+Borisoglebsky District	937332	42.4212036	51.4238460
+Barefield or Gortlumman	6193272	-8.9449055	52.8841453
+Bezirksteil Herzogpark	66110	11.6180321	48.1592535
+Lotissement Les Pailles	1346178	55.3253125	-20.9901359
+Endingen am Kaiserstuhl	3649998	7.7030672	48.1390352
+Rainbow Falls Reservoir	4057478	-74.7869020	44.5085386
+Plaza Seis de Septiembre	5225936	-72.9263521	5.7191575
+Nyzhni Hai Rural Council	2396189	23.6924353	49.3378028

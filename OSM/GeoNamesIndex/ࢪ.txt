@@ -1,0 +1,57 @@
+Saint-Vigor-d'Ymonville	2615480	0.3521841	49.4745641
+Germigny-sous-Coulombs	89047	3.1626350	49.0638146
+Montigny-le-Bretonneux	49538	2.0319277	48.7777260
+Saint-Julien-sur-Bibost	395857	4.5141938	45.7983804
+Saint-Georges-sur-Arnon	2142179	2.0548643	46.9886309
+Gironville-sur-Essonne	396728	2.3453808	48.3655260
+Keraniganj Subdistrict	4734867	90.3505261	23.6981886
+Municipio Padre Noguera	3448193	-71.4882791	7.7839879
+Municipio de La Libertad	7369049	-89.2847294	13.4863601
+Aldeaseca de la Frontera	341591	-5.2163609	40.9406775
+Aberdeen Proving Ground	133195	-76.1273199	39.4698210
+Dannstadt-Schauernheim	422700	8.3194609	49.4243830
+Torrecuadrada de Molina	345161	-1.8122761	40.7343022
+Argyle Creek;Argyle Lake	3951848	-80.8574507	48.0383445
+Carreira e Fonte Coberta	4056348	-8.5539619	41.4825216
+Jolda (Madalena) e Rio Cabrão	4648484	-8.5091173	41.8067468
+Brazil Creek;Brazil Lake	3252769	-81.6801882	46.2536300
+Brazil Creek;Brazil Lake	3238069	-81.6746671	46.2422604
+Parroquia Flavio Alfaro	286694	-79.8515991	-0.3497896
+Cavers Creek;Cavers Lake	4130846	-87.6422123	49.0238400
+Radenychi Rural Council	2535374	23.1935827	49.7250745
+Sondernheimer Altrhein	3441017	8.3758719	49.1835415
+File River;Loonhead Lake	3095901	-100.4866114	54.9588951
+Brønderslev Municipality	2099125	10.1908696	57.2055852
+Maliy Komarinnik Island	3432982	34.9219714	61.1325987
+St-Bruno-de-Montarville	7042081	-73.3440128	45.5281053
+Njurunda glesbygdsområde	3069086	17.6818447	62.2007850
+Ards Electoral Division	6954573	-7.9276912	55.1620513
+Jardim Presidente Dutra	5349656	-46.4069547	-23.4325445
+São Bartolomeu dos Galegos	2898733	-9.2795869	39.2909037
+Glin Electoral Division	6343036	-10.2742566	52.1578203
+Samtgemeinde Lindhorst	2972352	9.2766975	52.3516577
+Municipio de Tafí del Valle	3482824	-65.7773955	-26.7937543
+Kharabalinsky District	1853861	47.7247528	47.3385849
+Jardim Presidente Dutra	2541647	-46.4335061	-23.4272100
+Rixton-with-Glazebrook	1433115	-2.4752184	53.4168242
+Stutton with Hazlewood	4826410	-1.3186520	53.8565628
+Pilning and Severn Beach	3571998	-2.6424172	51.5608312
+Stretton Baskerville CP	3550578	-1.4042432	52.5227986
+Mesorregião Sul de Roraima	4813388	-60.7159122	0.6834999
+Departamento Luján de Cuyo	2989830	-69.7449616	-33.0086380
+Departamento San Carlos	3011833	-69.1122143	-34.0915005
+Dannstadt-Schauernheim	418406	8.2866818	49.4234946
+Larkin Creek Apartments	4189658	-77.7290222	43.2189215
+Thaukyegat II Reservoir	7208431	96.6720451	18.9294148
+Municipio de La Mendieta	4442692	-64.9995248	-24.2957940
+Piazza della Repubblica	4130006	15.1559933	37.0835402
+Piazza della Repubblica	4082641	15.2825224	37.0700684
+Piazza della Repubblica	3172872	12.7063107	41.7621814
+Piazzale Emanuele Ferro	7346841	9.8082109	44.1156687
+Piazza Santa Margherita	7355398	13.3975768	42.3515339
+Piazza dei Martiri 1943-1945	2030396	11.3401484	44.5021476
+Piazza della Repubblica	2813580	7.6837232	45.0765714
+Piazza della Repubblica	6130876	15.0918701	37.5077411
+Piazza della Repubblica	5927090	8.8285450	45.8153498
+Piazza della Repubblica	4080502	14.9924821	37.2809256
+Teniente Manuel Clavero	1994132	-74.7422975	-0.7524716

@@ -1,0 +1,36 @@
+Saint-Marcel-Bel-Accueil	76263	5.2390061	45.6502351
+Zanzibar South & Central	1614020	39.4361979	-6.2668898
+Saint-Symphorien-de-Lay	944050	4.2494748	45.9474368
+Ondreville-sur-Essonne	151267	2.4181122	48.1985647
+Sainte-Gemme-Martaillac	2699523	0.1535899	44.3701414
+Mesorregião Oeste de Minas	2235303	-45.5173592	-20.4204574
+Svalbarðstrandarhreppur	56090	-18.0345619	65.7370263
+Sidi Mezghiche District	6543271	6.6708892	36.6690900
+Rangamati Hill District	3824602	92.2162688	22.8174655
+Santa Margherita Ligure	43036	9.1927075	44.3281018
+Marina di Gioiosa Ionica	39605	16.3365378	38.3263460
+Microrregião de Baixo Curu	5161584	-39.0797538	-3.5190001
+Kamphaeng Phet Province	1908776	99.5198730	16.3360075
+Aleksinac Municipality	2867622	21.7381527	43.5366707
+Concordia sulla Secchia	43793	10.9993278	44.9181891
+Bela Crkva Municipality	1639498	21.3658780	44.9066665
+Majdanpek Municipality	1708280	22.0320395	44.4076227
+Montefalcone Appennino	42264	13.4653218	42.9930756
+Antrim Lake;Bailey Creek	3373449	-81.6261114	46.9346756
+Little Manitouwaba Lake	1788411	-79.7255715	45.4089959
+Wangjiachang Reservoir	5436791	111.5158804	29.7742308
+Gderot Regional Council	1380012	34.7427548	31.8245898
+Jordan Road-Canyon Creek	238105	-122.0109649	48.1214350
+Kochanovce nad Laborcom	2322548	21.9541668	48.9549436
+Offcote and Underwood CP	948050	-1.7051544	53.0244788
+Municipio de Avellaneda	4279059	-59.5143250	-29.0765519
+Korangi Industrial Area	7799432	67.1356295	24.8457280
+Oakwood Mobile Home Park	5866967	-87.3886868	36.5586018
+Comunidad Tutunichapa I	6464583	-89.2058716	13.7033266
+Chickasaw Trail Estates	2019445	-81.2682276	28.5208158
+Magnolia Bay at Maitland	2019557	-81.4302237	28.6246994
+Hubbard Creek Reservoir	2369470	-98.9975615	32.7802112
+Novozavodsky district	2825366	31.2736048	51.4906670
+Piazza Vincenzo Calenda	3808898	14.2636105	40.8503593
+Largo Guglielmo Marconi	2267035	13.4162670	41.6908842
+Largo Alfonso Lamarmora	5867298	9.2369653	45.5348298

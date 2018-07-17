@@ -1,0 +1,3 @@
+Sekhukhune District Municipality	611577	29.9359334	-24.8284451
+Osiedle Swojczyce-Strachocin-Wojnów	2336724	17.1469771	51.1068511
+Residencial Condomínio Jardim Veneza	7622930	-49.1508490	-16.6831439

@@ -1,0 +1,17 @@
+District Council of Coober Pedy	6799901	134.7569670	-29.0163921
+Nikolaos Skoufas Municipality	2222974	21.0544713	39.1423921
+Rustenburg Local Municipality	611672	27.3333666	-25.7024901
+Saint-Georges-de-Clarenceville	1600486	-73.1980332	45.0525116
+Yasenytsia Silna Rural Council	2303208	23.3407526	49.3267604
+Osiedle Grabiszyn-Grabiszynek	2321453	16.9820895	51.0895789
+Tawnynagry Electoral Division	6854597	-9.3394326	53.7353726
+Thomastown Electoral Division	6757655	-8.0450855	53.3879573
+Condomínio Residencial Bela Vista	2888630	-51.4121679	-22.0842098
+Crocetta-San Lazzaro-Modena Est	2588800	10.9526486	44.6691883
+Municipio de Pampa del Infierno	1666175	-61.1610411	-26.4127692
+Condomínio Residencial Arco Verde	4811466	-53.8393586	-29.7030992
+Albufeira da Barragem de Bouça Cova	4007088	-7.2491283	40.6927310
+Metro Red/Purple Lines Entrance	6581800	-118.2759728	34.0571496
+Metro Red/Purple Lines Entrance	4500908	-118.2514459	34.0484014
+Metro Red/Purple Lines Entrance	4500773	-118.2499421	34.0501850
+Metro Red/Purple Lines Entrance	4498906	-118.2507410	34.0506129

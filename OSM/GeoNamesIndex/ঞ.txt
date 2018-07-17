@@ -1,0 +1,25 @@
+Sainte-Christie-d'Armagnac	393218	-0.0045426	43.7946885
+Sainte-Geneviève-sur-Argence	142780	2.7494455	44.8029711
+Municipio Monseñor Iturriza	3460086	-68.6624040	10.8544510
+Le Plessier-sur-Saint-Just	897540	2.4589249	49.5075515
+Mount Lebanon Governorate	318194	35.6722091	33.8690627
+San Martino al Tagliamento	179247	12.8750673	46.0205686
+Ironside Lake;Morton Creek	3405593	-81.0654867	46.8346572
+Ironside Lake;Morton Creek	3405816	-81.0488722	46.8467409
+Ironside Lake;Morton Creek	3405815	-81.0585435	46.8457849
+Ironside Lake;Morton Creek	3405869	-81.0585009	46.8403512
+Ironside Lake;Morton Creek	3405870	-81.0607401	46.8294790
+Ferradosa e Sendim da Serra	5729058	-6.9474717	41.2761604
+Bradford West Gwillimbury	7477260	-79.6207968	44.1118042
+Berezdivtsi Rural Council	2525830	24.1696195	49.4689285
+Convoy Electoral Division	6997417	-7.6935040	54.8584381
+Kinel-Cherkassky District	309111	51.4041032	53.4466398
+Parque Residencial Damha II	6357687	-51.4263129	-22.1501035
+Sundays River Valley Ward 4	3580032	25.9689839	-33.5258450
+Saughall and Shotwick Park	7505132	-2.9526775	53.2224939
+Forst Kleinschwarzenlohe	64572	11.1557300	49.3721040
+Barclay Reserve Townhomes	2583159	-81.2172981	28.6912815
+The Landings of Lake Sawyer	2052234	-81.5697218	28.4742130
+Santo Domingo de la Capilla	1901159	-78.8469445	-6.2521907
+Piazzetta Pietro Cattaneo	6001342	8.9006436	44.4854146
+Plaza del Llano del Soldado	3987421	-4.1639217	40.5398924

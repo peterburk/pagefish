@@ -1,0 +1,12 @@
+Rennell and Bellona Province	2536264	160.3170523	-12.1134266
+Charcé-Saint-Ellier-sur-Aubance	332700	-0.4002370	47.3504423
+Regierungsbezirk Darmstadt	286590	8.6806014	49.9476980
+Vila Franca das Naves e Feital	6372252	-7.2632501	40.7336636
+Kou-Kamma Local Municipality	88107	24.1477207	-33.8513100
+Mantsopa Local Municipality	593813	27.2888044	-29.1501822
+Saint-Germain-sur-l'Arbresle	286327	4.6159920	45.8617576
+Shinrone Electoral Division	4463411	-7.8949610	52.9918996
+Kilderry Electoral Division	6170275	-7.2938621	55.0843453
+Microrregião de Rio Preto da Eva	4775801	-60.0247903	-1.4665000
+Mickle Trafford and District	7499855	-2.8375188	53.2284544
+Lutherplatz/Thüringer Bahnhof	4777351	11.9817152	51.4676407

@@ -1,0 +1,21 @@
+Saint-Jean-de-la-Neuville	107231	0.4219949	49.5758708
+Saint-Quentin-les-Marais	2631768	4.6300810	48.7774789
+Rupt-devant-Saint-Mihiel	2992309	5.4059530	48.8871049
+Saint-Laurent-des-Autels	302012	-1.1883483	47.2903153
+Saint-Bauzille-de-Putois	269983	3.7607995	43.9024189
+Distrito Francisco Ramírez	2815237	-58.7004297	-30.8394122
+Ochamchire Municipality	2027326	41.5987109	42.8942075
+Gemeinde Hofstetten-Grünau	555669	15.4984014	48.0856215
+Seeboden am Millstätter See	108848	13.5098008	46.8332042
+Vakka-Suomen seutukunta	6440456	21.2291732	60.7820817
+caïdat de Aghouatim-Tidrara	5369466	-8.0011631	31.3712727
+Microrregião de Ituporanga	4836707	-49.5999550	-27.4462223
+Sankt Jakob in Defereggen	1019097	12.2624856	46.9462629
+Gemeinde Furth bei Göttweig	419282	15.6132713	48.3808167
+Tissington and Lea Hall CP	948047	-1.7437888	53.0659486
+The Landing at Cinco Ranch	4439808	-95.7614062	29.7437345
+Departamento Bella Vista	3125242	-58.8506685	-28.5033711
+Provincia Abel Iturralde	4496894	-68.0601807	-13.2222755
+Piazzale Emanuele Scieri	6203231	15.1138078	36.8538750
+Piazza Giovanni Amendola	4005281	11.3227838	43.3280644
+Piazza Giovanni Amendola	4815261	14.2371901	40.8355771

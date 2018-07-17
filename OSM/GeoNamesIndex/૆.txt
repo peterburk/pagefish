@@ -1,0 +1,9 @@
+Cuyamecalco Villa de Zaragoza	5999554	-96.8662972	17.9710280
+Castleboy Electoral Division	5820102	-8.6904065	53.1325896
+Abbey West Electoral Division	6740736	-8.7649316	53.4334309
+Killybegs Electoral Division	6910293	-8.4068816	54.6433196
+Residencial Orlando de Morais	6870252	-49.2693990	-16.5542584
+Prospect Park - East River Road	7673961	-93.2174054	44.9675273
+Provincia Enrique Baldivieso	4136337	-67.4524866	-21.4526940
+Raiffeisen Co-Operative Homes	2329637	-80.9845316	46.4966407
+Regency Gardens Condominiums	1997437	-81.3128298	28.5002797

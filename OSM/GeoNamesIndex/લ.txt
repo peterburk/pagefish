@@ -1,0 +1,10 @@
+Central Darling Shire Council	5885448	143.5932179	-31.7814449
+Hevel Modiin Regional Council	1381426	34.9742636	31.9861066
+Da Qaidam Administrative Zone	5662610	94.8908220	37.9610978
+Réservoir du Barrage Imi El Kheng	4150224	-8.5376299	30.6737784
+Loch Leathed a' Bhaile Fhoghair	3144533	-5.3167385	58.1973747
+Kiltamagh Electoral Division	6908521	-8.9773977	53.8415019
+Kilbennan Electoral Division	6798797	-8.9058722	53.5789331
+Distrito Industrial Fernão Dias	5418139	-44.1604701	-19.9665430
+Krökentorviertel/Breiter Weg NA	5887511	11.6396755	52.1359342
+Esplanade Pierre Vidal Naquet	2261535	2.3823809	48.8297595

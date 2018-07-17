@@ -1,0 +1,21 @@
+Saint-Maurice-sur-Vingeanne	151672	5.3936577	47.5768637
+Saint-Laurent-de-Terregatte	1003358	-1.2495877	48.5745016
+Saint-Thomas-de-Courceriers	2574176	-0.2792762	48.2595432
+Municipio Almirante Padilla	3447436	-71.7589229	11.0560674
+La Chapelle-du-Bois-des-Faulx	939921	1.1764880	49.1079564
+Hekou Yao Autonomous County	2719407	103.7790906	22.7731919
+Kawakanika River;Obobka Lake	5129471	-86.3644959	50.0610395
+Vyatskopolyansky District	383525	51.2305104	56.2529911
+Ardrahan Electoral Division	5649864	-8.7928169	53.1547645
+Cloghane Electoral Division	6342979	-10.2092183	52.2221109
+Manorcunningham Churchland	5559898	-7.6265969	54.9513711
+South Kirkby and Moorthorpe	7209253	-1.3264959	53.5923005
+King Sabata Dalindyebo Ward 21	3594566	28.7738084	-31.9837378
+King Sabata Dalindyebo Ward 30	3594576	28.7205092	-31.6356090
+King Sabata Dalindyebo Ward 12	3594556	28.7475448	-31.5435776
+Departamento General Ocampo	3587532	-66.1269244	-31.0700224
+Geographical Society Island	5681431	-22.5719833	72.8702702
+Promyshlennovsky District	1144998	85.5703905	54.8847018
+Safdarjung Development Area	3662147	77.1990556	28.5493639
+Piazzale Giuseppe Garibaldi	2743565	12.4607784	41.8914217
+Loteamento Solange Parque II	6932882	-49.3534274	-16.7049572

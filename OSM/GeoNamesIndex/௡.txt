@@ -1,0 +1,4 @@
+Arrondissement d'Anse d'Hainault	393396	-74.4164259	18.4975834
+Figueiró (Santiago e Santa Cristina)	5830097	-8.1668257	41.2982999
+Parroquia San Lorenzo de Tiznado	2465737	-67.6720240	9.7832615
+Distrito de Minas do Espírito Santo	5633324	-42.1033115	-12.0598627

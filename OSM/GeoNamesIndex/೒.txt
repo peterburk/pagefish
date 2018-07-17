@@ -1,0 +1,3 @@
+Arrondissement Saint-Louis du Nord	393381	-72.6558498	19.8756068
+Jayashankar Bhupalapally District	7698600	80.1355172	18.4299995
+Greenstead Green and Halstead Rural	3298673	0.6533149	51.9343769

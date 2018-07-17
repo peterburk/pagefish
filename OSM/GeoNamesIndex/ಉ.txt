@@ -1,0 +1,8 @@
+Landkreis Neustadt an der Waldnaab	975339	11.8637301	49.6800876
+Changji Hui Autonomous Prefecture	2752412	89.5589438	44.4452799
+Changbai Korean Autonomous County	2762619	127.9282634	41.6601327
+Gemeinde Sitzendorf an der Schmida	104723	15.9453421	48.6117556
+Ballynacourty Electoral Division	6343902	-10.0794765	52.1636863
+Ballynacourty Electoral Division	3518647	-8.9628412	53.2278856
+Municipio de Santa Clara de Saguier	4166618	-61.8196992	-31.3375925
+Comisión de Fomento de Coyuco-Cochico	3343571	-70.2646585	-36.5097017

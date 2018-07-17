@@ -1,0 +1,20 @@
+Villers-Saint-Christophe	2950675	3.0890729	49.7798981
+Saint-Germain-de-Lusignan	154473	-0.4082085	45.4635992
+Saint-Martin-de-Beauville	2730699	0.8228276	44.2306035
+Saint-Aubin-Fosse-Louvain	1137735	-0.8305363	48.4463873
+London Borough of Croydon	51907	-0.0643145	51.3550591
+Microrregião Sudoeste de Goiás	4857422	-51.8000123	-17.7903766
+Zona e Interesit të Veçantë Gadime	7437643	21.2262253	42.4780630
+Microrregião de Ilhéus-Itabuna	4605276	-39.4487211	-14.7982726
+St. Georgen am Kreischberg	3865103	14.0873808	47.0867096
+Little Mississippi River	902080	-77.5655824	45.2248313
+Novo Horizonte de Inhapim	6142186	-41.9375409	-19.4143903
+Heart's Delight-Islington	2830925	-53.4349432	47.7737544
+Microrregião de Itacoatiara	4775803	-58.5318957	-3.3765001
+Lower Shing Mun Reservoir	2339005	114.1546403	22.3739266
+Ferraria, Grova e Sobreira	5755432	-8.2064887	42.1316299
+Residencial Bandeirantes	4594452	-51.7230581	-17.8661209
+Ferraria, Grova e Sobreira	5755637	-8.2068453	42.1321967
+Área residencial de Altamira	5173250	-66.8501780	10.5067488
+Ferraria, Grova e Sobreira	5760094	-8.2065752	42.1321967
+Municipio de Puesto Viejo	4439106	-64.9797166	-24.4549135

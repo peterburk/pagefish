@@ -1,0 +1,46 @@
+Thieuloy-Saint-Antoine	1231485	1.9487988	49.6347036
+Saint-Pierre-la-Garenne	3289689	1.3965555	49.1491452
+Saint-Romain-de-Colbosc	411195	0.3655592	49.5283968
+Laneuveville-lès-Lorquin	1970744	7.0047229	48.6530034
+Hanseatic Town of Visby	6942677	18.2964452	57.6417043
+Saint-Sauveur-Camprieu	390744	3.4773617	44.1050490
+Saint-Geniès-des-Mourgues	276551	4.0378145	43.6969358
+Saint-Julien-le-Vendômois	2931686	1.3250971	45.4552182
+Saint-Hilaire-des-Loges	166529	-0.6606072	46.4774713
+Sainte-Colombe-de-Peyre	111900	3.2331895	44.6746191
+Eloxochitlán de Flores Magón	5999560	-96.8723017	18.1974164
+Archipiélago Los Hermanos	3473014	-64.4109565	11.7723605
+La Mailleraye-sur-Seine	106515	0.7504418	49.4475414
+Vertemate con Minoprio	45861	9.0784147	45.7282151
+San Martino in Pensilis	41571	15.0365409	41.8480245
+Novosibirsk Reservoir	1186280	81.2583646	54.0111249
+Novosibirsk Reservoir	1186282	82.3294356	54.4926884
+Novosibirsk Reservoir	1186278	81.4270975	54.0759705
+gmina Strzelce Krajeńskie	2883386	15.5149430	52.9043270
+gmina Krzyż Wielkopolski	2857078	16.0221036	52.9476596
+Municipality of Berovo	2583831	22.8173735	41.6697382
+St. Georgen am Ybbsfelde	131851	14.9494194	48.1310038
+North Hanover Township	963123	-74.5857313	40.0880100
+Pantano de la Tranquera	3875391	-1.7831173	41.2384651
+Lintao Street Township	7065268	103.6030963	36.0943984
+Upper Gwynedd Township	3087289	-75.3041561	40.2142418
+Provincia de Los Santos	5740662	-80.2075502	7.5867515
+Upper Uwchlan Township	3049250	-75.6969318	40.0807964
+St. Kathrein am Offenegg	52138	15.5717170	47.3162474
+Gemeinde Schönberg am Kamp	105944	15.6795368	48.5390537
+Brockzetel und Wiesens	5458759	7.6052110	53.4700351
+Batas Dusun Lendang Ara 3	3816511	116.3708456	-8.6060845
+Ust-Kalmansky District	1100149	83.1980164	51.9895684
+Dmitriyevsky District	1645642	34.9845358	52.1407519
+Quartier Port-Aviation	318976	2.3732039	48.6787864
+Carrigeen Island Middle	3927536	-9.3276147	53.5773383
+Braunston-in-Rutland CP	3446779	-0.7720852	52.6534003
+Ulceby with Fordington	1852396	0.1315569	53.2335337
+Jardim Primavera 1 Etapa	6775371	-48.8955898	-16.3016669
+Godmanchester CP (Hunts)	1629162	-0.1789162	52.3082689
+Residencial Atlântico Sul	6525150	-45.4307446	-21.5857033
+Sector Este Portezuelo	5887652	-86.2232164	12.1529756
+Barnby in the Willows CP	957356	-0.7169125	53.0719427
+José Domingo Choquehuanca	1918553	-70.3312735	-15.0353988
+Praça Dona Isabel Silva Luz	6068806	-41.6442183	-13.3993361
+Largo Oriolo Frezzotti	4175777	12.9087333	41.4650749

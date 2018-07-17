@@ -1,0 +1,3 @@
+Parroquia Capital Francisco de Miranda	3450277	-71.8951457	7.9269634
+Área residencial de Los Jardines del Valle	6461922	-66.9176213	10.4577068
+Unidad Residencial Puente del Comercio	6645288	-76.4957675	3.4872026

@@ -1,0 +1,11 @@
+Provincia de General Carrera	1982290	-72.4248697	-46.5056652
+Municipio de Piedras Blancas	2828883	-59.9261067	-31.1890804
+Berschweiler bei Baumholder	1245055	7.2905976	49.5765314
+Foxear Creek;Windigokan Lake	4150689	-87.8599707	49.7005519
+Deerfoot Creek;Deerfoot Lake	3956529	-81.9678535	48.1918377
+Deerfoot Creek;Deerfoot Lake	3956530	-81.9775833	48.1845368
+Sashihaw Creek;Sashihaw Lake	3956551	-81.8593307	48.0298763
+Distrito Ciudad de San Rafael	3013409	-68.3384994	-34.6313702
+Residencial Jardins do Anahy	6357691	-51.4207681	-22.1367515
+Birodarlik (Sputnik) 6 daxasi	1959148	69.2243196	41.2010009
+Mar territorial venezolano	3425344	-63.6277656	15.6906590

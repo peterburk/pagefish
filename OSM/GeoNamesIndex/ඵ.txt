@@ -1,0 +1,5 @@
+Regional District of Central Okanagan	2218288	-119.3847556	49.9528689
+Little Deep Fork Creek Site 7 Reservoir	1851957	-96.5960395	35.8733836
+Parroquia Capital Santa Maria de Ipire	2497868	-65.3141537	8.4702380
+Stadtbezirk 24 Feldmoching-Hasenbergl	54384	11.5204090	48.2184618
+Conjunto Habitacional José de Souza Reis	6357682	-51.3689263	-22.1400561

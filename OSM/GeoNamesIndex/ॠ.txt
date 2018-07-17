@@ -1,0 +1,18 @@
+Ardeuil-et-Montfauxelles	2858278	4.7099506	49.2662264
+Saint-Georges-sur-Baulche	282483	3.5178251	47.8029047
+Saint-Didier-sous-Aubenas	121238	4.4195144	44.6101753
+Saint-Jacques-d'Atticieux	142709	4.6620693	45.3329426
+Saint-Georges-le-Gaultier	411159	-0.1028490	48.2956088
+Cazenave-Serres-et-Allens	2074354	1.6885734	42.8407912
+Saint-Germain-de-la-Grange	932432	1.9021337	48.8347798
+Torbat-e-Heydarieh County	6554963	59.0575988	35.4064941
+Landkreis Fürstenfeldbruck	62595	11.2129949	48.1922684
+Lac des Trente et Un Milles	193584	-75.8169083	46.1998473
+Étang de Saulx-les-Chartreux	111609	2.2748335	48.6981696
+Baggersee Metzgerallmend	33701	8.5491657	49.0974601
+Ampliación Residencial América	4283671	-64.1612786	-31.3759890
+Departamento Calamuchita	1868392	-64.6273818	-32.2167117
+Departamento Chicligasta	3467323	-65.8856148	-27.2448602
+Urbanización Cerro San Jorge	6542465	-0.4187624	42.1330719
+Piazza Giovanni Boccaccio	4542229	11.0409387	43.5477895
+Zuidergat van de Visschen	1433178	4.7422048	51.7346874

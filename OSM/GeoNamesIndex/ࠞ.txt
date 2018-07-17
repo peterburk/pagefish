@@ -1,0 +1,43 @@
+Fresnicourt-le-Dolmen	1159535	2.6028950	50.4249989
+Bérengeville-la-Campagne	536794	1.0565529	49.1160993
+Saint-Martin-d'Aubigny	1107348	-1.3507948	49.1657002
+Champigneul-Champagne	2709203	4.1824003	48.9622648
+Viviers-lès-Offroicourt	939918	6.0181938	48.2693096
+Pierremont-sur-Amance	3074881	5.6577570	47.8049802
+Brahmanbaria District	3824840	91.1183035	23.9641419
+Marsais-Sainte-Radégonde	166879	-0.8669631	46.5388007
+Mouzeuil-Saint-Martin	167271	-0.9888003	46.4544739
+Srinivasapura taluku	4452734	78.2603473	13.4043293
+Inkhundla Mhlangatane	1253043	31.6629034	-25.9396700
+Thoothukudi district	1819774	78.1601663	8.6958962
+San Sebastián Salitrillo	6243063	-89.6344621	13.9674094
+Cipinang Besar Selatan	5802278	106.8793624	-6.2291930
+La Chapelle-d'Abondance	104989	6.7982966	46.3037581
+Benifairó de la Valldigna	346993	-0.3116346	39.0593429
+Lac de l'Oeil-Qui-Louche	7006596	-71.6610985	49.2086541
+Governador Mangabeira	362514	-39.0862963	-12.5870533
+Santo António da Charneca	6444501	-9.0189877	38.6142463
+Southampton Township	963132	-74.7186588	39.9226304
+Parsippany-Troy Hills	6611284	-74.4213988	40.8635481
+Loch Faohhail Kirraval	378016	-6.7447037	58.1289642
+Münchweiler am Klingbach	1252770	7.9723760	49.1484658
+Tuymazinsky District	398546	53.9318078	54.5313559
+Governador Mangabeira	6234529	-39.0862963	-12.5870533
+São Sebastião do Bom Sucesso	6133236	-43.3929323	-18.9248771
+Norra Lundby distrikt	6414341	13.6305266	58.3700175
+Clondalkin-Dunawley ED	4222633	-6.4272033	53.3244827
+Etajimacho Miyanohara	5345837	132.4600668	34.2581643
+Residencial Bela Vista	6986301	-48.9562921	-16.3621017
+Vila Santa Maria de Nazaré	6998693	-48.9399527	-16.3222290
+Gustavsbergs centrum	5760850	18.3972408	59.3255974
+Quartier de l'Université	6375491	2.2160424	48.9006401
+Idridgehay and Alton CP	946662	-1.5746677	53.0401393
+Residencial Bela Vista	7008694	-48.9622383	-16.2933482
+Elias Motsoaledi Ward 1	3663472	29.0607362	-25.1936250
+Mehmet Vehbi Mahallesi	5350853	32.4902372	37.8550177
+Residencial Bela Vista	7748886	-47.8439278	-23.0588795
+Cuenca del Medio Jarama	2792710	-3.4814577	40.6290310
+Capri at Hunter's Creek	1127782	-81.4072245	28.3594626
+Punta Cana Residencial	7406472	-53.7424043	-29.6954676
+Residencial Bela Vista	7795052	-54.6274254	-16.4940754
+Piazza Città di Lombardia	2758931	9.1960553	45.4867208

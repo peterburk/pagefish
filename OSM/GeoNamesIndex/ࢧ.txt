@@ -1,0 +1,33 @@
+Saint-Georges-sur-Loire	319065	-0.7501884	47.4031008
+Montcombroux-les-Mines	2870626	3.7288852	46.3626201
+Oinville-sur-Montcient	555802	1.8447207	49.0247216
+Cachoeiro de Itapemirim	1828250	-41.1975175	-20.7848923
+Municipio San Francisco	3447449	-71.6979117	10.5559311
+Pachalik de Lahraouyine	5143524	-7.5241861	33.5408303
+Hamma Bouziane District	6227391	6.6215440	36.4465510
+Municipio San Francisco	3460137	-68.7162585	11.1583604
+La Chapelle-Saint-Aubert	973229	-1.3102097	48.3090632
+Upravna Enota Ljubljana	4184373	14.5263639	45.9986342
+Castellammare del Golfo	39466	12.8256758	38.0159214
+Meander Creek Reservoir	4055546	-80.8109378	41.1139241
+San Jacinto de Wakambeis	3718337	-78.4906851	-3.2832019
+Stoneham-et-Tewkesbury	7716425	-71.3971836	47.1195594
+Cottonwood Lake Number 1	226705	-107.9751811	39.0734032
+Krausnick-Groß Wasserburg	1389279	13.8101402	52.0361769
+Villars-sous-Champvent	1685190	6.5845038	46.7851722
+Cachoeiro de Itapemirim	1887728	-41.1303280	-20.8595636
+Cong Electoral Division	5359197	-9.2675577	53.5504501
+Cong Electoral Division	4106042	-9.4677522	53.5148737
+Departamento San Javier	1869129	-65.0930879	-32.0965016
+University Crossing PID	6573472	-96.7711077	32.8413626
+Castlemagarretpark New	5833690	-8.9773446	53.6866691
+Sutton CP (Peterborough)	1608485	-0.3846944	52.5830989
+Departamento San Javier	3593996	-59.8351005	-30.0383957
+Departamento San Javier	3195732	-55.1977427	-27.7760546
+Grassfield Development	7435346	-59.4540309	13.1229353
+Condominios Santa Lucia	6235279	-89.5671583	13.9984033
+Urbanización Nuevo Parque	1776794	-3.4640024	40.4505088
+Largo Sant'Antonio Abate	3823757	14.2650635	40.8616558
+Place du Souvenir Français	7750809	-0.4145634	46.2865727
+Pabellón del Ayuntamiento	908748	-5.6639360	40.9653727
+Zaouiat Sidi Ben Hamdoun	2866431	-7.8293768	33.0958201

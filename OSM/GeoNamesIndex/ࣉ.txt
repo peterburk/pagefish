@@ -1,0 +1,35 @@
+North Snyderville Basin	198831	-111.5031724	40.7634320
+Sauvagnat-Sainte-Marthe	541644	3.2086562	45.5878699
+Ossey-les-Trois-Maisons	1541786	3.7517169	48.4378272
+Saint-Michel-de-Chaillol	971980	6.1676163	44.6891450
+Regional Unit of Boeotia	557546	23.1101239	38.3574477
+La Membrolle-sur-Longuenée	178353	-0.6963772	47.5598371
+Evenk Autonomous Banner	161771	120.0215455	48.4194851
+Rijkerswoerdse Plassen	916251	5.8691430	51.9385377
+Rijkerswoerdse Plassen	916238	5.8738110	51.9368984
+Saint-Bernard-de-Lacolle	7785077	-73.4544686	45.0659455
+Prylbychi Rural Council	2535249	23.4582172	49.8773638
+Rymarivka Rural Council	7396677	29.4365089	47.3414134
+Lac de la Baie des Rochers	3168450	-69.8849757	47.9376394
+Gemeinde Straß im Straßertale	105945	15.7463471	48.5011353
+Estero Viejo San Antonio	6081026	-86.1137584	12.3543145
+Saint-Gabriel-de-Brandon	7710957	-73.3608178	46.2833707
+Commune Plaisance du Sud	407283	-73.5581375	18.4252176
+Grass River;Witchai Lake	6655558	-96.8400797	55.9609596
+Frankenburg am Hausruck	103015	13.4724151	48.0736653
+Verkhnekamsky District	382779	52.6524588	59.7156156
+East Whiteland Township	3048301	-75.5541048	40.0499868
+Egels und Wallinghausen	5458761	7.5244019	53.4766554
+Dergachyovsky District	1746023	48.9356981	51.1749643
+Cowanshannock Township	4049336	-79.2607230	40.7927209
+Discovery-Spring Garden	133250	-77.3565837	39.4636005
+Kiriat HaMemshalah Rabin	2658677	35.0022010	32.8150108
+Mierki-Kolonia Mazurska	6924658	20.3427269	53.5970803
+Jardim Balneário Meia Ponte	6169460	-49.2994103	-16.6137865
+Shardlow and Great Wilne	948204	-1.3451248	52.8711787
+Dame Marie 5eme Baliverne	409285	-74.3783771	18.5668455
+Annagh and Moneysterlin	4819406	-6.6837930	54.7796449
+Oesterholz-Haustenbeck	5657968	8.8197029	51.8468816
+Departamento Santa Bárbara	3560799	-64.4282330	-24.0128108
+Jeziorko Kamionkowskie	6204458	21.0547541	52.2450585
+Municipio de Monteagudo	3466503	-65.1838254	-27.4885010

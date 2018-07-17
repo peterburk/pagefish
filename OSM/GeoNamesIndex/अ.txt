@@ -1,0 +1,21 @@
+Saint-Georges-sur-Allier	126389	3.2600647	45.7165487
+Saint-Julien-de-Peyrolas	385894	4.5672088	44.2828848
+Saint-Christophe-du-Bois	295503	-0.9692107	47.0308896
+Saint-Gilles-Croix-de-Vie	156357	-1.9157753	46.6884384
+Les Authieux-sur-Calonne	145744	0.2794310	49.2841080
+San Martino Valle Caudina	40986	14.6655742	41.0197465
+VVG der Stadt Heitersheim	1959404	7.6510075	47.8795431
+Las Ventas con Peña Aguilera	342720	-4.2292957	39.5585468
+Boot Harbour (Second) Pond	1869282	-55.9652415	49.4582290
+Parroquia Pedro Pablo Gómez	280722	-80.5513737	-1.7043392
+Wadesboro Municipal Lake	335572	-80.0855910	34.9214522
+Neale Electoral Division	6762023	-9.2705707	53.5877356
+Spangenberg-Spangenberg	4548947	9.6562631	51.1294429
+Paine Field-Lake Stickney	237489	-122.2382374	47.8923175
+Courtyards of Portofino	1574445	121.0082200	14.3619453
+Derrynagittagh (Purcell)	6212181	-8.6414055	52.9603419
+Sector L - Laguna del Sopetón	6280467	-6.5517605	37.0022162
+Explanada Loma de Tiscapa	5847688	-86.2716984	12.1440110
+Watarase Retarding Basin	2049444	139.6820575	36.2156954
+Oettingen in Bayern (VGem)	2972260	10.6052719	48.9542676
+Distrito Rodeo de la Cruz	2964491	-68.7521082	-32.9254783

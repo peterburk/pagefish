@@ -1,0 +1,8 @@
+Municipio San Rafael de Carvajal	3449356	-70.5753667	9.3569565
+Sainte-Marguerite-du-Lac-Masson	7697464	-74.1077039	46.0513642
+Parroquia Altagracia de la Montaña	2461331	-67.0732254	10.1338579
+Kilbeacanty Electoral Division	5646028	-8.7367308	53.0458868
+Quartier de la Plaine-de-Monceau	2191324	2.3001241	48.8858134
+Residencial Recanto do Laranjal	7733849	-47.8291353	-23.0345229
+Barrio Leopoldo Herrera Sector 1	4266483	-59.0310387	-31.8565172
+Municipio de Estación Aráoz y Tacanas	3479022	-64.8840294	-27.0891493

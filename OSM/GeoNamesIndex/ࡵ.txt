@@ -1,0 +1,45 @@
+Varces-Allières-et-Risset	226903	5.6927608	45.0885594
+Saint-Jean-des-Baisants	401802	-0.9904485	49.0935210
+Saint-Jean-Kourtzerode	1392613	7.1962372	48.7568871
+Bergères-sous-Montmirail	2736664	3.5990023	48.8473712
+Obermodern-Zutzendorf	1165170	7.5386493	48.8483030
+Roquecourbe-Minervois	2243094	2.6555960	43.2123539
+Saint-Laurent-de-Cognac	112370	-0.3942592	45.6948152
+Roquefort-sur-Soulzon	76036	2.9759032	43.9686921
+Sainte-Colombe-des-Bois	162146	3.1562283	47.3199764
+Sant'Ambrogio di Torino	44184	7.3598462	45.0975376
+Distrito Mojones Norte	2840190	-59.2872281	-31.4192921
+Villagonzalo de Tormes	344765	-5.5184111	40.8825789
+Sekovici municipality	2528263	18.8827994	44.2999734
+powiat ostrzeszowski	2684365	17.9747815	51.4376242
+Rosinos de la Requejada	342529	-6.5116587	42.1312324
+Yermishinsky District	1046959	42.1352264	54.7937958
+U.F de Vilares e Carnices	6372253	-7.3054860	40.7206909
+Koropuzh Rural Council	2522828	23.5854355	49.6749155
+Suvarnavati Reservoir	1911185	77.0117666	11.8233933
+Sainte-Anne-des-Plaines	7703988	-73.8218145	45.7605277
+Emmersdorf an der Donau	127128	15.3241029	48.2531380
+Bortnyky Rural Council	2824554	24.2840867	49.3581449
+Dolly Lake;Osawin River	4170768	-85.5143723	49.2863692
+Tlyaratinsky District	1858757	46.4592660	42.0765216
+Distretto di Leventina	1688290	8.7951444	46.4458784
+Barrio Capataz Villafañez	2834671	-65.7721258	-28.4778035
+Krasnochikoysky Rayon	194924	109.3771621	50.0502869
+Severo-Baykalsky Rayon	194493	110.8454759	55.5705510
+Microrregião de Arapiraca	5144668	-36.6797387	-9.7985000
+Ala e Vilarinho do Monte	5728062	-7.0402460	41.6130037
+Ballycloghduff (Grogan)	3357047	-7.7359991	53.4432991
+Kundratice u Chomutova	429283	13.4937523	50.5298709
+Thorpe in the Fallows CP	1320250	-0.6307326	53.3157141
+Lecarrow or Strandhill	4489224	-8.1041168	54.1464470
+Santa Cruz dos Milagres	302673	-41.8365366	-5.9095001
+Xinquanlu Subdistrict	7687912	113.1481453	40.0023273
+Lancaster Residences 2-4	3273125	120.9053811	14.4069197
+Upper Karori Reservoir	2310650	174.7444258	-41.2991318
+Condomínio Grand Imperial	7848143	-38.4661620	-3.8757417
+Osiedle Polskich Skrzydeł	2135705	18.9994328	49.8118552
+Balcones de Valdepeñas 1 y 2	6657257	-76.5066691	3.4889455
+Woodbridge on the Green	2064288	-81.5909521	28.4987155
+Municipio de Lonquimay	3412331	-63.6426089	-36.5039288
+Piazza della Tessitura	7782933	9.0494701	45.7465316
+Plaza Reina María Cristina	1519219	-5.0589798	43.4618570

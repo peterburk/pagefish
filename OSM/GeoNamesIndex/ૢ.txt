@@ -1,0 +1,6 @@
+Arrondissement de Dessalines	392354	-72.3760232	19.1451459
+Mopani District Municipality	611425	30.8149829	-23.8252500
+Municipality of Kriva Palanka	2587615	22.3336537	42.2436718
+Lagunas de la Dehesa de Monreal	4461671	-3.5589249	39.8134301
+Eyrecourt Electoral Division	5609281	-8.1777412	53.2016388
+Piazza Walther - Walther-Platz	4003691	11.3547694	46.4981631

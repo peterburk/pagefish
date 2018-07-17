@@ -1,0 +1,51 @@
+Saint-Pierre-du-Vauvray	536121	1.2208723	49.2254418
+Saint-Clément-des-Baleines	112855	-1.5371942	46.2355852
+Saint-Sulpice-sur-Risle	1919607	0.6370796	48.7806685
+Adervielle-Pouchergues	2260188	0.3859553	42.7962601
+Auvers-sous-Montfaucon	107650	-0.0691826	47.9984001
+Mali Idjos Municipality	1639629	19.6826157	45.6913232
+Parroquia Capital Gomez	2529400	-63.9216514	11.0725205
+Rattling Brook Steadies	2035336	-53.8863072	47.5794002
+Gordon Creek;Gordon Lake	3266480	-81.3642190	46.4938419
+Halychany Rural Council	2826073	23.6145632	49.8122277
+Ridley Creek;Ridley Lake	3898882	-82.7164525	47.8916769
+Parroquia José Luis Tamayo	279136	-80.9046255	-2.2693164
+Sainte-Marthe-sur-le-Lac	7699989	-73.9316997	45.5239037
+Zavadivka Rural Council	2538636	23.0902639	49.1381575
+Dangyangqiao Reservoir	7797779	111.6250674	40.0069926
+Belorechensky District	365147	39.7785884	44.7827096
+Beshankovichy District	70668	29.7577770	55.0667019
+Coos Electoral Division	5518199	-8.4138839	53.0013403
+Fair Oak and Horton Heath	3334714	-1.2886990	50.9643031
+Sprendlingen-Gensingen	660347	8.0051249	49.8756105
+Carrowduff and Garbally	5318810	-8.1139208	53.3912593
+uMhlabuyalingana Ward 13	3647005	32.2780707	-27.2258646
+Ballynasooragh Oughter	6207344	-8.5248371	53.4302759
+Mašovice pod Vysokým kamenem	432083	14.1398537	50.6867588
+Ballynastangford Lower	5869771	-9.0459744	53.7614064
+Nelson Mandela Bay Ward 54	3591561	25.5723653	-33.7828566
+Nelson Mandela Bay Ward 45	3591551	25.3325161	-33.7579240
+Nelson Mandela Bay Ward 18	3591521	25.5834608	-33.8886533
+Nelson Mandela Bay Ward 27	3591531	25.5684253	-33.8567035
+Nelson Mandela Bay Ward 36	3591541	25.5138730	-33.8437992
+Niquinohomo (Municipio)	5740292	-86.0972416	11.8794861
+Municipio de Yerba Buena	3486116	-65.2994607	-26.8041760
+Mazuecos de Valdeginate	347817	-4.8350715	42.1729202
+Carvalheiras e Escuredo	5755814	-8.2451758	42.1240493
+Sept Deniers - Ginestous	2344060	1.4129092	43.6374999
+Loteamento Pedro Borges	6614078	-45.2689042	-21.7119896
+The Meadows of Chickasaw	2050406	-81.2791708	28.5858036
+Woodland Lakes Preserve	2017812	-81.2199507	28.5299433
+Madison Place Townhomes	2584999	-81.2675549	28.6394842
+Trotton with Chithurst	3000264	-0.8064800	50.9984429
+Municipio de Yerba Buena	3466543	-65.4130675	-27.2295555
+Cantón La Joya de los Sachas	114243	-76.9080097	-0.2611097
+Fuencaliente de la Palma	340394	-17.8415772	28.5066073
+Merindad de Valdeporres	344454	-3.7706888	43.0124135
+Piazza Giuseppe Saragat	2019242	10.3262223	43.5639191
+Piazza Giuseppe Saragat	1845247	10.3257509	43.5630743
+Place de la Maison Carree	3350584	4.3556985	43.8381184
+Piazzale Domenico Bruno	4840003	14.7790311	36.8378786
+Piazza Sebastiano Ville	4693426	14.8813341	37.2284105
+Arenales de San Gregorio	341276	-3.0445824	39.2929315
+San Francisco del Vergel	3723205	-79.0299110	-4.7062966

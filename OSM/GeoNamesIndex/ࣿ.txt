@@ -1,0 +1,29 @@
+Sainte-Colombe-sur-Loing	2702968	3.2366086	47.5740931
+Guindrecourt-sur-Blaise	3086473	4.9797033	48.2984063
+Saint-Vincent-de-Boisset	134407	4.1194325	46.0101853
+Saint-Saturnin-de-Lucian	276071	3.4637782	43.7085763
+Hondarribia/Fontarrabie	342898	-1.8238024	43.3620530
+Landkreis Mansfeld-Südharz	62681	11.3348724	51.5347687
+Seillons-Source-d'Argens	2700247	5.8783743	43.5155852
+Santo Domingo Albarradas	6000123	-96.2055317	17.0640129
+Pachalik de Sebt Guerdane	5163858	-9.0210541	30.3663044
+Municipality of Vyronas	1400416	23.7771026	37.9502277
+gmina Nowe Miasto nad Pilicą	2689618	20.5385198	51.6270298
+Unione Comuni Garfagnana	7466547	10.3460489	44.1387779
+Nueva Villa de las Torres	346975	-5.0779036	41.2635302
+Santa Engracia del Jubera	345337	-2.3078595	42.3114108
+Villanueva de las Torres	342606	-3.1234916	37.5223472
+Monistrol de Montserrat	345549	1.8448092	41.6081995
+Menashe Regional Council	1391828	35.0139629	32.4595868
+Emek Lod Regional Council	1381544	34.8666797	31.9825910
+Bad Wimsbach-Neydharting	64444	13.8841761	48.0495542
+Quartiere XXX San Basilio	5473897	12.5799950	41.9450642
+District of Žiar nad Hronom	388189	18.8247853	48.6237379
+Krasnozyorsky District	939688	79.2189530	53.9953020
+Microrregião do Alto Solimões	4775835	-69.7965259	-4.5729588
+Residencial Lírios do Campo	6941072	-49.4080388	-16.6973964
+Bad Krozingen (Kernstadt)	70273	7.7017043	47.9083864
+Kleiner Jasmunder Bodden	1434380	13.5140075	54.4484485
+Vila Felipe Menna Barreto	5122117	-53.7977807	-29.6779227
+Urbanización Los Almendros	1172116	-5.7161000	41.0128426
+Comarca de Ciudad Rodrigo	6630128	-6.5259484	40.5495728

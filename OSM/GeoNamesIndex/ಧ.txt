@@ -1,0 +1,3 @@
+Departemental constituency of Rhône	7378	4.6120683	45.8802918
+Chertanovo Tsentralnoye District	951305	37.6065433	55.6144269
+Comunidade Nossa Senhora Aparecida	7334971	-38.5177105	-3.8130413

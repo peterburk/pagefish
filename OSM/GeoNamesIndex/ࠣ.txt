@@ -1,0 +1,48 @@
+Berlencourt-le-Cauroy	1141620	2.4174225	50.2751705
+Bainville-aux-Miroirs	1401565	6.2861012	48.4359736
+Montesquieu-Guittaut	1421363	0.7679432	43.3370203
+Saint-Pierre-des-Loges	1238847	0.4675946	48.7424246
+Saint-Bonnet-en-Bresse	3028797	5.1783399	46.8577354
+Saint-Vincent-de-Cosse	3235010	1.1169569	44.8408313
+Sainte-Marie-aux-Mines	85635	7.1788393	48.2294170
+Thonnance-les-Moulins	3081968	5.3282020	48.4240348
+Saint-Just-et-Vacquières	2623946	4.2361104	44.0999611
+Saint-Pierre-de-la-Fage	276143	3.4244370	43.7939654
+Saint-Priest-la-Plaine	120466	1.6269471	46.2044702
+Saint-Illiers-la-Ville	145607	1.5427538	48.9776756
+Saint-Cyr-le-Gravelais	1991684	-1.0027180	48.0401300
+Prefecture of Mohammédia	2523506	-7.3736183	33.6156771
+Saint-Martin-de-Jussac	2105373	0.9432151	45.8577972
+Biddacidru/Villacidro	39919	8.7451276	39.4450433
+Santo Domingo Tlatayápam	6000135	-97.3430510	17.4018058
+San Francisco Zapotitlán	4473096	-91.5303322	14.5922004
+Chamarajanagara taluk	4489558	76.9388238	11.9227476
+Aldealengua de Pedraza	344038	-3.7958168	41.0455052
+San Sebastián de Palmitas	3541284	-75.6914600	6.3173172
+caïdat de Zemrane Charqia	5383801	-7.3716161	31.7634636
+Horqin Left Back Banner	2753402	122.6921380	43.1872106
+Aabenraa Municipality	1928466	9.3523270	54.9840641
+Moraleja de Matacabras	346247	-4.9414493	41.1164929
+District of Liptovský Mikuláš	388199	19.7159381	49.0697764
+Municipio Villa Alcala	4507936	-64.3782500	-19.4264258
+Loch Camas nam Feuchaig	3118119	-7.2408989	57.3371348
+District de la Veveyse	1699155	6.9401402	46.5507744
+Vallensbæk Municipality	2187129	12.3711979	55.6321810
+Stillorgan-Deerpark ED	4216752	-6.2156377	53.2951129
+Tsentralnyi district	1209154	35.0240096	48.4593911
+Vorobyovsky District	938869	41.0742903	50.6859304
+Staffordstown Turvey	5443134	-6.2004333	53.4940991
+Immaculate Concepcion	1086429	121.0454281	14.6219603
+Crowpark (2nd Division)	4556413	-6.7983434	53.5620462
+Janovice u Houserovky	427600	15.2500369	49.3299233
+Popovice nad Rokytnou	433108	15.8543054	49.0963917
+Vápenice u Vysokého Chlumce	426269	14.4105932	49.6220291
+Ballynamony (Bradshaw)	5226141	-6.1558459	53.9916286
+Jardim Monsenhor Horta 2ª Seção	7037590	-44.0528503	-20.0456680
+Elias Motsoaledi Ward 6	3663498	29.1307833	-25.2372014
+Bauernschaft Losheide	3826117	7.3637734	51.6535513
+Jardim Santa Elizabete	3853909	-51.5612574	-21.9981100
+Cochrane/Pueyrredón Lake	4841400	-71.9729336	-47.3041796
+Lotificación Los Ramirez	6801524	-89.3647040	13.7851814
+Largo Biagio Scandurra	7345892	15.2869316	37.0831454
+Largo Ospedale Vecchio	5173462	13.2352647	46.0605460

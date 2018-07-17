@@ -1,0 +1,38 @@
+Guyencourt-Saulcourt	3357223	3.0826193	49.9956050
+Saint-Léger-sous-Beuvray	3335662	4.0921358	46.9191030
+Sauveterre-de-Guyenne	1928325	-0.0720920	44.7008415
+Saint-Rigomer-des-Bois	109909	0.1749417	48.4007636
+Saint-Yrieix-la-Perche	2507926	1.2583483	45.5335102
+Saint-Yrieix-la-Perche	117249	1.2164753	45.5273556
+Chalcatongo de Hidalgo	5999524	-97.5696389	16.9984560
+Pachalik de Oulad Abbou	5187759	-7.9328377	33.1408088
+Dürrröhrsdorf-Dittersbach	534520	13.9944070	51.0334328
+La Chapelle-Taillefert	118785	1.8428338	46.1145444
+Landkreis Emmendingen	1946117	7.8623082	48.1342090
+Microrregião de Curitiba	4775602	-49.3438686	-25.3917699
+Communauté urbaine de Limbé	3834924	9.2626895	3.9973963
+Coreglia Antelminelli	44873	10.5564882	44.0709672
+Strandbad Seurenheide	1215443	6.0756196	51.5660865
+Laguna de los aparejos	6010333	-68.4149274	-27.6754278
+Schlichtenberger Wald	958973	13.6055079	48.8491281
+Truth or Consequences	171048	-107.2774086	33.1948285
+Rovensko pod Troskami	439050	15.2414229	50.5470567
+Voroshylovskyi Raion	2842607	37.8030473	48.0040539
+El Jardín de Peralta Ramos	5749522	-57.5687628	-38.0706181
+Barrio Cacique Tundama	6608233	-73.0160207	5.8081828
+Ardnaree South Rural ED	5853485	-9.1171599	54.0999158
+Morrison's Avenue East	6999790	-7.1259516	52.2580387
+Vesyolovsky District	1060757	40.7319868	47.1441926
+Neukirchen bei Lambach	64466	13.8234606	48.0977610
+Microrregião de Itaituba	4826879	-56.7353470	-6.3832489
+Brasilândia do Tocantins	336759	-48.4606471	-8.2710000
+Bezirksteil St. Ulrich	66129	11.4972309	48.1364314
+Shavington cum Gresty	1411064	-2.4400538	53.0683698
+Etton CP (Peterborough)	1608504	-0.3190752	52.6304726
+Rovensko pod Troskami	426793	15.2713587	50.5357273
+Erkilet Zade Mahallesi	7736057	35.4496630	38.8161648
+Barangay Quinabonglan	3362813	122.9099577	11.3065298
+Elias Motsoaledi Ward 7	3663499	29.0983683	-25.2740846
+Larreynaga (Municipio)	5723000	-86.5994024	12.6478346
+Condomínio Represa Ville	5452515	-44.1248535	-19.5343061
+Piazza della Solidarietà	6983843	14.6799084	37.0376676

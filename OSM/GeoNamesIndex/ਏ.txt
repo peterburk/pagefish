@@ -1,0 +1,21 @@
+Western Development Region	4583290	84.0351764	28.3289122
+Zontecomatlán de López y Fuentes	5573212	-98.3058823	20.7357603
+Parroquia Carlos Soublette	2442707	-66.9705114	10.5763439
+Voroblevychi Rural Council	2313486	23.6411882	49.4191230
+Bezirksteil Lerchenau-West	65771	11.5226937	48.1986388
+Sevenchurches or Camaderry	4462985	-6.4010233	53.0268351
+Bezirksteil Berg am Laim Ost	5428610	11.6453877	48.1202594
+Kiddington with Asterleigh	4268503	-1.4089517	51.8971976
+Jardim Residencial João Moraes	7783206	-54.6704218	-16.4377601
+King Sabata Dalindyebo Ward 1	3594553	28.8057003	-31.6386268
+Emnambithi/Ladysmith Ward 23	3645748	29.8931564	-28.3623435
+Emnambithi/Ladysmith Ward 14	3645738	29.8461625	-28.4483843
+Kingstown and Carnuff Great	4672341	-6.5972437	53.6609810
+Codomínio Estância Jardim Botânico 1	4277464	-47.8182882	-15.8773498
+Royal Isles Apartment Homes	1994337	-81.3053349	28.5324751
+Área residencial Felipe Acosta	6441503	-66.9437355	10.4236761
+Sant Esteve de Palautordera	347537	2.4214272	41.7150187
+Place Pie Saint-Jean le Vieux	6617236	4.8098631	43.9485116
+Plac Katedralny im. Jana Pawła II	4677027	19.4583986	51.7489170
+Platz der Deutschen Einheit	2337911	9.1697004	48.7798723
+Piazza dei Vespri Siciliani	4486756	15.1452629	37.8394769

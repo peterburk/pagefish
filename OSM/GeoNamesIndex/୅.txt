@@ -1,0 +1,10 @@
+Municipality of Agia Paraskevi	1400708	23.8238423	38.0042328
+"Terrenos del Lote ""Citlatepec"""	5670277	-97.5629397	20.6242877
+Hanover Creek;Londonderry Lake	3935734	-81.5582315	47.5687338
+Cygnet River;Pelicanpouch Lake	3397466	-94.8693898	49.8488530
+Sakhisizwe Local Municipality	88476	27.7843985	-31.4678150
+Bazarno-Karabulaksky District	1746016	46.4226246	52.2733420
+Municipio de Carlos Pellegrini	4111779	-61.8160545	-32.0453135
+Courtney Chase Apartment Homes	2031567	-81.3942944	28.3676592
+Municipio de Gobernador Crespo	4186402	-60.3880481	-30.3339922
+Municipio de Pueblo Libertador	3135966	-59.2949857	-30.2468469

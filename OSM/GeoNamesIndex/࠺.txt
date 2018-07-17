@@ -1,0 +1,52 @@
+Saint-Samson-sur-Rance	380810	-2.0243705	48.4899564
+Sainte-Croix-aux-Mines	85611	7.2085275	48.2646556
+San Pedro Comitancillo	5999914	-95.1615294	16.4618061
+Distrito El Algarrobal	2972145	-68.7856011	-32.8340916
+Terrai Bainen District	2672041	6.0842573	36.5528940
+Inkhundla Ekukhanyeni	1253028	31.4385145	-26.3810850
+La Serre-Bussière-Vieille	118809	2.3388638	46.0545707
+Prammas/Palmas Arborea	40102	8.6985999	39.8470924
+Irakleia Municipality	2346621	23.2654441	41.0984225
+La Guerche-sur-l'Aubois	1708438	2.9485832	46.9528725
+La Chapelle-Vicomtesse	1991820	1.0289666	47.9834107
+Vilamartín de Valdeorras	345511	-7.0646314	42.4423009
+Ospedaletto Lodigiano	44375	9.5862693	45.1704613
+Huangshigang District	3216464	115.0423651	30.2354357
+Lakhonepheng District	5831711	105.6031770	15.8214840
+Parroquia Capital Diaz	2529421	-63.9640501	10.9559408
+Estany d'Ivars d'Urgell	2926611	0.9500419	41.6824782
+U.F Paradela e Granjinha	6425112	-7.5298805	41.0676213
+Gemeinde Guntramsdorf	152071	16.3201963	48.0471763
+Elmer Creek;Rankin Lake	3939998	-80.8685800	47.8346527
+Changking Subdistrict	3077258	114.0648258	30.6313637
+Oknoname 02726 Reservoir	1914565	-97.4480266	35.3595081
+Isla Bola del Cocodrilo	7105842	-88.7064270	13.2510624
+Microrregião de Juazeiro	4593970	-41.7201490	-9.7100053
+Santa Cruz da Aparecida	5186753	-46.2836994	-21.2590302
+Batas Dusun Waje Geseng	3815411	116.3611344	-8.5885503
+Morrison's Avenue West	6999791	-7.1297413	52.2571440
+Quartier des Champs-Élysées	2188686	2.3070032	48.8684237
+Microrregião Porto Velho	4750241	-64.4169264	-9.4212063
+Templenacarriga North	6368008	-8.2090404	51.9656499
+Barr of Ballynacarnick	4143528	-8.0148904	54.5534331
+Knockardagannon North	4525287	-7.7008961	52.8566965
+Ascott-under-Wychwood	4263859	-1.5657989	51.8663656
+Residencial Santorini	6980910	-49.4448332	-17.5005266
+Vysočany u Ovesných Kladrub	427350	12.7771242	49.9378688
+Theewaterskloof Ward 5	6580244	19.3258823	-34.0090137
+Liubelia Rural Council	2806373	23.9432098	50.1893404
+Sector T - Torre Zalabar	6280673	-6.5372467	36.9888580
+Parmanand Colony (West)	3861987	77.2015923	28.7083790
+Seascape Condominiums	6442431	-81.3860728	30.2731939
+Gewerbegebiet Nordost	5623918	11.4711712	48.7886313
+Busch Area Lake Number 51	1592427	-90.7305044	38.7063678
+Middle Creek Reservoir	4179780	-76.2284068	40.2738485
+Palms Villa Residences	1175858	-81.4160057	28.4076113
+Municipio de Colonia Ayuí	2823071	-58.0350954	-31.2214333
+Municipio de Chumbicha	7327957	-65.7363660	-29.1245448
+Provincia Nor Carangas	4482361	-67.8386278	-17.9054181
+Provincia German Busch	4510183	-58.3656684	-19.0662454
+Municipio de Río Colorado	3477969	-65.3528198	-27.1555996
+Plaza del Coro Santiaguín	6122555	-5.6830506	43.2940362
+Largo Rosina Bonfiglio	4125772	15.0060681	37.2963948
+Largo Giuseppe Saragat	5886350	15.1567716	37.0901446

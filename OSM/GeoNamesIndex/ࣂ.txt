@@ -1,0 +1,32 @@
+Coucy-le-Château-Auffrique	402695	3.3134458	49.5139927
+Montigny-Saint-Barthélemy	139784	4.2611257	47.4206419
+Framerville-Rainecourt	3005662	2.7114641	49.8641460
+Saint-Laurent-les-Tours	123605	1.9053566	44.8827717
+Techaluta de Montenegro	5606442	-103.5802255	20.0938500
+North East Lincolnshire	69361	-0.0936811	53.5368033
+Montefalcone nel Sannio	41599	14.6530265	41.8555781
+Svendborg Municipality	2069804	10.5948494	55.1240109
+Las Parras de Castellote	342911	-0.2465094	40.7642343
+Stahlhofen am Wiesensee	535019	7.9856526	50.5880370
+Vondet Creek;Vondet Lake	3917203	-81.5581403	47.1716121
+Edgewater Park Township	963130	-74.9126771	40.0533714
+Estero de Trompa Chancho	5825705	-87.3719136	12.8628027
+Jabbor Rasulov District	3281014	69.4851842	40.0844057
+Santa Terezinha de Minas	6123005	-44.3912150	-20.2230001
+Aldeia Galega da Merceana	6519139	-9.1296671	39.0954493
+Carrazedo de Montenegro	4197868	-7.4256134	41.5619171
+Verkhniy Rohachyk Raion	1753356	34.1685807	47.2875860
+Outeiro de Além e Santa Rita	6589865	-8.5496980	42.0242230
+Conjunto Rio Claro - 3ª Etapa	4560387	-51.7390532	-17.8759207
+Clonshaugh (E.D. Kinsaley)	5406070	-6.1984783	53.4145144
+Zincirli Kuyu Mahallesi	1688964	30.4616714	39.8041841
+Clayton with Frickley CP	1271126	-1.3123482	53.5676897
+Great Abington CP (S Cambs)	1633191	0.2249215	52.1049388
+Languin - Route des Mines	5383357	-1.5415041	47.4542887
+Country Banco Provincia	2430586	-58.8558588	-34.6000409
+Kickinghorse Reservoir	3704629	-114.0744437	47.4632593
+Ilha Solteira Reservoir	118776	-51.3200919	-20.3421250
+Merindad de Cuesta-Urria	344451	-3.4378353	42.8580229
+Largo Donatori di Organi	4112025	15.2835757	37.0786955
+Piazza Gianfranco Ferre'	3419806	8.9182455	45.5976351
+St. Stephen's Ward (pre1849)	5596078	-6.2528874	53.3363283

@@ -1,0 +1,6 @@
+London Borough of Barking and Dagenham	185483	0.1505043	51.5541171
+Verwaltungsgemeinschaft Schwaigern	2972706	9.0476284	49.1481259
+Parroquia Mariscal Antonio José de Sucre	2639683	-62.0293434	9.0031900
+Gemarkung Fürstlich Löwenstein'scher Park	5933766	9.5175996	49.8953895
+Gemarkung Fürstlich Löwenstein'scher Park	5906695	9.4767058	49.9100779
+Sable Island Migratory Bird Sanctuary	1029332	-59.7435828	43.9875427

@@ -1,0 +1,43 @@
+Montmartin-en-Graignes	380346	-1.1589479	49.2631938
+Languevoisin-Quiquery	3359840	2.9339033	49.7460726
+Mondement-Montgivroux	2742506	3.7626808	48.7904338
+Saint-Martin-des-Combes	2957346	0.6172432	44.9626016
+Varennes-Saint-Sauveur	1381029	5.2309928	46.5000775
+Neuville-lès-Vaucouleurs	2973907	5.6590855	48.5772185
+Breuvannes-en-Bassigny	3073680	5.6023141	48.0860604
+Chatonrupt-Sommermont	3151905	5.1030870	48.4728333
+Saint-Pierre-de-Nogaret	959450	3.1307234	44.4896833
+Biddobrana/Villaurbana	40109	8.7836379	39.8722502
+Makhachkala Urban Okrug	1963798	47.6452516	43.4361547
+Santa Apolonia Teacalco	5999974	-98.3147335	19.2422577
+Gueltet Sidi Saâd District	6810516	1.9095807	34.3701844
+Pachalik de Jamaat Shaim	5173349	-8.8376132	32.3583557
+Le Sappey-en-Chartreuse	85580	5.7798845	45.2617695
+As Pontes de García Rodríguez	346202	-7.8776491	43.4702859
+Mirzo Ulugbek district	5620904	69.3472712	41.3377781
+Santa Apolonia Teacalco	1391426	-98.3115843	19.2462104
+Saint-Michel-des-Saints	7707045	-73.8764212	46.6819290
+Municipio Jesús de Machaca	4500576	-68.7218601	-16.7773198
+Sulzdorf a.d.Lederhecke	387528	10.5615218	50.2409534
+Jinotega (Departamento)	2196713	-85.3959761	13.8016891
+Svetloyarsky District	1099980	44.4641860	48.3192560
+Churchtown-Landscape ED	4307743	-6.2654013	53.2994049
+Breuvannes-en-Bassigny	6872039	5.6087165	48.1008393
+Dal'neye Konstantinovo	4521999	44.0996154	55.8091014
+Tretyakovsky District	1083296	82.2988214	50.9616139
+Weende / Deppoldshausen	192899	9.9428222	51.5695916
+Samtgemeinde Dransfeld	1401831	9.7247232	51.4832777
+Yurgamyshsky District	398440	64.5521634	55.3768097
+Ward 126 Jagathgirigutta	7852863	78.4241102	17.5058258
+Castor CP (Peterborough)	1608510	-0.3197732	52.5794384
+uMhlabuyalingana Ward 6	3647014	32.2977261	-27.0973959
+Mevlana Halit Mahallesi	5504226	40.2020882	37.9285515
+Castlefleming (Stubber)	4522439	-7.6718735	52.8711490
+North-Western Province	318859	25.4025708	-12.7879934
+Englehardts Greenfield	6792951	-81.4627782	30.3565006
+Jacksonville Beach Park	6641635	-81.3980938	30.3088271
+Samtgemeinde Grasleben	1446651	10.9268368	52.3009180
+Suq as-Sabt Awlad an-Nama	2882559	-6.7063167	32.2920687
+Jezioro Bobięcińskie Wielkie	2401658	16.8065474	54.0055895
+Schönbrunner Schlossbrücke	4567464	16.3136445	48.1874181
+Esplanade Pierre Racine	7003348	3.5103533	43.2853060

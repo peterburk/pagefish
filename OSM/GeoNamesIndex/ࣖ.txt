@@ -1,0 +1,29 @@
+Tibet Autonomous Region	153292	87.0781146	31.8943692
+Beauregard-de-Terrasson	1853634	1.2322842	45.1555773
+Saint-André-de-Roquelongue	2228657	2.8604641	43.0926025
+Soisy-sous-Montmorency	76374	2.2997452	48.9887870
+Municipality of Kichevo	2606600	20.9325156	41.4996243
+Trnovo (RS) municipality	2568824	18.4430408	43.6298318
+Municipality of Dolneni	2592899	21.4044618	41.4817048
+Municipality of Pallini	2080400	23.8821687	38.0099377
+Municipality of Agrinio	1462963	21.4486082	38.6469036
+Muelas de los Caballeros	348037	-6.2396919	42.1078543
+Verkhnodniprovsk Raion	1738021	34.2022164	48.6456129
+Goethestadt Bad Lauchstädt	2406473	11.8125293	51.3790775
+Nizhegorodsky District	1278046	37.7290769	55.7327330
+Notre-Dame-d'Estrées-Corbon	4447289	-0.0131877	49.1356279
+Chapelle-lez-Herlaimont	2153675	4.2826413	50.4658807
+Northwest Mountain Lake	5716949	-94.2382462	49.9857171
+Schwabenheim an der Selz	1245803	8.1103507	49.9384069
+Likhoslavlsky District	570644	35.4613562	57.2804631
+Littleton and Harestock	3333333	-1.3498090	51.0947780
+Lena-Bergstena distrikt	5663321	12.6128089	58.0296301
+Longford Number 1 Urban ED	3078410	-7.7994546	53.7249666
+Shankhill-Rathmichael ED	4681746	-6.1515422	53.2214091
+Blooming Grove Township	7161953	-82.5329797	40.9476026
+Radvanice u Lipníka nad Bečvou	426179	17.4848222	49.5156973
+The Villages at Coverley	7701144	-59.5026254	13.0843912
+Domaine du Lys Chantilly	6474782	2.4051599	49.1664096
+Embalse de los Melonares	5437182	-5.8942463	37.7755042
+Liubyntsi Rural Council	2541117	23.6813070	49.1546343
+Lieselotte-Berger-Platz	1230646	13.5070702	52.4035925

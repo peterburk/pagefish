@@ -1,0 +1,32 @@
+Bailleul-aux-Cornailles	1135409	2.4434748	50.3721374
+Saint-Jacques-sur-Darnétal	136446	1.2071185	49.4485743
+Saint-Christophe-Vallon	123299	2.4012511	44.4785227
+Moulay Slissen District	6820399	-0.7907443	34.7792051
+London Borough of Bexley	51903	0.1456986	51.4619687
+Municipality of Rugvica	5518845	16.2682288	45.7337802
+gmina Strzelce Opolskie	2730611	18.2669502	50.5503859
+gmina Ostrów Wielkopolski	2713135	17.8444989	51.6940620
+Municipality of Penteli	2081340	23.8846236	38.0571337
+Monterotondo Marittimo	42333	10.8145169	43.1160850
+Hutt Creek;Montrose Lake	3938432	-81.0721166	47.9746815
+Sulphur Creek Reservoir	299289	-117.7039099	33.5462678
+Sainte-Brigitte-de-Laval	7716426	-71.1903526	47.0214849
+Butnau Lake;Butnau River	1790478	-95.2817576	56.2033696
+Grass River;Setting Lake	3117182	-98.6361553	54.9855951
+Rural City of Wangaratta	3351439	146.4316051	-36.6163601
+Ballywinterrourkewood	6125165	-8.9356549	52.4884462
+Wyville cum Hungerton CP	1405811	-0.6986761	52.8537775
+Hisarcık Erciyes Mahallesi	3458362	35.5092291	38.5840099
+Zvěrkovice u Týna nad Vltavou	435328	14.4056426	49.2010264
+South Dallas-Fair Park PID	6573470	-96.7724519	32.7667409
+Samtgemeinde Land Hadeln	6679708	8.9326038	53.7381789
+The Villages of West Oaks	2019566	-81.5156923	28.5620491
+Cottages at Hunters Glen	7091606	-104.9613509	39.9415056
+Industriepark Premnitz	4757806	12.3561799	52.5313136
+Condominio Pio XII etapa 2	6193011	-76.5477080	3.4232471
+Höchstadt an der Aisch (VGem)	2985162	10.6879255	49.7020538
+Distrito Eugenio Bustos	3020351	-69.1952719	-33.8071844
+Palazzo Ossoli Fountain	7842297	12.4720383	41.8943012
+Nosiri Khusrav District	3281932	67.9466095	37.2320098
+Zhougongzhai Reservoir	3413318	121.2053654	29.7813039
+Viazovets Rural Council	6579582	26.1859144	49.8955357

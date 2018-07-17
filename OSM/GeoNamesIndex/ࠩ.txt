@@ -1,0 +1,53 @@
+Saint-Pierre-du-Fresne	279175	-0.7651105	49.0346269
+Saint-Aubin-du-Thenney	3323227	0.4946830	49.0159080
+Saint-Germain-des-Vaux	1127092	-1.9120085	49.7118464
+Wœlfling-lès-Sarreguemines	123363	7.1854200	49.0834727
+Saint-Loyer-des-Champs	1112800	0.0305917	48.7000301
+Buxières-sous-Montaigut	121606	2.8430206	46.2037197
+Saint-Laurent-de-Neste	166326	0.4803131	43.0924534
+Saint-Germain-sur-Ille	145431	-1.6539225	48.2494410
+Saint-Loup-de-Buffigny	2999203	3.6308105	48.4447831
+Saint-Nizier-de-Fornas	935994	4.0825784	45.4065296
+Saint-Florent-des-Bois	169164	-1.3343699	46.6094148
+Santiago Ihuitlán Plumas	6000081	-97.4321544	17.8805680
+Pachalik de Had Soualem	5183531	-7.8448993	33.4213078
+La Bonneville-sur-Iton	2695020	1.0350486	48.9958724
+Schieder-Schwalenberg	142697	9.1699661	51.9029485
+Montecchio Precalcino	45646	11.5417130	45.6692594
+Chachoengsao Province	1908767	101.5889537	13.5737410
+gmina Złotniki Kujawskie	2635048	18.1233080	52.9026760
+gmina Gródek nad Dunajcem	2666920	20.7691540	49.7504810
+Oulens-sous-Echallens	1685088	6.5713604	46.6464676
+La Puebla de Almoradiel	348195	-3.1143626	39.5958293
+Langenbach bei Kirburg	451710	7.9517373	50.6962209
+Los Santos de la Humosa	347593	-3.2495325	40.5140126
+Montemor-o-Velho e Gatões	6553467	-8.6614439	40.1871867
+Ocoee Number Three Lake	311918	-84.4289026	35.0273886
+Parroquia Boca De Grita	3454089	-72.3706991	8.3593302
+Woodland Specimen Lake	2098879	-2.3327589	52.1461222
+Bath (Berkeley Springs)	240073	-78.2265220	39.6267540
+Alona Regional Council	1392829	35.0268103	32.5559177
+Villanueva de Valdegovía	7411851	-3.0956878	42.8500267
+Residencial San Carlos	5176410	-64.1657929	-31.4440110
+Palmerstown Village ED	4431710	-6.3690414	53.3492578
+Campo Alegre do Fidalgo	302847	-41.8509060	-8.2365000
+Bairro Maracananzinho	7000070	-48.9502240	-16.3165944
+Hearnesbrooke Demesne	5628842	-8.3090914	53.1650735
+Central Park Residence	2832378	-51.4193021	-22.1257262
+Cleunay - Arsenal-Redon	5511309	-1.7286043	48.0948406
+Clomantagh (Mt Garrett)	4762641	-7.4989097	52.7351943
+Terrington St. Clement	1022265	0.3091015	52.8088520
+Václavice u Hrádku nad Nisou	430700	14.9258827	50.8536633
+Residencial Eucalipto	7162862	-54.7489340	-22.2269190
+Samtgemeinde Herzlake	2015017	7.6260661	52.7039246
+Saint-Laurent-de-Neste	2520311	0.4866095	43.0334743
+Sector I - El Inglesillo	6280084	-6.5622001	37.0106735
+Colonia Miguel Bonilla	5864302	-86.2738928	12.1029437
+Arrozal Treinta y Tres	3255480	-53.6969541	-33.0423792
+Plaza Francisco Franco	5398395	-16.4918382	28.4256313
+Piazza Dante Alighieri	6937204	14.5396961	36.9539679
+Praza da Terceira Idade	1915465	-8.8851002	42.6467426
+Place Georges Bernanos	5991453	-1.6607087	48.1238873
+Calle Puerta de Granada	4020924	-3.3707191	38.0069297
+Rotatoria Giuseppe Macrì	6060167	15.0626734	37.5218455
+Piazza Dante Alighieri	7194097	15.1946019	37.7556881

@@ -1,0 +1,30 @@
+Alpes-de-Haute-Provence	7380	6.1878515	44.1640832
+Saint-Martin-de-Clelles	269878	5.5973216	44.8453337
+Saint-Laurent-la-Conche	611606	4.2314294	45.6923736
+Saint-Pierre-la-Noaille	135931	4.1051778	46.1827925
+Saint-Julien-Mont-Denis	114105	6.4140721	45.2819158
+Saint-Germain-du-Bel-Air	123874	1.4396415	44.6447065
+Saint-Martin-la-Garenne	941056	1.6800951	49.0371260
+La Haye-Saint-Sylvestre	3333083	0.5878033	48.9107944
+Comunità delle Giudicarie	6535671	10.7063617	46.0301970
+Tyrnavos Municipality	2246180	22.3100466	39.7714370
+Nierssee (Schönungsteich)	2364585	6.4673551	51.2445524
+Neckarkanal Kochendorf	1308188	9.2172016	49.2036085
+Podosinovsky District	382773	47.4922159	60.2682114
+Myasnikovsky District	964245	39.4659768	47.3705349
+Passe de l'Hydrographie	6062888	70.0307925	-49.5179217
+Tonshayevsky District	1157728	47.2005635	57.7555739
+Tallaght-Fettercairn ED	5437755	-6.4086494	53.2942813
+Tallaght-Springfield ED	5437837	-6.3780619	53.2908450
+Mari-Tureksky District	901028	49.8435372	56.7486910
+Residencial Margaridas	7654701	-54.5929212	-16.4882151
+Dunanore or Goldentown	3177356	-6.8502218	52.3979506
+Tabuleiros dos Martins	402049	-35.7682840	-9.5771956
+Lowtown or Balleighter	4159620	-7.1873852	53.4655209
+Ruprechtice u Broumova	433921	16.2782186	50.6456496
+Nelson Mandela Bay Ward 3	3591534	25.5809639	-33.9811022
+Terry Avenue Townhomes	2021443	-81.3872918	28.5435577
+Olivar de los Vientos II	7616977	-75.7645008	4.8091806
+Comuna 6 - Doce de Octubre	7680403	-75.5798835	6.2982808
+Piazza Carlo Emanuele II	4428904	7.6892724	45.0662905
+West Terraces and Steps	7393963	-77.0098054	38.8898112

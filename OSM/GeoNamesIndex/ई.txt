@@ -1,0 +1,24 @@
+L'Hospitalet-près-l'Andorre	1837358	1.7743058	42.5945914
+Saint-Michel-sur-Savasse	71687	5.1203692	45.1468297
+Mauvezin-de-Sainte-Croix	1959792	1.2295058	43.0753092
+Saint-Germain-sur-Vienne	106436	0.1086565	47.1823273
+Arrondissement de La Gonâve	387093	-73.0164778	18.8318751
+San Miguel Panixtlahuaca	5999879	-97.4348000	16.2257517
+Inkhundla Mhlambanyatsi	1253046	30.9550442	-26.4421196
+Northern Beaches Council	2978550	151.2436335	-33.6979094
+Regierungsbezirk Tübingen	2811874	9.5452243	48.1058350
+Fengfeng Mining District	4437714	114.1905038	36.4560542
+"Terrenos del Lote ""Amatlán"""	5745705	-97.6760013	21.3093326
+Microrregião de Brejo Santo	5163567	-38.9848612	-7.4780000
+Ramsau bei Berchtesgaden	941797	12.8709840	47.5777843
+Parroquia Santa Catalina	3445313	-68.8393887	8.0451594
+Saint-Thégonnec Loc-Eguiner	5827778	-3.9462570	48.5111945
+Alcácer do Sal e Santa Susana	6441584	-8.4984807	38.3971717
+Parroquia Santa Catalina	2550383	-63.2465624	10.6063770
+Blackrock-Booterstown ED	4245957	-6.2022474	53.3058655
+Colonia Unidad Deportiva	4680447	-97.3350820	20.4612928
+Bezirksteil Friedenheim	66128	11.5161024	48.1344802
+Bezirksteil Feldmoching	65950	11.5251759	48.2245794
+San Kristobal/San Cristóbal	6411816	-2.6694662	42.8379445
+Vahrner See - Lago di Varna	2253745	11.6346582	46.7647715
+Embalse de Valdeinfierno	1450307	-1.9700842	37.8092064

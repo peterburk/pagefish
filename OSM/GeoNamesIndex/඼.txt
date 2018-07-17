@@ -1,0 +1,3 @@
+Cape Winelands District Municipality	79652	19.6159305	-33.1510100
+Verwaltungsverband Kleiner Odenwald	2969768	8.9886140	49.3816993
+Bradfield Combust with Stanningfield	4515160	0.7463270	52.1750770

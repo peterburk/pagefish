@@ -1,0 +1,14 @@
+Petropavlovsk-Kamchatsky	1783597	158.7644023	53.0056186
+Ebian Yi Autonomous County	2789881	103.1234323	29.0012406
+New Sarajevo municipality	2528239	18.3845322	43.8569770
+Pozorrubielos de la Mancha	344465	-2.0391852	39.4775993
+Manganeses de la Polvorosa	343824	-5.7598103	42.0380169
+Bad Frankenhausen/Kyffhäuser	2388467	11.1291044	51.3621305
+Lacul Gherasim (Harasimova)	31131	29.3075304	45.1225096
+Petropavlovsk-Kamchatsky	4139922	158.7644023	53.0056186
+Kirovo-Chepetsky District	383511	50.0371906	58.3931001
+Distrito de Tanquinho do Poço	5918652	-39.9758918	-10.4335000
+Glasnevin Demesne (Finglas)	6793803	-6.2812654	53.3774329
+Parque Residencial São Carlos	5170956	-53.8220300	-29.7092641
+Parque Residencial São Carlos	5253885	-53.8200655	-29.7128831
+Cour d'Honneur du Lycée Branly	3295979	0.5437217	46.8015739

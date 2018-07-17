@@ -1,0 +1,15 @@
+Tetritskaro Municipality	2014301	44.4970379	41.6123703
+Microrregião de Tangará da Serra	5011723	-57.4856804	-14.9298907
+Villamoratiel de las Matas	341621	-5.3083023	42.4062132
+Martinlamitzer Forst Nord	1021695	12.0112386	50.1879441
+Lower Providence Township	3074774	-75.4178948	40.1516931
+Pioneer Courthouse Square	1666862	-122.6791329	45.5188795
+Parque Ecológico El Doradillo	4676293	-65.0642380	-42.6410581
+Krasnoznamensky District	1179566	22.5623964	54.8910499
+Bezirksteil Kreuzviertel	67007	11.5711099	48.1399984
+Residencial Jardim Camargo	6870134	-49.3364585	-16.6338001
+Hemingford Abbots CP (Hunts)	1629161	-0.1279189	52.3041784
+Great Chart with Singleton	2516458	0.8177922	51.1384372
+Barun-Khemchiksky Kozhuun	190558	90.3930358	51.1743898
+The Villas of Cypress Creek	2002372	-81.4488980	28.4834582
+Sidi Abdallah El Bouchouari	2832957	-9.3023943	29.8984345

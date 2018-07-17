@@ -1,0 +1,44 @@
+Corneville-la-Fouquetière	3332770	0.7023388	49.0600637
+Saint-Vincent-Cramesnil	106655	0.3595583	49.5087091
+Saint-Antoine-sur-l'Isle	97219	0.0431431	45.0453117
+Saint-Amant-Roche-Savine	359397	3.6128252	45.5747899
+Lachapelle-sous-Aubenas	121215	4.3609599	44.5600956
+Pégairolles-de-l'Escalette	2306981	3.3285872	43.8134885
+Saint-Roman-de-Malegarde	184046	4.9621089	44.2646988
+Distrito Pueblo Segundo	2893126	-59.2289319	-32.3523890
+Municipality of Guimbal	3498990	122.3194410	10.6349769
+Regional Unit of Trikala	558521	21.6476502	39.6282036
+Sieteiglesias de Tormes	344190	-5.5816527	40.7392032
+Ludersdorf-Wilfersdorf	36728	15.6755743	47.1102187
+Skuodo rajono savivaldybė	1203042	21.6899582	56.2273834
+Inspección de Policía El Tarra	2885015	-73.0492138	8.6045277
+Pale-Praca municipality	2528249	18.7534489	43.7174056
+Alonnisos Municipality	2363108	23.9095510	39.2122743
+Municipio de Montefiore	4261245	-61.8936886	-29.6276327
+Vlasenica municipality	2528290	18.9206980	44.2048074
+Fili-Davydkovo District	446111	37.4716208	55.7263423
+Palmares de la Coronilla	2609930	-53.4806650	-33.8468521
+Steinbrunner See, Bruch 2	5894205	16.3804713	47.8380773
+Mitterberg-Sankt Martin	3846594	13.9427595	47.4760128
+Port de pêche de Chef-de-Baie	4515982	-1.2241857	46.1488683
+Tierras Nuevas Poniente	4467826	-66.5137570	18.4593781
+San Salvador de Cañaribamba	2664570	-79.3447389	-3.2050549
+Bronytsia Rural Council	2390123	23.4477667	49.4381387
+Megino-Kangalassky Ulus	1399823	130.4635418	61.5757089
+Topchikhinsky District	1150925	83.5043770	52.7305599
+Taiskirchen im Innkreis	421434	13.5837511	48.2763767
+Campestre do Menino Deus	4007433	-53.7953189	-29.6501221
+Ladrongueira e Convento	5754492	-8.2133849	42.1051670
+Provincia de San Antonio	1561031	-71.4803880	-33.6035133
+Clonlyon Castlequarter	4131892	-7.9026673	53.2926101
+Loughanavagh or Newpark	4203123	-7.2638686	53.6751667
+Moneydorragh More Upper	4553357	-5.9453022	54.1360171
+Chimkhola - Kuinemangale	5392805	83.5119296	28.4965761
+Burrough Green CP (E Cambs)	1610058	0.3722856	52.1843924
+Urbanización Santa Barbara	6088626	-89.5580832	13.9994041
+Miraflores Country Club	3541140	-58.7362867	-34.4464126
+Distrito Rodeo del Medio	2960933	-68.6389210	-32.9530782
+Piazza di Sant'Anastasia	1862149	12.4837785	41.8883523
+Largo Ottorino Respighi	2644849	12.4502231	41.9438603
+Kolodruby Rural Council	2512775	23.8032521	49.5136917
+Guangwumen Subdistrict	7034371	103.8371435	36.0582250

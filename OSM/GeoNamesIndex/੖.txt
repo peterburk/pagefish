@@ -1,0 +1,17 @@
+Landkreis Weilheim-Schongau	62600	11.0829898	47.7854595
+Microrregião o Sertão de Inhamuns	5162187	-40.3744385	-6.1080000
+Aleksandrovac Municipality	2867199	21.0078380	43.4657199
+Backi Petrovac Municipality	1649674	19.5933717	45.3322234
+Sea Horse Creek;Sea Horse Lake	3887889	-83.8179009	47.5920359
+Hub Harbor Pinniped Pavilion	1202638	-93.6234300	41.5181851
+Loughlan Creek;Loughlan Lake	4178686	-85.4422667	49.6583437
+Mesorregião do Sul Catarinense	4097613	-49.3675858	-28.6442709
+Shankill Electoral Division	6801091	-8.5294755	53.5364956
+Jenišovice u Jablonce nad Nisou	430724	15.1363389	50.6330036
+Bezirksteil Oberwiesenfeld	66783	11.5458907	48.1650596
+Betzenhausen-Bischofslinde	294757	7.8186388	48.0056319
+Multifamiliares Villa Verde	7666904	-75.7099800	4.7902110
+Municipio de General Galarza	2921357	-59.3735693	-32.6976738
+Municipio de Abdón Castro Tolay	4492231	-65.9844641	-23.3388709
+Piazzale Angelo Frammartino	2843176	12.5050478	41.9284336
+Plaza Félix Rodríguez de la Fuente	4640246	-5.9146159	37.1602346

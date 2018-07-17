@@ -1,0 +1,8 @@
+"Terrenos del Lote ""San Marcos"""	6024064	-97.5574184	21.2445157
+Plaine de la Ruzizi (chefferie)	6035294	29.1661061	-3.1086380
+Vilela, Seramil e Paredes Secas	4169387	-8.3159725	41.6708546
+Vila Nova de Cerveira e Lovelhe	5630066	-8.7363435	41.9477468
+Ponte de Vagos e Santa Catarina	6022311	-8.6538317	40.4732023
+Franklin Reservoir Northeast	1337256	-71.3801128	42.0959143
+Lobanovskoe Rural Settlement	1418222	56.3596235	57.8188721
+Square Pierre-Gilles de Gennes	1381475	2.3472279	48.8527518

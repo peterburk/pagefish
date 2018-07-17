@@ -1,0 +1,22 @@
+Samdrup Jongkhar District	3899613	91.8017219	27.0111831
+Saint-Donat-sur-l'Herbasse	76954	4.9831284	45.1313571
+Fuente el Olmo de Fuentidueña	339757	-3.9939853	41.3976379
+Los Palacios y Villafranca	345560	-5.9185773	37.1460187
+Parroquia Capital Tubores	2526701	-64.0879392	10.9407043
+Ikwezi Local Municipality	88161	24.5597363	-33.0389550
+Jozini Local Municipality	610710	32.1176485	-27.3648950
+Dobrivliany Rural Council	6731719	25.7481676	48.6778748
+Dobrivliany Rural Council	2390130	23.5670297	49.4346027
+Ophain-Bois-Seigneur-Isaac	3395252	4.3507902	50.6563021
+Nova Santa Teresinha Norte	7702142	-50.0913795	-29.8929809
+Domaines français de Sainte-Hélène	6739933	-5.6832101	-15.9499436
+Dinton-with-Ford and Upton	3781594	-0.8770754	51.7835485
+Condomínio Gran Royalle Igarapé	7318734	-44.3366301	-20.0717694
+Palangos miesto savivaldybė	1022101	21.0971308	55.9662169
+Miniyeh-Danniyeh District	317321	36.0949336	34.3917219
+Bandeirantes do Tocantins	336789	-48.7092969	-7.9885001
+Taman Tunku Intan Shafinaz	6638553	100.4541624	6.2389073
+Mikhaylovo-Aleksandrovka	5887453	40.2423760	49.2086807
+Municipio de Pueblo Andino	4080394	-60.8979082	-32.6603697
+Dobrivliany Rural Council	2518576	23.8498884	49.3037946
+Ternopillia Rural Council	2514248	23.9538236	49.6263304

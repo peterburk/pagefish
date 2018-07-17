@@ -1,0 +1,52 @@
+Sainte-Croix-sur-Buchy	3011198	1.3494085	49.5627030
+Roquefort-sur-Garonne	1467250	0.9863928	43.1607818
+Vendenesse-sur-Arroux	3061817	4.0785863	46.6343015
+Lussas-et-Nontronneau	145419	0.5779357	45.5220131
+Gironcourt-sur-Vraine	938777	5.9320632	48.3003239
+Villers-devant-Mouzon	3271894	5.0191801	49.6289631
+Brissago-Valtravaglia	46537	8.7381632	45.9497006
+Villemoisson-sur-Orge	33339	2.3316941	48.6599102
+Saint-Martial-sur-Isop	270076	0.8722836	46.1526335
+San Martino Siccomario	44349	9.1123412	45.1587651
+Distrito Cordón del Plata	3000596	-69.1452549	-33.4477430
+Bir Bouhouche District	6823389	7.4691075	36.0329190
+Mueang Phayao District	3427220	99.8346198	19.1538247
+Ioannina Municipality	2235945	20.8952909	39.6408417
+The Hills Shire Council	6219220	150.9710160	-33.5753094
+Offenbach an der Queich	1252803	8.1966451	49.1916300
+Rattling Brook Big Pond	1770047	-53.7660144	47.4072386
+Grand Jervais Gull Pond	1855775	-55.1214563	47.4691496
+Boatswains (First) Pond	2045127	-54.1259396	48.6718569
+Bhumibol Dam Reservoir	227374	98.8834656	17.4430533
+São José de São Lázaro e São João do Souto	4135545	-8.4189654	41.5443970
+Vladivka Rural Council	7268257	29.0335545	50.9230635
+Pacific Point Preserve	4668639	-81.4589541	28.4110937
+Parroquia Aguas Negras	1668376	-76.1517487	-0.1197153
+Shumiach Rural Council	2538456	22.9877197	49.1890998
+Balakhninsky District	335496	43.3600957	56.4876924
+Neustadt-Gimmeldingen	456988	8.1353475	49.3805826
+Artibonite Department	392238	-72.4924346	19.3366224
+Easter Island Province	1773340	-109.3495765	-27.1259594
+Provincia de Talagante	1560882	-70.9774749	-33.6560314
+Coumaraghlinmountain	5729207	-7.6032772	52.1900533
+Moneennagliggin South	6384078	-8.6979131	52.7013448
+Ballywillwill Demense	4629714	-5.9232891	54.3056954
+Jankovice u Uherského Hradiště	429570	17.3837134	49.1613478
+Municipio de Rinconada	4508155	-66.0307519	-22.4789326
+Departamento Victoria	2883519	-60.2585237	-32.7535439
+Datong Mining District	6659647	112.9265483	40.0872094
+Offenbach an der Queich	904588	8.1968142	49.2124335
+Municipio de Los Charrúas	2826091	-58.2009098	-31.1725136
+The Maitland Sanctuary	2052235	-81.3451752	28.6263192
+Vila Felipe de Oliveira	5122305	-53.8074336	-29.6954057
+Tamarind Condominiums	2002371	-81.4467778	28.4838928
+El Palmar de Villa Verde	7666903	-75.7088824	4.7893595
+Caotiankeng Reservoir	2093282	112.6666950	24.6499762
+Departamento Graneros	3459089	-65.2550366	-27.7360664
+Taiheqiao Subdistrict	7668375	111.7809619	37.2670152
+Kirchharpen/Rosenberg	7181972	7.2750551	51.5032858
+Makiivka Municipality	2431155	37.9581247	48.0434913
+Piazza S.Maria Maggiore	3549633	14.2214336	42.1907477
+Esplanade de Saint-Marc	1749478	-2.2809088	47.2382399
+Plaza del Mercado Viejo	908758	-5.6666632	40.9588079
+Piazza Duca di Camastra	6146090	15.1097569	37.5248832

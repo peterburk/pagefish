@@ -1,0 +1,35 @@
+Aulnoy-lez-Valenciennes	53803	3.5414873	50.3247773
+Saint-Germain-le-Rocheux	148031	4.6680495	47.7563476
+Piets-Plasence-Moustrou	3016963	-0.5058578	43.5301028
+Saint-Pierre-de-Varennes	3119340	4.5098380	46.8421265
+Sainte-Marguerite-Lafigère	2573510	3.9960048	44.4867966
+Saint-Just-Saint-Rambert	116184	4.2512981	45.4918850
+Saint-Sauveur-de-Meilhan	113553	-0.0092496	44.4890155
+Mesorregião Sul Maranhense	5129396	-46.0518162	-8.1673194
+Saint-Paul-de-Fenouillet	22270	2.5128693	42.8218760
+Saint-Jean-la-Fouillouse	1070503	3.6963251	44.7051045
+Aidumajore/Aidomaggiore	40312	8.8392223	40.1766177
+Kecamatan Tambusai Utara	7834410	100.2951418	1.2851762
+Nishiyatsushiro County	4799687	138.5214177	35.5259625
+Le Golfe-du-Saint-Laurent	7734571	-60.0470203	51.0197611
+Municipality of Zrnovci	2581655	22.4287013	41.8373714
+Municipio de Soutomayor	4125289	-61.1786814	-30.9343358
+Boàtiri/Baratili San Pietro	40175	8.5703865	39.9800286
+Miuzela e Porto de Ovelha	6365716	-6.9889048	40.5171569
+Macrozona Calafate Viejo	5385510	-72.2678849	-50.3349482
+Saint-Jean-sur-Richelieu	1600484	-73.3006327	45.3229803
+Reichenbach im Kandertal	1682616	7.7587267	46.5710891
+Sovetsko-Gavansky Rayon	1651728	139.4882292	48.2103379
+Bezirksteil Haidhausen Süd	65946	11.5995279	48.1274099
+Bretton CP (Peterborough)	1608507	-0.2841917	52.5948934
+Mountmerrion or Callary	2195324	-6.2121673	53.2978648
+Hrdlořezy u Suchdola nad Lužnicí	436028	14.8436105	48.8663215
+Gldani-Nadzaladevi Raion	2012278	44.8358260	41.7792989
+Saint-Paul-de-Fenouillet	2500304	2.4682122	42.7994821
+Departamento Tafí del Valle	3482820	-65.8533204	-26.6616699
+Residencial Maria Tereza	4623222	-53.7982855	-29.6939303
+Residencial Las Palmeras	3919306	-3.3796176	38.0161045
+Urbanización Villa Arizona	6076023	-89.5657326	13.9690746
+Departamento Caleu Caleu	2660411	-63.9601888	-38.7972343
+Sainte-Colombe-en-Auxois	143111	4.4597227	47.4270753
+Lago di Fusine superiore	2905762	13.6679828	46.4760535

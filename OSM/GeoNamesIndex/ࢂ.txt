@@ -1,0 +1,27 @@
+Heudreville-en-Lieuvin	3309230	0.5086725	49.1942470
+Saint-Didier-sous-Écouves	3297098	-0.0353598	48.5411977
+Saint-Pierre-le-Chastel	125907	2.8278764	45.7951418
+Saint-Germain-d'Esteuil	1340509	-0.9084316	45.2534349
+Ermenonville-la-Petite	274236	1.3522040	48.2901097
+Langenleuba-Niederhain	2778480	12.5696216	50.9694666
+Town of Pleasant Valley	3233101	-73.8037862	41.7682925
+Town of Northumberland	3143389	-73.6299610	43.1597456
+caïdat de Sidi Ameur El Hadi	5136384	-5.8379877	34.7563040
+Sapozhkovsky District	1066074	40.6250344	53.9794632
+Sainte-Agathe-des-Monts	7692507	-74.2740378	46.0791975
+Pearce Creek;Pearce Lake	4207337	-82.3514171	49.6512852
+Miesenbach bei Birkfeld	52135	15.7687896	47.3730954
+Sant Antoni de Portmany	346793	1.3385020	39.0029467
+Svetlogorsky District	1179723	20.1398704	54.9386107
+District of Banská Štiavnica	388237	18.9270712	48.4361540
+Keenagh (Donnellan West)	5223702	-8.2483022	53.5568508
+Carricknaglamph Island	6760452	-9.9052504	53.6410523
+uMhlabuyalingana Ward 2	3647010	32.5130699	-27.5213602
+Polígono Industrial Carrión	6795328	-6.3656714	38.9059977
+Barrackquarter or Ross	4544539	-7.4641977	52.8118632
+Nelson Mandela Bay Ward 7	3591569	25.5830671	-33.9455280
+Samtgemeinde Elbtalaue	1829368	11.0176443	53.1335373
+Carlos Fermín Fitzcarrald	1953179	-77.2514953	-9.0520121
+Krasnoselkupsky Rayon	1442837	82.7540072	64.5892936
+Plaza San Juan de la Cruz	7685968	-4.4330171	36.7181027
+San Esteban de los Patos	339895	-4.6306252	40.7395982

@@ -1,0 +1,25 @@
+Saint-Ouen-de-Thouberville	1238839	0.8932914	49.3497626
+Busserotte-et-Montenaille	149995	4.9819598	47.6600740
+Saint-Jean-devant-Possesse	2766638	4.7839963	48.8700613
+Saint-Sylvestre-Pragoulin	126839	3.4008155	46.0509227
+Saint-Louis-de-Montferrand	89570	-0.5292885	44.9569179
+Santiago Pinotepa Nacional	6000100	-98.1602325	16.2961977
+Lake Macquarie City Council	6191221	151.5298360	-33.0370590
+Yuzhnoye Tushino District	446080	37.4319727	55.8425352
+São João da Ribeira e Ribeira de São João	6462049	-8.8726678	39.2939431
+Manhattan Community Board 2	7340075	-74.0025612	40.7294575
+Hogsback Channel;Soule Lake	3605066	-82.0971175	47.2277367
+Township of North Dumfries	2062155	-80.3686602	43.3216953
+Mbhashe Local Municipality	88173	28.6416250	-32.1179675
+Heyrothsberger Baggerloch	2326299	11.7323487	52.1477074
+Osiedle Marii Konopnickiej	4862785	22.7913127	49.7921086
+Cappard Electoral Division	5645837	-8.6924440	53.0924233
+Blanchardstown-Roselawn ED	5149362	-6.3772290	53.3847818
+Mesorregião Norte Amazonense	4775721	-66.0320297	-0.7913049
+Göhrde, gemeindefreies Gebiet	2017061	10.8339844	53.1130678
+Glesbygd Vättansberget, Gransjö	2775923	16.6935141	62.4961547
+Arjangarh Air Force Station	3774826	77.1212411	28.4816322
+Emnambithi/Ladysmith Ward 1	3645733	29.9316268	-28.6169963
+Condomínio Pontal das Conchas	6463933	-42.2301572	-22.8506711
+Pista di Prova del Lingotto	6707208	7.6658080	45.0320767
+Piazza Santa Maria Maggiore	4067559	11.1190473	46.0686482

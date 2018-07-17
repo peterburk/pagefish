@@ -1,0 +1,12 @@
+Menyuan Hui Autonomous County	4516736	101.5633982	37.4627900
+Dipaleseng Local Municipality	611628	28.6256333	-26.7835100
+Thaba Chweu Local Municipality	611623	30.6012090	-24.9747801
+Dr JS Moroka Local Municipality	611634	28.9361215	-25.1145069
+Dun Laoghaire-Monkstown Farm ED	4244576	-6.1551123	53.2840831
+Magheraboy Electoral Division	7003301	-7.6800322	54.9289280
+Abbeyville Electoral Division	5645278	-8.3631845	53.0790448
+Mesorregião Sudoeste Amazonense	4775819	-69.5697780	-4.9954606
+Microrregião Palmeira dos Indios	5144667	-36.6987628	-9.4320001
+Katastralgemeinde Oberletzen	37857	10.7004963	47.5114039
+Jolimont - Soupetard - Bonhoure	2344085	1.4729359	43.6144368
+Largo Barone Francesco Cocuzza	4124207	15.2214722	37.0821678

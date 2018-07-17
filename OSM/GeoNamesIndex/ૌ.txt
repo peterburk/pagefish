@@ -1,0 +1,15 @@
+Pastoral Unincorporated Area	6804541	137.0191372	-30.1188044
+Fishing Lake Metis Settlement	6282013	-110.1620659	53.9697333
+iLembe District Municipality	611247	31.2341109	-29.2407650
+Lac de barrage de Grand Poubara	6633992	13.5446847	-1.8729362
+District du Jura-Nord vaudois	373330	6.5020167	46.7297750
+Bonnyglen Electoral Division	6908941	-8.2641208	54.6879157
+Greenfort Electoral Division	6967305	-7.6610948	55.2114486
+Boyounagh Electoral Division	6804553	-8.6169940	53.6337662
+Kilthomas Electoral Division	5663481	-8.6786517	53.1093891
+Kingsmountain or Mylerstown	5300713	-7.2543091	52.4334973
+Waltonsgrove or Mountjuliet	5241944	-7.1916912	52.5275850
+Corporation Land 1st Division	4508196	-7.6610917	52.9149068
+Parque Residencial Ouro Verde	3815566	-53.7374844	-29.6917511
+Multifamiliares comfamiliar	7350951	-75.7482220	4.8046599
+Okehampton Army Training Camp	6054564	-4.0012392	50.7201686

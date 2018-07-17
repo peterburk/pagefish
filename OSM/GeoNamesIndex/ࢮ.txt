@@ -1,0 +1,46 @@
+Sainte-Croix-sur-Aizier	542626	0.6410785	49.4149163
+Saint-Aubin-le-Vertueux	3333246	0.6114994	49.0560686
+Saint-Philbert-sur-Orne	1405825	-0.3868696	48.8346746
+Saint-Julien-sur-Sarthe	1774593	0.3712083	48.4886939
+Saint-Georges-sur-Renon	142219	5.0288488	46.1033075
+Labastide-Saint-Georges	135618	1.8456023	43.6989947
+Saint-Saturnin-du-Limet	1730509	-1.0841936	47.8133441
+Saint-Vincent-sur-Graon	170077	-1.3776345	46.5062371
+San Pablo Cuatro Venados	5999901	-96.8873756	16.9795181
+Richmond Valley Council	6143221	152.9868856	-29.0268431
+Villalba de la Lampreana	340995	-5.6151471	41.7536443
+Santa Coloma de Gramenet	347480	2.2082390	41.4528096
+Gemeinde Rosenburg-Mold	106149	15.6960948	48.6353660
+Parroquia San Francisco	2520378	-65.0623392	9.8393050
+Parroquia San Francisco	2526716	-64.3279438	11.0071761
+Parroquia San Francisco	2595366	-63.6350484	6.9532685
+Parroquia San Francisco	2655197	-63.6938323	10.1729149
+Loughanarcillin Loughs	5242014	-9.4413307	53.9496679
+Fedorivka Rural Council	7277764	29.3359335	50.6966152
+Kinogama River;Vice Lake	3896360	-82.8765550	47.7965944
+Shekak Lake;Shekak River	4169162	-85.0835046	49.0913962
+Little Aubinadong River	3746678	-83.3479835	47.1622023
+Little Aubinadong River	3746679	-83.3668556	47.1821190
+Little Aubinadong River	3746677	-83.3580236	47.1711622
+Little Aubinadong River	3746681	-83.3383559	47.1676747
+Little Aubinadong River	3746368	-83.3746440	47.1491674
+Little Aubinadong River	3746680	-83.3560576	47.1614121
+Municipio Palos Blancos	4499814	-67.2682804	-15.4296355
+Ashley Creek;Ashley Lake	2414138	-100.1218007	56.7806268
+Assentamento Itamarati	4237122	-55.4817952	-22.2024911
+Srah Electoral Division	4281455	-7.7307728	53.2946119
+Municipio de Caimancito	4473289	-64.6818739	-23.6478380
+Departamento Tinogasta	1568453	-68.1360048	-27.5416994
+Bal of Dookinelly (Calvy)	5781704	-10.0490004	53.9968398
+Corgreagh or Killagriff	4730591	-6.9089569	53.8736583
+Carrigoona Commons East	4557460	-6.1534667	53.1735675
+Nelson Mandela Bay Ward 12	3591514	25.4973185	-33.9222755
+Nelson Mandela Bay Ward 21	3591525	25.5921494	-33.8775272
+Nelson Mandela Bay Ward 30	3591535	25.5441458	-33.8472800
+Santa Clara de Las Villas	7426493	-75.7557186	4.7984323
+St. Augustine Townhomes	2583324	-81.4040788	28.6679399
+Beets Ranch Subdivision	4139416	-103.9239237	44.5119649
+Ansar Camp Staff Quarter	6578570	90.3530932	23.7903400
+Piazzetta Antonino Munafò	4247679	15.2952209	37.0839290
+Plaça de les Escoles Velles	3344513	1.2168306	41.1509873
+Heraklion Regional Unit	554686	25.1562767	35.1919016

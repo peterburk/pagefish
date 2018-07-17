@@ -1,0 +1,45 @@
+Sainte-Marie-sur-Ouche	138906	4.8019935	47.2888986
+Vaunaveys-la-Rochette	83672	5.0343375	44.7800259
+Beaumont-en-Verdunois	2108328	5.4110954	49.2649459
+Saint-Vincent-du-Lorouër	107370	0.4613838	47.8152171
+Saint-Vincent-de-Reins	1136124	4.3811140	46.0721302
+Magadan Urban District	2621518	150.8696485	59.7190037
+Saint-Exupéry-les-Roches	2933164	2.3673091	45.5083660
+Chasseneuil-du-Poitou	135526	0.3654277	46.6475893
+Mesorregião Norte Goiano	4873344	-48.3383184	-13.9032868
+Santa-Maria-Figaniella	2605578	9.0064858	41.7288030
+VVG der Stadt Waldkirch	1126218	8.0457297	48.1010955
+Petrovo municipality	2528252	18.3177910	44.6356898
+Montereale Valcellina	179223	12.6531323	46.1306874
+Santa Cecilia del Alcor	348101	-4.6622824	41.9234559
+Presidente Jânio Quadros	362321	-41.7424606	-14.6670000
+Cristelos, Boim e Ordem	5904446	-8.2992896	41.2821945
+Várzea, Aliviada e Folhada	5910300	-8.0954800	41.2031924
+Małachów (sołectwo Trzemoszna)	4455500	20.2966787	51.2183074
+Kleiner Feichtauersee	5735419	14.3127022	47.7929260
+Lake Pirriepatchillie	4615095	138.1322354	-27.3061700
+Pineal Creek;Wedge Lake	3813987	-83.6288857	47.4804438
+Township of Wellesley	2062156	-80.7188004	43.5594565
+San Pedro de Vilcabamba	3651093	-79.1635814	-4.2236573
+Microrregião de Santiago	557359	-54.3160525	-29.1268622
+Arnoncourt-sur-Apance	6885979	5.6957010	48.0025992
+Deolindo Felipe Bittel	6425239	-59.0294834	-27.4575089
+Presidente Jânio Quadros	6427015	-41.7424606	-14.6670000
+Santa Maria de Marechal	1903976	-40.7927733	-20.4328722
+Samtgemeinde Steimbke	2936844	9.4088079	52.6454227
+Voskhod, Moscow Oblast	1028612	36.4652439	55.9506523
+Vista Hermosa Calichal	5365044	-97.0618763	20.3699217
+Ballyhacket Toberclaw	4782923	-6.8164224	55.1414053
+Leila–McPhillips Triangle	1791883	-97.1557167	49.9502325
+Bezirksteil Oberföhring	66112	11.6262859	48.1703736
+Guarda Margem Esquerda	7395165	-49.0780183	-28.4287337
+Parque Estrela Dalva XI	4141998	-48.2743647	-15.9577775
+Carperby-cum-Thoresby	7774068	-2.0122052	54.3205427
+Rufforth with Knapton	7222628	-1.1786059	53.9545218
+Elloughton-cum-Brough	571683	-0.5687409	53.7270388
+Ortayılmazlar Mahallesi	7539813	37.2879654	41.1370536
+Departamento Diamante	2868400	-60.4767884	-32.2451867
+Ouled Yahia Khedrouche	6669729	6.1901373	36.6907197
+Residencial Guaravita	6807800	-89.2319535	13.6731686
+Osiedle Domy Na Klinach	4086336	19.9089039	50.0088846
+Plaza de Carmen Cabrera	6138832	-6.0500243	37.3863545

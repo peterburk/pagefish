@@ -1,0 +1,6 @@
+Mesorregião Centro-Norte Piauiense	5145084	-41.9580123	-5.4963610
+Mesorregião de Presidente Prudente	2661526	-51.4777703	-21.8740000
+Verwaltungsgemeinschaft Nagold	2946978	8.7152399	48.5629516
+Corner Inlet Marine National Park	3160576	146.4054315	-38.7983118
+Nutana Suburban Development Area	6428923	-106.6497630	52.0957826
+Conjunto residencial La Pilarica	6132973	-76.5505390	3.3917267

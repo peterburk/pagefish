@@ -1,0 +1,20 @@
+Greater Poland Voivodeship	130971	17.3139797	52.3798982
+Saint-Philbert-sur-Boissey	550367	0.7821478	49.2576616
+Municipio de Cuscatancingo	6867826	-89.1784929	13.7761368
+Regierungsbezirk Freiburg	2106112	8.2262897	48.1254036
+Corregimiento Playa Cotiza	2885031	-72.9991545	8.7895316
+gmina Czechowice-Dziedzice	2828741	18.9566041	49.9040935
+Pièce d'Eau des Oies du Magellan	3300158	2.2472888	48.8706076
+Little Pine Lake;Trail Creek	3356089	-91.8711675	48.4431112
+Gemeinde Neudorf bei Staatz	103019	16.4889879	48.7343071
+Killure Electoral Division	6738207	-8.3033766	53.3671502
+Carbury Electoral Division	4478733	-6.9911013	53.3575045
+Moville Electoral Division	6990996	-7.0323933	55.2097881
+Partido de Florencio Varela	2404193	-58.2543573	-34.8893492
+Distrito Ciudad de Las Heras	2975791	-68.8337196	-32.8542427
+Bezirksteil Maximilianeum	65949	11.5948279	48.1366497
+Distrito Industrial do Jatobá	3408785	-44.0266397	-20.0059464
+Drumcartagh or Diamondhill	5373767	-7.5420488	54.0412135
+Osiedle Psie Pole-Zawidawie	2336796	17.1195952	51.1541138
+Municipio de Fraile Pintado	4473248	-65.0628123	-23.8970862
+Burgemeester Colijnstraat	4224910	4.6595920	52.0753654

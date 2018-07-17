@@ -1,0 +1,6 @@
+Región Metropolitana de Santiago	198848	-70.6053846	-33.6066911
+Strathfield Municipal Council	6210847	151.0785329	-33.8797877
+Big Green Island Nature Reserve	6217827	147.9791960	-40.1827089
+Inishbofin Electoral Division	3519221	-10.2095447	53.6215242
+Lao Cai Province Central Square	7823829	104.0060960	22.4441071
+Plaza del Poeta Claudio Rodríguez	911168	-5.6557165	40.9717426

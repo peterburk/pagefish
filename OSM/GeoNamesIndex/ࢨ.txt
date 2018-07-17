@@ -1,0 +1,41 @@
+Saint-Martin-de-la-Lieue	281350	0.2239769	49.1109714
+Saint-Germain-sur-Morin	1380624	2.8418826	48.8744676
+Saint-Jean-sur-Couesnon	972090	-1.3638468	48.2795122
+Saint-Martin-en-Vercors	60451	5.4454227	45.0169491
+Saint-Bonnet-des-Quarts	545851	3.8313580	46.1271722
+Saint-Victor-sur-Arlanc	3060589	3.7773231	45.3358604
+Saint-Martin-sur-Nohain	161725	2.9838018	47.3577439
+Bosnian Podrinje Canton	2528146	18.8192336	43.6708947
+Saint-Laurent-du-Verdon	1952612	6.0677405	43.7209230
+Moutiers-les-Mauxfaits	167269	-1.4366044	46.4887730
+Horbachevo-Mykhailivka	3936525	38.0077227	47.8479135
+Microrregião de Ituverava	4793428	-47.8085487	-20.2908041
+Microrregião de Cerro Azul	4775610	-49.0253995	-24.7491419
+Torrecilla de la Abadesa	347999	-5.0924233	41.4928814
+Mirante do Paranapanema	298188	-52.0300536	-22.3505000
+Fremmer Brattskarvtjønna	4868621	9.7458144	62.7917275
+Svartpøylevatnet, midtre	5698954	6.1689941	61.6308951
+Little Cauliflower Lake	1208483	-78.2922970	45.3892810
+E Branch Penobscot River	6530301	-68.7258418	46.0240799
+E Branch Penobscot River	6530315	-68.7342452	46.0430282
+Parole Creek;Parole Lake	4134432	-87.9267682	49.4012935
+Linganamakki Reservoir	371834	75.0410124	14.0035103
+Techelsberg am Wörther See	105938	14.0853314	46.6464364
+Ardenwald-Johnson Creek	7714506	-122.6276288	45.4550912
+Barrio Candido Quintero	5643691	-73.0389650	5.8209090
+Mirante do Paranapanema	5683169	-51.9247176	-22.3467926
+Bawn Electoral Division	4234352	-7.6644163	53.3163857
+Jardim Novo Mundo Extensão	6890901	-49.2255716	-16.6898485
+Bezirksteil Altperlach	65954	11.6253349	48.0957206
+Churchill and Blakedown	1875181	-2.1846629	52.4086923
+Bang Khun Thian District	3147313	100.4159249	13.5880282
+Departamento Gualeguay	2883518	-59.5664347	-33.1785187
+Geuzenveld - Slotermeer	309216	4.8138919	52.3747079
+Hanningfield Reservoir	1380025	0.5038112	51.6570526
+Urbanización Villa Tzu-Chi	6090712	-89.3392229	13.7933513
+Plac Cyryla Ratajskiego	5272375	16.9240328	52.4098110
+Piazza Pietro Paleocapa	4428573	7.6788276	45.0641376
+Piazza Tullio De Michele	1939754	13.8130033	42.1030790
+Municipio de Villa San José	4168730	-61.6150139	-31.3362312
+Gaolan Road Subdistrict	7034360	103.8360520	36.0482073
+Radelychi Rural Council	2512776	23.8580565	49.4785352

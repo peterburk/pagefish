@@ -1,0 +1,46 @@
+North Rhine-Westphalia	62761	7.5803861	51.4269111
+Saint-Crépin-de-Richemont	146014	0.6087192	45.4207500
+Saint-Maurice-lès-Couches	2729631	4.5986480	46.8777974
+Saint-Priest-Bramefant	126395	3.4359405	46.0317841
+Harréville-les-Chanteurs	3199518	5.6188429	48.2671442
+Saint-Paul-Trois-Châteaux	70700	4.7627904	44.3489530
+Villeneuve-lès-Maguelone	28795	3.8635580	43.5118768
+Martvili Municipality	2016165	42.3936503	42.5392909
+San Esteban de la Sierra	345377	-5.8680763	40.5161881
+West Baton Rouge Parish	1836622	-91.3359146	30.4862354
+Monte Castello di Vibio	42200	12.3369424	42.8234203
+Three Gorges Reservoir	1964696	108.1489257	30.4011509
+Nedre Storebotnvatnet	5693154	5.4490980	61.6961308
+Rands Fjord ved Egeskov	1522248	9.7388124	55.6180650
+Silver Creek Reservoir	6325735	-121.0767655	43.0820307
+Embalse de Puente Nuevo	3729115	-4.9991743	38.1387954
+Spring Garden Township	4637726	-76.6917179	39.9490472
+Carp River;Spider Lakes	3591636	-84.5551349	47.0576486
+Murovane Rural Council	2536045	22.9152528	49.5076215
+Quartier Saint-Lambert	2191839	2.2982156	48.8344438
+Municipio de Tinogasta	7331899	-67.5637185	-27.9107812
+Njurundabommen omland	2742548	17.3513970	62.2607702
+Distrito de Santo Antônio	6138332	-39.5989104	-11.4995068
+Sector Plaza de Bolivar	7739263	-75.6951696	4.8134852
+Diputación de Los Puertos	3360872	-1.1780101	37.6226852
+Beni Foudhala El Hakania	5195901	6.0607501	35.3781585
+Santa Cruz do Escalvado	315025	-42.8257070	-20.2281049
+Czekarzewice Pierwsze	3784843	21.6871551	51.0457049
+Vargashinsky District	398449	65.9977469	55.5458206
+Killawullaun Mountain	6153812	-9.3407788	53.7547385
+Davidstown (Pilsworth)	4750132	-6.8130045	52.9069902
+Sutton under Brailes CP	3359878	-1.5458513	52.0382194
+Penmaenmawr Community	297354	-3.9224517	53.2625302
+Doubravice nad Moravou	432520	16.9822206	49.7430868
+Stansted Mountfitchet	3340493	0.2005425	51.8991217
+Parque dos Coqueiros II	7286635	-54.7944470	-22.2476303
+Sankt Martin im Mühlkreis	977353	14.0387794	48.4150729
+Dobrzyniewo Fabryczne	7097714	23.0601314	53.1807396
+Municipio de Senillosa	3326567	-68.6022135	-38.9210736
+Saint Bridget's Terrace	2095439	-6.6894608	53.2950343
+Citihomes Resortville	3481945	120.9295932	14.3128986
+Quartiere Fiorenzuola	6620860	12.2651337	44.1231409
+Municipio de Los Cardos	4110863	-61.6117315	-32.3204279
+Mariano Nicolás Valcarcel	1879687	-73.1172143	-16.0555745
+San Miguel de Corpanqui	1953336	-77.2064011	-10.2932269
+Tielu East Subdistrict	7034364	103.8318098	36.0420737

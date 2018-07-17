@@ -1,0 +1,21 @@
+Newfoundland and Labrador	391196	-55.9711637	49.1244794
+Monte San Giovanni Campano	41415	13.5106259	41.6753766
+Verwaltungsverband Schönau	3005524	8.7996918	49.4684946
+Santeshwar Chhitapokhari	6698681	86.8070166	27.0838225
+Lebring-Sankt Margarethen	49950	15.5316953	46.8500596
+Villa Parque Los Glaciares	5410414	-72.2458051	-50.3438001
+Marhin Electoral Division	6341710	-10.3769242	52.1598286
+Raphoe Electoral Division	6997208	-7.5923731	54.8586335
+Graffy Electoral Division	6916702	-8.1397326	54.8122414
+Ballymullen (Warrensford)	4522433	-7.6712502	52.8856192
+Emiliano Trindade Prestes	7182086	-55.1398551	-29.0481365
+Parque Rural Santa Genebra	2347678	-47.1219405	-22.8093868
+Walford, Letton and Newton	6188360	-2.9050821	52.3346191
+Castlesaunderson Demesne	5659183	-7.3625389	54.1179275
+Partido de San Andrés de Giles	2456577	-59.4762581	-34.4290738
+Elkhorn Ridge Golf Estates	5844006	-103.7358811	44.4829195
+Lakeside Park Subdivision	1744190	121.3223502	14.0773164
+Municipio de El Quebrachal	7235885	-63.6246496	-25.4019380
+La Paz de Carazo (Municipio)	5739753	-86.1123372	11.8236267
+Piazza dell'Umanità Migrante	3205763	18.4944324	40.1443996
+Yanchang Road Subdistrict	7034357	103.8511069	36.0811183

@@ -1,0 +1,6 @@
+"Terrenos del Lote ""La Estancia"""	5749270	-97.6884029	20.9544567
+Microrregião Santa Maria Madalena	2215532	-41.9969116	-22.0181514
+Gemeinde Schönau an der Triesting	111505	16.2537340	47.9265529
+Maha Phruettharam Subdistrict	3320985	100.5205708	13.7340149
+Letterfore Electoral Division	4105977	-9.4840147	53.4566700
+Vila dos Sargentos da Aeronáutica	6780389	-48.9304334	-16.3245867

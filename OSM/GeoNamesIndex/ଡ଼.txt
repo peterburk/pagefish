@@ -1,0 +1,8 @@
+Northern Administrative Okrug	162903	37.5258470	55.8336415
+Quartiere XXXI Giuliano-Dalmata	5473903	12.4992280	41.8113690
+Parroquia San Carlos de Austria	3446791	-68.6746502	9.6779894
+Birch Tree Lake;Burntwood River	1824242	-98.0188714	55.7130464
+Tinnycross Electoral Division	4445121	-7.4569765	53.2999042
+Municipio de San José de la Esquina	4077387	-61.6773185	-33.1641084
+Parque Residencial Jardim do Ágape	6177207	-45.4332056	-21.5703115
+Parque Infantil de la Nazarenas	4046321	-74.2155446	-13.1547177

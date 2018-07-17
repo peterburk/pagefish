@@ -1,0 +1,24 @@
+Bonai Darussalam District	7834396	100.8286761	1.1768130
+Distrito Algarrobo Grande	2951113	-68.4435990	-33.1406127
+Parroquia San José de Guanipa	2530318	-63.8733446	8.7469360
+Pico de Regalados, Gondiães e Mós	4167461	-8.4347577	41.6809176
+George Local Municipality	79793	22.8923057	-33.7237150
+Hantam Local Municipality	81970	19.6631054	-31.1361551
+Cordner Creek;Cordner Lake	5201270	-86.9397444	50.4113372
+Steinhausen an der Rottum	2801249	9.9313209	48.0175723
+St. Georgen im Schwarzwald	1242296	8.3420412	48.1228776
+Roças Novas dos Bandeirantes	7408401	-44.1168811	-20.4299648
+Eglish Electoral Division	4463726	-7.8744526	53.1383617
+Departamento Las Colonias	3587829	-61.1076960	-31.2457149
+Knockcurraghbola Commons	5610972	-8.0724344	52.6950457
+Partido de General Rodríguez	2431653	-58.9943250	-34.6399963
+Osiedle Stefana Żeromskiego	5329185	20.0314070	50.3509093
+Osiedle Stefana Żeromskiego	4866480	18.5955953	52.2764817
+Lake Fairview Condominium	2855981	-81.3983261	28.5955206
+The Landings at Lake George	1998366	-81.3246738	28.5010686
+Papiro Parque Residencial	7734989	-75.6879492	4.8230409
+Municipio de Berón de Astrada	3126749	-57.6229403	-27.4778024
+Municipio de Colonia Aldao	4166613	-61.7402591	-30.9868032
+Comuna Ciudadela del Norte	406046	-75.4904280	5.0842072
+Plaza Nuestra Señora de Regla	4126099	-14.1072781	28.3508633
+San Francisco de Ravacayco	1930991	-73.3564497	-14.9925771

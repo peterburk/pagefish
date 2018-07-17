@@ -1,0 +1,6 @@
+Kilchreest Electoral Division	5820061	-8.6578405	53.1549664
+Kilpatrick Electoral Division	4478687	-6.9337846	53.3049017
+Ballymuigh Electoral Division	3076886	-7.5769478	53.6779048
+Ballyglass Electoral Division	5644981	-8.3293282	53.0878205
+Craughwell Electoral Division	6153886	-8.7317948	53.2292429
+Catshill and North Marlbrook CP	1875172	-2.0559366	52.3657558

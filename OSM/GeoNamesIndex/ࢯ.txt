@@ -1,0 +1,44 @@
+Illeville-sur-Montfort	550625	0.7087279	49.3197245
+Saint-Julien-lès-Montbéliard	1335802	6.7030925	47.5202704
+Saint-Genis-sur-Menthon	139569	5.0150892	46.2810679
+Saint-Georges-sur-Layon	301575	-0.3869737	47.1901434
+Saint-Vincent-les-Forts	363747	6.3715193	44.4360305
+Saint-Julien-du-Tournel	1113894	3.6824163	44.4971989
+Natz-Schabs - Naz-Sciaves	47314	11.6779346	46.7630737
+Shoalhaven City Council	6311648	150.3917142	-35.1415484
+Sant'Angelo dei Lombardi	40869	15.1812470	40.9312092
+gmina Dubicze Cerkiewne	3094089	23.4601317	52.6400888
+Municipality of Debarca	2603059	20.8577655	41.2943862
+La Chapelle-Saint-Martin	80312	5.7547531	45.6515775
+Niendorf bei Berkenthin	1464849	10.6190578	53.7035086
+Turtle-Flambeau Flowage	300629	-90.1378449	46.0718287
+Aleksandria Niedziałowska	2710767	23.3451905	51.0742772
+Chlorus Creek;Clark Lake	4013157	-81.2204581	47.5747448
+Sankt Oswald bei Haslach	958118	14.0201941	48.6208520
+San Antonio de Las Aradas	3650943	-79.3649277	-4.4000184
+Alces Creek;Russian Lake	3549099	-82.2168222	46.7707568
+Brandy Branch Reservoir	2132325	-94.4698748	32.4456699
+Dakhadayevsky District	1858722	47.5503587	42.0589345
+Bayerbach b. Ergoldsbach	179066	12.3015660	48.7115041
+Santa Luzia de Caratinga	6142263	-42.0251706	-19.8820000
+Sector La California Sur	5451392	-66.8231011	10.4768762
+East Fairfield Township	6023526	-80.0777365	41.5511451
+Bezirksteil Neuperlach	65956	11.6492442	48.0994179
+Armitage with Handsacre	6911151	-1.8845466	52.7442506
+Nelson Mandela Bay Ward 31	3591536	25.5583948	-33.8941800
+Nelson Mandela Bay Ward 40	3591546	25.3245687	-33.9131400
+Nelson Mandela Bay Ward 13	3591515	25.5461445	-33.9080969
+Nelson Mandela Bay Ward 22	3591526	25.5786844	-33.8732271
+Damariscotta-Newcastle	132813	-69.5284335	44.0287220
+Albufeira de Vale do Gaio	4831031	-8.2861991	38.2523664
+Parkway Place Aparments	5866998	-87.3986676	36.5849840
+Waterbridge Apartments	1175985	-81.4078145	28.4013523
+Sterling Residences One	7223159	120.7993467	14.3085703
+Pantà de la Llosa del Cavall	5605174	1.6055505	42.1190706
+Municipio de Ramada Paso	3147850	-58.2825042	-27.3616494
+Merindad de Valdivielso	344453	-3.5466529	42.8247132
+Parco della Rimembranza	2180663	13.6137394	45.9382625
+Entrada Principal UPIICSA	6810474	-99.0919996	19.3951708
+Largo Giacomo Matteotti	4059794	15.0060837	37.2944169
+Valenzuela de Calatrava	344638	-3.7754506	38.8375225
+Qingbaishi Subdistrict	7034355	103.8822782	36.0853161

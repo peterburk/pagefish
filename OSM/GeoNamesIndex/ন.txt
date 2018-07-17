@@ -1,0 +1,30 @@
+Bouillancourt-la-Bataille	3352782	2.5276166	49.6965443
+Kreis Herzogtum Lauenburg	62703	10.6643261	53.5936647
+City of Parramatta Council	6217262	151.0212919	-33.8069856
+Chersonisos Municipality	2187397	25.3510860	35.2703545
+Antler Lake;Montreal River	3890261	-83.6921319	47.5932257
+Parroquia Virgen del Valle	2639674	-62.0016986	9.4859735
+Spotted Creek;Spotted Lake	5201357	-86.8378952	50.3763405
+Nquthu Local Municipality	611023	30.7422797	-28.2981299
+Drozdovychi Rural Council	2581291	22.8566729	49.6922436
+Constitution Gardens Pond	359559	-77.0427477	38.8909981
+West Fallowfield Township	3059522	-75.9582734	39.9021601
+Ventry Electoral Division	6341711	-10.4025644	52.1240642
+Pedanía de Rincón de Beniscornia	4182783	-1.1759192	37.9849775
+Dun Laoghaire-Glenageary ED	4244575	-6.1397290	53.2840730
+West Fallowfield Township	6024132	-80.3816016	41.5402491
+Verkhnemamonsky District	939027	40.4459068	50.2295642
+Little Falls-South Windham	132795	-70.4286598	43.7344895
+Carrowcauly or Earlsfield	3209850	-8.5141800	54.0958605
+Aldborough and Thurgarton	1022664	1.2342175	52.8682652
+Ingatestone and Fryerning	1963917	0.3655543	51.6793306
+Carrigatogher Bog (Harding)	5582762	-8.2660723	52.8359537
+Kasperivtsi Rural Council	6731723	25.8430455	48.6889893
+12e Arrondissement (urbain)	62896	2.3936457	48.8394554
+Municipio de Pueblo Esther	4059991	-60.5620484	-33.0776343
+Municipio de San Guillermo	4208619	-61.8873148	-30.3808232
+Municipio de San Carlos Sud	4122036	-61.1125823	-31.7970738
+Municipio de Santo Domingo	4129010	-60.8605225	-31.1083045
+Municipio de Villa Minetti	4261250	-61.6651202	-28.6043690
+Burgo de Osma-Ciudad de Osma	343457	-3.0498857	41.5879343
+Parvis Saint-Jean-Baptiste	4642634	3.1790994	50.6794467

@@ -1,0 +1,17 @@
+Parroquia Andres Eloy Blanco	2592014	-62.7680273	7.9952325
+Lukhanji Local Municipality	88472	26.9599054	-32.0599400
+Mohokare Local Municipality	593807	26.7410278	-30.1299626
+Nyandeni Local Municipality	88540	29.0516909	-31.6096791
+Blackwater River;Kinago Lake	4150680	-87.8534156	49.5781519
+Quartier du Petit-Montrouge	2191571	2.3262398	48.8269415
+Doutor Edgardo Pereira Velho	7446033	-50.5671674	-30.6638902
+Stadt Ilsenburg OT Ilsenburg	3998961	10.6289763	51.8387750
+Millford Electoral Division	6969772	-7.7435231	55.0991142
+Killeany Electoral Division	4060244	-9.1004546	53.4331485
+Breaghwy Electoral Division	6856324	-9.2393660	53.8238786
+Ballyarr Electoral Division	6971845	-7.7079575	55.0460975
+Residencial Morada do Bosque	6870165	-49.2591455	-16.5941360
+Residencial Morada do Bosque	7589017	-49.1229342	-16.6966659
+Enclave at Stonebridge Lakes	2015586	-81.4651939	28.5069802
+Sector Sur Pista Juan Pablo II	5857670	-86.2812696	12.1224998
+Zhong shan xiao qu Residence	1847257	118.8500349	32.0351684

@@ -1,0 +1,16 @@
+Saint-Germain-de-Pasquier	536225	0.9911470	49.2414798
+Saint-Hilaire-sur-Benaize	1027441	1.0647440	46.5541522
+Saint-Maurice-de-Ventalon	1113915	3.8043653	44.3404279
+Bulathsinhala DS Division	5743417	80.1831466	6.6460287
+Municipality of Sopishte	2460481	21.2971558	41.8484972
+Municipality of Gostivar	2615530	20.9150080	41.7595078
+Lough Fiddaunnavreaghlee	2569729	-9.4317785	53.3096438
+Teich Parkklinik Manhagen	172221	10.2581724	53.6630898
+San Gerardo de Pacaicaguan	3728488	-78.6178548	-1.6362973
+Creaghanachreesty Island	3516898	-7.4874121	54.2140544
+Staropoltavsky District	1086557	46.5478399	50.4441035
+Ballinvally or Roadstown	3299276	-8.6318175	54.0547693
+Bernstadt / Schönau-Berzdorf	418664	14.8527674	51.0469109
+Parque Residencial Camobi	4033849	-53.7101856	-29.7013787
+Plaza del Cristo de Burgos	6399850	-5.9897318	37.3920014
+Região Administrativa Oeste	4036638	-53.8648450	-29.6935427

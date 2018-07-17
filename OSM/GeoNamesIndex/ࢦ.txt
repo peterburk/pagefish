@@ -1,0 +1,36 @@
+Saint-Quentin-des-Isles	3333251	0.5752795	49.0516779
+Chantemerle-sur-la-Soie	155888	-0.6490444	45.9723336
+Saint-Quentin-le-Verger	2749626	3.7499103	48.6151692
+Saint-Gervais-du-Perron	1405808	0.1531482	48.5371221
+Ourouer-les-Bourdelins	1904425	2.7857616	46.9174525
+Mareuil-sur-Lay-Dissais	166877	-1.2153214	46.5322878
+Saintes-Maries-de-la-Mer	414459	4.4399768	43.4956751
+Hardinxveld-Giessendam	272913	4.8246104	51.8386240
+Hardinxveld-Giessendam	309487	4.8246104	51.8386240
+Saint-Julien-des-Points	287412	3.9628464	44.2591100
+Manapiare Municipality	2730910	-66.1901870	5.0266355
+Cuartel Antonio Carboni	6664681	-59.4299094	-35.2438968
+Pachalik de El Mansouria	5197054	-7.3093012	33.7306851
+Landkreis Freudenstadt	62354	8.5403794	48.4698997
+Terranuova Bracciolini	42486	11.6093851	43.5589896
+Alimmainen Maurunlampi	88664	30.1204590	63.4439641
+Cortiçadas de Lavre e Lavre	6439705	-8.4051243	38.7907714
+Scorch Creek;Scorch Lake	4042818	-82.2535970	48.2867544
+La Merced de Buenos Aires	2663614	-78.3719397	0.6319396
+Lampertheimer Altrhein	1679988	8.4522462	49.6031230
+Little Indian River Lake	3170720	-61.8430471	45.2160738
+Chetianjiang Reservoir	1945947	111.6100215	27.8473105
+Glen Electoral Division	6957351	-7.8070168	55.1195242
+Castanheira do Ribatejo	6544287	-8.9718999	38.9909865
+Batas Dusun Repok Bijang	3815409	116.3636229	-8.5945044
+Webequie Indian Reserve	6446832	-87.3777158	52.9838827
+Shrvanskaya Vodokachka	4265544	39.7927372	44.3706246
+Weiherfeld-Dammerstock	63388	8.4034449	48.9837043
+Ballinree and Ballymoat	2385805	-7.6374625	53.6834348
+South Ormsby cum Ketsby	1855126	0.0437982	53.2596950
+Departamento Picunches	2584926	-70.3301772	-38.6161242
+Samtgemeinde Suderburg	1460236	10.3884417	52.8999487
+Pishchane Rural Council	4089935	33.3778931	49.1253966
+Sector Camino De Oriente	5876113	-86.2546836	12.1118282
+Lianhuachi Subdistrict	7653216	111.1311325	37.4929650
+Doddington and Whisby CP	1840658	-0.6471226	53.2141649

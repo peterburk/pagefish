@@ -1,0 +1,7 @@
+Landkreis Breisgau-Hochschwarzwald	1946367	8.1332896	47.9301936
+Região Metropolitana de Belo Horizonte	2954515	-43.9879584	-19.7705000
+Verwaltungsgemeinschaft Bopfingen	2954732	10.3748437	48.8643973
+Gemeindeverwaltungsverband Voralb	2825291	9.6629630	48.6568468
+Southern Gulf Islands Electoral Area	7848477	-123.1874953	48.7626685
+Corporationland North (1st Division)	4559523	-6.8092853	53.5750444
+Residencial Bosques de San Francisco	6807796	-89.2323707	13.6734742

@@ -1,0 +1,39 @@
+Conteville-en-Ternois	2787497	2.3285937	50.4323311
+Sainte-Honorine-du-Fay	280435	-0.4922857	49.0713711
+Saint-Vincent-des-Bois	550119	1.3889124	49.0600755
+Saint-Étienne-du-Rouvray	102144	1.0915209	49.3831633
+Champvans-les-Moulins	122829	5.9142176	47.2559706
+Saint-Seurin-de-Cursac	1689068	-0.6252896	45.1573803
+Upper Demerara-Berbice	7109155	-58.1531242	5.5655206
+Saint-Jean-sur-Vilaine	145992	-1.3350063	48.1224947
+Saint-Paul-le-Gaultier	411164	-0.1126307	48.3261454
+Monceaux-sur-Dordogne	1548900	1.8883398	45.0731745
+Oberweiler-Tiefenbach	1246672	7.6192609	49.6009131
+San Francisco Logueche	5999743	-96.3844211	16.3745542
+Oberhonnefeld-Gierend	444710	7.5172627	50.5616693
+La Neuville-aux-Larris	2681756	3.8396472	49.1434734
+Le Plessis-Feu-Aussoux	1360536	3.0369580	48.7129389
+Microrregião de Iguatemi	4831937	-54.0490625	-22.9765001
+gmina Lipowiec Kościelny	2716226	20.1922482	53.0988765
+Étang Communal de l'Épiniere	3475827	2.3812785	47.1264402
+Henneberger Kiesgrube	3944240	11.2045603	51.3070133
+Les Garennes-sur-Loire	6795473	-0.4719575	47.3850254
+Municipio Colquechaca	4126993	-66.0285244	-18.7737491
+Thale Sap Songkhla Lake	1116319	100.4871823	7.1949228
+Eexterveenschekanaal	1465024	6.8227929	53.0587509
+Agios Achillios Island	2538643	21.0832997	40.7837462
+Atyuryevsky District	1537485	43.2785199	54.3429795
+São Gonçalo do Rio das Pedras	6133177	-43.4074039	-18.3675000
+Samtgemeinde Marklohe	2936842	9.1043937	52.6868622
+Cappaghabaun Mountain	6205689	-8.5081988	52.9682256
+Recanto Santa Catarina	2230624	-47.1627131	-22.7690677
+Novosedly u Strakonic	425596	13.7899355	49.2614773
+Yarhasanlar Mahallesi	5911639	27.4256094	38.6177769
+Elias Motsoaledi Ward 9	3663502	29.1717614	-25.2937053
+Cevizlidere Mahallesi	6783132	32.8161391	39.8846374
+Kretingos parko III tv.	6441001	21.2500126	55.8999778
+Villaggio degli Aracci	1832050	9.7684274	44.3792622
+Bürgermeister-Smidt-Straße	3937347	8.5786047	53.5440912
+Seagram Building Plaza	5594260	-73.9725764	40.7585429
+Bürgermeister-Smidt-Straße	3937346	8.5807895	53.5419692
+Place Salvator Allende	3903802	5.7401033	45.1708296

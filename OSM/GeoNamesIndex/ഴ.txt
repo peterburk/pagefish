@@ -1,0 +1,4 @@
+South-Western Administrative Okrug	1304596	37.5409266	55.6028498
+Ballymacwilliam Electoral Division	4445776	-7.1156877	53.3519921
+Corporationland North (2nd Division)	4556383	-6.8188195	53.5694145
+Allerton Mauleverer with Hopperton	7672061	-1.3665464	54.0150784

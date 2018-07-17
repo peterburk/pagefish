@@ -1,0 +1,34 @@
+Houlbec-près-le-Gros-Theil	536477	0.8191729	49.2492567
+Saint-Sauves-d'Auvergne	125450	2.6892631	45.6102830
+Saint-Maurice-en-Quercy	123574	1.9536424	44.7472141
+Bellingen Shire Council	6165980	152.7192099	-30.3739914
+Coonamble Shire Council	7145506	148.2623772	-30.8652097
+Landkreis Weimarer Land	62462	11.2053748	50.9567988
+Gemeinde Petzenkirchen	128180	15.1569721	48.1443369
+Municipio de El Calafate	3439478	-72.3921528	-50.3303750
+caïdat de Kenitra-Banlieue	5130761	-6.4648208	34.2557291
+Ylivieskan seutukunta	6442888	24.5534781	64.0669008
+Microrregião de Tabuleiro	4843548	-49.1117709	-27.8317779
+Microrregião de Garanhuns	5127114	-36.5098604	-8.9718468
+Malpartida de Plasencia	345826	-6.0376853	39.9535119
+Sehlendorfer Binnensee	1633234	10.6795272	54.3078758
+Anciennes Réserves à Poisson	1085024	-1.1525587	44.7689702
+Dead River Storage Basin	138665	-87.6512488	46.5891169
+Second Connecticut Lake	3114892	-71.1697096	45.1542689
+Anciennes Réserves à Poisson	1085030	-1.1566666	44.7732399
+Parroquia Nueva Arcadia	3417181	-72.4038344	7.9102529
+Charon Creek;Charon Lake	4179874	-86.0038171	49.6168391
+Darbandikhan Reservoir	368527	45.8043979	35.1792478
+Kleiner Penkatschteich	2236354	14.2744156	51.3400566
+Tomahawk Creek Flooding	2817519	-84.1801290	45.2054573
+Bolshoy Begichev Island	1867769	112.4369813	74.3130514
+Dickschied-Geroldstein	1378012	7.9476690	50.1230593
+Almirante Tamandaré do Sul	242597	-52.8957819	-28.1433145
+Drumellihy (Cunningham)	4452962	-9.4516764	52.7259628
+Vila São Francisco de Assis	7824062	-43.8736504	-16.7017198
+Chloumek u Mladé Boleslavi	430120	14.9262976	50.3892289
+Heitersheim (Kernstadt)	270538	7.6540381	47.8741648
+Departamento Chilecito	3586751	-67.4194828	-29.4185988
+Departamento Chos Malal	2584349	-70.2700040	-36.7501432
+Puerto Morazán (Municipio)	5718983	-87.2249694	12.8566530
+Piazza della Biodiversità	4798729	9.1113733	45.5164353

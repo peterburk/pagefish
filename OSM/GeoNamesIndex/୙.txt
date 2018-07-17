@@ -1,0 +1,5 @@
+"Terrenos del Lote ""Zacamixtle"""	5748013	-97.7098187	21.2375628
+Bolshebereznikovsky District	1537996	45.9636087	54.1989628
+Residencial Parque dos Buritis	7622977	-49.1359237	-16.6771573
+Kozojedy u Kostelce nad Černými Lesy	435402	14.8108687	50.0015716
+Esplanade Jacques Chaban-Delmas	1515925	2.3121405	48.8497043

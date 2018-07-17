@@ -1,0 +1,46 @@
+Mesbrecourt-Richecourt	419138	3.5467428	49.7133511
+Servaville-Salmonville	146629	1.2649405	49.4802844
+Saint-Aulais-la-Chapelle	127684	-0.0512276	45.4463017
+Regional State Agency Åland	2587236	20.0831786	60.1603621
+Saint-Étienne-de-Brillouet	169159	-1.0107299	46.5145552
+Colleretto Castelnuovo	44956	7.6758662	45.4347446
+Municipality of Gjakova	1332169	20.3602920	42.4099998
+South Khorasan Province	537658	58.2391176	32.8018524
+Geislingen an der Steige	2770605	9.8474544	48.6147203
+Microrregião de Piracicaba	4806987	-47.7782599	-22.8242385
+Municipio de San Antonio	4439173	-65.4630118	-24.3547799
+Municipality of Lekenik	5518675	16.1742848	45.5338070
+Municipality of Ilinden	2460762	21.6153342	41.9976940
+Tavernes de la Valldigna	344825	-0.2490736	39.0765422
+Villarmentero de Campos	345885	-4.5173658	42.2877489
+Zhydachivskyi District	1749222	24.2090847	49.3691294
+Khaybullinsky District	398528	58.2603782	52.0499244
+Khoroshiv Rural Council	6587722	26.2705954	50.0884935
+Sultan Creek;Sultan Lake	3880027	-82.7140172	47.6049493
+Artist Creek;Artist Lake	3221728	-81.4630551	46.0530168
+Municipio Postrer Valle	4511478	-63.7875641	-18.6230193
+Staroderevyankovskaya	6576194	38.9646811	46.1360835
+Tatishchevsky District	1746049	45.6195941	51.7890751
+Nossa Senhora da Tourega	6439495	-8.0326746	38.4551868
+Stadtbezirk Bremen-West	1943540	8.8003998	53.1260935
+District Council of Robe	6738647	139.9951724	-37.1863644
+Rione VIII Sant'Eustachio	5452746	12.4752391	41.8976261
+Livoberezhnyi District	4045788	37.6297869	47.1071014
+Mieleszkowce Zalesiańskie	6833275	23.5593701	53.5328611
+Selemdzhinsky District	1744412	132.3831826	52.7094364
+Ramotshere Moiloa Ward 16	3668282	26.1113072	-25.5378725
+Whiteshill and Ruscombe	5998285	-2.2336507	51.7629126
+Hollinswood and Randlay	7009489	-2.4263064	52.6704727
+Majdan Sopocki Pierwszy	7066476	23.1779499	50.4467188
+Condomínio Ecoresidencial	7735042	-53.7602915	-29.7041550
+Bosques de Puente Palma I	6153463	-76.5501838	3.4011607
+Municipio de San Antonio	3201751	-53.9145725	-26.0048764
+Municipio de San Antonio	7324065	-65.1092550	-28.8304549
+Pyershamayski District	59252	27.6661319	53.9330789
+Municipio de San Antonio	4168729	-61.7605078	-31.2477809
+Municipio de San Antonio	3149443	-56.8425584	-27.5093751
+Plaza Teodoro Izquierdo	5301651	-0.0374337	39.9948998
+Place Carrick-on-Shannon	3568664	-1.6092939	48.1088837
+Volksfestplatz Olching	146365	11.3231864	48.2085008
+Parque de Los Fundadores	4144687	-75.6619560	4.5458248
+San Miguel de Serrezuela	344329	-5.2742162	40.6938157

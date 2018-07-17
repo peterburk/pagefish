@@ -1,0 +1,6 @@
+Old Town of Regensburg with Stadtamhof	5762849	12.0974470	49.0178922
+Landkreis Wunsiedel im Fichtelgebirge	62491	12.0167302	50.0991109
+Gemeindeverwaltungsverband Laupheim	2951680	9.8774864	48.2246357
+Gemeindeverwaltungsverband Schwendi	2951682	10.0025832	48.1918978
+Castle Bolton with East and West Bolton	7774094	-1.9720597	54.3339218
+Samtgemeinde Oldendorf-Himmelpforten	3411186	9.2864484	53.6095056

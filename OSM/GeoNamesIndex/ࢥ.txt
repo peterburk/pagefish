@@ -1,0 +1,34 @@
+Saint-Martin-du-Tilleul	1928217	0.5212202	49.1072668
+Alexandria Governorate	3061846	29.7656450	30.9432982
+Pierrepont-sur-l'Arentèle	146413	6.6613309	48.2628026
+Saint-Germain-sur-Renon	145126	5.0579840	46.0761258
+Vigneulles-lès-Hattonchâtel	2994086	5.7308572	48.9863669
+Saint-Hilaire-sur-Yerre	2069391	1.2239937	48.0325506
+Montsauche-les-Settons	1245677	4.0318127	47.2178589
+Saint-Pardoux-du-Breuil	113558	0.2124075	44.4698901
+Kamikawa Subprefecture	4088128	142.5964094	43.8945590
+Grumolo delle Abbadesse	45127	11.6637951	45.5109129
+Loitsche-Heinrichsberg	1286653	11.7039158	52.3013175
+Villanueva de Alcardete	347339	-3.0383689	39.6947958
+Misgav Regional Council	1386844	35.2216177	32.9337955
+Freshwater Creek Lagoon	3576240	-88.2973078	16.8729080
+São Martinho das Amoreiras	6437452	-8.3990718	37.6250955
+Nossa Senhora da Piedade	6461805	-8.5866307	39.6738222
+Iisavuomegierratjávrrit	7244158	23.9511606	69.4399170
+Lago Sarmiento de Gamboa	4870349	-72.6751788	-51.0321070
+Embalse de la Fernandina	5457120	-3.5611138	38.2285960
+Stanborough Lake (North)	2822866	-0.2243350	51.7877715
+Laguna Mariano o del Jagüel	3406337	-63.2304804	-37.6884450
+Nossa Senhora da Piedade	6181081	-38.4979102	-12.7697871
+Verkhnevilyuysky Ulus	1399818	120.4046325	64.0663051
+Usmon Yusupov nomidagi	3536039	69.0501964	40.9901982
+Grzymały Szczepankowskie	7083384	21.9623849	53.1607242
+Štěpánovice u Jaroměřic nad Rokytnou	429274	15.8873505	49.1258319
+Simbithi Golfing Estate	7656204	31.2232715	-29.5069743
+Colonia Nuevo Sitio El Niño	6090644	-89.3555095	13.8025677
+Residencial El Progreso	6203486	-89.2190266	13.6960918
+Residencial Somosaguas	6048030	-3.7970348	40.4306192
+Comisión de Fomento de Unanué	3417896	-64.3485717	-37.5843841
+Piazza Alcide de Gasperi	2182184	9.1615097	45.5766352
+Piazza Fratelli Cairoli	1795773	8.1975545	44.8990906
+Distrito Cuadro Benegas	3011834	-69.3404762	-34.7578639

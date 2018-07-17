@@ -1,0 +1,34 @@
+Saint-Maurice-lès-Châteauneuf	1173314	4.2514160	46.2268119
+Saint-Bonnet-le-Courreau	1043172	3.9340384	45.6542047
+Saint-Sauveur-Gouvernet	92148	5.3740737	44.3305103
+Prefecture of Casablanca	2523504	-7.6188077	33.5673681
+Gemeinde Bischofstetten	533106	15.4660489	48.1244670
+Gemeinde Unterkohlstätten	197290	16.3376234	47.3720661
+La Chapelle-Montbrandeix	115744	0.8526102	45.6408763
+Gemeinde Wieselburg-Land	129564	15.1063280	48.1151985
+Parroquia Capital Aragua	2524443	-64.8186218	9.4424125
+Calcite Creek;Wigwam Lake	3928622	-80.6675156	47.6946823
+Stokershorst Visvijver	1565804	5.8488766	51.3076720
+Stokershorst Visvijver	1565839	5.8488764	51.3083973
+Penhalonga e Paços de Gaiolo	5910303	-8.1319905	41.1047336
+House Lake;McKinnon Creek	3236200	-81.7897041	46.1384831
+Clane Electoral Division	4478074	-6.7016098	53.2947100
+Abbey Electoral Division	5652424	-9.0551964	53.1324847
+Clara Electoral Division	4234338	-7.6091792	53.3427716
+Praia da Vitória (Santa Cruz)	7448351	-27.0843728	38.7279082
+Nossa Senhora Medianeira	3104097	-53.8081040	-29.7052078
+Ballyhacket Lisawilling	4782794	-6.8330426	55.1338603
+Friarspark (1st Division)	4551785	-6.7773765	53.5519074
+Ballycloghduff (Molston)	3357048	-7.7444580	53.4468838
+Thorney CP (Peterborough)	1608767	-0.0920025	52.6219117
+Circolo della Magliasina	1689480	8.8737328	45.9855207
+Condominio Villa Miranda	6740618	-89.1853512	13.6889770
+Barrio Marina Canestrari	3639044	-58.5359564	-34.4437098
+The 18th Green at Rosemont	2076015	-81.4270698	28.5951053
+Regency Pinnacle Heights	6738778	77.6260414	13.0617586
+Albufeira de Bouçoais-Sonim	2451244	-7.1922002	41.7320726
+Municipio de Capitán Solari	1619894	-59.5293409	-26.7815870
+Hendrick Hamelplantsoen	2350429	4.3315989	52.0783833
+Piazza Leonardo Sciascia	6142564	15.1073598	37.5173314
+Dublin City extension 1941	6135767	-6.3110249	53.3203996
+Santa Ana de Huaycahuacho	1931009	-73.9303137	-14.2242833

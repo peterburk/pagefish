@@ -1,0 +1,7 @@
+Sainte-Colombe-de-Villeneuve	148959	0.6555021	44.3592633
+Regierungsbezirk Stuttgart	22041	9.5438432	49.1443620
+Robinson Lake;Robinson River	5149349	-87.7557917	50.2277560
+Krasnopartizansky District	1746031	48.7634219	51.7056978
+Condomínio Residencial Trianon	6771391	-48.9307071	-16.3010831
+Prof. Dr. Ahmet Taner Kışlalı Mahallesi	6789346	32.6869653	39.8720252
+Piazzale Vittime dell'Heysel	5418786	12.8589796	43.9019956

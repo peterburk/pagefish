@@ -1,0 +1,33 @@
+Saint-Ouen-de-Sécherouvre	2242114	0.4943745	48.5971389
+Vauconcourt-Nervezain	1239493	5.8332498	47.6561895
+Beulotte-Saint-Laurent	1589571	6.6654346	47.8679164
+Saint-Pierre-d'Aurillac	93401	-0.1925840	44.5807898
+Neuvillette-en-Charnie	107589	-0.2099656	48.0895316
+Poleymieux-au-Mont-d'Or	252641	4.7966430	45.8560481
+Saint-Denis-la-Chevasse	169157	-1.3915903	46.8331467
+Saint-Laurent-les-Églises	116655	1.4875738	45.9662124
+Cañitas de Felipe Pescador	5605627	-102.7174836	23.5763835
+Yegoryevsk Urban Okrug	184684	39.1989349	55.2628156
+Distrito Sauce al Norte	2894018	-59.1724760	-32.5179341
+Baghlani Jadid District	6585816	68.6467582	36.2971339
+Barrage Moulay Abdellah	5961856	-9.6723653	30.7738260
+South Lady Evelyn River	3921987	-80.5989509	47.3113943
+Parroquia Puerto Santo	2551291	-63.1636897	10.6706607
+Stadt Ilsenburg OT Drübeck	3998960	10.7070556	51.8555812
+Large Tagdaranao Island	6563238	124.7138102	11.9047384
+Itum-Kalinsky District	1749732	45.4695453	42.6931368
+Area Pengembangan Waduk	5802005	106.8936067	-6.1413614
+Novosibirsky District	1074003	83.2657053	54.9969601
+Glostrup Municipality	2190423	12.4128011	55.6835672
+Ivanteyevsky District	1746027	49.2521157	52.2585987
+Quartiere XXIV Don Bosco	5473783	12.5710662	41.8626140
+Quartier du Chemin de l'Île	6375494	2.1877487	48.8993337
+Greaghawillin (Jackson)	5668611	-6.8068076	53.9794771
+Cornadarragh (Pleydell)	5751930	-7.4633672	54.0873630
+Abney and Abney Grange CP	947964	-1.7060505	53.3132487
+Svatoslav nad Jihlavou	430444	15.6801871	49.3541234
+Condomínio Aldeia da Serra	3074670	-46.9577481	-23.4973679
+Zona Urbana de Extremoz	7394722	-35.2829744	-5.6844289
+Lucainena de las Torres	342927	-2.1765955	37.0546767
+Municipio de Rumi Punco	3456871	-65.5958623	-27.9552958
+Four Courts Ward (pre1849)	5608661	-6.2754173	53.3556117

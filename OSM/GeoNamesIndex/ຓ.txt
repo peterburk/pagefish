@@ -1,0 +1,3 @@
+"Terrenos del Lote ""San Miguel Mecatepec"""	5669632	-97.4972551	20.5676741
+Gemeindeverwaltungsverband Metzingen	2950819	9.2817959	48.5367987
+Electronic Hardware and Technology Park	3596105	77.0103517	28.4324341

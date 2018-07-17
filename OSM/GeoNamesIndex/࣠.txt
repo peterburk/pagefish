@@ -1,0 +1,34 @@
+Sainte-Croix-Grand-Tonne	280406	-0.5578375	49.2332164
+Sainte-Marguerite-d'Elle	131309	-0.9864411	49.2192277
+Saint-Pierre-de-Bailleul	3163284	1.3821909	49.1277854
+Saint-Martin-en-Campagne	1824907	1.2233302	49.9628880
+Saint-Magne-de-Castillon	89250	-0.0756466	44.8542197
+Saint-Laurent-Rochefort	571892	3.9084461	45.7775391
+Saint-Sylvestre-sur-Lot	148956	0.8146185	44.4193409
+Chanceaux-sur-Choisille	77251	0.7043432	47.4762348
+Saint-Hilaire-les-Places	116642	1.1480323	45.6371208
+La Neuville-Chant-d'Oisel	138254	1.2524457	49.3740307
+Distrito Mayor Drummond	2988741	-68.8513301	-33.0093063
+Valdenebro de los Valles	348850	-4.9719434	41.8467907
+gmina Drawsko Pomorskie	2895995	15.8149431	53.5295880
+Kalinovik municipality	2528215	18.4450082	43.4769464
+Sankt Stefan im Rosental	3953393	15.7123998	46.9146657
+Sedankinskoe reservoir	2181024	131.9749064	43.2030916
+Copperopolis Reservoir	7066495	-120.6504053	37.9851749
+Sokilnyky Rural Council	2511081	23.9768009	49.7829448
+St. Catherines River Lake	5146668	-64.8372896	43.8568082
+Boksitogorsky District	1127515	34.5701913	59.6279023
+Las Rozas de Valdearroyo	345140	-4.0300374	42.9669220
+Vargem Grande do Soturno	1887737	-41.0760120	-20.7761796
+Kurmanayevsky District	1395127	51.8070352	52.3846518
+Dorogobuzhsky District	1694041	33.3234080	54.8478695
+North Annville Township	7354655	-76.5513748	40.3585384
+Lebyazhyevsky District	398446	66.5043943	55.2584445
+Golden-island (St. George)	4181314	-7.9294136	53.4182699
+Golden-island (St. George)	6753396	-7.9289943	53.4118413
+Residencial Ana Caroline	7006230	-48.9793959	-16.2701246
+Ensemble ehem. Voigtland	5847112	13.3954266	52.5315063
+Tongshanyuan Reservoir	1963191	118.9353869	29.1360760
+Condomínio Ilha das Orquídeas	5214679	-45.4839986	-21.5869265
+Sankt Nikola an der Donau	129513	14.9452234	48.2305932
+Drohovyzh Rural Council	2512798	23.9258621	49.5126708

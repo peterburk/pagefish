@@ -1,0 +1,20 @@
+Sainte-Colombe-sur-Seine	147006	4.5349793	47.8606956
+Saint-Pierre-de-Curtille	74336	5.8391194	45.7633817
+Saint-Jean-d'Aigues-Vives	2057656	1.8796233	42.9198621
+Microrregião de Pato Branco	4769818	-52.6693068	-25.9902569
+San Martín de Valdeiglesias	347589	-4.3927845	40.3615719
+Zona Sul do Rio de Janeiro	7222459	-43.1937714	-22.9626050
+Carricknacrannoge Lough	3152201	-7.9506371	54.2333123
+Lachish Regional Council	1379423	34.8542959	31.5382206
+Chistoozyorny District	1070662	76.4299475	54.5926080
+Novotoryalsky District	917832	48.5854264	57.0248235
+Onze-Lieve-Vrouw-Lombeek	3956391	4.1070718	50.8227647
+Ballykelly Level (Intake)	4851006	-7.0121989	55.0680991
+Stokesby with Herringby	1022628	1.6006702	52.6400956
+Barrio Nuestra Señora de Itatí	4461170	-58.9024990	-34.3431055
+Santa Rosa Garden Villas 2	3880693	121.1180415	14.3072811
+San Sebastián de Buenavista	1423448	-74.1791027	9.3515238
+Bleury-Saint-Symphorien	1859176	1.7475897	48.5224853
+Piazzale Dante Alighieri	5975037	17.2612111	40.4635836
+"Plac Handlowy ""Manhatan"""	4250698	21.4497643	51.4778665
+Martin-Luther-King-Platz	6671239	9.9785567	53.5676282

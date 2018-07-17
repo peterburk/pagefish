@@ -1,0 +1,67 @@
+Saint-Clément-Rancoudray	975568	-0.8954323	48.6684106
+Saint-Saturnin-du-Bois	117867	-0.6723636	46.1397982
+Maisoncelles-en-Gâtinais	1412804	2.6237853	48.1846581
+Saint-Orens-Pouy-Petit	133294	0.4366139	43.9125845
+Saint-Firmin-sur-Loire	164445	2.7016709	47.6072293
+Couthures-sur-Garonne	113905	0.0644862	44.5208336
+Voisins-le-Bretonneux	49579	2.0455904	48.7596480
+Almenno San Bartolomeo	45902	9.5649307	45.7479576
+San Cristóbal de las Casas	5999725	-92.6155184	16.6835469
+Chikkaballapura taluk	4452726	77.7556201	13.4980626
+Pachalik de Méchouar Fès Jdid	5935998	-4.9945852	34.0541441
+Abou El Hassen District	6809750	1.1215169	36.3620580
+Coolamon Shire Council	6321566	147.1171221	-34.5997239
+Lockhart Shire Council	6322050	146.8103884	-35.3219550
+San Cipriano Picentino	40688	14.8712732	40.7003601
+Doljevac Municipality	2867623	21.8474914	43.2185252
+Microrregião Telêmaco Borba	4761172	-50.6472263	-24.4000000
+Microrregião de Registro	4807833	-47.9210191	-24.6557572
+Montemaggiore Belsito	39372	13.7674179	37.8341998
+Jefferson Davis Parish	1838151	-92.8276765	30.2641420
+La Villa de Don Fadrique	342716	-3.1993559	39.6181167
+Iglusuataliksuak Lake	2770062	-62.0853269	57.0134491
+Represa Alto Palmeiras	3195336	-49.3410685	-26.5864932
+Eiras e São Paulo de Frades	6386150	-8.4034331	40.2486099
+Upper Marie Joseph Lake	5554770	-60.4139792	45.6925219
+Changqing Subdistrict	7423326	117.2598955	31.8079346
+Horhausen (Westerwald)	415014	7.5241967	50.5873006
+La Victoria de Acentejo	341032	-16.4391981	28.4166318
+Ensenada Los Chiqueros	6191109	-85.8657745	11.7681887
+St. Leonhard im Pitztal	77787	10.8515115	47.0072811
+Essert-sous-Champvent	1684963	6.5840931	46.7940325
+Aparecida do Monte Alto	3019306	-48.6241710	-21.2270820
+Tovarnianska Polianka	2322402	21.7722531	48.8951137
+Saint-Martin-du-Tertre	898953	2.3335204	49.1009202
+São Bartolomeu de Regatos	7448368	-27.2815563	38.6986681
+Nieuw- en Sint Joosland	162416	3.6765731	51.4830327
+Microrregião do Rio Negro	4775733	-65.8119286	-0.4350001
+Presidente Kubitschek	315142	-43.5831000	-18.6220001
+Onze-Lieve-Vrouw-Waver	3388167	4.5804974	51.0609138
+Conjunto Bandeirantes	7825365	-43.8422595	-16.7475385
+Ballymeeny (Armstrong)	3212185	-8.9061522	54.2609585
+Tovarnianska Polianka	2322318	21.7722531	48.8951137
+Killamonan (E.D. Finglas)	5407968	-6.3566379	53.4306489
+Ward 4 Meerpet H.B Colony	7852319	78.5715073	17.4540729
+St. Margaret's at Cliffe	2602526	1.3699842	51.1556448
+The Stukeleys CP (Hunts)	1627243	-0.2067526	52.3611807
+Bezirksteil Am Westbad	66807	11.4769019	48.1388464
+Benátky u Ždírce nad Doubravou	432329	15.8457247	49.7090908
+Campton and Chicksands	4072894	-0.3705664	52.0375965
+Khmeleva Rural Council	6768643	25.4840932	48.8761503
+Departamento San Pedro	3199544	-53.9748197	-26.6968805
+Saint-Martin-du-Tertre	949239	3.2431577	48.2050882
+Departamento San Pedro	3560798	-64.8958778	-24.3132989
+Residencial Dom Vitor I	6018246	-53.7353779	-29.7071708
+Parque Jardim Alterosa	5536502	-43.9341118	-19.6845852
+Los Químicos Remo Copello	6129526	-64.2671074	-31.3210105
+Área Residencial Boleíta Sur	5231569	-66.8222641	10.4891603
+Ajay Enclave Extension	3690911	77.1067249	28.6370479
+Represa de Barra Bonita	3097855	-48.3025712	-22.6779077
+Chengguan Subdistrict	7848536	109.0960554	35.1101488
+Hulianka Rural Council	7400333	29.4168166	47.4056532
+Virbalio Miesto Laukai	6902111	22.8157858	54.6192496
+Northumberland Island	2652553	-71.8806271	77.3802500
+Santa Catalina de Mossa	1986215	-79.8782036	-5.1310196
+Lutherischer Kirchhof	4751452	8.7681263	50.8088580
+Rotonda Carlo Giorgini	1659001	13.8844415	42.9522930
+Guancheng Subdistrict	4424333	113.7529688	23.0425387

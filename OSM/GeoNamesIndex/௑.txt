@@ -1,0 +1,3 @@
+Port St Johns Local Municipality	88527	29.4723284	-31.5510300
+St Johnstown Electoral Division	6991682	-7.4843434	54.9150832
+Velyka Borovytsia Rural Council	6501847	26.2730486	50.1303944

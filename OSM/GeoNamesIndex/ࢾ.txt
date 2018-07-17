@@ -1,0 +1,37 @@
+Saint-Denis-Combarnazat	1205321	3.3503737	45.9747625
+Saint-Martin-de-la-Porte	129396	6.4532983	45.2589250
+Mura Statistical Region	1703918	16.2322075	46.6714557
+Karpathos Regional Unit	5324274	26.3440702	35.8426574
+Higashi Kunisaki County	4004910	131.6886948	33.7599703
+Fredersdorf-Vogelsdorf	1332959	13.7453975	52.5189081
+Appenzell Ausserrhoden	1686649	9.2796997	47.3580429
+Rudersdal Municipality	2191577	12.4851539	55.8367164
+Ljubovija Municipality	1765277	19.4640880	44.2193195
+Grand lac Saint-Germains	1565023	-70.6024290	48.4417357
+Lobão, Gião, Louredo e Guisande	6022218	-8.4782874	40.9806274
+Rebordainhos e Pombares	5803779	-6.8706698	41.6637841
+Antonivka Rural Council	7418805	29.6179718	47.5481915
+Little Missinaibi River	4019812	-83.5735181	48.0749572
+Little Missinaibi River	4019813	-83.6086173	48.0925616
+Khlong Khoi Subdistrict	2694938	100.4551077	13.9621044
+Lybokhora Rural Council	2825847	23.5355088	48.8921093
+Lybokhora Rural Council	2674966	22.9596027	48.9164847
+Athy Municipal District	5857133	-6.9275070	53.0083684
+Litchfield and Woodcott	3818821	-1.3501526	51.2883082
+Osiedle Lipa Piotrowska	2339135	16.9965068	51.1708730
+Sant Cugat Sesgarrigues	347538	1.7512221	41.3553572
+Provincia del Tamarugal	1561942	-69.3202577	-20.2829820
+Radishchevsky District	1760240	48.1235860	52.9135618
+Ballynalahessery North	5686904	-7.5660264	52.0951289
+Parque Betim Industrial	5418215	-44.1656003	-19.9593647
+Elstree and Borehamwood	3574043	-0.2736893	51.6572141
+Lány u Libice nad Doubravou	432414	15.7149920	49.7579965
+Town Parks of Donaghadee	4601405	-5.5450109	54.6437096
+Paula Homes Subdivision	1556162	120.9740026	14.4200807
+Silver Creek Apartments	6974632	-82.4577895	34.8582080
+Greenhaven at Ridgeview	2623711	-104.7039668	38.9281093
+Terracina at Lake Forest	2577109	-81.3495006	28.8136675
+Longjiaoshan Reservoir	7444195	121.3887313	37.0480658
+Departamento Quitilipi	1611285	-60.1786389	-26.7002471
+Municipio de Las Lajitas	7247975	-64.5982366	-24.9125365
+Piazza Indro Montanelli	3984638	9.2317111	45.5227359

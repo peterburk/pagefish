@@ -1,0 +1,38 @@
+Saint-Martin-de-la-Cluze	227232	5.6650886	44.9912392
+Heudicourt-sous-les-Côtes	2992786	5.6958758	48.9363783
+Obrenovac Municipality	3059655	20.1343796	44.6106342
+Santiago Tlazoyaltepec	6000111	-96.9761621	17.0285506
+Chiusano di San Domenico	40882	14.9241916	40.9299180
+Municipio de Huasa Pampa	3457614	-65.6333188	-27.8603930
+Gemarkung Winterlingen	4462898	9.1196355	48.1927468
+Nong Bua Lam Phu Province	1925819	102.2418531	17.2224466
+Birr Municipal District	6798741	-7.7571957	53.1057254
+Lago ex Cantera San Jorge	5288103	-55.9392541	-27.3906719
+"Zbiornik wodny ""Babcia"""	4560827	20.4711015	54.0035902
+Shinnecock Reservation	6588265	-72.4369089	40.8682833
+Little Hellhole Reserve	269552	-79.8448335	33.1653379
+Atikwa River;Caviar Lake	3417903	-93.7554680	49.3685538
+Llewellyn Williams Lake	1779220	-97.1936110	55.4155441
+Grissom Air Reserve Base	127921	-86.1423529	40.6536316
+North Stradbroke Island	5911994	153.4487382	-27.5647329
+Rinn Electoral Division	2306138	-7.8234845	53.8853609
+Tuam Electoral Division	6880187	-7.8874739	54.2600115
+Singleton Military Area	6059245	151.1839650	-32.6921644
+uMhlabuyalingana Ward 16	3647008	32.3968914	-27.0651775
+Whitchurch Canonicorum	5672413	-2.8575303	50.7597433
+Ballynastangford Upper	5869772	-9.0345212	53.7508605
+Nelson Mandela Bay Ward 48	3591554	25.3824835	-33.7678351
+Nelson Mandela Bay Ward 39	3591544	25.4714907	-33.9507886
+Nelson Mandela Bay Ward 57	3591564	25.5738853	-33.8063276
+Jinhuadong Subdistrict	7680033	113.1493467	40.1023350
+Residencial Vento Norte	4826656	-53.8133873	-29.7143122
+Vila Sargento Dornelles	4034069	-53.7583186	-29.7039150
+Prairie Creek Reservoir	1820473	-85.2897580	40.1237197
+The Villages Apartments	2019698	-81.4400849	28.4769665
+Kelsey Ridge Apartments	5904359	-122.1604929	47.5959930
+Municipio de Albarellos	4053329	-60.6068258	-33.2356345
+Municipio de Las Petacas	4110862	-62.1475870	-31.8224170
+Mother Teresa Boulevard	7096261	21.1627466	42.6620625
+Plaza del Poeta Iglesias	1079346	-5.6640194	40.9641195
+Fresneda de la Sierra Tirón	341892	-3.1273424	42.2887182
+Hengshanling Reservoir	3009607	114.1609268	38.5708507

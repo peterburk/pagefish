@@ -1,0 +1,61 @@
+Podlaskie Voivodeship	224461	22.7090409	53.3455981
+Angerville-la-Campagne	114661	1.1585491	48.9874386
+Montigny-en-Ostrevent	56244	3.1777416	50.3686132
+Beaucourt-sur-l'Hallue	3000952	2.4277420	49.9980338
+Gharbiyya Governorate	3584607	31.0027572	30.8396396
+Saint-Julien-sur-Veyle	140125	4.9585834	46.2072793
+Saint-Quentin-du-Dropt	1999328	0.5993089	44.6817974
+Auffreville-Brasseuil	75045	1.7058459	48.9542877
+Saint-Hilaire-Bonneval	116637	1.3696376	45.7209907
+Distrito San Francisco	2980570	-68.4936654	-32.5012701
+Newcastle City Council	6189831	151.7039180	-32.8762676
+Landkreis Ludwigsburg	62536	9.1407398	48.9099563
+gmina Igołomia-Wawrzeńczyce	2660243	20.2686919	50.1068708
+Forbach-Boulay-Moselle	5524910	6.6872979	49.1472176
+Danjiangkou Reservoir	936544	111.5739245	32.7555731
+Palilula Municipality	7737269	20.4391715	44.9385930
+Villahermosa del Campo	344360	-1.2309273	41.1126296
+San Vicente de la Cabeza	341720	-6.2574201	41.8061766
+Parroquia Once de Abril	2572863	-62.5407993	8.4036620
+Lac de Schiessrothried	4440850	7.0250986	48.0301087
+Cour-Maugis-sur-Huisne	5812121	0.7060144	48.4567683
+Lough Nahavnovgarriva	2553756	-9.6214627	53.4048789
+Ivanivka Rural Council	7471061	29.0874960	50.6927778
+Little Vermillion Lake	899478	-93.8378789	47.1875307
+Little Vermillion Lake	6522494	-93.8381569	51.2625208
+Breitbrunn am Chiemsee	2186916	12.3890120	47.8895758
+Lyon 7e Arrondissement	10682	4.8347936	45.7323368
+Kavre Nitya Chandeswor	7708815	85.5874569	27.6116837
+Lentekhi Municipality	1997285	42.8381812	42.8145002
+Velyka Lepetykha Raion	1753354	34.1027755	47.0942486
+Dennmore or Leggandenn	4780939	-7.3172096	53.9343745
+Garrynancoonagh North	5342176	-8.6455981	52.3531782
+Glencolumbkille South	4667082	-9.0065411	53.0413335
+Bezirksteil Universität	66090	11.5762190	48.1489324
+Residencial Vale do Sol	7004614	-48.9292222	-16.2922401
+Winterborne Stickland	5647214	-2.2341995	50.8448022
+Waresley-cum-Tetworth	1629603	-0.2054937	52.1745640
+Lisdalleen and Drummin	5438470	-7.7309328	52.7973591
+Felipe Carrillo Puerto	6278282	-88.1401599	21.1516474
+Karayusuflu Mahallesi	6583622	35.2312006	36.8673132
+Clonshaugh (E.D. Coolock)	5406069	-6.2109609	53.4124532
+Felipe Carrillo Puerto	5961487	-88.0800278	19.7379742
+Felipe Carrillo Puerto	6333261	-88.0479941	19.5778720
+Municipio de Avia Terai	1665517	-60.7509467	-26.5843171
+Bolshoy Shantar Island	2138403	137.6497037	54.9057905
+Sabal Palm at MetroWest	2048303	-81.4654142	28.5292151
+Sector Paseo Las Brisas	5844585	-86.3118786	12.1481646
+The Arbors Condominium	6234541	-122.1622249	47.5944072
+Embalse de Valdemurrio	1577906	-6.0108660	43.1988251
+Gratini Reservoir Lake	2368654	25.5189184	41.1664911
+Circolo della Verzasca	1689342	8.8692828	46.3011420
+Embassament de Siurana	5581963	0.9131288	41.2548069
+Teniet El Abed district	6226831	6.3173640	35.3334047
+Municipio de El Aguilar	4500822	-65.6404118	-23.2247528
+Ostheim vor der Rhön (VGem)	2989300	10.1203325	50.4751297
+Santa Coloma de Farners	342519	2.6317895	41.8716743
+Place Villaret Joyeuse	7035453	0.5884130	43.6494613
+Piazza Don Mario Pasini	7700256	10.1937186	45.6089426
+Cascajares de la Sierra	344514	-3.3934662	42.0662562
+Alqchin Rural District	6556530	50.6891430	30.7644944
+St. Andrew's Ward (pre1849)	5595995	-6.2633581	53.3449321

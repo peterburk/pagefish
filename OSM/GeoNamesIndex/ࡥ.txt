@@ -1,0 +1,45 @@
+Montesquieu-Lauragais	1216850	1.6258635	43.4067050
+Saint-Julien-d'Armagnac	123668	-0.1395948	43.9928680
+Saint-Pierre-de-Clairac	1771635	0.7563941	44.1831765
+Margaxori/Morgongiori	40063	8.7389681	39.7628933
+San Sebastián Nicananduta	5999954	-97.6717298	17.5181998
+Almoloya de Alquisiras	5605493	-99.8686947	18.8506292
+Distrito Montecaseros	2955086	-68.2577856	-32.9863818
+Boussemghoun District	6822737	0.0635802	32.8081869
+District de Nosy Boraha	3210271	49.8991213	-16.9036100
+Colmenar de Montemayor	347816	-5.9536207	40.4141631
+Municipality of Konche	2589262	22.4036342	41.5205634
+Microrregião de Capão Bonito	4807686	-48.6106689	-24.2757878
+La Bastide-des-Jourdans	73865	5.6458526	43.7954934
+Arroyo de la Encomienda	344542	-4.7941801	41.6220057
+Petrogradsky District	1114905	30.2858006	59.9642341
+Abzelilovsky District	398526	58.5392247	53.3684233
+Shubenacadie Grand Lake	1430813	-63.6030812	44.9093118
+Oliveira dos Brejinhos	362401	-42.7921500	-12.1925000
+Laghetto dell'Arquello	6307855	8.6343603	45.7045808
+Green Spring Reservoir	1288360	-120.6066739	41.8560935
+Parroquia Montecristi	286800	-80.8928308	-1.1760611
+Upper Peirce Reservoir	2239709	103.8039190	1.3684852
+Lac de la Branche du Nord	1564071	-73.0044664	47.0303080
+Pohirtsi Rural Council	2506573	23.5609173	49.5968815
+Pathum Wan Subdistrict	3320986	100.5348800	13.7412199
+Svietlahorsk District	59137	29.4583639	52.6823950
+Knyagininsky District	1161654	45.1306634	55.7838736
+Passagem dos Teixeiras	6176049	-38.4480426	-12.7328043
+Oliveira dos Brejinhos	6395568	-42.8143098	-12.3886434
+Distrito de Taquarandi	5917088	-40.7036570	-10.7948748
+Quartier Saint-Georges	2189589	2.3336554	48.8800445
+Ballybrowney Mountain	6353904	-8.3213918	52.0781223
+Slatina pod Hazmburkem	428047	14.0412325	50.4320738
+Yanzishan Subdistrict	7680231	112.9265483	40.0872094
+Las Casas III Apartments	2205775	-116.1604544	33.6736460
+Post Oak Lane Townhomes	3813028	-95.4583986	29.7767883
+Osiedle Reymontowskie	3572035	20.9505941	51.6432326
+Student accommodation	2365304	-8.4595580	54.2770141
+Bowman-Haley Reservoir	3472229	-103.2542021	45.9812950
+Gailey Lower Reservoir	3342660	-2.0979367	52.6911351
+Sant Aniol de Finestres	342522	2.6087652	42.0691874
+Winkelcentrum Woensel	4075653	5.4743321	51.4692318
+Adalbert-Stifter-Platz	1935098	14.2875601	48.3068617
+Xiaoshiyang Reservoir	5951589	118.9912824	35.7484775
+Municipio de Cerrillos	7300915	-65.4355781	-24.9253607

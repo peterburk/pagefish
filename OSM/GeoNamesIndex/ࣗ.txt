@@ -1,0 +1,43 @@
+Marseille-en-Beauvaisis	1395355	1.9598980	49.5774293
+Longeville-lès-Saint-Avold	1392609	6.6527868	49.1192028
+Saint-Vincent-sur-l'Isle	3255219	0.9024323	45.2406129
+Courcelles-sous-Châtenois	936635	5.8152727	48.3270515
+Noyal-Châtillon-sur-Seiche	144595	-1.6658959	48.0529235
+Saint-Hilaire-des-Landes	145550	-1.3717344	48.3377402
+Saint-Pierre-de-Chandieu	122827	5.0101965	45.6470774
+Bournoncle-Saint-Pierre	3065548	3.3318969	45.3430806
+Saint-Marcellin-lès-Vaison	187042	5.1033873	44.2369672
+Utenos rajono savivaldybė	966642	25.6908290	55.5143821
+Distrito Pueblo Primero	2892660	-59.3247297	-32.2781352
+Municipio de Teotepeque	6637187	-89.5352834	13.5808179
+San Benedetto del Tronto	42225	13.8787866	42.9273972
+Gemeinde Groß-Schweinbarth	104503	16.6147569	48.4110619
+South Tweedsmuir Island	5349356	-74.2272935	68.3627200
+Nova Varos Municipality	2872868	19.8321988	43.4909588
+Pettoranello del Molise	41378	14.2861303	41.5676118
+McGrindle Creek;Reed Lake	3399568	-81.1864403	46.8470385
+São Miguel do Souto e Mosteirô	6022222	-8.5457784	40.8938112
+Otterpelt Creek;Owl Lake	3919712	-81.6576541	47.2649431
+Wheatland Reservoir No. 3	1851671	-105.7236042	41.8730121
+Nove Misto Rural Council	2824642	22.8571199	49.6052038
+Rückhaltebecken Blockhorn	33600	10.1199206	53.6323930
+Lower Moreland Township	3089080	-75.0349931	40.1353167
+Shire of Mount Alexander	3339104	144.2758059	-37.0757901
+Malovishersky District	177626	32.4685919	58.8103934
+North and South Anston CP	1268039	-1.2122609	53.3502746
+Tabuleiro do Mato Dentro	6133237	-43.5514838	-19.0949412
+Longford Number 2 Urban ED	3078408	-7.7998644	53.7350888
+Oxford Charter Township	572698	-83.2771827	42.8400615
+Uluırmak Ali Hoca Mahallesi	5350557	32.5016853	37.8577777
+Wolica Brzozowa-Kolonia	7152320	23.5243362	50.6081391
+Enclave at Wyndham Woods	2579069	-81.3195363	28.6769978
+Crestmont at Thornblade	4606924	-82.2554328	34.8646197
+Greater Country Estates	2058688	-81.6327785	28.7461728
+Lotificación San Sebastian	6088669	-89.6307724	13.9670252
+Valley View Subdivision	4290359	-103.8756294	44.5152779
+Distrito Costa de Araujo	2980561	-68.4108511	-32.7523682
+Walnuts Shopping Centre	2014749	0.1016309	51.3762456
+Piazza Giuseppe Mazzoli	2265787	13.4177398	41.6907845
+Platz der Alten Synagoge	5558012	7.8460727	47.9947931
+Piazza Giuseppe Missori	5657250	9.1881459	45.4609537
+Kurovychi Rural Council	2529390	24.4134763	49.7639804

@@ -1,0 +1,34 @@
+Beaumont-sur-Vingeanne	151935	5.3483676	47.4639245
+Northwest Territories	391220	-128.3973876	69.5640458
+Saint-Martin-de-Cenilly	733759	-1.2847924	48.9782101
+Saint-Germain-du-Seudre	126509	-0.6882886	45.5103977
+Saint-Martin-des-Pézerits	2886445	0.4856855	48.6284841
+Lumigny-Nesles-Ormeaux	1376328	2.9642335	48.7247112
+Saint-Martin-du-Clocher	254297	0.1549156	46.0679099
+Saint-Paulet-de-Caisson	385997	4.5900787	44.2651610
+Saint-Hilaire-en-Morvan	161677	3.8894679	47.0664018
+Mesorregião Centro Goiano	4873222	-49.6160750	-15.6980000
+Mühlwald - Selva dei Molini	47332	11.7832267	46.9275964
+Djebel Messaad District	6821276	4.0535119	34.9654047
+Gemeinde Schrattenberg	102924	16.7166413	48.7145547
+Campofelice di Roccella	39464	13.8822940	37.9890601
+gmina Bukowina Tatrzańska	2838646	20.1189663	49.3034667
+Prnjavor municipality	2528255	17.6152561	44.8613480
+Thedan Creek;Thedan Lake	3900400	-82.5726165	47.8595138
+Gemeinde Lanzenkirchen	110369	16.2703884	47.7349150
+Lac Katshihtshekakamat	5277396	-60.4120609	50.3156105
+Lac Kakuanaihetshitihk	7501371	-64.0226222	50.4275798
+Kuvshinovsky District	555382	34.1067961	57.0440324
+Nazyvayevsky District	1314107	71.3187120	55.5620637
+Volokonovsky District	1645372	37.7987247	50.4498517
+Bairro Itamaraty 4 Etapa	7002743	-48.9713340	-16.3059326
+Setor de Autarquias Sul	6886857	-47.8800074	-15.8023896
+Suchdol v Moravském krasu	429694	16.7181083	49.3787945
+Şehitler Tepesi Mahallesi	6563947	34.8646446	36.9382096
+Manorland (1st Division)	4554756	-6.7904083	53.5516141
+The Courtyards at Errol	2051220	-81.5279463	28.6938543
+Comunidad El Campamento	6701139	-89.6000695	13.5162769
+Lake Clarice Plantation	2013628	-81.5823651	28.4985030
+Largo Francesco Vecchio	7149468	15.1602467	37.6196707
+Santa Mariña de Lagostelle	5514031	-7.9460510	43.1948212
+Residencial Dom Emanuel	7007946	-48.9831001	-16.2804376

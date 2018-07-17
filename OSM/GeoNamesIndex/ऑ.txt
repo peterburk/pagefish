@@ -1,0 +1,32 @@
+Pressagny-l'Orgueilleux	2712453	1.4652455	49.1297979
+Saint-Sorlin-de-Morestel	138389	5.4759437	45.6319051
+Saint-Victor-de-Morestel	104374	5.4959924	45.7044628
+Thuilley-aux-Groseilles	2373086	5.9762140	48.5797538
+Saint-Julien-sur-Garonne	124148	1.1557519	43.2494211
+Soulosse-sous-Saint-Élophe	938056	5.7304175	48.4106296
+Montreuil-sur-Thonnance	406294	5.2359619	48.4598602
+Landkreis Mittelsachsen	62350	13.0425802	50.9345133
+Astaneh Ashrafieh County	6554861	50.0061206	37.3372401
+Sa Baronia/Villaperuccio	39803	8.6520881	39.1155733
+Barty Lake;Engineer Creek	3897750	-82.7986763	47.7692535
+Parada e Sendim da Ribeira	5729056	-6.8857026	41.2938904
+Sainte-Justine-de-Newton	7696252	-74.3784246	45.3626788
+Boundary Creek;Lodge Lake	3372545	-81.6795917	46.8773934
+Main Outlet (French River)	6519042	-80.8532532	45.9763883
+North Algona Wilberforce	7352023	-77.2221962	45.6071850
+West Fishtail Creek Lakes	5959487	-109.8074146	45.2945513
+Figline e Incisa Valdarno	42520	11.4247600	43.6288905
+Quinces Seven Island Lake	3170696	-61.7334807	45.1646795
+Hopfgarten in Defereggen	1020766	12.5030103	46.8980283
+Osiedle Jana Zamoyskiego	2746049	23.2834166	50.7183820
+Malin Electoral Division	6988154	-7.2835963	55.3233059
+San Millán de los Caballeros	339751	-5.5877015	42.2891484
+Samtgemeinde Salzhausen	252892	10.1331402	53.2403721
+Vilkaviškio miesto seniūnija	4279738	23.0295980	54.6513442
+Regency Place Apartments	6983332	-81.5441947	30.3279574
+Nuestra Señora de Guadalupe	4475044	-66.1730419	-17.3429789
+Paradise Hill Apartments	5747066	-87.3172965	36.5083263
+Santa Rosa de Calamuchita	3918143	-64.5311637	-32.0766711
+Departamento Quebrachos	3575760	-63.3730398	-29.3714458
+Hongchaojiang Reservoir	1173276	109.1444312	21.8776250
+Piazza del Beato Angelico	6153295	15.0816197	37.5203193

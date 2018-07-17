@@ -1,0 +1,26 @@
+Goulburn Mulwaree Council	6310493	149.8017214	-34.9008968
+"Terrenos del Lote ""La Isla"""	5765395	-97.3633235	21.0482253
+"Terrenos del Lote 20 ""Escolín"""	5405115	-97.3717399	20.4970090
+Comisión de Fomento de Cañadón Seco	3430540	-67.6192282	-46.5550718
+Igoumenitsa Municipality	2227642	20.3229775	39.4243822
+Microrregião Macacu-Caceribu	2219083	-42.7388937	-22.6084739
+Távora (Santa Maria e São Vicente)	4648491	-8.4700454	41.8200396
+Malveira e São Miguel de Alcainça	6522380	-9.2713890	38.9278298
+Sainte-Brigide-d'Iberville	7820569	-73.0700393	45.3177340
+Nieuwerkerk aan den IJssel	107350	4.6090268	51.9663505
+Las Tres Rocas del Carallot	1865859	0.6742037	39.8507477
+Serafimovichsky District	1103654	42.7517541	49.4953465
+Ward 155 Thiruvanmiyur East	69070	80.2626494	12.9846878
+Moneenalion Commons Upper	4141146	-6.4391167	53.2994418
+Ballindagny and Cullyvore	2306194	-7.6282112	53.6893920
+Vrbice u Roudnice nad Labem	427143	14.2793523	50.4887931
+Hartington Town Quarter CP	947853	-1.8018546	53.1450051
+Sundays River Valley Ward 3	3580031	26.0480468	-33.6490200
+Residencial Cidade Jardim I	7245689	-54.8559432	-22.2373545
+San Juan del Sur (Municipio)	5743247	-85.8505683	11.2383610
+Municipio de Campo Quijano	7292845	-65.8991072	-24.4789857
+Sandslihaugen borettslag	4828267	5.2786816	60.2948965
+Regency Square Apartments	5747069	-87.3244803	36.5046265
+Lotificación Las Granadillas	6423597	-89.5690724	14.0120762
+The Preserve at Jordan Lake	6633934	-79.0581709	35.7767178
+Municipio de Pueblo Marini	4159399	-61.8802755	-31.0110316

@@ -1,0 +1,51 @@
+Bonneville-sur-Touques	145834	0.1219910	49.3282706
+Bosc-Renoult-en-Roumois	550371	0.7744026	49.2990231
+Saint-Cirgues-sur-Couze	2458509	3.1461288	45.5472714
+Villotte-devant-Louppy	2981876	5.0782356	48.8900789
+Saint-Hippolyte-du-Fort	396136	3.8527076	43.9514785
+Saint-Laurent-du-Mottay	302060	-0.9552322	47.3516647
+Saint-Symphorien-d'Ozon	126647	4.8716571	45.6385689
+Inkhundla Lugongolweni	1253005	32.0127893	-26.3434250
+La Rinconada de la Sierra	347661	-6.0414344	40.6122532
+Cassinetta di Lugagnano	44973	8.9083785	45.4252526
+gmina Stare Bogaczowice	3045840	16.1617724	50.8294199
+Inner and Middle Temples	2730005	-0.1102603	51.5124231
+Odsherred Municipality	2180212	11.6072367	55.8717715
+Khur and Biabanak County	6555004	54.9882190	33.6731252
+Northern Bay Island Pond	1754615	-53.1648578	47.9510670
+Lago Tres Departamentos	2319633	-57.5329047	-25.9658361
+Nedre Petarteigsvatnet	4840226	5.3640008	59.8127127
+Gulpilhares e Valadares	5991765	-8.6419015	41.0863145
+Soil Conservation Site 1	3979594	-97.8801288	30.0198718
+Bisk Lake;Pickerel River	3326257	-91.3322050	48.5769670
+Esther Creek;Esther Lake	3931876	-81.3659206	47.6282596
+Eleanor Lake;Wapus Creek	3921722	-80.9138880	47.4249155
+Lac Saint-François-d'Assise	557158	-75.1712359	46.3993388
+Clover Creek;Clover Lake	4162299	-87.1769038	49.7842600
+Kamuck Lake;Kamuck River	4128952	-87.2908344	49.2358962
+Villamayor de Calatrava	340233	-4.1875925	38.7898090
+Lyon 1er Arrondissement	10690	4.8266743	45.7694059
+Pedanía de Cañadas de San Pedro	4062925	-0.9804285	37.9542298
+Alto Estanqueiro-Jardia	6444908	-8.9286635	38.6764896
+Canton Jose A.de Palacios	4055948	-66.1408011	-14.9005031
+Oberried am Brienzersee	1682591	7.9645471	46.7579024
+Dalworthington Gardens	6571630	-97.1591364	32.6945215
+Charfasson Subdistrict	4820113	90.7145890	22.0429859
+uMhlabuyalingana Ward 17	3647009	32.7426321	-26.9512204
+Pioneiros Catarinenses	6727059	-53.4841286	-24.9737678
+Nelson Mandela Bay Ward 49	3591555	25.3676288	-33.7435460
+Nelson Mandela Bay Ward 58	3591565	25.5937009	-33.8109571
+Crowdy Bay National Park	6063485	152.7317739	-31.7880509
+Brandenburger Vorstadt	6577656	13.0269143	52.3983337
+Brier Creek Country Club	6415307	-78.7959781	35.9125252
+Orange Manor Apartments	1995808	-81.4100120	28.5327549
+Área Residencial Caurimare	5455949	-66.8342641	10.4745491
+Fairway Club Apartments	4607227	-82.3509201	34.8592570
+Shihuangfeng Reservoir	1124308	116.0587546	24.9598749
+Kastraki Reservoir Lake	7778004	21.3643297	38.8064339
+Senoncourt-les-Maujouy	2985251	5.3445672	49.0586790
+Municipio de Caraguatay	3207694	-54.6939947	-26.7411914
+Perlethorpe cum Budby CP	957401	-1.0550325	53.2349468
+Piazza della Colonnella	6835779	10.3056039	43.5493558
+Piazza Luigi Berlinguer	6926571	14.5197776	36.9490940
+Zhdanivka Municipality	2917784	38.3129485	48.1126104

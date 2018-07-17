@@ -1,0 +1,27 @@
+Cheffreville-Tonnencourt	158871	0.2337906	49.0271387
+Holy Island of Lindisfarne	6047801	-1.7936781	55.6785260
+La Madeleine-de-Nonancourt	3318824	1.2169424	48.7908572
+Municipality of Gevgelija	2591417	22.3898656	41.2529678
+Vordingborg Municipality	2171256	11.9743697	55.0583876
+Little Egg Harbor Township	962547	-74.3518382	39.6359310
+Saint-Pierre-le-Déchausselat	6858062	4.1078412	44.4594983
+Vila Frescainha (São Martinho)	4055616	-8.6334643	41.5340481
+Urlaur Electoral Division	6908968	-8.7745415	53.8722104
+Sundays River Valley Ward 1	3580029	25.4813219	-33.3998126
+Glesbygd Norrlindsjö, Hassel	2778142	16.7840164	62.2605744
+New Frankley in Birmingham	6192555	-2.0161257	52.4055124
+Regency Wood Condominiums	6983331	-81.5413698	30.3275552
+Zuffenhausen-Am Stadtpark	1107934	9.1534161	48.8285974
+Francis E Walter Reservoir	7074432	-75.6960866	41.1289182
+Barrio Altos de Manzanares	2628010	-58.9969686	-34.4433069
+Área residencial La Rinconada	6454379	-66.9416241	10.4320964
+Brookwood Club Apartments	6913430	-81.5327218	30.3439375
+Central Business District	6676761	-118.7995044	55.1722540
+Piatnychany Rural Council	2514293	23.9287534	49.3674216
+Municipio de Colonia Bossi	4206239	-61.7878409	-30.6731086
+Municipio de Pueblo Uranga	4059993	-60.7228013	-33.2794202
+Ifri Ouzellaguen District	4069555	4.5766983	36.5478524
+El Tuma - La Dalia (Municipio)	5752417	-85.6770929	13.1160526
+Plaza Singapura Forecourt	6979461	103.8448115	1.2997233
+Bürgermeister-Schmidt-Platz	1181564	12.7430239	51.3718024
+Jingyuan Road Subdistrict	7034359	103.7916161	36.0776103

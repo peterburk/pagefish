@@ -1,0 +1,33 @@
+Garmisch-Partenkirchen	939334	11.1213712	47.4711615
+Giffaumont-Champaubert	2607880	4.7458531	48.5641557
+Montigny-devant-Sassey	1776281	5.1347480	49.4273199
+Guindrecourt-aux-Ormes	3109088	5.0377264	48.4528594
+Château-Arnoux-Saint-Auban	365717	5.9893994	44.0800061
+Provincia de Magallanes	1980481	-72.6545006	-53.4164722
+Santa Domenica Vittoria	39428	14.9577678	37.9351535
+Vila Garcia, Aboim e Chapa	5830091	-8.0655608	41.3222670
+Billy Creek;Johnnie Lake	3230246	-81.2339815	46.0954293
+Billy Creek;Johnnie Lake	3242007	-81.2764040	46.0615269
+Şehit Mehmet Hallaç Mahallesi	7070350	36.1176005	37.3610843
+Shortie Lake;Waban Creek	2416128	-100.8740741	56.7595352
+Doctor Marcelino Vargas	6412434	-65.3398721	-24.1649910
+Cuartel Segundo Catello	3428976	-58.7217534	-34.5738555
+Microrregião de Parintins	4775797	-57.6432262	-3.5425000
+Partido de Adolfo Alsina	2580751	-62.9593267	-37.1699863
+Prinzapolka (Municipio)	5762574	-84.0133058	13.5129130
+Drumlitten (Besborough)	5483887	-7.8872670	54.0243199
+Anexo Antonio Fernandes	7002270	-48.9519778	-16.3021351
+Chillerton and Gatcombe	917997	-1.3123050	50.6488452
+Lukov u Moravských Budějovic	427062	15.8227086	49.0736800
+Krumbach (Schwaben) (VGem)	2943881	10.3071163	48.2409252
+Mallard Cove Apartments	6769285	-81.4278880	30.3666225
+The Meridian Apartments	6983336	-81.5442405	30.3346919
+Shanglandian Reservoir	2093283	112.5961107	24.7893827
+Departamento San Miguel	3127990	-57.5610065	-27.9456989
+Place de la Capitainerie	1828522	3.6620828	43.3936560
+Place de la Capitainerie	5365279	4.8153555	45.7431947
+Plaça d'Ernerst Lluch i Martín	7650557	2.0352247	41.3374518
+Oregon Readiness Center	7426884	-116.9694251	44.0147238
+Skwer Tadeusza Kościuszki	2219211	18.5478237	54.5190863
+Skwer Tadeusza Kościuszki	2219159	18.5461766	54.5192046
+San Esteban de Zapardiel	339897	-4.8977205	41.0982606

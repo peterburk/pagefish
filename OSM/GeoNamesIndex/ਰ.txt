@@ -1,0 +1,10 @@
+Saint-Julien-de-Bourdeilles	2992902	0.5835679	45.3606691
+Saint-Martin-de-Fressengeas	3225906	0.8472612	45.4565820
+Sainte-Colombe-en-Bruilhois	395925	0.5158682	44.1875154
+La Madelaine-sous-Montreuil	1674561	1.7480811	50.4659308
+Lac des Vingt-Quatre Arpents	1594963	-68.6772021	48.1998427
+Muriel River;Queenston Lake	5201450	-86.7122374	50.4872704
+Gobernador Edgardo Castello	6117159	-63.0077106	-40.8229418
+Preserve at Waterway Island	6640694	-81.4180406	30.3064797
+Paseo de la Playa de Poniente	1282040	-5.6765897	43.5432078
+Piazza delle Lingue d'Europa	6445895	11.2282687	43.8195473

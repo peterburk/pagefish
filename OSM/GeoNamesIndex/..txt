@@ -1,0 +1,177 @@
+Fyé	relation	administrative	0.0820385
+𐀀 4
+𐀀 4
+𐀀 4
+𐀀 4
+𐀀 4
+𐀀 4
+𐀀 4
+Fyé	relation	administrative	0.0820385
+Féy	relation	administrative	6.1050303
+Löf	relation	administrative	7.4285322
+Úrkút	relation	administrative	17.6827528
+Třemošná	439762	13.3907638	49.8229651
+Rém	relation	administrative	19.1315076
+Třebeň	438945	12.4061254	50.1262950
+Ärr	relation	water	12.4751349
+Saddina صدينة	2752874	-5.4500982	35.6279915
+Lió	relation	administrative	2.7562949
+Ocieść	relation	administrative	20.7828568
+Třebeň	433482	12.3990255	50.1299400
+Třemošná	425386	13.3978532	49.8255177
+Hồ Triệu Ái	relation	reservoir	107.1144280
+Fyé	relation	administrative	0.0820385
+Féy	relation	administrative	6.1050303
+Löf	relation	administrative	7.4285322
+Úrkút	relation	administrative	17.6827528
+Třemošná	439762	13.3907638	49.8229651
+Rém	relation	administrative	19.1315076
+Třebeň	438945	12.4061254	50.1262950
+Ärr	relation	water	12.4751349
+Saddina صدينة	2752874	-5.4500982	35.6279915
+Lió	relation	administrative	2.7562949
+Ocieść	relation	administrative	20.7828568
+Třebeň	433482	12.3990255	50.1299400
+Třemošná	425386	13.3978532	49.8255177
+Hồ Triệu Ái	relation	reservoir	107.1144280
+Fyé	relation	administrative	0.0820385
+Féy	relation	administrative	6.1050303
+Löf	relation	administrative	7.4285322
+Úrkút	relation	administrative	17.6827528
+Třemošná	439762	13.3907638	49.8229651
+Rém	relation	administrative	19.1315076
+Třebeň	438945	12.4061254	50.1262950
+Ärr	relation	water	12.4751349
+Saddina صدينة	2752874	-5.4500982	35.6279915
+Lió	relation	administrative	2.7562949
+Ocieść	relation	administrative	20.7828568
+Třebeň	433482	12.3990255	50.1299400
+Třemošná	425386	13.3978532	49.8255177
+Hồ Triệu Ái	relation	reservoir	107.1144280
+N’zi	3601647	-4.4178761	7.0103664
+Bük	1131486	16.7623492	47.3856111
+Kırkağaç	relation	administrative	27.8597062
+Věžnička	relation	administrative	15.7046555
+Tát	1027833	18.6442275	47.7446156
+Mikkes ميكس	2808805	-5.2671621	34.1276153
+N’zi	3601647	-4.4178761	7.0103664
+Bük	1131486	16.7623492	47.3856111
+Kırkağaç	relation	administrative	27.8597062
+Věžnička	relation	administrative	15.7046555
+Tát	1027833	18.6442275	47.7446156
+Mikkes ميكس	2808805	-5.2671621	34.1276153
+Žírec	423701	13.7196560	49.0843326
+Věžnička	relation	administrative	15.7046555
+Bzí	relation	administrative	13.4801338
+Černá Hať	relation	administrative	13.3212514
+Vár	2786100	19.0349419	47.4997360
+Žaugėdų ež.	relation	water	25.6895851
+N’zi	3601647	-4.4178761	7.0103664
+Płońsk	relation	administrative	20.3642792
+Płońsk	relation	administrative	20.3642792
+Réo	5705226	-2.5041102	12.3305127
+Ağaçören	relation	administrative	33.8911106
+Amellagou املاكو	2827164	-4.8996650	32.0227176
+-	relation	water	10.7390718
+Rørsø	relation	water	9.1752604
+Iža	relation	administrative	18.2331597
+Iža	relation	administrative	18.2331597
+Vížky	relation	administrative	15.8471498
+Bošířany	relation	administrative	12.7961621
+Ida Ou Aazza ايذا وعزا	2820905	-9.7290136	31.1612600
+N’zi	3601647	-4.4178761	7.0103664
+Bük	1131486	16.7623492	47.3856111
+Kırkağaç	relation	administrative	27.8597062
+Věžnička	relation	administrative	15.7046555
+Tát	1027833	18.6442275	47.7446156
+Mikkes ميكس	2808805	-5.2671621	34.1276153
+Žírec	423701	13.7196560	49.0843326
+Věžnička	relation	administrative	15.7046555
+Bzí	relation	administrative	13.4801338
+Černá Hať	relation	administrative	13.3212514
+Vár	2786100	19.0349419	47.4997360
+Žaugėdų ež.	relation	water	25.6895851
+Płońsk	relation	administrative	20.3642792
+Płońsk	relation	administrative	20.3642792
+Réo	5705226	-2.5041102	12.3305127
+Ağaçören	relation	administrative	33.8911106
+Amellagou املاكو	2827164	-4.8996650	32.0227176
+-	relation	water	10.7390718
+Rørsø	relation	water	9.1752604
+Iža	relation	administrative	18.2331597
+Iža	relation	administrative	18.2331597
+Vížky	relation	administrative	15.8471498
+Bošířany	relation	administrative	12.7961621
+Ida Ou Aazza ايذا وعزا	2820905	-9.7290136	31.1612600
+Izé	relation	administrative	-0.3072493
+Lempäälä	1700646	23.7837487	61.3323108
+Öcs	relation	administrative	17.6052386
+Gór	relation	administrative	16.7983572
+Dör	relation	administrative	17.3113398
+Édéa II	3830968	10.3220482	3.9968281
+Søa	relation	water	9.0836552
+Takoucht تاكوشت	2820912	-9.4622884	31.2202382
+Veľký Lapáš	relation	administrative	18.1852030
+Hýľov	relation	administrative	21.0855796
+Urečča	5583798	26.7660527	54.5194740
+Pęcław	relation	administrative	21.1974028
+Veľký Lapáš	relation	administrative	18.1852030
+Hýľov	relation	administrative	21.0855796
+Třebeč	relation	administrative	14.6818387
+Podzámčí	relation	administrative	13.0377232
+Urečča	6722718	27.8851713	52.9486241
+Pęcław	relation	administrative	16.2385693
+Ouled Youssef أولاد يوسف	2882586	-6.4887232	32.5653555
+Izé	relation	administrative	-0.3072493
+Lempäälä	1700646	23.7837487	61.3323108
+Öcs	relation	administrative	17.6052386
+Gór	relation	administrative	16.7983572
+Dör	relation	administrative	17.3113398
+Édéa II	3830968	10.3220482	3.9968281
+Søa	relation	water	9.0836552
+Takoucht تاكوشت	2820912	-9.4622884	31.2202382
+Veľký Lapáš	relation	administrative	18.1852030
+Hýľov	relation	administrative	21.0855796
+Urečča	5583798	26.7660527	54.5194740
+Pęcław	relation	administrative	21.1974028
+Veľký Lapáš	relation	administrative	18.1852030
+Hýľov	relation	administrative	21.0855796
+Třebeč	relation	administrative	14.6818387
+Podzámčí	relation	administrative	13.0377232
+Urečča	6722718	27.8851713	52.9486241
+Pęcław	relation	administrative	16.2385693
+Ouled Youssef أولاد يوسف	2882586	-6.4887232	32.5653555
+Cún	relation	administrative	18.0718748
+Hargeysa هرجيسا	1720110	44.2600911	9.6249999
+Vát	relation	administrative	16.7859890
+Pér	relation	administrative	17.8482485
+Rūdiškės	relation	administrative	24.8255202
+Cún	relation	administrative	18.0718748
+Hargeysa هرجيسا	1720110	44.2600911	9.6249999
+Vát	relation	administrative	16.7859890
+Pér	relation	administrative	17.8482485
+Rūdiškės	relation	administrative	24.8255202
+Cún	relation	administrative	18.0718748
+Hargeysa هرجيسا	1720110	44.2600911	9.6249999
+Vát	relation	administrative	16.7859890
+Pér	relation	administrative	17.8482485
+Rūdiškės	relation	administrative	24.8255202
+Hóp	38812	-20.4981929	65.5467771
+Avô	relation	administrative	-7.9061494
+Kováčová	relation	administrative	20.6958956
+Kováčová	relation	administrative	19.0883402
+Kováčová	relation	administrative	20.6958956
+Kováčová	relation	administrative	19.0883402
+Dar Chaoui دار شاوي	2752820	-5.7572271	35.5726925
+Cún	575332	18.0718748	45.7984720
+Hargeysa هرجيسا	1720110	44.2600911	9.6249999
+Vát	1131662	16.7859890	47.2766345
+Pér	1440632	17.8482485	47.5983296
+Rūdiškės	2822274	24.8255202	54.5154897
+Hóp	38812	-20.4981929	65.5467771
+Avô	6553523	-7.9061494	40.2962644
+Kováčová	2381131	20.6958956	48.6441491
+Kováčová	2265052	19.0883402	48.6063146
+Kováčová	2381028	20.6958956	48.6441491
+Kováčová	2264987	19.0883402	48.6063146
+Dar Chaoui دار شاوي	2752820	-5.7572271	35.5726925

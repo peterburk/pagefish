@@ -1,0 +1,12 @@
+Municipio de Santa Cruz y La Tuna	3466507	-65.4457332	-27.3505368
+Black Duck Ponds;Black Duck River	2833033	-53.5572592	47.2312453
+Black Duck Ponds;Black Duck River	2833032	-53.5560992	47.2329995
+Ballynakill Electoral Division	4128590	-9.9440011	53.5433252
+Ballynakill Electoral Division	6831633	-8.4261996	53.6381241
+Ballymacool Electoral Division	7000730	-7.7922024	54.9434629
+Ballynakill Electoral Division	6801603	-8.4743777	53.5034937
+Tully South (detatched portion)	4431039	-6.2806728	55.0662839
+Tully South (detatched portion)	4431031	-6.2588241	55.0718897
+Piazza Santa Maria delle Carceri	535462	11.0980000	43.8793149
+Plazoleta de la Actríz Aurora Sánchez	4481240	-5.6505463	43.5373262
+Piazza Santa Maria della Guardia	6142566	15.1056841	37.5192977

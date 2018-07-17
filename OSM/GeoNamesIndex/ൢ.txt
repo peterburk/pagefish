@@ -1,0 +1,4 @@
+Alberni-Clayoquot Regional District	2218263	-125.3279396	49.1177584
+Condomínio Residencial Fazenda Mirante	7318781	-44.3483059	-20.1017223
+Sector Oeste Centro Histórico Cultural	5846098	-86.2745075	12.1566849
+Piazza Monsignor Giuseppe Lo Giudice	6360477	14.7605723	37.1604114

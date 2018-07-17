@@ -1,0 +1,30 @@
+Benque-Dessous-et-Dessus	1432361	0.5390183	42.8224603
+Saint-Christophe-sur-Roc	151712	-0.3604855	46.4576722
+Saint-Maurice-Navacelles	276144	3.5065790	43.8421200
+Castione della Presolana	46415	10.0498981	45.9192647
+Cranbrook & Sissinghurst	2404628	0.5382964	51.0982569
+Atsaphangthong District	5831672	105.3299968	16.6995733
+Ingwe Local Municipality	611317	29.8579627	-29.8717400
+Laguna Valle de Las Garzas	1937207	-104.3101403	19.0939645
+Plounéour-Brignogan-Plages	6837739	-4.3272268	48.6518516
+Kangaroo Creek Reservoir	3314511	138.7898295	-34.8600060
+San Vicente de Tagua Tagua	1666367	-71.1044348	-34.4540987
+Municipio de Basavilbaso	2901064	-58.8865806	-32.3592870
+Provincia de Antofagasta	1561897	-69.3192231	-24.2423100
+Bellair or Cappanapinion	4475387	-7.5144593	53.1433294
+Counthorpe and Creeton CP	1402064	-0.5114026	52.7724803
+Sedlec u Benátek nad Jizerou	427761	14.7836778	50.3043446
+Barrio Maschwitz Village	4116133	-58.7450998	-34.3676855
+Holley Garden Apartments	2058690	-81.3746632	28.5047934
+Municipio de Santa Isabel	4076188	-61.7420676	-33.9104909
+Departamento Dos de Abril	1606453	-61.3506250	-27.6478448
+Municipio de Santa Isabel	3423157	-66.5721424	-36.4239171
+Municipio de Ataliva Roca	3420399	-64.2501948	-37.0082958
+Ksar El Boukhari District	2754676	2.8460590	35.8774647
+Piazza Guglielmo Marconi	4129997	15.1501650	37.0804279
+Piazza Guglielmo Marconi	6647912	8.7345785	45.9048478
+Piazza Guglielmo Marconi	5970199	14.9076769	37.0591791
+Piazza Guglielmo Marconi	1203192	15.0792184	37.6162686
+Piazza Guglielmo Marconi	2185982	13.1525758	41.7448169
+Piazza Guglielmo Marconi	6421732	12.0595066	42.3184558
+Piazza Guglielmo Marconi	4718165	15.0278546	37.1607455

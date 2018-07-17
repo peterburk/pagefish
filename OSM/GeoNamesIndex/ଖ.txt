@@ -1,0 +1,7 @@
+Gemeinde Markersdorf-Haindorf	958604	15.4938608	48.1827172
+Arbutus Lake;Little Rush River	3877279	-82.1347984	47.5519779
+Arbutus Lake;Little Rush River	3877538	-82.1404890	47.5728939
+Perhentian Islands - Big island	3405486	102.7557811	5.9028439
+Addergoole Electoral Division	6089347	-9.2863850	54.0095434
+Addergoole Electoral Division	6792636	-8.8427608	53.6396357
+Jumeirah Village Circle Villas	7508055	55.2074087	25.0559470

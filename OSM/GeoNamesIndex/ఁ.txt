@@ -1,0 +1,3 @@
+Vilkaviškis District Municipality	966580	22.9419025	54.5770715
+Verwaltungsgemeinschaft Achern	2975297	8.0982477	48.6349392
+Siedlung an der Albersdorfer Straße	4131474	12.3071063	51.2850352

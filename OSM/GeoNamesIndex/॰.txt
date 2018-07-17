@@ -1,0 +1,32 @@
+Saint-Pierre-de-Bressieux	1347688	5.3015999	45.3036108
+Saint-Sulpice-de-Pommiers	2011800	-0.1140441	44.6758620
+Ollasta Useddus/Albagiara	40081	8.8766702	39.8085061
+Landkreis Dahme-Spreewald	62376	13.8678185	52.0736707
+Iguala de la Independencia	5605882	-99.6023670	18.1923169
+Microrregião Baía da Ilha Grande	2217368	-44.2344506	-23.1555210
+Microrregião de Prudentópolis	4774899	-50.7308750	-25.2037604
+Yuzhnoye Butovo District	1257403	37.5480761	55.5258704
+Bardenas Reales de Navarra	342322	-1.4662508	42.1611683
+Naledi Local Municipality	611663	24.7624752	-26.8145200
+Sarkin Mafara-Sarkin Baura	3707091	6.6104581	12.6090934
+Naledi Local Municipality	593814	26.8849795	-29.6977251
+Drehid Electoral Division	4478686	-6.8852254	53.3627727
+Scheffau am Tennengebirge	86360	13.2522596	47.5850556
+Vila Nossa Senhora das Graças	5418281	-44.2029407	-19.9425535
+Vila Nossa Senhora das Graças	6377465	-48.6691317	-26.9218042
+Embalse del Guri (Lago Guri)	3400721	-62.8078145	7.2682550
+Piazza Giuseppe Garibaldi	6829481	10.3146256	43.5535699
+Piazza Giuseppe Garibaldi	6632919	12.6820575	41.8084307
+Piazza Giuseppe Garibaldi	6193059	10.8826345	42.7634355
+Karaoli & Dimitriou Square	5453857	25.3266705	37.4476145
+Piazza Giuseppe Garibaldi	1850597	17.2193075	40.9950744
+Piazza Giuseppe Garibaldi	1257081	10.2465791	43.8659822
+Grand Place de Sambreville	3952372	4.6351639	50.4472284
+Piazza Giuseppe Garibaldi	3230582	13.3044639	46.5064237
+Piazza Giuseppe Garibaldi	6003865	8.5525050	45.9214292
+Piazza Giuseppe Garibaldi	6658837	10.8419110	45.8849922
+Piazza Giuseppe Garibaldi	5887127	11.7916688	45.0706213
+Piazza Giuseppe Garibaldi	5513692	8.6342831	45.7240335
+Piazza Giuseppe Garibaldi	5981756	9.3899248	45.8532089
+Piazza Giuseppe Garibaldi	5441182	10.1389424	44.0342585
+Municipal Unit of Ymittos	1400371	23.7465302	37.9519565

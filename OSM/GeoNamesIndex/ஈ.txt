@@ -1,0 +1,14 @@
+Autonomous City of Buenos Aires	3082668	-58.4356235	-34.6161232
+Autonomous City of Buenos Aires	1224652	-58.4356235	-34.6161232
+Crevans-et-la-Chapelle-lès-Granges	302292	6.5922635	47.5485741
+Xunhua Salar Autonomous County	4470189	102.4732294	35.6836688
+Gemeinde Burgschleinitz-Kühnring	105950	15.7839884	48.6111105
+Bourmont-entre-Meuse-et-Mouzon	6434503	5.6104985	48.2050066
+Pasiky-Zubrytski Rural Council	2510747	24.0840360	49.7777997
+Alte Kiesgrube Katharinenrieth	4058897	11.3308783	51.3976265
+Marine Corps Base Camp Pendleton	317712	-117.4241728	33.3545342
+Greaghglass Electoral Division	5525248	-7.8827556	54.0717802
+Tughlakabad Institutional Area	3777563	77.2443499	28.5138481
+Parque Residencial Universitário	7552845	-54.6720803	-16.4584762
+Barrio Leopoldo Herrera Sector 2	4266495	-59.0300848	-31.8565355
+Parque Residencial Universitário	3952952	-53.7206788	-29.6994115

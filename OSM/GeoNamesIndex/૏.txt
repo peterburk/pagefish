@@ -1,0 +1,10 @@
+Landkreis Hersfeld-Rotenburg	62637	9.7628254	50.9015053
+"Terrenos del Lote ""Temapache"""	5762221	-97.6194108	21.0723638
+Gemeinde Hainburg an der Donau	958936	16.9495080	48.1495551
+Rosnakill Electoral Division	6967308	-7.6825176	55.1951980
+Killinure Electoral Division	4219935	-7.9171007	53.4898584
+Tuam Urban Electoral Division	4179655	-8.8488852	53.5144660
+Mays Chapel Village Townhomes	7426385	-76.6552933	39.4479999
+Rothenburg ob der Tauber (VGem)	2984705	10.2836020	49.3851325
+Comisión Municipal de El Potrero	7259851	-64.5788134	-25.9107669
+Hauptplatz Deutschlandsberg	3004636	15.2140237	46.8147772

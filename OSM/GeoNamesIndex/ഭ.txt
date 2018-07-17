@@ -1,0 +1,4 @@
+Mesorregião Norte Pioneiro Paranaense	4730514	-50.2609579	-23.4541460
+Gemeinde Maria Enzersdorf am Gebirge	111950	16.2724652	48.0928401
+Urbanización Ciudad Versalles III Etapa	6801453	-89.3582482	13.7922843
+Piazza Ammiraglio Manfredo Camperio	6180425	9.3016185	45.6059656

@@ -1,0 +1,13 @@
+Nakhon Ratchasima Province	1908790	101.9898796	14.9481926
+Arandjelovac Municipality	2870901	20.5394110	44.3183064
+Albufeira de Castelo de Bode	2684580	-8.2977119	39.5488167
+Manhattan Community Board 9	7339672	-73.9545103	40.8184902
+Verkhniachka Rural Council	2825558	23.2499288	48.7841108
+Lower Pottsgrove Township	3049307	-75.5933223	40.2524896
+Zubovo-Polyansky District	1537468	42.7384128	54.1217875
+Kilfree Electoral Division	4480591	-8.5519088	53.9797057
+Croghan Electoral Division	4445618	-7.2759982	53.3516919
+Fountainhead-Orchard Hills	133576	-77.7171815	39.6869652
+Bezirksteil Englschalking	66111	11.6389460	48.1496117
+Emnambithi/Ladysmith Ward 8	3645758	29.8659666	-28.6650397
+San Francisco de Sangayaico	1933634	-75.3009700	-13.7847606

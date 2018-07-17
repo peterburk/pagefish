@@ -1,0 +1,43 @@
+Bourguignon-sous-Coucy	1801076	3.1543445	49.5419227
+Saint-Quentin-sur-Coole	2763699	4.3217628	48.8485192
+Saint-André-de-Majencoules	390773	3.6842141	44.0244927
+Saint-Césaire-de-Gauzignan	2587486	4.2015873	44.0358312
+Follainville-Dennemont	369321	1.7213274	49.0292000
+Castelfranco in Miscano	41197	15.1030790	41.2926578
+Haderslev Municipality	1927271	9.2514472	55.2539735
+Castelvetro Piacentino	44124	9.9966373	45.0934142
+Bray Municipal District	6812447	-6.2201380	53.1734566
+Alike River;Scraggy Lake	6517881	-82.0516827	47.8710158
+Lago Alto del Flumendosa	3838669	9.4468155	39.9422869
+Parroquia San Pedro del Río	3454104	-72.3237057	8.0405785
+Semenivka Rural Council	2514265	23.9174287	49.6764514
+Parroquia Santa Rosalia	2451176	-66.9167150	10.4838130
+Caldron Falls Reservoir	3522796	-88.2429237	45.3591881
+Treffen am Ossiacher See	106157	13.8588459	46.6866523
+San Pancrazio Salentino	40486	17.8344819	40.4279559
+Hermagor-Pressegger See	377327	13.3551889	46.6126272
+Barrio Parque Esperanza	3558406	-59.0972732	-34.5597717
+Mayo Electoral Division	6877055	-9.0889725	53.7636165
+Colonia Unidad y Trabajo	4680446	-97.3324795	20.4611842
+Santo Antônio do Rio Abaixo	315022	-43.2460715	-19.2350001
+Provincia de Parinacota	1568630	-69.3722111	-18.2653262
+Ballynakillew Mountain	5636986	-7.9989098	54.5963555
+Chácara de Recreio São Joaquim	6870182	-49.3507982	-16.6402320
+Mullaghanard or Derreen	4611032	-7.3821726	53.1261450
+uMhlabuyalingana Ward 15	3647007	32.4661267	-27.2854879
+Nelson Mandela Bay Ward 47	3591553	25.3773290	-33.7980160
+Nelson Mandela Bay Ward 56	3591563	25.6127964	-33.7600178
+Nelson Mandela Bay Ward 29	3591533	25.4906043	-33.8786325
+Nelson Mandela Bay Ward 38	3591543	25.4849424	-33.8599969
+Kulakivci Rural Council	6731726	25.8761512	48.6391935
+Adyge-Khablsky District	1057591	41.7414823	44.3812563
+Departamento Sarmiento	3572775	-63.4722207	-28.0802408
+Departamento Sarmiento	2655815	-69.0000983	-45.2691773
+Trade Winds Trailer Park	7214989	-88.1154958	30.2632297
+Aspen Hills Development	4041539	-103.8894202	44.4420455
+Qiandingtang Reservoir	7209205	119.1153706	30.3039940
+Internationale Estates	7779722	-88.0033758	41.6955463
+Kittredge Dam Reservoir	3188116	-72.0362073	42.2793611
+Kremasta Reservoir Lake	36275	21.4943054	38.9560957
+Tianjiahui Subdistrict	7653217	111.2209265	37.5305420
+Piazzale Angelo Moratti	2923498	9.1212469	45.4780461

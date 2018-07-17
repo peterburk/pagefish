@@ -26,11 +26,15 @@ Search engine with a static webserver<br/>
 - Some characters aren't allowed in filenames, URLs, etc. <br/>
 - The hash algorithm should be balanced so that index files are a similar size. <br/>
 <br/>
+![HashDistribution](https://raw.githubusercontent.com/peterburk/pagefish/master/HashDistribution.png "HashDistribution")
+<br/>
+<br/>
 <b>Benchmarks:</b><br/>
 time grep -c "Paris" geonames-relations-name-id-lat-lon.txt <br/>
 0.382s = 382 ms<br/>
 <br/>
-Typical search time (by searching a few city names): 30 ms. <br/>
+Typical search time on local: 30 ms. <br/>
+Typical search time on Github: 200 ms. <br/>
 <br/>
 This gives a 10x speedup compared to grep. <br/>
 <br/>

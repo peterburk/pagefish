@@ -26,6 +26,7 @@ Search engine with a static webserver<br/>
 - Some characters aren't allowed in filenames, URLs, etc. <br/>
 - The hash algorithm should be balanced so that index files are a similar size. <br/>
 <br/>
+
 ![HashDistribution](https://raw.githubusercontent.com/peterburk/pagefish/master/HashDistribution.png "HashDistribution")
 <br/>
 <br/>

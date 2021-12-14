@@ -43,9 +43,9 @@
 		+ The index can be stored on a static file server e.g. Github. 
 	
 	Known limitations:
-		- Fuzzy matching isn't supported (but this is not a problem for Chinese)
-		- Some characters aren't allowed in filenames, URLs, etc. 
-		- The hash algorithm should be balanced so that index files are a similar size. 
+		- Fuzzy matching isn't supported (but this is not a problem for Chinese) 			// fuzziness is off-by-one
+		- Some characters aren't allowed in filenames, URLs, etc. 							// find a place for everything
+		- The hash algorithm should be balanced so that index files are a similar size. 	// use a binary tree
 	
 	Name:
 		• The plan is to turn this into a real search engine later. 
